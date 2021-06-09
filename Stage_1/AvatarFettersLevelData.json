@@ -1,0 +1,42 @@
+{
+    "1": {
+        "FetterLevel": 1,
+        "NeedExp": 1000
+    },
+    "2": {
+        "FetterLevel": 2,
+        "NeedExp": 1550
+    },
+    "3": {
+        "FetterLevel": 3,
+        "NeedExp": 2050
+    },
+    "4": {
+        "FetterLevel": 4,
+        "NeedExp": 2600
+    },
+    "5": {
+        "FetterLevel": 5,
+        "NeedExp": 3175
+    },
+    "6": {
+        "FetterLevel": 6,
+        "NeedExp": 3750
+    },
+    "7": {
+        "FetterLevel": 7,
+        "NeedExp": 4350
+    },
+    "8": {
+        "FetterLevel": 8,
+        "NeedExp": 4975
+    },
+    "9": {
+        "FetterLevel": 9,
+        "NeedExp": 5650
+    },
+    "10": {
+        "FetterLevel": 10,
+        "NeedExp": 6325
+    }
+}

@@ -1,0 +1,4136 @@
+{
+    "Weapon": {
+        "": {
+            "NID": 0,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Alley Hunter": {
+            "NID": 1,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATK"
+            ]
+        },
+        "Amber Bead": {
+            "NID": 2,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Elemental Mastery"
+            ]
+        },
+        "Amos' Bow": {
+            "NID": 3,
+            "Tags": [
+                "5",
+                "Bow",
+                "ATK"
+            ]
+        },
+        "Apprentice's Notes": {
+            "NID": 4,
+            "Tags": [
+                "1",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Aquila Favonia": {
+            "NID": 5,
+            "Tags": [
+                "5",
+                "Sword",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Beginner's Protector": {
+            "NID": 6,
+            "Tags": [
+                "1",
+                "Polearm",
+                ""
+            ]
+        },
+        "Black Tassel": {
+            "NID": 7,
+            "Tags": [
+                "3",
+                "Polearm",
+                "HP"
+            ]
+        },
+        "Blackcliff Agate": {
+            "NID": 8,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "CRIT DMG"
+            ]
+        },
+        "Blackcliff Longsword": {
+            "NID": 9,
+            "Tags": [
+                "4",
+                "Sword",
+                "CRIT DMG"
+            ]
+        },
+        "Blackcliff Pole": {
+            "NID": 10,
+            "Tags": [
+                "4",
+                "Polearm",
+                "CRIT DMG"
+            ]
+        },
+        "Blackcliff Slasher": {
+            "NID": 11,
+            "Tags": [
+                "4",
+                "Claymore",
+                "CRIT DMG"
+            ]
+        },
+        "Blackcliff Warbow": {
+            "NID": 12,
+            "Tags": [
+                "4",
+                "Bow",
+                "CRIT DMG"
+            ]
+        },
+        "Bloodtainted Greatsword": {
+            "NID": 13,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Elemental Mastery"
+            ]
+        },
+        "Compound Bow": {
+            "NID": 14,
+            "Tags": [
+                "4",
+                "Bow",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Cool Steel": {
+            "NID": 15,
+            "Tags": [
+                "3",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "Crescent Pike": {
+            "NID": 16,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Dark Iron Sword": {
+            "NID": 17,
+            "Tags": [
+                "3",
+                "Sword",
+                "Elemental Mastery"
+            ]
+        },
+        "Deathmatch": {
+            "NID": 18,
+            "Tags": [
+                "4",
+                "Polearm",
+                "CRIT Rate"
+            ]
+        },
+        "Debate Club": {
+            "NID": 19,
+            "Tags": [
+                "3",
+                "Claymore",
+                "ATK"
+            ]
+        },
+        "Deicide": {
+            "NID": 20,
+            "Tags": [
+                "5",
+                "Polearm",
+                ""
+            ]
+        },
+        "Diamond Visage": {
+            "NID": 21,
+            "Tags": [
+                "5",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Dodoco Tales": {
+            "NID": 22,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATK"
+            ]
+        },
+        "Dragon's Bane": {
+            "NID": 23,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Elemental Mastery"
+            ]
+        },
+        "Dragonspine Spear": {
+            "NID": 24,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Dull Blade": {
+            "NID": 25,
+            "Tags": [
+                "1",
+                "Sword",
+                ""
+            ]
+        },
+        "Ebony Bow": {
+            "NID": 26,
+            "Tags": [
+                "3",
+                "Bow",
+                "ATK"
+            ]
+        },
+        "Elegy for the End": {
+            "NID": 27,
+            "Tags": [
+                "5",
+                "Bow",
+                "Energy Recharge"
+            ]
+        },
+        "Emerald Orb": {
+            "NID": 28,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Elemental Mastery"
+            ]
+        },
+        "Eye of Perception": {
+            "NID": 29,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATK"
+            ]
+        },
+        "Favonius Codex": {
+            "NID": 30,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Energy Recharge"
+            ]
+        },
+        "Favonius Greatsword": {
+            "NID": 31,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Energy Recharge"
+            ]
+        },
+        "Favonius Lance": {
+            "NID": 32,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Energy Recharge"
+            ]
+        },
+        "Favonius Sword": {
+            "NID": 33,
+            "Tags": [
+                "4",
+                "Sword",
+                "Energy Recharge"
+            ]
+        },
+        "Favonius Warbow": {
+            "NID": 34,
+            "Tags": [
+                "4",
+                "Bow",
+                "Energy Recharge"
+            ]
+        },
+        "Ferrous Shadow": {
+            "NID": 35,
+            "Tags": [
+                "3",
+                "Claymore",
+                "HP"
+            ]
+        },
+        "Festering Desire": {
+            "NID": 36,
+            "Tags": [
+                "4",
+                "Sword",
+                "Energy Recharge"
+            ]
+        },
+        "Fillet Blade": {
+            "NID": 37,
+            "Tags": [
+                "3",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "Freedom-Sworn": {
+            "NID": 38,
+            "Tags": [
+                "5",
+                "Sword",
+                "Elemental Mastery"
+            ]
+        },
+        "Frostbearer": {
+            "NID": 39,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATK"
+            ]
+        },
+        "Halberd": {
+            "NID": 40,
+            "Tags": [
+                "3",
+                "Polearm",
+                "ATK"
+            ]
+        },
+        "Harbinger of Dawn": {
+            "NID": 41,
+            "Tags": [
+                "3",
+                "Sword",
+                "CRIT DMG"
+            ]
+        },
+        "Hunter's Bow": {
+            "NID": 42,
+            "Tags": [
+                "1",
+                "Bow",
+                ""
+            ]
+        },
+        "Iron Point": {
+            "NID": 43,
+            "Tags": [
+                "2",
+                "Polearm",
+                ""
+            ]
+        },
+        "Iron Sting": {
+            "NID": 44,
+            "Tags": [
+                "4",
+                "Sword",
+                "Elemental Mastery"
+            ]
+        },
+        "Kunwu's Wyrmbane": {
+            "NID": 45,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Lion's Roar": {
+            "NID": 46,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "Lithic Blade": {
+            "NID": 47,
+            "Tags": [
+                "4",
+                "Claymore",
+                "ATK"
+            ]
+        },
+        "Lithic Spear": {
+            "NID": 48,
+            "Tags": [
+                "4",
+                "Polearm",
+                "ATK"
+            ]
+        },
+        "Lost Ballade": {
+            "NID": 49,
+            "Tags": [
+                "5",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Lost Prayer to the Sacred Winds": {
+            "NID": 50,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "CRIT Rate"
+            ]
+        },
+        "Magic Guide": {
+            "NID": 51,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Elemental Mastery"
+            ]
+        },
+        "Mappa Mare": {
+            "NID": 52,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Elemental Mastery"
+            ]
+        },
+        "Memory of Dust": {
+            "NID": 53,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "ATK"
+            ]
+        },
+        "Messenger": {
+            "NID": 54,
+            "Tags": [
+                "3",
+                "Bow",
+                "CRIT DMG"
+            ]
+        },
+        "Mirror Breaker": {
+            "NID": 55,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Mitternachts Waltz": {
+            "NID": 56,
+            "Tags": [
+                "4",
+                "Bow",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Old Merc's Pal": {
+            "NID": 57,
+            "Tags": [
+                "2",
+                "Claymore",
+                ""
+            ]
+        },
+        "One Side": {
+            "NID": 58,
+            "Tags": [
+                "5",
+                "Sword",
+                ""
+            ]
+        },
+        "Otherworldly Story": {
+            "NID": 59,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Energy Recharge"
+            ]
+        },
+        "Pocket Grimoire": {
+            "NID": 60,
+            "Tags": [
+                "2",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Primordial Jade Cutter": {
+            "NID": 61,
+            "Tags": [
+                "5",
+                "Sword",
+                ""
+            ]
+        },
+        "Primordial Jade Greatsword": {
+            "NID": 62,
+            "Tags": [
+                "5",
+                "Claymore",
+                ""
+            ]
+        },
+        "Primordial Jade Regalia": {
+            "NID": 63,
+            "Tags": [
+                "5",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Primordial Jade Vista": {
+            "NID": 64,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Primordial Jade Winged-Spear": {
+            "NID": 65,
+            "Tags": [
+                "5",
+                "Polearm",
+                "CRIT Rate"
+            ]
+        },
+        "Prototype Amber": {
+            "NID": 66,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "HP"
+            ]
+        },
+        "Prototype Archaic": {
+            "NID": 67,
+            "Tags": [
+                "4",
+                "Claymore",
+                "ATK"
+            ]
+        },
+        "Prototype Crescent": {
+            "NID": 68,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATK"
+            ]
+        },
+        "Prototype Rancour": {
+            "NID": 69,
+            "Tags": [
+                "4",
+                "Sword",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Prototype Starglitter": {
+            "NID": 70,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Energy Recharge"
+            ]
+        },
+        "Quartz": {
+            "NID": 71,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Elemental Mastery"
+            ]
+        },
+        "Rainslasher": {
+            "NID": 72,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Elemental Mastery"
+            ]
+        },
+        "Raven Bow": {
+            "NID": 73,
+            "Tags": [
+                "3",
+                "Bow",
+                "Elemental Mastery"
+            ]
+        },
+        "Recurve Bow": {
+            "NID": 74,
+            "Tags": [
+                "3",
+                "Bow",
+                "HP"
+            ]
+        },
+        "Royal Bow": {
+            "NID": 75,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATK"
+            ]
+        },
+        "Royal Greatsword": {
+            "NID": 76,
+            "Tags": [
+                "4",
+                "Claymore",
+                "ATK"
+            ]
+        },
+        "Royal Grimoire": {
+            "NID": 77,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATK"
+            ]
+        },
+        "Royal Longsword": {
+            "NID": 78,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "Royal Spear": {
+            "NID": 79,
+            "Tags": [
+                "4",
+                "Polearm",
+                "ATK"
+            ]
+        },
+        "Rust": {
+            "NID": 80,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATK"
+            ]
+        },
+        "Sacrificial Bow": {
+            "NID": 81,
+            "Tags": [
+                "4",
+                "Bow",
+                "Energy Recharge"
+            ]
+        },
+        "Sacrificial Fragments": {
+            "NID": 82,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Elemental Mastery"
+            ]
+        },
+        "Sacrificial Greatsword": {
+            "NID": 83,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Energy Recharge"
+            ]
+        },
+        "Sacrificial Sword": {
+            "NID": 84,
+            "Tags": [
+                "4",
+                "Sword",
+                "Energy Recharge"
+            ]
+        },
+        "Seasoned Hunter's Bow": {
+            "NID": 85,
+            "Tags": [
+                "2",
+                "Bow",
+                ""
+            ]
+        },
+        "Serpent Spine": {
+            "NID": 86,
+            "Tags": [
+                "4",
+                "Claymore",
+                "CRIT Rate"
+            ]
+        },
+        "Sharpshooter's Oath": {
+            "NID": 87,
+            "Tags": [
+                "3",
+                "Bow",
+                "CRIT DMG"
+            ]
+        },
+        "Silver Sword": {
+            "NID": 88,
+            "Tags": [
+                "2",
+                "Sword",
+                ""
+            ]
+        },
+        "Skyrider Greatsword": {
+            "NID": 89,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Skyrider Sword": {
+            "NID": 90,
+            "Tags": [
+                "3",
+                "Sword",
+                "Energy Recharge"
+            ]
+        },
+        "Skyward Atlas": {
+            "NID": 91,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "ATK"
+            ]
+        },
+        "Skyward Blade": {
+            "NID": 92,
+            "Tags": [
+                "5",
+                "Sword",
+                "Energy Recharge"
+            ]
+        },
+        "Skyward Harp": {
+            "NID": 93,
+            "Tags": [
+                "5",
+                "Bow",
+                "CRIT Rate"
+            ]
+        },
+        "Skyward Pride": {
+            "NID": 94,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Energy Recharge"
+            ]
+        },
+        "Skyward Spine": {
+            "NID": 95,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Energy Recharge"
+            ]
+        },
+        "Slingshot": {
+            "NID": 96,
+            "Tags": [
+                "3",
+                "Bow",
+                "CRIT Rate"
+            ]
+        },
+        "Snow-Tombed Starsilver": {
+            "NID": 97,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Solar Pearl": {
+            "NID": 98,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "CRIT Rate"
+            ]
+        },
+        "Song of Broken Pines": {
+            "NID": 99,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Physical DMG Bonus"
+            ]
+        },
+        "Staff of Homa": {
+            "NID": 100,
+            "Tags": [
+                "5",
+                "Polearm",
+                "CRIT DMG"
+            ]
+        },
+        "Summit Shaper": {
+            "NID": 101,
+            "Tags": [
+                "5",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "Sword of Descension": {
+            "NID": 102,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "The Alley Flash": {
+            "NID": 103,
+            "Tags": [
+                "4",
+                "Sword",
+                "Elemental Mastery"
+            ]
+        },
+        "The Bell": {
+            "NID": 104,
+            "Tags": [
+                "4",
+                "Claymore",
+                "HP"
+            ]
+        },
+        "The Black Sword": {
+            "NID": 105,
+            "Tags": [
+                "4",
+                "Sword",
+                "CRIT Rate"
+            ]
+        },
+        "The Flagstaff": {
+            "NID": 106,
+            "Tags": [
+                "3",
+                "Polearm",
+                ""
+            ]
+        },
+        "The Flute": {
+            "NID": 107,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATK"
+            ]
+        },
+        "The Other Side": {
+            "NID": 108,
+            "Tags": [
+                "5",
+                "Claymore",
+                ""
+            ]
+        },
+        "The Stringless": {
+            "NID": 109,
+            "Tags": [
+                "4",
+                "Bow",
+                "Elemental Mastery"
+            ]
+        },
+        "The Unforged": {
+            "NID": 110,
+            "Tags": [
+                "5",
+                "Claymore",
+                "ATK"
+            ]
+        },
+        "The Viridescent Hunt": {
+            "NID": 111,
+            "Tags": [
+                "4",
+                "Bow",
+                "CRIT Rate"
+            ]
+        },
+        "The Widsith": {
+            "NID": 112,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "CRIT DMG"
+            ]
+        },
+        "Thrilling Tales of Dragon Slayers": {
+            "NID": 113,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "HP"
+            ]
+        },
+        "Traveler's Handy Sword": {
+            "NID": 114,
+            "Tags": [
+                "3",
+                "Sword",
+                "DEF"
+            ]
+        },
+        "Twin Nephrite": {
+            "NID": 115,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "CRIT Rate"
+            ]
+        },
+        "Vortex Vanquisher": {
+            "NID": 116,
+            "Tags": [
+                "5",
+                "Polearm",
+                "ATK"
+            ]
+        },
+        "Waster Greatsword": {
+            "NID": 117,
+            "Tags": [
+                "1",
+                "Claymore",
+                ""
+            ]
+        },
+        "White Iron Greatsword": {
+            "NID": 118,
+            "Tags": [
+                "3",
+                "Claymore",
+                "DEF"
+            ]
+        },
+        "White Tassel": {
+            "NID": 119,
+            "Tags": [
+                "3",
+                "Polearm",
+                "CRIT Rate"
+            ]
+        },
+        "Whiteblind": {
+            "NID": 120,
+            "Tags": [
+                "4",
+                "Claymore",
+                "DEF"
+            ]
+        },
+        "Windblume Ode": {
+            "NID": 121,
+            "Tags": [
+                "4",
+                "Bow",
+                "Elemental Mastery"
+            ]
+        },
+        "Wine and Song": {
+            "NID": 122,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Energy Recharge"
+            ]
+        },
+        "Wolf's Gravestone": {
+            "NID": 123,
+            "Tags": [
+                "5",
+                "Claymore",
+                "ATK"
+            ]
+        }
+    },
+    "Character": {
+        "Aether": {
+            "NID": 0,
+            "Tags": [
+                "5",
+                "Sword",
+                "None"
+            ]
+        },
+        "Albedo": {
+            "NID": 1,
+            "Tags": [
+                "5",
+                "Sword",
+                "Geo"
+            ]
+        },
+        "Amber": {
+            "NID": 2,
+            "Tags": [
+                "4",
+                "Bow",
+                "Pyro"
+            ]
+        },
+        "Barbara": {
+            "NID": 3,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Hydro"
+            ]
+        },
+        "Beidou": {
+            "NID": 4,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Electro"
+            ]
+        },
+        "Bennett": {
+            "NID": 5,
+            "Tags": [
+                "4",
+                "Sword",
+                "Pyro"
+            ]
+        },
+        "Chongyun": {
+            "NID": 6,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Cryo"
+            ]
+        },
+        "Diluc": {
+            "NID": 7,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Pyro"
+            ]
+        },
+        "Diona": {
+            "NID": 8,
+            "Tags": [
+                "4",
+                "Bow",
+                "Cryo"
+            ]
+        },
+        "Eula": {
+            "NID": 9,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Cryo"
+            ]
+        },
+        "Fischl": {
+            "NID": 10,
+            "Tags": [
+                "4",
+                "Bow",
+                "Electro"
+            ]
+        },
+        "Ganyu": {
+            "NID": 11,
+            "Tags": [
+                "5",
+                "Bow",
+                "Cryo"
+            ]
+        },
+        "Hu Tao": {
+            "NID": 12,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Pyro"
+            ]
+        },
+        "Jean": {
+            "NID": 13,
+            "Tags": [
+                "5",
+                "Sword",
+                "Anemo"
+            ]
+        },
+        "Kaedehara Kazuha": {
+            "NID": 14,
+            "Tags": [
+                "5",
+                "Sword",
+                "Anemo"
+            ]
+        },
+        "Kaeya": {
+            "NID": 15,
+            "Tags": [
+                "4",
+                "Sword",
+                "Cryo"
+            ]
+        },
+        "Keqing": {
+            "NID": 16,
+            "Tags": [
+                "5",
+                "Sword",
+                "Electro"
+            ]
+        },
+        "Klee": {
+            "NID": 17,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "Pyro"
+            ]
+        },
+        "Lisa": {
+            "NID": 18,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Electro"
+            ]
+        },
+        "Lumine": {
+            "NID": 19,
+            "Tags": [
+                "5",
+                "Sword",
+                "None"
+            ]
+        },
+        "Mona": {
+            "NID": 20,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "Hydro"
+            ]
+        },
+        "Ningguang": {
+            "NID": 21,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Geo"
+            ]
+        },
+        "Noelle": {
+            "NID": 22,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Geo"
+            ]
+        },
+        "Qiqi": {
+            "NID": 23,
+            "Tags": [
+                "5",
+                "Sword",
+                "Cryo"
+            ]
+        },
+        "Razor": {
+            "NID": 24,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Electro"
+            ]
+        },
+        "Rosaria": {
+            "NID": 25,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Cryo"
+            ]
+        },
+        "Sucrose": {
+            "NID": 26,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Anemo"
+            ]
+        },
+        "Tartaglia": {
+            "NID": 27,
+            "Tags": [
+                "5",
+                "Bow",
+                "Hydro"
+            ]
+        },
+        "Venti": {
+            "NID": 28,
+            "Tags": [
+                "5",
+                "Bow",
+                "Anemo"
+            ]
+        },
+        "Xiangling": {
+            "NID": 29,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Pyro"
+            ]
+        },
+        "Xiao": {
+            "NID": 30,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Anemo"
+            ]
+        },
+        "Xingqiu": {
+            "NID": 31,
+            "Tags": [
+                "4",
+                "Sword",
+                "Hydro"
+            ]
+        },
+        "Xinyan": {
+            "NID": 32,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Pyro"
+            ]
+        },
+        "Yanfei": {
+            "NID": 33,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Pyro"
+            ]
+        },
+        "Zhongli": {
+            "NID": 34,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Geo"
+            ]
+        }
+    },
+    "Artifact": {
+        "Adventurer": {
+            "NID": 0
+        },
+        "Archaic Petra": {
+            "NID": 1
+        },
+        "Berserker": {
+            "NID": 2
+        },
+        "Blizzard Strayer": {
+            "NID": 3
+        },
+        "Bloodstained Chivalry": {
+            "NID": 4
+        },
+        "Brave Heart": {
+            "NID": 5
+        },
+        "Crimson Witch of Flames": {
+            "NID": 6
+        },
+        "Defender's Will": {
+            "NID": 7
+        },
+        "Gambler": {
+            "NID": 8
+        },
+        "Glacier and Snowfield": {
+            "NID": 9
+        },
+        "Gladiator's Finale": {
+            "NID": 10
+        },
+        "Heart of Depth": {
+            "NID": 11
+        },
+        "Instructor": {
+            "NID": 12
+        },
+        "Lavawalker": {
+            "NID": 13
+        },
+        "Lucky Dog": {
+            "NID": 14
+        },
+        "Maiden Beloved": {
+            "NID": 15
+        },
+        "Martial Artist": {
+            "NID": 16
+        },
+        "Noblesse Oblige": {
+            "NID": 17
+        },
+        "Pale Flame": {
+            "NID": 18
+        },
+        "Prayers for Destiny": {
+            "NID": 19
+        },
+        "Prayers for Illumination": {
+            "NID": 20
+        },
+        "Prayers for Wisdom": {
+            "NID": 21
+        },
+        "Prayers to Springtime": {
+            "NID": 22
+        },
+        "Resolution of Sojourner": {
+            "NID": 23
+        },
+        "Retracing Bolide": {
+            "NID": 24
+        },
+        "Scholar": {
+            "NID": 25
+        },
+        "Tenacity of the Millelith": {
+            "NID": 26
+        },
+        "The Exile": {
+            "NID": 27
+        },
+        "Thundering Fury": {
+            "NID": 28
+        },
+        "Thundersoother": {
+            "NID": 29
+        },
+        "Tiny Miracle": {
+            "NID": 30
+        },
+        "Traveling Doctor": {
+            "NID": 31
+        },
+        "Viridescent Venerer": {
+            "NID": 32
+        },
+        "Wanderer's Troupe": {
+            "NID": 33
+        }
+    },
+    "Piece": {
+        "Adventurer's Flower": {
+            "NID": 0,
+            "Set": "Adventurer",
+            "Part": "Flower"
+        },
+        "Adventurer's Tail Feather": {
+            "NID": 1,
+            "Set": "Adventurer",
+            "Part": "Feather"
+        },
+        "Adventurer's Pocket Watch": {
+            "NID": 2,
+            "Set": "Adventurer",
+            "Part": "Timepiece"
+        },
+        "Adventurer's Golden Goblet": {
+            "NID": 3,
+            "Set": "Adventurer",
+            "Part": "Goblet"
+        },
+        "Adventurer's Bandana": {
+            "NID": 4,
+            "Set": "Adventurer",
+            "Part": "Headpiece"
+        },
+        "Flower of Creviced Cliff": {
+            "NID": 5,
+            "Set": "Archaic Petra",
+            "Part": "Flower"
+        },
+        "Feather of Jagged Peaks": {
+            "NID": 6,
+            "Set": "Archaic Petra",
+            "Part": "Feather"
+        },
+        "Sundial of Enduring Jade": {
+            "NID": 7,
+            "Set": "Archaic Petra",
+            "Part": "Timepiece"
+        },
+        "Goblet of Chiseled Crag": {
+            "NID": 8,
+            "Set": "Archaic Petra",
+            "Part": "Goblet"
+        },
+        "Mask of Solitude Basalt": {
+            "NID": 9,
+            "Set": "Archaic Petra",
+            "Part": "Headpiece"
+        },
+        "Berserker's Rose": {
+            "NID": 10,
+            "Set": "Berserker",
+            "Part": "Flower"
+        },
+        "Berserker's Indigo Feather": {
+            "NID": 11,
+            "Set": "Berserker",
+            "Part": "Feather"
+        },
+        "Berserker's Timepiece": {
+            "NID": 12,
+            "Set": "Berserker",
+            "Part": "Timepiece"
+        },
+        "Berserker's Bone Goblet": {
+            "NID": 13,
+            "Set": "Berserker",
+            "Part": "Goblet"
+        },
+        "Berserker's Battle Mask": {
+            "NID": 14,
+            "Set": "Berserker",
+            "Part": "Headpiece"
+        },
+        "Snowswept Memory": {
+            "NID": 15,
+            "Set": "Blizzard Strayer",
+            "Part": "Flower"
+        },
+        "Icebreaker's Resolve": {
+            "NID": 16,
+            "Set": "Blizzard Strayer",
+            "Part": "Feather"
+        },
+        "Frozen Homeland's Demise": {
+            "NID": 17,
+            "Set": "Blizzard Strayer",
+            "Part": "Timepiece"
+        },
+        "Frost-Weaved Dignity": {
+            "NID": 18,
+            "Set": "Blizzard Strayer",
+            "Part": "Goblet"
+        },
+        "Broken Rime's Echo": {
+            "NID": 19,
+            "Set": "Blizzard Strayer",
+            "Part": "Headpiece"
+        },
+        "Bloodstained Flower of Iron": {
+            "NID": 20,
+            "Set": "Bloodstained Chivalry",
+            "Part": "Flower"
+        },
+        "Bloodstained Black Plume": {
+            "NID": 21,
+            "Set": "Bloodstained Chivalry",
+            "Part": "Feather"
+        },
+        "Bloodstained Final Hour": {
+            "NID": 22,
+            "Set": "Bloodstained Chivalry",
+            "Part": "Timepiece"
+        },
+        "Bloodstained Chevalier's Goblet": {
+            "NID": 23,
+            "Set": "Bloodstained Chivalry",
+            "Part": "Goblet"
+        },
+        "Bloodstained Iron Mask": {
+            "NID": 24,
+            "Set": "Bloodstained Chivalry",
+            "Part": "Headpiece"
+        },
+        "Medal of the Brave": {
+            "NID": 25,
+            "Set": "Brave Heart",
+            "Part": "Flower"
+        },
+        "Prospect of the Brave": {
+            "NID": 26,
+            "Set": "Brave Heart",
+            "Part": "Feather"
+        },
+        "Fortitude of the Brave": {
+            "NID": 27,
+            "Set": "Brave Heart",
+            "Part": "Timepiece"
+        },
+        "Outset of the Brave": {
+            "NID": 28,
+            "Set": "Brave Heart",
+            "Part": "Goblet"
+        },
+        "Crown of the Brave": {
+            "NID": 29,
+            "Set": "Brave Heart",
+            "Part": "Headpiece"
+        },
+        "Witch's Flower of Blaze": {
+            "NID": 30,
+            "Set": "Crimson Witch of Flames",
+            "Part": "Flower"
+        },
+        "Witch's Ever-Burning Plume": {
+            "NID": 31,
+            "Set": "Crimson Witch of Flames",
+            "Part": "Feather"
+        },
+        "Witch's End Time": {
+            "NID": 32,
+            "Set": "Crimson Witch of Flames",
+            "Part": "Timepiece"
+        },
+        "Witch's Heart Flames": {
+            "NID": 33,
+            "Set": "Crimson Witch of Flames",
+            "Part": "Goblet"
+        },
+        "Witch's Scorching Hat": {
+            "NID": 34,
+            "Set": "Crimson Witch of Flames",
+            "Part": "Headpiece"
+        },
+        "Guardian's Flower": {
+            "NID": 35,
+            "Set": "Defender's Will",
+            "Part": "Flower"
+        },
+        "Guardian's Sigil": {
+            "NID": 36,
+            "Set": "Defender's Will",
+            "Part": "Feather"
+        },
+        "Guardian's Clock": {
+            "NID": 37,
+            "Set": "Defender's Will",
+            "Part": "Timepiece"
+        },
+        "Guardian's Vessel": {
+            "NID": 38,
+            "Set": "Defender's Will",
+            "Part": "Goblet"
+        },
+        "Guardian's Band": {
+            "NID": 39,
+            "Set": "Defender's Will",
+            "Part": "Headpiece"
+        },
+        "Gambler's Brooch": {
+            "NID": 40,
+            "Set": "Gambler",
+            "Part": "Flower"
+        },
+        "Gambler's Feather Accessory": {
+            "NID": 41,
+            "Set": "Gambler",
+            "Part": "Feather"
+        },
+        "Gambler's Pocket Watch": {
+            "NID": 42,
+            "Set": "Gambler",
+            "Part": "Timepiece"
+        },
+        "Gambler's Dice Cup": {
+            "NID": 43,
+            "Set": "Gambler",
+            "Part": "Goblet"
+        },
+        "Gambler's Earrings": {
+            "NID": 44,
+            "Set": "Gambler",
+            "Part": "Headpiece"
+        },
+        "Heart of Frost": {
+            "NID": 45,
+            "Set": "Glacier and Snowfield",
+            "Part": "Flower"
+        },
+        "Plume of Snow": {
+            "NID": 46,
+            "Set": "Glacier and Snowfield",
+            "Part": "Feather"
+        },
+        "Glacial Sand": {
+            "NID": 47,
+            "Set": "Glacier and Snowfield",
+            "Part": "Timepiece"
+        },
+        "Goblet of Aquilo": {
+            "NID": 48,
+            "Set": "Glacier and Snowfield",
+            "Part": "Goblet"
+        },
+        "Crown of Glacier": {
+            "NID": 49,
+            "Set": "Glacier and Snowfield",
+            "Part": "Headpiece"
+        },
+        "Gladiator's Nostalgia": {
+            "NID": 50,
+            "Set": "Gladiator's Finale",
+            "Part": "Flower"
+        },
+        "Gladiator's Destiny": {
+            "NID": 51,
+            "Set": "Gladiator's Finale",
+            "Part": "Feather"
+        },
+        "Gladiator's Longing": {
+            "NID": 52,
+            "Set": "Gladiator's Finale",
+            "Part": "Timepiece"
+        },
+        "Gladiator's Intoxication": {
+            "NID": 53,
+            "Set": "Gladiator's Finale",
+            "Part": "Goblet"
+        },
+        "Gladiator's Triumphus": {
+            "NID": 54,
+            "Set": "Gladiator's Finale",
+            "Part": "Headpiece"
+        },
+        "Gilded Corsage": {
+            "NID": 55,
+            "Set": "Heart of Depth",
+            "Part": "Flower"
+        },
+        "Gust of Nostalgia": {
+            "NID": 56,
+            "Set": "Heart of Depth",
+            "Part": "Feather"
+        },
+        "Copper Compass": {
+            "NID": 57,
+            "Set": "Heart of Depth",
+            "Part": "Timepiece"
+        },
+        "Goblet of Thundering Deep": {
+            "NID": 58,
+            "Set": "Heart of Depth",
+            "Part": "Goblet"
+        },
+        "Wine-Stained Tricorne": {
+            "NID": 59,
+            "Set": "Heart of Depth",
+            "Part": "Headpiece"
+        },
+        "Instructor's Brooch": {
+            "NID": 60,
+            "Set": "Instructor",
+            "Part": "Flower"
+        },
+        "Instructor's Feather Accessory": {
+            "NID": 61,
+            "Set": "Instructor",
+            "Part": "Feather"
+        },
+        "Instructor's Pocket Watch": {
+            "NID": 62,
+            "Set": "Instructor",
+            "Part": "Timepiece"
+        },
+        "Instructor's Tea Cup": {
+            "NID": 63,
+            "Set": "Instructor",
+            "Part": "Goblet"
+        },
+        "Instructor's Cap": {
+            "NID": 64,
+            "Set": "Instructor",
+            "Part": "Headpiece"
+        },
+        "Lavawalker's Resolution": {
+            "NID": 65,
+            "Set": "Lavawalker",
+            "Part": "Flower"
+        },
+        "Lavawalker's Salvation": {
+            "NID": 66,
+            "Set": "Lavawalker",
+            "Part": "Feather"
+        },
+        "Lavawalker's Torment": {
+            "NID": 67,
+            "Set": "Lavawalker",
+            "Part": "Timepiece"
+        },
+        "Lavawalker's Epiphany": {
+            "NID": 68,
+            "Set": "Lavawalker",
+            "Part": "Goblet"
+        },
+        "Lavawalker's Wisdom": {
+            "NID": 69,
+            "Set": "Lavawalker",
+            "Part": "Headpiece"
+        },
+        "Lucky Dog's Clover": {
+            "NID": 70,
+            "Set": "Lucky Dog",
+            "Part": "Flower"
+        },
+        "Lucky Dog's Eagle Feather": {
+            "NID": 71,
+            "Set": "Lucky Dog",
+            "Part": "Feather"
+        },
+        "Lucky Dog's Hourglass": {
+            "NID": 72,
+            "Set": "Lucky Dog",
+            "Part": "Timepiece"
+        },
+        "Lucky Dog's Goblet": {
+            "NID": 73,
+            "Set": "Lucky Dog",
+            "Part": "Goblet"
+        },
+        "Lucky Dog's Silver Circlet": {
+            "NID": 74,
+            "Set": "Lucky Dog",
+            "Part": "Headpiece"
+        },
+        "Maiden's Distant Love": {
+            "NID": 75,
+            "Set": "Maiden Beloved",
+            "Part": "Flower"
+        },
+        "Maiden's Heart-stricken Infatuation": {
+            "NID": 76,
+            "Set": "Maiden Beloved",
+            "Part": "Feather"
+        },
+        "Maiden's Passing Youth": {
+            "NID": 77,
+            "Set": "Maiden Beloved",
+            "Part": "Timepiece"
+        },
+        "Maiden's Fleeting Leisure": {
+            "NID": 78,
+            "Set": "Maiden Beloved",
+            "Part": "Goblet"
+        },
+        "Maiden's Fading Beauty": {
+            "NID": 79,
+            "Set": "Maiden Beloved",
+            "Part": "Headpiece"
+        },
+        "Martial Artist's Red Flower": {
+            "NID": 80,
+            "Set": "Martial Artist",
+            "Part": "Flower"
+        },
+        "Martial Artist's Feather Accessory": {
+            "NID": 81,
+            "Set": "Martial Artist",
+            "Part": "Feather"
+        },
+        "Martial Artist's Water Hourglass": {
+            "NID": 82,
+            "Set": "Martial Artist",
+            "Part": "Timepiece"
+        },
+        "Martial Artist's Wine Cup": {
+            "NID": 83,
+            "Set": "Martial Artist",
+            "Part": "Goblet"
+        },
+        "Martial Artist's Bandana": {
+            "NID": 84,
+            "Set": "Martial Artist",
+            "Part": "Headpiece"
+        },
+        "Royal Flora": {
+            "NID": 85,
+            "Set": "Noblesse Oblige",
+            "Part": "Flower"
+        },
+        "Royal Plume": {
+            "NID": 86,
+            "Set": "Noblesse Oblige",
+            "Part": "Feather"
+        },
+        "Royal Pocket Watch": {
+            "NID": 87,
+            "Set": "Noblesse Oblige",
+            "Part": "Timepiece"
+        },
+        "Royal Silver Urn": {
+            "NID": 88,
+            "Set": "Noblesse Oblige",
+            "Part": "Goblet"
+        },
+        "Royal Masque": {
+            "NID": 89,
+            "Set": "Noblesse Oblige",
+            "Part": "Headpiece"
+        },
+        "Stainless Bloom": {
+            "NID": 90,
+            "Set": "Pale Flame",
+            "Part": "Flower"
+        },
+        "Wise Doctor's Pinion": {
+            "NID": 91,
+            "Set": "Pale Flame",
+            "Part": "Feather"
+        },
+        "Moment of Cessation": {
+            "NID": 92,
+            "Set": "Pale Flame",
+            "Part": "Timepiece"
+        },
+        "Surpassing Cup": {
+            "NID": 93,
+            "Set": "Pale Flame",
+            "Part": "Goblet"
+        },
+        "Mocking Mask": {
+            "NID": 94,
+            "Set": "Pale Flame",
+            "Part": "Headpiece"
+        },
+        "Tiara of Torrents": {
+            "NID": 95,
+            "Set": "Prayers for Destiny",
+            "Part": "Headpiece"
+        },
+        "Tiara of Flame": {
+            "NID": 96,
+            "Set": "Prayers for Illumination",
+            "Part": "Headpiece"
+        },
+        "Tiara of Thunder": {
+            "NID": 97,
+            "Set": "Prayers for Wisdom",
+            "Part": "Headpiece"
+        },
+        "Tiara of Frost": {
+            "NID": 98,
+            "Set": "Prayers to Springtime",
+            "Part": "Headpiece"
+        },
+        "Heart of Comradeship": {
+            "NID": 99,
+            "Set": "Resolution of Sojourner",
+            "Part": "Flower"
+        },
+        "Feather of Homecoming": {
+            "NID": 100,
+            "Set": "Resolution of Sojourner",
+            "Part": "Feather"
+        },
+        "Sundial of the Sojourner": {
+            "NID": 101,
+            "Set": "Resolution of Sojourner",
+            "Part": "Timepiece"
+        },
+        "Goblet of the Sojourner": {
+            "NID": 102,
+            "Set": "Resolution of Sojourner",
+            "Part": "Goblet"
+        },
+        "Crown of Parting": {
+            "NID": 103,
+            "Set": "Resolution of Sojourner",
+            "Part": "Headpiece"
+        },
+        "Summer Night's Bloom": {
+            "NID": 104,
+            "Set": "Retracing Bolide",
+            "Part": "Flower"
+        },
+        "Summer Night's Finale": {
+            "NID": 105,
+            "Set": "Retracing Bolide",
+            "Part": "Feather"
+        },
+        "Summer Night's Moment": {
+            "NID": 106,
+            "Set": "Retracing Bolide",
+            "Part": "Timepiece"
+        },
+        "Summer Night's Waterballoon": {
+            "NID": 107,
+            "Set": "Retracing Bolide",
+            "Part": "Goblet"
+        },
+        "Summer Night's Mask": {
+            "NID": 108,
+            "Set": "Retracing Bolide",
+            "Part": "Headpiece"
+        },
+        "Scholar's Bookmark": {
+            "NID": 109,
+            "Set": "Scholar",
+            "Part": "Flower"
+        },
+        "Scholar's Quill Pen": {
+            "NID": 110,
+            "Set": "Scholar",
+            "Part": "Feather"
+        },
+        "Scholar's Clock": {
+            "NID": 111,
+            "Set": "Scholar",
+            "Part": "Timepiece"
+        },
+        "Scholar's Ink Cup": {
+            "NID": 112,
+            "Set": "Scholar",
+            "Part": "Goblet"
+        },
+        "Scholar's Lens": {
+            "NID": 113,
+            "Set": "Scholar",
+            "Part": "Headpiece"
+        },
+        "Flower of Accolades": {
+            "NID": 114,
+            "Set": "Tenacity of the Millelith",
+            "Part": "Flower"
+        },
+        "Ceremonial War-Plume": {
+            "NID": 115,
+            "Set": "Tenacity of the Millelith",
+            "Part": "Feather"
+        },
+        "Orichalceous Time-Dial": {
+            "NID": 116,
+            "Set": "Tenacity of the Millelith",
+            "Part": "Timepiece"
+        },
+        "Noble's Pledging Vessel": {
+            "NID": 117,
+            "Set": "Tenacity of the Millelith",
+            "Part": "Goblet"
+        },
+        "General's Ancient Helm": {
+            "NID": 118,
+            "Set": "Tenacity of the Millelith",
+            "Part": "Headpiece"
+        },
+        "Exile's Flower": {
+            "NID": 119,
+            "Set": "The Exile",
+            "Part": "Flower"
+        },
+        "Exile's Feather": {
+            "NID": 120,
+            "Set": "The Exile",
+            "Part": "Feather"
+        },
+        "Exile's Pocket Watch": {
+            "NID": 121,
+            "Set": "The Exile",
+            "Part": "Timepiece"
+        },
+        "Exile's Goblet": {
+            "NID": 122,
+            "Set": "The Exile",
+            "Part": "Goblet"
+        },
+        "Exile's Circlet": {
+            "NID": 123,
+            "Set": "The Exile",
+            "Part": "Headpiece"
+        },
+        "Thunderbird's Mercy": {
+            "NID": 124,
+            "Set": "Thundering Fury",
+            "Part": "Flower"
+        },
+        "Survivor of Catastrophe": {
+            "NID": 125,
+            "Set": "Thundering Fury",
+            "Part": "Feather"
+        },
+        "Hourglass of Thunder": {
+            "NID": 126,
+            "Set": "Thundering Fury",
+            "Part": "Timepiece"
+        },
+        "Omen of Thunderstorm": {
+            "NID": 127,
+            "Set": "Thundering Fury",
+            "Part": "Goblet"
+        },
+        "Thunder Summoner's Crown": {
+            "NID": 128,
+            "Set": "Thundering Fury",
+            "Part": "Headpiece"
+        },
+        "Thundersoother's Heart": {
+            "NID": 129,
+            "Set": "Thundersoother",
+            "Part": "Flower"
+        },
+        "Thundersoother's Plume": {
+            "NID": 130,
+            "Set": "Thundersoother",
+            "Part": "Feather"
+        },
+        "Hour of Soothing Thunder": {
+            "NID": 131,
+            "Set": "Thundersoother",
+            "Part": "Timepiece"
+        },
+        "Thundersoother's Goblet": {
+            "NID": 132,
+            "Set": "Thundersoother",
+            "Part": "Goblet"
+        },
+        "Thundersoother's Diadem": {
+            "NID": 133,
+            "Set": "Thundersoother",
+            "Part": "Headpiece"
+        },
+        "Tiny Miracle's Flower": {
+            "NID": 134,
+            "Set": "Tiny Miracle",
+            "Part": "Flower"
+        },
+        "Tiny Miracle's Feather": {
+            "NID": 135,
+            "Set": "Tiny Miracle",
+            "Part": "Feather"
+        },
+        "Tiny Miracle's Hourglass": {
+            "NID": 136,
+            "Set": "Tiny Miracle",
+            "Part": "Timepiece"
+        },
+        "Tiny Miracle's Goblet": {
+            "NID": 137,
+            "Set": "Tiny Miracle",
+            "Part": "Goblet"
+        },
+        "Tiny Miracle's Earrings": {
+            "NID": 138,
+            "Set": "Tiny Miracle",
+            "Part": "Headpiece"
+        },
+        "Traveling Doctor's Silver Lotus": {
+            "NID": 139,
+            "Set": "Traveling Doctor",
+            "Part": "Flower"
+        },
+        "Traveling Doctor's Owl Feather": {
+            "NID": 140,
+            "Set": "Traveling Doctor",
+            "Part": "Feather"
+        },
+        "Traveling Doctor's Pocket Watch": {
+            "NID": 141,
+            "Set": "Traveling Doctor",
+            "Part": "Timepiece"
+        },
+        "Traveling Doctor's Medicine Pot": {
+            "NID": 142,
+            "Set": "Traveling Doctor",
+            "Part": "Goblet"
+        },
+        "Traveling Doctor's Handkerchief": {
+            "NID": 143,
+            "Set": "Traveling Doctor",
+            "Part": "Headpiece"
+        },
+        "In Remembrance of Viridescent Fields": {
+            "NID": 144,
+            "Set": "Viridescent Venerer",
+            "Part": "Flower"
+        },
+        "Viridescent Arrow Feather": {
+            "NID": 145,
+            "Set": "Viridescent Venerer",
+            "Part": "Feather"
+        },
+        "Viridescent Venerer's Determination": {
+            "NID": 146,
+            "Set": "Viridescent Venerer",
+            "Part": "Timepiece"
+        },
+        "Viridescent Venerer's Vessel": {
+            "NID": 147,
+            "Set": "Viridescent Venerer",
+            "Part": "Goblet"
+        },
+        "Viridescent Venerer's Diadem": {
+            "NID": 148,
+            "Set": "Viridescent Venerer",
+            "Part": "Headpiece"
+        },
+        "Troupe's Dawnlight": {
+            "NID": 149,
+            "Set": "Wanderer's Troupe",
+            "Part": "Flower"
+        },
+        "Bard's Arrow Feather": {
+            "NID": 150,
+            "Set": "Wanderer's Troupe",
+            "Part": "Feather"
+        },
+        "Concert's Final Hour": {
+            "NID": 151,
+            "Set": "Wanderer's Troupe",
+            "Part": "Timepiece"
+        },
+        "Wanderer's String-Kettle": {
+            "NID": 152,
+            "Set": "Wanderer's Troupe",
+            "Part": "Goblet"
+        },
+        "Conductor's Top Hat": {
+            "NID": 153,
+            "Set": "Wanderer's Troupe",
+            "Part": "Headpiece"
+        }
+    },
+    "Food": {
+        "\"Pile 'Em Up\"": {
+            "NID": 0
+        },
+        "Adeptus' Temptation": {
+            "NID": 1
+        },
+        "Adventurer's Breakfast Sandwich": {
+            "NID": 2
+        },
+        "Almond Tofu": {
+            "NID": 3
+        },
+        "Apple": {
+            "NID": 4
+        },
+        "Apple Cider": {
+            "NID": 5
+        },
+        "Bamboo Shoot Soup": {
+            "NID": 6
+        },
+        "Barbatos Ratatouille": {
+            "NID": 7
+        },
+        "Berry & Mint Burst": {
+            "NID": 8
+        },
+        "Black-Back Perch Stew": {
+            "NID": 9
+        },
+        "Calla Lily Seafood Soup": {
+            "NID": 10
+        },
+        "Chicken Tofu Pudding": {
+            "NID": 11
+        },
+        "Chicken-Mushroom Skewer": {
+            "NID": 12
+        },
+        "Cold Cut Platter": {
+            "NID": 13
+        },
+        "Come and Get It": {
+            "NID": 14
+        },
+        "Crab Roe Tofu": {
+            "NID": 15
+        },
+        "Crab, Ham & Veggie Bake": {
+            "NID": 16
+        },
+        "Cream Stew": {
+            "NID": 17
+        },
+        "Crispy Potato Shrimp Platter": {
+            "NID": 18
+        },
+        "Crystal Shrimp": {
+            "NID": 19
+        },
+        "Cured Pork Dry Hotpot": {
+            "NID": 20
+        },
+        "Desiccant Potion": {
+            "NID": 21
+        },
+        "Dustproof Potion": {
+            "NID": 22
+        },
+        "Fisherman's Toast": {
+            "NID": 23
+        },
+        "Flaming Essential Oil": {
+            "NID": 24
+        },
+        "Flaming Red Bolognese": {
+            "NID": 25
+        },
+        "Fragrant Mashed Potatoes": {
+            "NID": 26
+        },
+        "Fried Radish Balls": {
+            "NID": 27
+        },
+        "Frosting Essential Oil": {
+            "NID": 28
+        },
+        "Frostshield Potion": {
+            "NID": 29
+        },
+        "Fullmoon Egg": {
+            "NID": 30
+        },
+        "Golden Chicken Burger": {
+            "NID": 31
+        },
+        "Golden Crab": {
+            "NID": 32
+        },
+        "Golden Fried Chicken": {
+            "NID": 33
+        },
+        "Golden Shrimp Balls": {
+            "NID": 34
+        },
+        "Goulash": {
+            "NID": 35
+        },
+        "Grilled Tiger Fish": {
+            "NID": 36
+        },
+        "Gushing Essential Oil": {
+            "NID": 37
+        },
+        "Heatshield Potion": {
+            "NID": 38
+        },
+        "Insulation Potion": {
+            "NID": 39
+        },
+        "Jade Parcels": {
+            "NID": 40
+        },
+        "Jewelry Soup": {
+            "NID": 41
+        },
+        "Jueyun Chili Chicken": {
+            "NID": 42
+        },
+        "Jueyun Guoba": {
+            "NID": 43
+        },
+        "Lantern Rite Special Come and Get It": {
+            "NID": 44
+        },
+        "Lantern Rite Special Fried Radish Balls": {
+            "NID": 45
+        },
+        "Lantern Rite Special Grilled Tiger Fish": {
+            "NID": 46
+        },
+        "Lantern Rite Special Jewelry Soup": {
+            "NID": 47
+        },
+        "Lantern Rite Special Lotus Seed and Bird Egg Soup": {
+            "NID": 48
+        },
+        "Lantern Rite Special Noodles with Mountain Delicacies": {
+            "NID": 49
+        },
+        "Lantern Rite Special Triple-Layered Consomm\u00e9": {
+            "NID": 50
+        },
+        "Lotus Flower Crisp": {
+            "NID": 51
+        },
+        "Lotus Seed and Bird Egg Soup": {
+            "NID": 52
+        },
+        "Matsutake Meat Rolls": {
+            "NID": 53
+        },
+        "Mint Jelly": {
+            "NID": 54
+        },
+        "Mint Salad": {
+            "NID": 55
+        },
+        "Minty Meat Rolls": {
+            "NID": 56
+        },
+        "Mondstadt Grilled Fish": {
+            "NID": 57
+        },
+        "Mondstadt Hash Brown": {
+            "NID": 58
+        },
+        "Moon Pie": {
+            "NID": 59
+        },
+        "Mora Meat": {
+            "NID": 60
+        },
+        "Mushroom Pizza": {
+            "NID": 61
+        },
+        "Noodles with Mountain Delicacies": {
+            "NID": 62
+        },
+        "Northern Apple Stew": {
+            "NID": 63
+        },
+        "Northern Smoked Chicken": {
+            "NID": 64
+        },
+        "Pop's Teas": {
+            "NID": 65
+        },
+        "Qingce Stir Fry": {
+            "NID": 66
+        },
+        "Radish Veggie Soup": {
+            "NID": 67
+        },
+        "Rice Buns": {
+            "NID": 68
+        },
+        "Satisfying Salad": {
+            "NID": 69
+        },
+        "Saut\u00e9ed Matsutake": {
+            "NID": 70
+        },
+        "Shocking Essential Oil": {
+            "NID": 71
+        },
+        "Squirrel Fish": {
+            "NID": 72
+        },
+        "Steak": {
+            "NID": 73
+        },
+        "Sticky Honey Roast": {
+            "NID": 74
+        },
+        "Stir-Fried Filet": {
+            "NID": 75
+        },
+        "Stir-Fried Fish Noodles": {
+            "NID": 76
+        },
+        "Stir-Fried Shrimp": {
+            "NID": 77
+        },
+        "Stone Harbor Delicacies": {
+            "NID": 78
+        },
+        "Streaming Essential Oil": {
+            "NID": 79
+        },
+        "Sunsettia": {
+            "NID": 80
+        },
+        "Sunshine Sprat": {
+            "NID": 81
+        },
+        "Sweet Madame": {
+            "NID": 82
+        },
+        "Tea Break Pancake": {
+            "NID": 83
+        },
+        "Teyvat Fried Egg": {
+            "NID": 84
+        },
+        "Tianshu Meat": {
+            "NID": 85
+        },
+        "Triple-Layered Consomm\u00e9": {
+            "NID": 86
+        },
+        "Universal Peace": {
+            "NID": 87
+        },
+        "Unmoving Essential Oil": {
+            "NID": 88
+        },
+        "Vegetarian Abalone": {
+            "NID": 89
+        },
+        "Windbarrier Potion": {
+            "NID": 90
+        },
+        "Wolfhook Juice": {
+            "NID": 91
+        },
+        "Zhongyuan Chop Suey": {
+            "NID": 92
+        }
+    },
+    "Furniture": {
+        "\"A Seat in the Wilderness\"": {
+            "NID": 0
+        },
+        "\"Archivist's Treasure Trove\"": {
+            "NID": 1
+        },
+        "\"Ballad-Spinning Windwheel\"": {
+            "NID": 2
+        },
+        "\"Brightcrown Plumebush\"": {
+            "NID": 3
+        },
+        "\"Clear Blue Afternoon\"": {
+            "NID": 4
+        },
+        "\"Clouds East of Bishui\"": {
+            "NID": 5
+        },
+        "\"Concealing Leaves\"": {
+            "NID": 6
+        },
+        "\"Crystalfly's Perch\"": {
+            "NID": 7
+        },
+        "\"Dainty Fists\"": {
+            "NID": 8
+        },
+        "\"Etiquette of Correspondence\"": {
+            "NID": 9
+        },
+        "\"Four-Quadrant Cooking Cauldron\"": {
+            "NID": 10
+        },
+        "\"Green Fountain\"": {
+            "NID": 11
+        },
+        "\"Hunter's Vantage\"": {
+            "NID": 12
+        },
+        "\"Kindletree\"": {
+            "NID": 13
+        },
+        "\"Lost Between the Pages of a Book\"": {
+            "NID": 14
+        },
+        "\"Night of the Party Pumpkins\"": {
+            "NID": 15
+        },
+        "\"Prey's Cloak of Refuge\"": {
+            "NID": 16
+        },
+        "\"Scholar's Weariness\"": {
+            "NID": 17
+        },
+        "\"Southern Sweetleaves\"": {
+            "NID": 18
+        },
+        "\"The Adventurer's Burdens\"": {
+            "NID": 19
+        },
+        "\"The Color of the Wind\"": {
+            "NID": 20
+        },
+        "\"Traveling Merchant North of the Stone Gate\"": {
+            "NID": 21
+        },
+        "\"Unwavering Determination\"": {
+            "NID": 22
+        },
+        "Adeptus Amber: A Striking Sight": {
+            "NID": 23
+        },
+        "Adeptus Amber: Trespassers Beware": {
+            "NID": 24
+        },
+        "Adeptus Gate": {
+            "NID": 25
+        },
+        "Alchemic Component: Burden of Dust": {
+            "NID": 26
+        },
+        "Alchemic Device: Between Fire and Water": {
+            "NID": 27
+        },
+        "Alchemist's Crafting Bench": {
+            "NID": 28
+        },
+        "Amber Irontrunk Tree": {
+            "NID": 29
+        },
+        "Amber Knotwood Tree": {
+            "NID": 30
+        },
+        "Amber Pearlroot Tree": {
+            "NID": 31
+        },
+        "Ashen Stone": {
+            "NID": 32
+        },
+        "Azure Crane": {
+            "NID": 33
+        },
+        "Bamboo Outdoor Tea Table": {
+            "NID": 34
+        },
+        "Birch Double Drawer Nightstand": {
+            "NID": 35
+        },
+        "Birch Main Courtyard Gate": {
+            "NID": 36
+        },
+        "Birch Sapling": {
+            "NID": 37
+        },
+        "Bird and Blossom Design Fountain": {
+            "NID": 38
+        },
+        "Black-Back Hound": {
+            "NID": 39
+        },
+        "Blooming Hedge": {
+            "NID": 40
+        },
+        "Bountiful Harvest Fruit Cart": {
+            "NID": 41
+        },
+        "Breeze-Blessed Bed": {
+            "NID": 42
+        },
+        "Bright Vase-Shaped Sconce": {
+            "NID": 43
+        },
+        "Bustling Sundry Stand": {
+            "NID": 44
+        },
+        "Calligraphy Set: Assiduous Calligraphy": {
+            "NID": 45
+        },
+        "Carved Courtyard Fence": {
+            "NID": 46
+        },
+        "Carved Courtyard Fence Ending": {
+            "NID": 47
+        },
+        "Chasm's Doorstep": {
+            "NID": 48
+        },
+        "Checkered Cedar Ceiling": {
+            "NID": 49
+        },
+        "Classic Country Home": {
+            "NID": 50
+        },
+        "Classic Fir Cabinet": {
+            "NID": 51
+        },
+        "Classical Lyre: Tenor of the Wind": {
+            "NID": 52
+        },
+        "Cloudy Haze Bed": {
+            "NID": 53
+        },
+        "Colorful Checkered Tile": {
+            "NID": 54
+        },
+        "Country Home With Tall Attic": {
+            "NID": 55
+        },
+        "Courtyard Wall: All in a Row": {
+            "NID": 56
+        },
+        "Courtyard Wall: Peace Across": {
+            "NID": 57
+        },
+        "Courtyard Wall: Spring and Autumn Splendor": {
+            "NID": 58
+        },
+        "Crude Double-Decker Pallet": {
+            "NID": 59
+        },
+        "Cuihua Sapling": {
+            "NID": 60
+        },
+        "Dark Checkered Ceiling": {
+            "NID": 61
+        },
+        "Dark Wood Arch Wall": {
+            "NID": 62
+        },
+        "Deadwood Road Sign": {
+            "NID": 63
+        },
+        "Doorless Pine Cupboard": {
+            "NID": 64
+        },
+        "Economy Cuihua Bookshelf": {
+            "NID": 65
+        },
+        "Eight-Sided Lantern: Lucky Day": {
+            "NID": 66
+        },
+        "Embroidered Curtains": {
+            "NID": 67
+        },
+        "Embroidered Lantern: Lofty Grandeur": {
+            "NID": 68
+        },
+        "Entrance Rug: A Warm Welcome": {
+            "NID": 69
+        },
+        "Evil-Repelling Lantern: All-Around Lighting": {
+            "NID": 70
+        },
+        "Exquisite Cuihua Bookshelf": {
+            "NID": 71
+        },
+        "Exquisite Hourglass Ornament": {
+            "NID": 72
+        },
+        "Farmer's Scarecrow": {
+            "NID": 73
+        },
+        "Favonius Coat of Arms": {
+            "NID": 74
+        },
+        "Favonius Conference Table": {
+            "NID": 75
+        },
+        "Favonius Fir Door": {
+            "NID": 76
+        },
+        "Favonius Office Table": {
+            "NID": 77
+        },
+        "Fine Brushwork: Bowl of Blossoms": {
+            "NID": 78
+        },
+        "Fine Brushwork: Mountains Rising From the Mist": {
+            "NID": 79
+        },
+        "Fine Brushwork: Peaks of Minlin": {
+            "NID": 80
+        },
+        "Fir Case Shelf Combination": {
+            "NID": 81
+        },
+        "Fir Shelves": {
+            "NID": 82
+        },
+        "Fir Weapon Rack": {
+            "NID": 83
+        },
+        "Fir Wood Cornering Stairs": {
+            "NID": 84
+        },
+        "Floral Screen: Jade and Gold": {
+            "NID": 85
+        },
+        "Flower Arrangement: Baby Blue Tranquility": {
+            "NID": 86
+        },
+        "Flower Arrangement: Sprawling Daybreak": {
+            "NID": 87
+        },
+        "Forest Boar": {
+            "NID": 88
+        },
+        "Forest-Patrol Hound": {
+            "NID": 89
+        },
+        "Formation Rock": {
+            "NID": 90
+        },
+        "Four Corners Lantern: Amity From Afar": {
+            "NID": 91
+        },
+        "Fragrant Cedar Cornering Stairs": {
+            "NID": 92
+        },
+        "Fragrant Cedar Door": {
+            "NID": 93
+        },
+        "Fragrant Cedar Vegetable Rack": {
+            "NID": 94
+        },
+        "Fruit Seller's Caution": {
+            "NID": 95
+        },
+        "Fruit Seller's Toil": {
+            "NID": 96
+        },
+        "Fruit and Veggie Stall: Harvest Bounties": {
+            "NID": 97
+        },
+        "Gemini Jasmine": {
+            "NID": 98
+        },
+        "Gemini Verdance": {
+            "NID": 99
+        },
+        "Gold-Lined Sandbearer Nightstand": {
+            "NID": 100
+        },
+        "Gold-Lined Sandbearer Wardrobe": {
+            "NID": 101
+        },
+        "Goldbud Stone": {
+            "NID": 102
+        },
+        "Goldchime Stone": {
+            "NID": 103
+        },
+        "Golden Irontrunk Tree": {
+            "NID": 104
+        },
+        "Golden Knotwood Tree": {
+            "NID": 105
+        },
+        "Golden Pearlroot Tree": {
+            "NID": 106
+        },
+        "Golden Triple-Arm Candelabrum": {
+            "NID": 107
+        },
+        "Green Irontrunk Tree": {
+            "NID": 108
+        },
+        "Green Knotwood Tree": {
+            "NID": 109
+        },
+        "Green Pearlroot Tree": {
+            "NID": 110
+        },
+        "Hardened Glazed Vase": {
+            "NID": 111
+        },
+        "Hardwood Screen: Morning Mist in Jueyun": {
+            "NID": 112
+        },
+        "Hardwood Weapon Rack": {
+            "NID": 113
+        },
+        "Hazel Wildvest": {
+            "NID": 114
+        },
+        "Heavy Fir Forging Table": {
+            "NID": 115
+        },
+        "Heavy Hay Bale": {
+            "NID": 116
+        },
+        "Hiding Grazestone": {
+            "NID": 117
+        },
+        "Hilichurl Archery Target": {
+            "NID": 118
+        },
+        "Hilichurl Chieftain Hall": {
+            "NID": 119
+        },
+        "Hilichurl Horned Pot": {
+            "NID": 120
+        },
+        "Hilichurl Outpost Hut": {
+            "NID": 121
+        },
+        "Hilichurl Spiral Watchtower": {
+            "NID": 122
+        },
+        "Hilichurl Straw Hut": {
+            "NID": 123
+        },
+        "Hilichurl Totem Fence": {
+            "NID": 124
+        },
+        "Intricately Carved Calligraphy Table": {
+            "NID": 125
+        },
+        "Jade-Eyed Cat": {
+            "NID": 126
+        },
+        "Landscape Painting: Country Home": {
+            "NID": 127
+        },
+        "Landscape Painting: Distant Clouds": {
+            "NID": 128
+        },
+        "Landscape Painting: Nameless Precipice": {
+            "NID": 129
+        },
+        "Lantern-Lit Stage: Crescendo": {
+            "NID": 130
+        },
+        "Large Birch Wardrobe": {
+            "NID": 131
+        },
+        "Large Stone Mill": {
+            "NID": 132
+        },
+        "Lightning Protective Tent": {
+            "NID": 133
+        },
+        "Liuli Pavilion Sandbearer Floor Lamp": {
+            "NID": 134
+        },
+        "Liyue Estate: Exquisite Mansion": {
+            "NID": 135
+        },
+        "Liyue House: Amity Abounds": {
+            "NID": 136
+        },
+        "Liyue House: Moon-Crested Eaves": {
+            "NID": 137
+        },
+        "Liyue House: Of Timber and Stone": {
+            "NID": 138
+        },
+        "Liyue House: Solitary Retreat": {
+            "NID": 139
+        },
+        "Liyue House: Time Waits for No-One": {
+            "NID": 140
+        },
+        "Liyue Pitstop: Tea Fragrance on the Old Road": {
+            "NID": 141
+        },
+        "Liyue Shop: Citywide Favorite": {
+            "NID": 142
+        },
+        "Long Pine Table": {
+            "NID": 143
+        },
+        "Long Table With Tablecloth": {
+            "NID": 144
+        },
+        "Luscious Bloom": {
+            "NID": 145
+        },
+        "Lush Grapevine": {
+            "NID": 146
+        },
+        "Main Entrance: Gateway to the Clouds": {
+            "NID": 147
+        },
+        "Mature Cuihua Tree": {
+            "NID": 148
+        },
+        "Meadow Bloom": {
+            "NID": 149
+        },
+        "Messy Pile of Fir Crates": {
+            "NID": 150
+        },
+        "Mondstadt House With Overhanging Attic": {
+            "NID": 151
+        },
+        "Mondstadt Mansion: Windward Manor": {
+            "NID": 152
+        },
+        "Mondstadt Rug: Crimson Ardor": {
+            "NID": 153
+        },
+        "Mondstadt Rug: Tireless Search": {
+            "NID": 154
+        },
+        "Moonlight Stone": {
+            "NID": 155
+        },
+        "Moss-Covered Stone": {
+            "NID": 156
+        },
+        "Mounted Noticeboard": {
+            "NID": 157
+        },
+        "Mounted Record Board": {
+            "NID": 158
+        },
+        "Multi-Arched Mondstadt Building": {
+            "NID": 159
+        },
+        "Multi-Seat Round Pine Table": {
+            "NID": 160
+        },
+        "Neat Stack of Books": {
+            "NID": 161
+        },
+        "Neat Stack of Fir Kegs": {
+            "NID": 162
+        },
+        "Northern Birch Folding Counter": {
+            "NID": 163
+        },
+        "Northern Stone Hearth": {
+            "NID": 164
+        },
+        "Northland Cat": {
+            "NID": 165
+        },
+        "Northland Hound": {
+            "NID": 166
+        },
+        "Old Well": {
+            "NID": 167
+        },
+        "Old Wind-Resistant Mondstadt House": {
+            "NID": 168
+        },
+        "Open-Air Workshop": {
+            "NID": 169
+        },
+        "Open-Top Fir Shelf": {
+            "NID": 170
+        },
+        "Ordinary Garden Hedge": {
+            "NID": 171
+        },
+        "Overgrown Wildvest": {
+            "NID": 172
+        },
+        "Parched Stone": {
+            "NID": 173
+        },
+        "Pavilion: Stargazer's Shelter": {
+            "NID": 174
+        },
+        "Peculiar Knotwood Tree": {
+            "NID": 175
+        },
+        "Perimeter Wall: Scenic Archway": {
+            "NID": 176
+        },
+        "Pine Dining Chair": {
+            "NID": 177
+        },
+        "Pine Folding Screen: Billowing Sails": {
+            "NID": 178
+        },
+        "Pine Reception Counter": {
+            "NID": 179
+        },
+        "Pine Street Light": {
+            "NID": 180
+        },
+        "Pine-Backed Tea Chair": {
+            "NID": 181
+        },
+        "Pocket-Sized Pine Cabin": {
+            "NID": 182
+        },
+        "Portable Stove": {
+            "NID": 183
+        },
+        "Potted Flower: Fragrant Facade": {
+            "NID": 184
+        },
+        "Potted Plant: Crystalline Breeze": {
+            "NID": 185
+        },
+        "Potted Plant: Petite Perrenial": {
+            "NID": 186
+        },
+        "Potted Plant: Verdant Vastness": {
+            "NID": 187
+        },
+        "Profitable Fruit Stand": {
+            "NID": 188
+        },
+        "Profuse Awlking": {
+            "NID": 189
+        },
+        "Profuse Lacquerleaf": {
+            "NID": 190
+        },
+        "Profuse Smokeleaf": {
+            "NID": 191
+        },
+        "Pure Spirit Banner": {
+            "NID": 192
+        },
+        "Qingce Heronleaf Bamboo": {
+            "NID": 193
+        },
+        "Qingce Jadestone Bamboo": {
+            "NID": 194
+        },
+        "Qingce Skysail Bamboo": {
+            "NID": 195
+        },
+        "Rally Banner": {
+            "NID": 196
+        },
+        "Real Deal Fruit Stand": {
+            "NID": 197
+        },
+        "Recreation Stone": {
+            "NID": 198
+        },
+        "Red Cedar Curio Stand": {
+            "NID": 199
+        },
+        "Red Cedar Round Table": {
+            "NID": 200
+        },
+        "Red Cedar Scroll Shelf": {
+            "NID": 201
+        },
+        "Red Pine Wood Round Stool": {
+            "NID": 202
+        },
+        "Roll-Roofed Fruit and Vegetable Cart": {
+            "NID": 203
+        },
+        "Roofed Well: For Purity": {
+            "NID": 204
+        },
+        "Sartorial Stone": {
+            "NID": 205
+        },
+        "Scenic Corridor: Sylvan Stroll": {
+            "NID": 206
+        },
+        "Scorched Stone": {
+            "NID": 207
+        },
+        "Seashell Table Lamp": {
+            "NID": 208
+        },
+        "Shadow Lamp: Painted Shadow": {
+            "NID": 209
+        },
+        "Sheriff Cat": {
+            "NID": 210
+        },
+        "Shiba": {
+            "NID": 211
+        },
+        "Shopkeeper's Cedar Shelf": {
+            "NID": 212
+        },
+        "Silk Curtains: Fetching the Sanguine Sky": {
+            "NID": 213
+        },
+        "Silversand Coconut Tree": {
+            "NID": 214
+        },
+        "Simple Cargo Cart": {
+            "NID": 215
+        },
+        "Simple Single-Person Tent": {
+            "NID": 216
+        },
+        "Six-Sided Lantern: Harmony in Friendship": {
+            "NID": 217
+        },
+        "Smooth Stone Bench": {
+            "NID": 218
+        },
+        "Smooth Wooden Bench": {
+            "NID": 219
+        },
+        "Soft Lounge Sofa": {
+            "NID": 220
+        },
+        "Square Pine Tea Table": {
+            "NID": 221
+        },
+        "Stepping Stone": {
+            "NID": 222
+        },
+        "Stone Lion Statue: The Knowing": {
+            "NID": 223
+        },
+        "Stone Lion Statue: The Warding": {
+            "NID": 224
+        },
+        "Storage Sack: Buzz-Off Bag": {
+            "NID": 225
+        },
+        "Stratus-Cloud Stone": {
+            "NID": 226
+        },
+        "Straw Depot": {
+            "NID": 227
+        },
+        "Straw Hut": {
+            "NID": 228
+        },
+        "Straw Shed": {
+            "NID": 229
+        },
+        "Sturdy Birch Vanity": {
+            "NID": 230
+        },
+        "Sturdy Library Table": {
+            "NID": 231
+        },
+        "Sturdy Pine Fence": {
+            "NID": 232
+        },
+        "Sturdy Stone Well": {
+            "NID": 233
+        },
+        "Sub-Space Boulder: Craggy Canopy": {
+            "NID": 234
+        },
+        "Sub-Space Boulder: Palace Steps": {
+            "NID": 235
+        },
+        "Sub-Space Boulder: Refined Beauty": {
+            "NID": 236
+        },
+        "Sub-Space Boulder: Rocky Bulwark": {
+            "NID": 237
+        },
+        "Sub-Space Boulder: Slumbering Stratus": {
+            "NID": 238
+        },
+        "Sub-Space Boulder: Verdant Peak": {
+            "NID": 239
+        },
+        "Summer Solstice Rock": {
+            "NID": 240
+        },
+        "Sunset Stone": {
+            "NID": 241
+        },
+        "Tall Birch": {
+            "NID": 242
+        },
+        "Tasseled Lantern: Deck the Streets": {
+            "NID": 243
+        },
+        "Tavern Rug: Home Away From Home": {
+            "NID": 244
+        },
+        "Thundering Heavens Drum": {
+            "NID": 245
+        },
+        "Tianheng Red Maple: Branches Aflame": {
+            "NID": 246
+        },
+        "Tianyuan Lantern: Fragrant Brilliance": {
+            "NID": 247
+        },
+        "Tiger-Striped Cat": {
+            "NID": 248
+        },
+        "Timber Wall With Jade Eaves": {
+            "NID": 249
+        },
+        "Toy Stand: Dazzling Delights": {
+            "NID": 250
+        },
+        "Traditional Cedar Flooring": {
+            "NID": 251
+        },
+        "Trusty Portable Lamp": {
+            "NID": 252
+        },
+        "Two-Story Hilichurl Sentry Tower": {
+            "NID": 253
+        },
+        "Two-Tier Candle Chandelier": {
+            "NID": 254
+        },
+        "Two-Tier Library Bookshelf": {
+            "NID": 255
+        },
+        "Two-Tier Vendor's Booth: Rising Fortunes": {
+            "NID": 256
+        },
+        "Umbrella Shop: Kaleidoscope of Parasol Colors": {
+            "NID": 257
+        },
+        "Unmoving Kingstone": {
+            "NID": 258
+        },
+        "Unprecedentedly Average Stone": {
+            "NID": 259
+        },
+        "Verdant Bloom": {
+            "NID": 260
+        },
+        "Verdurous Feast": {
+            "NID": 261
+        },
+        "Verdurous Waiter": {
+            "NID": 262
+        },
+        "Vivacious Awlking": {
+            "NID": 263
+        },
+        "Vivacious Lacquerleaf": {
+            "NID": 264
+        },
+        "Vivacious Smokeleaf": {
+            "NID": 265
+        },
+        "Wall Corner: Fragrant Nook": {
+            "NID": 266
+        },
+        "Warm and Dry Mondstadt Apartment": {
+            "NID": 267
+        },
+        "Water-Retaining Flower Beds": {
+            "NID": 268
+        },
+        "Weathered Bamboo Fence": {
+            "NID": 269
+        },
+        "Well-Worn Buckler": {
+            "NID": 270
+        },
+        "Well-Worn Shield": {
+            "NID": 271
+        },
+        "Well-Worn Sword": {
+            "NID": 272
+        },
+        "Whitesand Coconut Tree": {
+            "NID": 273
+        },
+        "Wide Stone Stove": {
+            "NID": 274
+        },
+        "Wine Jar With Bamboo Casing: Spirits Awaiting Moonrise": {
+            "NID": 275
+        },
+        "Wine Shop Display Counter: To Your Heart's Content": {
+            "NID": 276
+        },
+        "Wine-Red Wildvest": {
+            "NID": 277
+        },
+        "Wing House: Dawn & Dusk": {
+            "NID": 278
+        },
+        "Withered Pearlroot Tree": {
+            "NID": 279
+        },
+        "Wooden Hilichurl Fence": {
+            "NID": 280
+        },
+        "Wooden Outdoor Tea Table": {
+            "NID": 281
+        },
+        "Wooden Restaurant Signboard": {
+            "NID": 282
+        },
+        "Wrought Iron Carved Street Light": {
+            "NID": 283
+        },
+        "Yellow Sandbearer Tree": {
+            "NID": 284
+        }
+    },
+    "Sets": {
+        "Adventurer Camp": {
+            "NID": 0
+        },
+        "Amidst Poetic Pondering": {
+            "NID": 1
+        },
+        "Amidst Whispering Winds": {
+            "NID": 2
+        },
+        "Arms Factory": {
+            "NID": 3
+        },
+        "Bird and Blossom Park": {
+            "NID": 4
+        },
+        "Book Lover's Study": {
+            "NID": 5
+        },
+        "Busy Kitchen": {
+            "NID": 6
+        },
+        "Cargo Transfer Station": {
+            "NID": 7
+        },
+        "Climate Crossover": {
+            "NID": 8
+        },
+        "Cloudy Haze Dream-Court": {
+            "NID": 9
+        },
+        "Corner of the Teahouse": {
+            "NID": 10
+        },
+        "Cottage Kitchen": {
+            "NID": 11
+        },
+        "Dawn Orchard": {
+            "NID": 12
+        },
+        "Dialogue Twixt Ancient Tree and Rock": {
+            "NID": 13
+        },
+        "Ever-Popular Eatery": {
+            "NID": 14
+        },
+        "Feiyun Study Room": {
+            "NID": 15
+        },
+        "Festival Market": {
+            "NID": 16
+        },
+        "Frontier Life": {
+            "NID": 17
+        },
+        "Fruit & Veg Market": {
+            "NID": 18
+        },
+        "Fully Furnished Mondstadt Bedroom": {
+            "NID": 19
+        },
+        "Gathering of Gourmets": {
+            "NID": 20
+        },
+        "Glittering Street": {
+            "NID": 21
+        },
+        "Hamlet House": {
+            "NID": 22
+        },
+        "Harvest Season Stall": {
+            "NID": 23
+        },
+        "Hermit's Hut": {
+            "NID": 24
+        },
+        "Idyllic Town": {
+            "NID": 25
+        },
+        "Iter Ad Astra Abyssosque": {
+            "NID": 26
+        },
+        "Lone and Cautious Adventurer": {
+            "NID": 27
+        },
+        "Meeting Room of the \"Strategic Six\"": {
+            "NID": 28
+        },
+        "Merchant's Working Lunch": {
+            "NID": 29
+        },
+        "Of Hunting and Dancing": {
+            "NID": 30
+        },
+        "Parlor Cordiality": {
+            "NID": 31
+        },
+        "Plain Liyue Bedroom": {
+            "NID": 32
+        },
+        "Qingce Cloud Residence": {
+            "NID": 33
+        },
+        "Rocks & Plants": {
+            "NID": 34
+        },
+        "Rural Water Source": {
+            "NID": 35
+        },
+        "Secret Research Lab": {
+            "NID": 36
+        },
+        "Suburbia Lighting": {
+            "NID": 37
+        },
+        "Table & Chairs": {
+            "NID": 38
+        },
+        "Tea Talk": {
+            "NID": 39
+        },
+        "Thoroughfare Entrance: Evil Banisher": {
+            "NID": 40
+        },
+        "Training Ground": {
+            "NID": 41
+        },
+        "Weapon Forging Station": {
+            "NID": 42
+        },
+        "Well-Equipped Study": {
+            "NID": 43
+        },
+        "Wine o' Clock": {
+            "NID": 44
+        }
+    },
+    "Mats": {
+        "Brilliant Diamond Sliver": {
+            "NID": 0
+        },
+        "Brilliant Diamond Fragment": {
+            "NID": 1
+        },
+        "Brilliant Diamond Chunk": {
+            "NID": 2
+        },
+        "Brilliant Diamond Gemstone": {
+            "NID": 3
+        },
+        "Fragile Bone Shard": {
+            "NID": 4
+        },
+        "Sturdy Bone Shard": {
+            "NID": 5
+        },
+        "Fossilized Bone Shard": {
+            "NID": 6
+        },
+        "Agnidus Agate Sliver": {
+            "NID": 7
+        },
+        "Agnidus Agate Fragment": {
+            "NID": 8
+        },
+        "Agnidus Agate Chunk": {
+            "NID": 9
+        },
+        "Agnidus Agate Gemstone": {
+            "NID": 10
+        },
+        "Varunada Lazurite Sliver": {
+            "NID": 11
+        },
+        "Varunada Lazurite Fragment": {
+            "NID": 12
+        },
+        "Varunada Lazurite Chunk": {
+            "NID": 13
+        },
+        "Varunada Lazurite Gemstone": {
+            "NID": 14
+        },
+        "Vajrada Amethyst Sliver": {
+            "NID": 15
+        },
+        "Vajrada Amethyst Fragment": {
+            "NID": 16
+        },
+        "Vajrada Amethyst Chunk": {
+            "NID": 17
+        },
+        "Vajrada Amethyst Gemstone": {
+            "NID": 18
+        },
+        "Vayuda Turquoise Sliver": {
+            "NID": 19
+        },
+        "Vayuda Turquoise Fragment": {
+            "NID": 20
+        },
+        "Vayuda Turquoise Chunk": {
+            "NID": 21
+        },
+        "Vayuda Turquoise Gemstone": {
+            "NID": 22
+        },
+        "Shivada Jade Sliver": {
+            "NID": 23
+        },
+        "Shivada Jade Fragment": {
+            "NID": 24
+        },
+        "Shivada Jade Chunk": {
+            "NID": 25
+        },
+        "Shivada Jade Gemstone": {
+            "NID": 26
+        },
+        "Prithiva Topaz Sliver": {
+            "NID": 27
+        },
+        "Prithiva Topaz Fragment": {
+            "NID": 28
+        },
+        "Prithiva Topaz Chunk": {
+            "NID": 29
+        },
+        "Prithiva Topaz Gemstone": {
+            "NID": 30
+        },
+        "Teachings of Freedom": {
+            "NID": 31
+        },
+        "Guide to Freedom": {
+            "NID": 32
+        },
+        "Philosophies of Freedom": {
+            "NID": 33
+        },
+        "Teachings of Resistance": {
+            "NID": 34
+        },
+        "Guide to Resistance": {
+            "NID": 35
+        },
+        "Philosophies of Resistance": {
+            "NID": 36
+        },
+        "Teachings of Ballad": {
+            "NID": 37
+        },
+        "Guide to Ballad": {
+            "NID": 38
+        },
+        "Philosophies of Ballad": {
+            "NID": 39
+        },
+        "Teachings of Prosperity": {
+            "NID": 40
+        },
+        "Guide to Prosperity": {
+            "NID": 41
+        },
+        "Philosophies of Prosperity": {
+            "NID": 42
+        },
+        "Teachings of Diligence": {
+            "NID": 43
+        },
+        "Guide to Diligence": {
+            "NID": 44
+        },
+        "Philosophies of Diligence": {
+            "NID": 45
+        },
+        "Teachings of Gold": {
+            "NID": 46
+        },
+        "Guide to Gold": {
+            "NID": 47
+        },
+        "Philosophies of Gold": {
+            "NID": 48
+        },
+        "Crown of Insight": {
+            "NID": 49
+        },
+        "Primordial Essence": {
+            "NID": 50
+        },
+        "Slime Condensate": {
+            "NID": 51
+        },
+        "Slime Secretions": {
+            "NID": 52
+        },
+        "Slime Concentrate": {
+            "NID": 53
+        },
+        "Damaged Mask": {
+            "NID": 54
+        },
+        "Stained Mask": {
+            "NID": 55
+        },
+        "Ominous Mask": {
+            "NID": 56
+        },
+        "Divining Scroll": {
+            "NID": 57
+        },
+        "Sealed Scroll": {
+            "NID": 58
+        },
+        "Forbidden Curse Scroll": {
+            "NID": 59
+        },
+        "Firm Arrowhead": {
+            "NID": 60
+        },
+        "Sharp Arrowhead": {
+            "NID": 61
+        },
+        "Weathered Arrowhead": {
+            "NID": 62
+        },
+        "Heavy Horn": {
+            "NID": 63
+        },
+        "Black Bronze Horn": {
+            "NID": 64
+        },
+        "Black Crystal Horn": {
+            "NID": 65
+        },
+        "Dead Ley Line Branch": {
+            "NID": 66
+        },
+        "Dead Ley Line Leaves": {
+            "NID": 67
+        },
+        "Ley Line Sprout": {
+            "NID": 68
+        },
+        "Chaos Device": {
+            "NID": 69
+        },
+        "Chaos Circuit": {
+            "NID": 70
+        },
+        "Chaos Core": {
+            "NID": 71
+        },
+        "Mist Grass Pollen": {
+            "NID": 72
+        },
+        "Mist Grass": {
+            "NID": 73
+        },
+        "Mist Grass Wick": {
+            "NID": 74
+        },
+        "Hunter's Sacrificial Knife": {
+            "NID": 75
+        },
+        "Agent's Sacrificial Knife": {
+            "NID": 76
+        },
+        "Inspector's Sacrificial Knife": {
+            "NID": 77
+        },
+        "Recruit's Insignia": {
+            "NID": 78
+        },
+        "Sergeant's Insignia": {
+            "NID": 79
+        },
+        "Lieutenant's Insignia": {
+            "NID": 80
+        },
+        "Treasure Hoarder Insignia": {
+            "NID": 81
+        },
+        "Silver Raven Insignia": {
+            "NID": 82
+        },
+        "Golden Raven Insignia": {
+            "NID": 83
+        },
+        "Whopperflower Nectar": {
+            "NID": 84
+        },
+        "Shimmering Nectar": {
+            "NID": 85
+        },
+        "Energy Nectar": {
+            "NID": 86
+        },
+        "Hurricane Seed": {
+            "NID": 87
+        },
+        "Lightning Prism": {
+            "NID": 88
+        },
+        "Dvalin's Plume": {
+            "NID": 89
+        },
+        "Dvalin's Claw": {
+            "NID": 90
+        },
+        "Dvalin's Sigh": {
+            "NID": 91
+        },
+        "Tail of Boreas": {
+            "NID": 92
+        },
+        "Ring of Boreas": {
+            "NID": 93
+        },
+        "Spirit Locket of Boreas": {
+            "NID": 94
+        },
+        "Basalt Pillar": {
+            "NID": 95
+        },
+        "Hoarfrost Core": {
+            "NID": 96
+        },
+        "Everflame Seed": {
+            "NID": 97
+        },
+        "Cleansing Heart": {
+            "NID": 98
+        },
+        "Tusk of Monoceros Caeli": {
+            "NID": 99
+        },
+        "Shard of a Foul Legacy": {
+            "NID": 100
+        },
+        "Shadow of the Warrior": {
+            "NID": 101
+        },
+        "Juvenile Jade": {
+            "NID": 102
+        },
+        "Dragon Lord's Crown": {
+            "NID": 103
+        },
+        "Bloodjade Branch": {
+            "NID": 104
+        },
+        "Gilded Scale": {
+            "NID": 105
+        },
+        "Crystalline Bloom": {
+            "NID": 106
+        },
+        "Marionette Core": {
+            "NID": 107
+        },
+        "Tile of Decarabian's Tower": {
+            "NID": 108
+        },
+        "Debris of Decarabian's City": {
+            "NID": 109
+        },
+        "Fragment of Decarabian's Epic": {
+            "NID": 110
+        },
+        "Scattered Piece of Decarabian's Dream": {
+            "NID": 111
+        },
+        "Boreal Wolf's Milk Tooth": {
+            "NID": 112
+        },
+        "Boreal Wolf's Cracked Tooth": {
+            "NID": 113
+        },
+        "Boreal Wolf's Broken Fang": {
+            "NID": 114
+        },
+        "Boreal Wolf's Nostalgia": {
+            "NID": 115
+        },
+        "Fetters of the Dandelion Gladiator": {
+            "NID": 116
+        },
+        "Chains of the Dandelion Gladiator": {
+            "NID": 117
+        },
+        "Shackles of the Dandelion Gladiator": {
+            "NID": 118
+        },
+        "Dream of the Dandelion Gladiator": {
+            "NID": 119
+        },
+        "Luminous Sands from Guyun": {
+            "NID": 120
+        },
+        "Lustrous Stone from Guyun": {
+            "NID": 121
+        },
+        "Relic from Guyun": {
+            "NID": 122
+        },
+        "Divine Body from Guyun": {
+            "NID": 123
+        },
+        "Mist Veiled Lead Elixir": {
+            "NID": 124
+        },
+        "Mist Veiled Mercury Elixir": {
+            "NID": 125
+        },
+        "Mist Veiled Gold Elixir": {
+            "NID": 126
+        },
+        "Mist Veiled Primo Elixir": {
+            "NID": 127
+        },
+        "Grain of Aerosiderite": {
+            "NID": 128
+        },
+        "Piece of Aerosiderite": {
+            "NID": 129
+        },
+        "Bit of Aerosiderite": {
+            "NID": 130
+        },
+        "Chunk of Aerosiderite": {
+            "NID": 131
+        },
+        "Festering Dragon Marrow": {
+            "NID": 132
+        },
+        "\"The Visible Winds\"": {
+            "NID": 133
+        },
+        "\"Fragments of Innocence\"": {
+            "NID": 134
+        },
+        "Mushroom": {
+            "NID": 135
+        },
+        "Sweet Flower": {
+            "NID": 136
+        },
+        "Carrot": {
+            "NID": 137
+        },
+        "Radish": {
+            "NID": 138
+        },
+        "Snapdragon": {
+            "NID": 139
+        },
+        "Mint": {
+            "NID": 140
+        },
+        "Wheat": {
+            "NID": 141
+        },
+        "Cabbage": {
+            "NID": 142
+        },
+        "Silver Lotus": {
+            "NID": 143
+        },
+        "Pinecone": {
+            "NID": 144
+        },
+        "Wolfhook": {
+            "NID": 145
+        },
+        "Valberry": {
+            "NID": 146
+        },
+        "Cecilia": {
+            "NID": 147
+        },
+        "Windwheel Aster": {
+            "NID": 148
+        },
+        "Philanemo Mushroom": {
+            "NID": 149
+        },
+        "Lotus Head": {
+            "NID": 150
+        },
+        "Jueyun Chili": {
+            "NID": 151
+        },
+        "Noctilucous Jade": {
+            "NID": 152
+        },
+        "Silk Flower": {
+            "NID": 153
+        },
+        "Glaze Lily": {
+            "NID": 154
+        },
+        "Qingxin": {
+            "NID": 155
+        },
+        "Horsetail": {
+            "NID": 156
+        },
+        "Starconch": {
+            "NID": 157
+        },
+        "Violetgrass": {
+            "NID": 158
+        },
+        "Berry": {
+            "NID": 159
+        },
+        "Mist Flower Corolla": {
+            "NID": 160
+        },
+        "Flaming Flower Stamen": {
+            "NID": 161
+        },
+        "Electro Crystal": {
+            "NID": 162
+        },
+        "Small Lamp Grass": {
+            "NID": 163
+        },
+        "Calla Lily": {
+            "NID": 164
+        },
+        "Dandelion Seed": {
+            "NID": 165
+        },
+        "Cor Lapis": {
+            "NID": 166
+        },
+        "Raw Meat": {
+            "NID": 167
+        },
+        "Bird Egg": {
+            "NID": 168
+        },
+        "Matsutake": {
+            "NID": 169
+        },
+        "Fowl": {
+            "NID": 170
+        },
+        "Butterfly Wings": {
+            "NID": 171
+        },
+        "Crab": {
+            "NID": 172
+        },
+        "Crab Roe": {
+            "NID": 173
+        },
+        "Salt": {
+            "NID": 174
+        },
+        "Onion": {
+            "NID": 175
+        },
+        "Pepper": {
+            "NID": 176
+        },
+        "Milk": {
+            "NID": 177
+        },
+        "Tomato": {
+            "NID": 178
+        },
+        "Potato": {
+            "NID": 179
+        },
+        "Frog": {
+            "NID": 180
+        },
+        "Luminescent Spine": {
+            "NID": 181
+        },
+        "Lizard Tail": {
+            "NID": 182
+        },
+        "Fish": {
+            "NID": 183
+        },
+        "Crystal Core": {
+            "NID": 184
+        },
+        "Tofu": {
+            "NID": 185
+        },
+        "Almond": {
+            "NID": 186
+        },
+        "Loach Pearl": {
+            "NID": 187
+        },
+        "Bamboo Shoot": {
+            "NID": 188
+        },
+        "Rice": {
+            "NID": 189
+        },
+        "Shrimp Meat": {
+            "NID": 190
+        },
+        "Chilled Meat": {
+            "NID": 191
+        },
+        "Iron Chunk": {
+            "NID": 192
+        },
+        "White Iron Chunk": {
+            "NID": 193
+        },
+        "Crystal Chunk": {
+            "NID": 194
+        },
+        "Magical Crystal Chunk": {
+            "NID": 195
+        },
+        "Starsilver": {
+            "NID": 196
+        },
+        "Northlander Sword Billet": {
+            "NID": 197
+        },
+        "Northlander Bow Billet": {
+            "NID": 198
+        },
+        "Northlander Claymore Billet": {
+            "NID": 199
+        },
+        "Northlander Catalyst Billet": {
+            "NID": 200
+        },
+        "Northlander Polearm Billet": {
+            "NID": 201
+        },
+        "Sea Ganoderma": {
+            "NID": 202
+        },
+        "Fabric": {
+            "NID": 203
+        },
+        "Red Dye": {
+            "NID": 204
+        },
+        "Yellow Dye": {
+            "NID": 205
+        },
+        "Blue Dye": {
+            "NID": 206
+        },
+        "Strange Tooth": {
+            "NID": 207
+        },
+        "Vitalized Dragontooth": {
+            "NID": 208
+        },
+        "Wanderer's Advice": {
+            "NID": 209
+        },
+        "Adventurer's Experience": {
+            "NID": 210
+        },
+        "Hero's Wit": {
+            "NID": 211
+        },
+        "Enhancement Ore": {
+            "NID": 212
+        },
+        "Fine Enhancement Ore": {
+            "NID": 213
+        },
+        "Mystic Enhancement Ore": {
+            "NID": 214
+        },
+        "Flour": {
+            "NID": 215
+        },
+        "Cream": {
+            "NID": 216
+        },
+        "Smoked Fowl": {
+            "NID": 217
+        },
+        "Butter": {
+            "NID": 218
+        },
+        "Ham": {
+            "NID": 219
+        },
+        "Sugar": {
+            "NID": 220
+        },
+        "Jam": {
+            "NID": 221
+        },
+        "Cheese": {
+            "NID": 222
+        },
+        "Bacon": {
+            "NID": 223
+        },
+        "Sausage": {
+            "NID": 224
+        },
+        "Lantern Fiber": {
+            "NID": 225
+        },
+        "Wick Material": {
+            "NID": 226
+        },
+        "Plaustrite Shard": {
+            "NID": 227
+        },
+        "Birch Wood": {
+            "NID": 228
+        },
+        "Cuihua Wood": {
+            "NID": 229
+        },
+        "Pine Wood": {
+            "NID": 230
+        },
+        "Sandbearer Wood": {
+            "NID": 231
+        },
+        "Bamboo Segment": {
+            "NID": 232
+        },
+        "Fragrant Cedar Wood": {
+            "NID": 233
+        },
+        "Fir Wood": {
+            "NID": 234
+        }
+    }
+}

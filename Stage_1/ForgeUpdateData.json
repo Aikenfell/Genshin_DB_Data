@@ -1,0 +1,18 @@
+{
+    "1": {
+        "PlayerLevel": 1,
+        "ForgeQueueNum": 1
+    },
+    "2": {
+        "PlayerLevel": 5,
+        "ForgeQueueNum": 2
+    },
+    "3": {
+        "PlayerLevel": 10,
+        "ForgeQueueNum": 3
+    },
+    "4": {
+        "PlayerLevel": 15,
+        "ForgeQueueNum": 4
+    }
+}

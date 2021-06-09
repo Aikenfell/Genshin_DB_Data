@@ -1,0 +1,2262 @@
+{
+    "AbilityPropExcelConfigData.json": {
+        "OutPath": "AbilityPropData.json",
+        "UID": "PropName",
+        "Notes": "Currently_Unknown_Return"
+    },
+    "AbilityStateResistanceByIDExcelConfigData.json": {
+        "OutPath": "AbilityStateResistanceByIDData.json",
+        "UID": "Id",
+        "Notes": "Entities Have A Status Resistance ID And This File Has The Corresponding Resistances"
+    },
+    "AchievementExcelConfigData.json": {
+        "OutPath": "AchievementData.json",
+        "UID": "Id",
+        "Notes": "Achievement Data? Check Back"
+    },
+    "AchievementGoalExcelConfigData.json": {
+        "OutPath": "AchievementGoalData.json",
+        "UID": "Id",
+        "Notes": "Achievement Data? Check Back"
+    },
+    "ActivityAbilityGroupExcelConfigData.json": {
+        "OutPath": "ActivityAbilityGroupData.json",
+        "UID": "Index",
+        "Notes": "Buffs? Check Back"
+    },
+    "ActivityArenaChallengeExcelConfigData.json": {
+        "OutPath": "ActivityArenaChallengeData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ActivityArenaChallengeLevelInfoExcelConfigData.json": {
+        "OutPath": "ActivityArenaChallengeLevelInfoData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ActivityArenaChallengePreviewExcelConfigData.json": {
+        "OutPath": "ActivityArenaChallengePreviewData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "ActivityDeliveryDailyExcelConfigData.json": {
+        "OutPath": "ActivityDeliveryDailyData.json",
+        "UID": "DailyConfigId",
+        "Notes": ""
+    },
+    "ActivityDeliveryExcelConfigData.json": {
+        "OutPath": "ActivityDeliveryData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "ActivityDeliveryWatcherDataConfigData.json": {
+        "OutPath": "ActivityDeliveryWatcherDataConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityExcelConfigData.json": {
+        "OutPath": "ActivityData.json",
+        "UID": "ActivityId",
+        "Notes": ""
+    },
+    "ActivityHideAndSeekBasicConfigData.json": {
+        "OutPath": "ActivityHideAndSeekBasicConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityMistTrialAvatarDataExcelConfigData.json": {
+        "OutPath": "ActivityMistTrialAvatarDataData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityMistTrialLevelDataExcelConfigData.json": {
+        "OutPath": "ActivityMistTrialLevelDataData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityMistTrialStatisticsListExcelConfigData.json": {
+        "OutPath": "ActivityMistTrialStatisticsListData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityMistTrialWatcherListDataExcelConfigData.json": {
+        "OutPath": "ActivityMistTrialWatcherListDataData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySalesmanDailyExcelConfigData.json": {
+        "OutPath": "ActivitySalesmanDailyData.json",
+        "UID": "DailyConfigId",
+        "Notes": ""
+    },
+    "ActivitySalesmanExcelConfigData.json": {
+        "OutPath": "ActivitySalesmanData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "ActivitySalesmanRewardMatchConfigData.json": {
+        "OutPath": "ActivitySalesmanRewardMatchConfigData.json",
+        "UID": "RewardID",
+        "Notes": ""
+    },
+    "ActivityShopOverallExcelConfigData.json": {
+        "OutPath": "ActivityShopOverallData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "ActivityShopSheetExcelConfigData.json": {
+        "OutPath": "ActivityShopSheetData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySkillExcelConfigData.json": {
+        "OutPath": "ActivitySkillData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySummerTimeExcelConfigData.json": {
+        "OutPath": "ActivitySummerTimeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySummerTimeFloatSignalExcelConfigData.json": {
+        "OutPath": "ActivitySummerTimeFloatSignalData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySummerTimeRaceExcelConfigData.json": {
+        "OutPath": "ActivitySummerTimeRaceData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySummerTimeRacePreviewExcelConfigData.json": {
+        "OutPath": "ActivitySummerTimeRacePreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivitySummerTimeStageExcelConfigData.json": {
+        "OutPath": "ActivitySummerTimeStageData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityUpAvatarExcelConfigData.json": {
+        "OutPath": "ActivityUpAvatarData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ActivityWatcherConfigData.json": {
+        "OutPath": "ActivityWatcherConfigData.json",
+        "UID": "RewardId",
+        "Notes": ""
+    },
+    "AnimalCodexExcelConfigData.json": {
+        "OutPath": "AnimalCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AnimalDescribeExcelConfigData.json": {
+        "OutPath": "AnimalDescribeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AsterActivityPerviewExcelConfigData.json": {
+        "OutPath": "AsterActivityPerviewData.json",
+        "UID": "ActivityId",
+        "Notes": ""
+    },
+    "AsterAvatarUpExcelConfigData.json": {
+        "OutPath": "AsterAvatarUpData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AsterLittleExcelConfigData.json": {
+        "OutPath": "AsterLittleData.json",
+        "UID": "StageId",
+        "Notes": ""
+    },
+    "AsterMidDifficultyExcelConfigData.json": {
+        "OutPath": "AsterMidDifficultyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AsterMidExcelConfigData.json": {
+        "OutPath": "AsterMidData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AsterMidGroupsExcelConfigData.json": {
+        "OutPath": "AsterMidGroupsData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AsterMissionExcelConfigData.json": {
+        "OutPath": "AsterMissionData.json",
+        "UID": "MissionId",
+        "Notes": ""
+    },
+    "AsterStageExcelConfigData.json": {
+        "OutPath": "AsterStageData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AsterTeamBuffExcelConfigData.json": {
+        "OutPath": "AsterTeamBuffData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AvatarCodexExcelConfigData.json": {
+        "OutPath": "AvatarCodexData.json",
+        "UID": "SortId",
+        "Notes": ""
+    },
+    "AvatarCostumeExcelConfigData.json": {
+        "OutPath": "AvatarCostumeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AvatarCurveExcelConfigData.json": {
+        "OutPath": "AvatarCurveData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "AvatarExcelConfigData.json": {
+        "OutPath": "AvatarData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AvatarFettersLevelExcelConfigData.json": {
+        "OutPath": "AvatarFettersLevelData.json",
+        "UID": "FetterLevel",
+        "Notes": ""
+    },
+    "AvatarFlycloakExcelConfigData.json": {
+        "OutPath": "AvatarFlycloakData.json",
+        "UID": "FlycloakId",
+        "Notes": ""
+    },
+    "AvatarHeroEntityExcelConfigData.json": {
+        "OutPath": "AvatarHeroEntityData.json",
+        "UID": "AvatarId",
+        "Notes": "Traveler IDs"
+    },
+    "AvatarLevelExcelConfigData.json": {
+        "OutPath": "AvatarLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "AvatarPromoteExcelConfigData.json": {
+        "OutPath": "AvatarPromoteData.json",
+        "UID": "AvatarPromoteId",
+        "Notes": ""
+    },
+    "AvatarSkillDepotExcelConfigData.json": {
+        "OutPath": "AvatarSkillDepotData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AvatarSkillExcelConfigData.json": {
+        "OutPath": "AvatarSkillData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "AvatarTalentExcelConfigData.json": {
+        "OutPath": "AvatarTalentData.json",
+        "UID": "TalentId",
+        "Notes": ""
+    },
+    "BargainExcelConfigData.json": {
+        "OutPath": "BargainData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BattlePassLevelExcelConfigData.json": {
+        "OutPath": "BattlePassLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "BattlePassMissionExcelConfigData.json": {
+        "OutPath": "BattlePassMissionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BattlePassRewardExcelConfigData.json": {
+        "OutPath": "BattlePassRewardData.json",
+        "UID": "IndexId",
+        "Notes": ""
+    },
+    "BattlePassScheduleExcelConfigData.json": {
+        "OutPath": "BattlePassScheduleData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BattlePassStoryExcelConfigData.json": {
+        "OutPath": "BattlePassStoryData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BirthdayMailExcelConfigData.json": {
+        "OutPath": "BirthdayMailData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlessingScanExcelConfigData.json": {
+        "OutPath": "BlessingScanData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlessingScanPicExcelConfigData.json": {
+        "OutPath": "BlessingScanPicData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlessingScanTypeExcelConfigData.json": {
+        "OutPath": "BlessingScanTypeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlossomChestExcelConfigData.json": {
+        "OutPath": "BlossomChestData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlossomGroupsExcelConfigData.json": {
+        "OutPath": "BlossomGroupsData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlossomOpenExcelConfigData.json": {
+        "OutPath": "BlossomOpenData.json",
+        "UID": "CityId",
+        "Notes": ""
+    },
+    "BlossomRefreshExcelConfigData.json": {
+        "OutPath": "BlossomRefreshData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlossomReviseExcelConfigData.json": {
+        "OutPath": "BlossomReviseData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlossomSectionOrderExcelConfigData.json": {
+        "OutPath": "BlossomSectionOrderData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BlossomTalkExcelConfigData.json": {
+        "OutPath": "BlossomTalkData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BonusActivityClientExcelConfigData.json": {
+        "OutPath": "BonusActivityClientData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BonusActivityExcelConfigData.json": {
+        "OutPath": "BonusActivityData.json",
+        "UID": "BonusActivityId",
+        "Notes": ""
+    },
+    "BooksCodexExcelConfigData.json": {
+        "OutPath": "BooksCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BookSuitExcelConfigData.json": {
+        "OutPath": "BookSuitData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BoredActionPriorityExcelConfigData.json": {
+        "OutPath": "BoredActionPriorityData.json",
+        "UID": "ActionType",
+        "Notes": ""
+    },
+    "BoredCreateMonsterExcelConfigData.json": {
+        "OutPath": "BoredCreateMonsterData.json",
+        "UID": "PlayerLevel",
+        "Notes": ""
+    },
+    "BoredEventExcelConfigData.json": {
+        "OutPath": "BoredEventData.json",
+        "UID": "EventType",
+        "Notes": ""
+    },
+    "BoredMonsterPoolConfigData.json": {
+        "OutPath": "BoredMonsterPoolConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BounceConjuringChapterExcelConfigData.json": {
+        "OutPath": "BounceConjuringChapterData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BounceConjuringItemExcelConfigData.json": {
+        "OutPath": "BounceConjuringItemData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BounceConjuringPreviewExcelConfigData.json": {
+        "OutPath": "BounceConjuringPreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BuffExcelConfigData.json": {
+        "OutPath": "BuffData.json",
+        "UID": "ServerBuffId",
+        "Notes": ""
+    },
+    "BuffIconExcelConfigData.json": {
+        "OutPath": "BuffIconData.json",
+        "UID": "BuffID",
+        "Notes": ""
+    },
+    "BuoyantCombatExcelConfigData.json": {
+        "OutPath": "BuoyantCombatData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "BuoyantCombatLevelExcelConfigData.json": {
+        "OutPath": "BuoyantCombatLevelData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CampExcelConfigData.json": {
+        "OutPath": "CampData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabBuffCostExcelConfigData.json": {
+        "OutPath": "ChannellerSlabBuffCostData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabBuffEnergyExcelConfigData.json": {
+        "OutPath": "ChannellerSlabBuffEnergyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabBuffExcelConfigData.json": {
+        "OutPath": "ChannellerSlabBuffData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabChapterExcelConfigData.json": {
+        "OutPath": "ChannellerSlabChapterData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabDungeonExcelConfigData.json": {
+        "OutPath": "ChannellerSlabDungeonData.json",
+        "UID": "StageID",
+        "Notes": ""
+    },
+    "ChannellerSlabLevelExcelConfigData.json": {
+        "OutPath": "ChannellerSlabLevelData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabLoopDungeonConditionExcelConfigData.json": {
+        "OutPath": "ChannellerSlabLoopDungeonConditionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabLoopDungeonDifficultyExcelConfigData.json": {
+        "OutPath": "ChannellerSlabLoopDungeonDifficultyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabLoopDungeonExcelConfigData.json": {
+        "OutPath": "ChannellerSlabLoopDungeonData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabLoopDungeonPreviewExcelConfigData.json": {
+        "OutPath": "ChannellerSlabLoopDungeonPreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabLoopDungeonRewardExcelConfigData.json": {
+        "OutPath": "ChannellerSlabLoopDungeonRewardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChannellerSlabPreviewExcelConfigData.json": {
+        "OutPath": "ChannellerSlabPreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChapterExcelConfigData.json": {
+        "OutPath": "ChapterData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChargeBarStyleExcelConfigData.json": {
+        "OutPath": "ChargeBarStyleData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChatExcelConfigData.json": {
+        "OutPath": "ChatData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ChestLevelSetConfigData.json": {
+        "OutPath": "ChestLevelSetConfigData.json",
+        "UID": "ZoneMinLevel",
+        "Notes": ""
+    },
+    "CityConfigData.json": {
+        "OutPath": "CityConfigData.json",
+        "UID": "CityId",
+        "Notes": ""
+    },
+    "CityLevelupConfigData.json": {
+        "OutPath": "CityLevelupConfigData.json",
+        "UID": "Unique",
+        "Notes": ""
+    },
+    "CityTaskOpenExcelConfigData.json": {
+        "OutPath": "CityTaskOpenData.json",
+        "UID": "CityId",
+        "Notes": ""
+    },
+    "CombineExcelConfigData.json": {
+        "OutPath": "CombineData.json",
+        "UID": "CombineId",
+        "Notes": ""
+    },
+    "CompoundExcelConfigData.json": {
+        "OutPath": "CompoundData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ConstValueExcelConfigData.json": {
+        "OutPath": "ConstValueData.json",
+        "UID": "Name",
+        "Notes": ""
+    },
+    "CookBonusExcelConfigData.json": {
+        "OutPath": "CookBonusData.json",
+        "UID": "RecipeId",
+        "Notes": ""
+    },
+    "CookRecipeExcelConfigData.json": {
+        "OutPath": "CookRecipeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CoopActivityExcelConfigData.json": {
+        "OutPath": "CoopActivityData.json",
+        "UID": "ActivityId",
+        "Notes": ""
+    },
+    "CoopCGExcelConfigData.json": {
+        "OutPath": "CoopCGData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CoopChapterExcelConfigData.json": {
+        "OutPath": "CoopChapterData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CoopExcelConfigData.json": {
+        "OutPath": "CoopData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CoopInteractionExcelConfigData.json": {
+        "OutPath": "CoopInteractionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CoopPointExcelConfigData.json": {
+        "OutPath": "CoopPointData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CoopRewardExcelConfigData.json": {
+        "OutPath": "CoopRewardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "CutsceneExcelConfigData.json": {
+        "OutPath": "CutsceneData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DailyDungeonConfigData.json": {
+        "OutPath": "DailyDungeonConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DailyTaskExcelConfigData.json": {
+        "OutPath": "DailyTaskData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "DailyTaskLevelExcelConfigData.json": {
+        "OutPath": "DailyTaskLevelData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "DailyTaskRewardExcelConfigData.json": {
+        "OutPath": "DailyTaskRewardData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "DialogExcelConfigData.json": {
+        "OutPath": "DialogData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DialogSelectTimeOutExcelConfigData.json": {
+        "OutPath": "DialogSelectTimeOutData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DieTypeTipsExcelConfigData.json": {
+        "OutPath": "DieTypeTipsData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DisplayItemExcelConfigData.json": {
+        "OutPath": "DisplayItemData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DocumentExcelConfigData.json": {
+        "OutPath": "DocumentData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DraftExcelConfigData.json": {
+        "OutPath": "DraftData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DraftTextDataExcelConfigData.json": {
+        "OutPath": "DraftTextDataData.json",
+        "UID": "DraftId",
+        "Notes": ""
+    },
+    "DragonSpineEnhanceExcelConfigData.json": {
+        "OutPath": "DragonSpineEnhanceData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DragonSpineMissionExcelConfigData.json": {
+        "OutPath": "DragonSpineMissionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DragonSpinePreviewExcelConfigData.json": {
+        "OutPath": "DragonSpinePreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DragonSpineStageExcelConfigData.json": {
+        "OutPath": "DragonSpineStageData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonChallengeConfigData.json": {
+        "OutPath": "DungeonChallengeConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonElementChallengeExcelConfigData.json": {
+        "OutPath": "DungeonElementChallengeData.json",
+        "UID": "DungeonId",
+        "Notes": ""
+    },
+    "DungeonEntryExcelConfigData.json": {
+        "OutPath": "DungeonEntryData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonExcelConfigData.json": {
+        "OutPath": "DungeonData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonLevelEntityConfigData.json": {
+        "OutPath": "DungeonLevelEntityConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonMapAreaExcelConfigData.json": {
+        "OutPath": "DungeonMapAreaData.json",
+        "UID": "DungeonID",
+        "Notes": ""
+    },
+    "DungeonPassExcelConfigData.json": {
+        "OutPath": "DungeonPassData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonRosterConfigData.json": {
+        "OutPath": "DungeonRosterConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DungeonSerialConfigData.json": {
+        "OutPath": "DungeonSerialConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "DynamicInteractionExcelConfigData.json": {
+        "OutPath": "DynamicInteractionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EchoShellExcelConfigData.json": {
+        "OutPath": "EchoShellData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EchoShellFloatSignalExcelConfigData.json": {
+        "OutPath": "EchoShellFloatSignalData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EchoShellRewardExcelConfigData.json": {
+        "OutPath": "EchoShellRewardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EchoShellStoryExcelConfigData.json": {
+        "OutPath": "EchoShellStoryData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EffigyChallengeExcelConfigData.json": {
+        "OutPath": "EffigyChallengeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EffigyDifficultyExcelConfigData.json": {
+        "OutPath": "EffigyDifficultyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EffigyLimitingConditionExcelConfigData.json": {
+        "OutPath": "EffigyLimitingConditionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EffigyRewardExcelConfigData.json": {
+        "OutPath": "EffigyRewardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ElementCoeffExcelConfigData.json": {
+        "OutPath": "ElementCoeffData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "ElementStateExcelConfigData.json": {
+        "OutPath": "ElementStateData.json",
+        "UID": "Rank",
+        "Notes": ""
+    },
+    "EmbeddedTextMapConfigData.json": {
+        "OutPath": "EmbeddedTextMapConfigData.json",
+        "UID": "TextMapId",
+        "Notes": ""
+    },
+    "EmotionTemplateExcelConfigData.json": {
+        "OutPath": "EmotionTemplateData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "EndureTemplateExcelConfigData.json": {
+        "OutPath": "EndureTemplateData.json",
+        "UID": "Type",
+        "Notes": ""
+    },
+    "EntityMultiPlayerExcelConfigData.json": {
+        "OutPath": "EntityMultiPlayerData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "EnvAnimalGatherExcelConfigData.json": {
+        "OutPath": "EnvAnimalGatherData.json",
+        "UID": "AnimalId",
+        "Notes": ""
+    },
+    "EnvAnimalWeightExcelConfigData.json": {
+        "OutPath": "EnvAnimalWeightData.json",
+        "UID": "EnvType",
+        "Notes": ""
+    },
+    "EquipAffixExcelConfigData.json": {
+        "OutPath": "EquipAffixData.json",
+        "UID": "AffixId",
+        "Notes": ""
+    },
+    "ExhibitionCardExcelConfigData.json": {
+        "OutPath": "ExhibitionCardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExhibitionScoreExcelConfigData.json": {
+        "OutPath": "ExhibitionScoreData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExpeditionActivityMarkerExcelConfigData.json": {
+        "OutPath": "ExpeditionActivityMarkerData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExpeditionBonusExcelConfigData.json": {
+        "OutPath": "ExpeditionBonusData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExpeditionChallengeExcelConfigData.json": {
+        "OutPath": "ExpeditionChallengeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExpeditionDataExcelConfigData.json": {
+        "OutPath": "ExpeditionDataData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ExpeditionDifficultyExcelConfigData.json": {
+        "OutPath": "ExpeditionDifficultyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExpeditionPathExcelConfigData.json": {
+        "OutPath": "ExpeditionPathData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ExploreAreaTotalExpExcelConfigData.json": {
+        "OutPath": "ExploreAreaTotalExpData.json",
+        "UID": "AreaID",
+        "Notes": ""
+    },
+    "ExploreExcelConfigData.json": {
+        "OutPath": "ExploreData.json",
+        "UID": "MaterialID",
+        "Notes": ""
+    },
+    "FeatureTagExcelConfigData.json": {
+        "OutPath": "FeatureTagData.json",
+        "UID": "TagID",
+        "Notes": ""
+    },
+    "FeatureTagGroupExcelConfigData.json": {
+        "OutPath": "FeatureTagGroupData.json",
+        "UID": "GroupID",
+        "Notes": ""
+    },
+    "FetterCharacterCardExcelConfigData.json": {
+        "OutPath": "FetterCharacterCardData.json",
+        "UID": "AvatarId",
+        "Notes": ""
+    },
+    "FetterInfoExcelConfigData.json": {
+        "OutPath": "FetterInfoData.json",
+        "UID": "FetterId",
+        "Notes": ""
+    },
+    "FettersExcelConfigData.json": {
+        "OutPath": "FettersData.json",
+        "UID": "FetterId",
+        "Notes": ""
+    },
+    "FetterStoryExcelConfigData.json": {
+        "OutPath": "FetterStoryData.json",
+        "UID": "FetterId",
+        "Notes": ""
+    },
+    "FindHilichurlAssignmentExcelConfigData.json": {
+        "OutPath": "FindHilichurlAssignmentData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FindHilichurlExcelConfigData.json": {
+        "OutPath": "FindHilichurlData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FindHilichurlHiliWeiExcelConfigData.json": {
+        "OutPath": "FindHilichurlHiliWeiData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairBuffEnergyStatExcelConfigData.json": {
+        "OutPath": "FleurFairBuffEnergyStatData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairChapterExcelConfigData.json": {
+        "OutPath": "FleurFairChapterData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairDungeonExcelConfigData.json": {
+        "OutPath": "FleurFairDungeonData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairDungeonStatExcelConfigData.json": {
+        "OutPath": "FleurFairDungeonStatData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairMiniGameExcelConfigData.json": {
+        "OutPath": "FleurFairMiniGameData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairPreviewExcelConfigData.json": {
+        "OutPath": "FleurFairPreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FleurFairTipsExcelConfigData.json": {
+        "OutPath": "FleurFairTipsData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FlightActivityDayExcelConfigData.json": {
+        "OutPath": "FlightActivityDayData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FlightActivityExcelConfigData.json": {
+        "OutPath": "FlightActivityData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "FlightActivityMedalExcelConfigData.json": {
+        "OutPath": "FlightActivityMedalData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ForgeExcelConfigData.json": {
+        "OutPath": "ForgeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ForgeRandomExcelConfigData.json": {
+        "OutPath": "ForgeRandomData.json",
+        "UID": "ForgeRandomId",
+        "Notes": ""
+    },
+    "ForgeUpdateExcelConfigData.json": {
+        "OutPath": "ForgeUpdateData.json",
+        "UID": "ForgeQueueNum",
+        "Notes": ""
+    },
+    "FurnitureMakeExcelConfigData.json": {
+        "OutPath": "FurnitureMakeData.json",
+        "UID": "ConfigID",
+        "Notes": ""
+    },
+    "FurnitureSuiteExcelConfigData.json": {
+        "OutPath": "FurnitureSuiteData.json",
+        "UID": "SuiteID",
+        "Notes": ""
+    },
+    "GadgetChainExcelConfigData.json": {
+        "OutPath": "GadgetChainData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GadgetCurveExcelConfigData.json": {
+        "OutPath": "GadgetCurveData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "GadgetExcelConfigData.json": {
+        "OutPath": "GadgetData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GadgetGuestExcelConfigData.json": {
+        "OutPath": "GadgetGuestData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GadgetInteractExcelConfigData.json": {
+        "OutPath": "GadgetInteractData.json",
+        "UID": "InteractId",
+        "Notes": ""
+    },
+    "GadgetPropExcelConfigData.json": {
+        "OutPath": "GadgetPropData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GadgetTitleExcelConfigData.json": {
+        "OutPath": "GadgetTitleData.json",
+        "UID": "GadgetId",
+        "Notes": ""
+    },
+    "GalleryExcelConfigData.json": {
+        "OutPath": "GalleryData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GatherBundleExcelConfigData.json": {
+        "OutPath": "GatherBundleData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GatherExcelConfigData.json": {
+        "OutPath": "GatherData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GeneralRewardExcelConfigData.json": {
+        "OutPath": "GeneralRewardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GivingExcelConfigData.json": {
+        "OutPath": "GivingData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GivingGroupExcelConfigData.json": {
+        "OutPath": "GivingGroupData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GlobalWatcherConfigData.json": {
+        "OutPath": "GlobalWatcherConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "GuideRatingExcelConfigData.json": {
+        "OutPath": "GuideRatingData.json",
+        "UID": "Skiiiiip",
+        "Notes": ""
+    },
+    "GuideTriggerExcelConfigData.json": {
+        "OutPath": "GuideTriggerData.json",
+        "UID": "GuideName",
+        "Notes": ""
+    },
+    "H5ActivityExcelConfigData.json": {
+        "OutPath": "H5ActivityData.json",
+        "UID": "H5ActivityId",
+        "Notes": ""
+    },
+    "H5ActivityWatcherExcelConfigData.json": {
+        "OutPath": "H5ActivityWatcherData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "HideAndSeekMatchExcelConfigData.json": {
+        "OutPath": "HideAndSeekMatchData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "HideAndSeekSkillExcelConfigData.json": {
+        "OutPath": "HideAndSeekSkillData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "HitLevelTemplateExcelConfigData.json": {
+        "OutPath": "HitLevelTemplateData.json",
+        "UID": "Type",
+        "Notes": ""
+    },
+    "HomeworldAnimalExcelConfigData.json": {
+        "OutPath": "HomeworldAnimalData.json",
+        "UID": "FurnitureID",
+        "Notes": "Teapot animal data controls (Respawn and connections)"
+    },
+    "HomeWorldAreaComfortExcelConfigData.json": {
+        "OutPath": "HomeWorldAreaComfortData.json",
+        "UID": "ConfigID",
+        "Notes": ""
+    },
+    "HomeWorldCameraExcelConfigData.json": {
+        "OutPath": "HomeWorldCameraData.json",
+        "UID": "Skip",
+        "Notes": ""
+    },
+    "HomeWorldComfortLevelExcelConfigData.json": {
+        "OutPath": "HomeWorldComfortLevelData.json",
+        "UID": "LevelID",
+        "Notes": "Teapot Comfort hourly resource gen"
+    },
+    "HomeWorldEventExcelConfigData.json": {
+        "OutPath": "HomeWorldEventData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "HomeworldFurnitureDeployRulesetData.json": {
+        "OutPath": "HomeworldFurnitureDeployRulesetData.json",
+        "UID": "Skip",
+        "Notes": ""
+    },
+    "HomeWorldFurnitureExcelConfigData.json": {
+        "OutPath": "HomeWorldFurnitureData.json",
+        "UID": "FurnitureID",
+        "Notes": ""
+    },
+    "HomeWorldFurnitureTypeExcelConfigData.json": {
+        "OutPath": "HomeWorldFurnitureTypeData.json",
+        "UID": "TypeID",
+        "Notes": ""
+    },
+    "HomeWorldInteractiveNPCExcelConfigData.json": {
+        "OutPath": "HomeWorldInteractiveNPCData.json",
+        "UID": "Skip",
+        "Notes": ""
+    },
+    "HomeWorldLeastShopExcelConfigData.json": {
+        "OutPath": "HomeWorldLeastShopData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "HomeworldLevelExcelConfigData.json": {
+        "OutPath": "HomeworldLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "HomeWorldLimitShopExcelConfigData.json": {
+        "OutPath": "HomeWorldLimitShopData.json",
+        "UID": "GoodsId",
+        "Notes": ""
+    },
+    "HomeworldModuleExcelConfigData.json": {
+        "OutPath": "HomeworldModuleData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "HomeworldNPCExcelDataData.json": {
+        "OutPath": "HomeworldNPCExcelDataData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "HomeWorldShopSubTagExcelConfigData.json": {
+        "OutPath": "HomeWorldShopSubTagData.json",
+        "UID": "SubID",
+        "Notes": ""
+    },
+    "HomeWorldSpecialFurnitureExcelConfigData.json": {
+        "OutPath": "HomeWorldSpecialFurnitureData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "HuntingClueGatherExcelConfigData.json": {
+        "OutPath": "HuntingClueGatherData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "HuntingClueMonsterExcelConfigData.json": {
+        "OutPath": "HuntingClueMonsterData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "HuntingClueTextExcelConfigData.json": {
+        "OutPath": "HuntingClueTextData.json",
+        "UID": "ClueTextId",
+        "Notes": ""
+    },
+    "HuntingGroupInfoExcelConfigData.json": {
+        "OutPath": "HuntingGroupInfoData.json",
+        "UID": "GroupId",
+        "Notes": ""
+    },
+    "HuntingMonsterExcelConfigData.json": {
+        "OutPath": "HuntingMonsterData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "HuntingRefreshExcelConfigData.json": {
+        "OutPath": "HuntingRefreshData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "HuntingRegionExcelConfigData.json": {
+        "OutPath": "HuntingRegionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "IconAdsorbEffectExcelConfigData.json": {
+        "OutPath": "IconAdsorbEffectData.json",
+        "UID": "EffectId",
+        "Notes": ""
+    },
+    "InvestigationConfigData.json": {
+        "OutPath": "InvestigationConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "InvestigationDungeonConfigData.json": {
+        "OutPath": "InvestigationDungeonConfigData.json",
+        "UID": "EntranceId",
+        "Notes": ""
+    },
+    "InvestigationMonsterConfigData.json": {
+        "OutPath": "InvestigationMonsterConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "InvestigationTargetConfigData.json": {
+        "OutPath": "InvestigationTargetConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "LampContributionExcelConfigData.json": {
+        "OutPath": "LampContributionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "LampPhaseExcelConfigData.json": {
+        "OutPath": "LampPhaseData.json",
+        "UID": "PhaseId",
+        "Notes": ""
+    },
+    "LampProgressControlConfigData.json": {
+        "OutPath": "LampProgressControlConfigData.json",
+        "UID": "Hour",
+        "Notes": ""
+    },
+    "LampRegionDataConfigData.json": {
+        "OutPath": "LampRegionDataConfigData.json",
+        "UID": "Region",
+        "Notes": ""
+    },
+    "LandSoundExcelConfigData.json": {
+        "OutPath": "LandSoundData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "LevelSuppressExcelConfigData.json": {
+        "OutPath": "LevelSuppressData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "LimitRegionExcelConfigData.json": {
+        "OutPath": "LimitRegionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "LoadingSituationExcelConfigData.json": {
+        "OutPath": "LoadingSituationData.json",
+        "UID": "StageID",
+        "Notes": ""
+    },
+    "LoadingTipsExcelConfigData.json": {
+        "OutPath": "LoadingTipsData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "LocalizationExcelConfigData.json": {
+        "OutPath": "LocalizationData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "LockTemplateExcelConfigData.json": {
+        "OutPath": "LockTemplateData.json",
+        "UID": "Type",
+        "Notes": ""
+    },
+    "MailExcelConfigData.json": {
+        "OutPath": "MailData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MainCoopExcelConfigData.json": {
+        "OutPath": "MainCoopData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MainQuestExcelConfigData.json": {
+        "OutPath": "MainQuestData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ManualTextMapConfigData.json": {
+        "OutPath": "ManualTextMapConfigData.json",
+        "UID": "TextMapId",
+        "Notes": ""
+    },
+    "MapTagDataConfigData.json": {
+        "OutPath": "MapTagDataConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MatchExcelConfigData.json": {
+        "OutPath": "MatchData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MatchingTextDataExcelConfigData.json": {
+        "OutPath": "MatchingTextDataData.json",
+        "UID": "MatchId",
+        "Notes": ""
+    },
+    "MatchPunishExcelConfigData.json": {
+        "OutPath": "MatchPunishData.json",
+        "UID": "Times",
+        "Notes": ""
+    },
+    "MaterialCodexExcelConfigData.json": {
+        "OutPath": "MaterialCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MaterialExcelConfigData.json": {
+        "OutPath": "MaterialData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MaterialSourceDataExcelConfigData.json": {
+        "OutPath": "MaterialSourceDataData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MechanicBuildingExcelConfigData.json": {
+        "OutPath": "MechanicBuildingData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MechanicusCardCurseExcelConfigData.json": {
+        "OutPath": "MechanicusCardCurseData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "MechanicusCardEffectExcelConfigData.json": {
+        "OutPath": "MechanicusCardEffectData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "MechanicusCardExcelConfigData.json": {
+        "OutPath": "MechanicusCardData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "MechanicusDifficultyExcelConfigData.json": {
+        "OutPath": "MechanicusDifficultyData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "MechanicusExcelConfigData.json": {
+        "OutPath": "MechanicusData.json",
+        "UID": "MechanicusID",
+        "Notes": ""
+    },
+    "MechanicusGearLevelUpExcelConfigData.json": {
+        "OutPath": "MechanicusGearLevelUpData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "MechanicusMapExcelConfigData.json": {
+        "OutPath": "MechanicusMapData.json",
+        "UID": "MechanicusMapID",
+        "Notes": ""
+    },
+    "MechanicusMapPointExcelConfigData.json": {
+        "OutPath": "MechanicusMapPointData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "MechanicusSequenceExcelConfigData.json": {
+        "OutPath": "MechanicusSequenceData.json",
+        "UID": "SequenceID",
+        "Notes": ""
+    },
+    "MechanicusWatcherExcelConfigData.json": {
+        "OutPath": "MechanicusWatcherData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MiracleRingDropExcelConfigData.json": {
+        "OutPath": "MiracleRingDropData.json",
+        "UID": "MiracleTag",
+        "Notes": ""
+    },
+    "MiracleRingExcelConfigData.json": {
+        "OutPath": "MiracleRingData.json",
+        "UID": "ItemId",
+        "Notes": ""
+    },
+    "MonsterAffixExcelConfigData.json": {
+        "OutPath": "MonsterAffixData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MonsterCurveExcelConfigData.json": {
+        "OutPath": "MonsterCurveData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "MonsterDescribeExcelConfigData.json": {
+        "OutPath": "MonsterDescribeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MonsterExcelConfigData.json": {
+        "OutPath": "MonsterData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MonsterMultiPlayerExcelConfigData.json": {
+        "OutPath": "MonsterMultiPlayerData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MonsterRelationshipExcelConfigData.json": {
+        "OutPath": "MonsterRelationshipData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MonsterSpecialNameExcelConfigData.json": {
+        "OutPath": "MonsterSpecialNameData.json",
+        "UID": "SpecialNameID",
+        "Notes": ""
+    },
+    "MonsterTitleExcelConfigData.json": {
+        "OutPath": "MonsterTitleData.json",
+        "UID": "TitleID",
+        "Notes": ""
+    },
+    "MpPlayAbilityGroupExcelConfigData.json": {
+        "OutPath": "MpPlayAbilityGroupData.json",
+        "UID": "Index",
+        "Notes": ""
+    },
+    "MpPlayBuffExcelConfigData.json": {
+        "OutPath": "MpPlayBuffData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MpPlayGroupExcelConfigData.json": {
+        "OutPath": "MpPlayGroupData.json",
+        "UID": "EntryId",
+        "Notes": ""
+    },
+    "MpPlayLevelTextDataExcelConfigData.json": {
+        "OutPath": "MpPlayLevelTextDataData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MpPlayMatchExcelConfigData.json": {
+        "OutPath": "MpPlayMatchData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MpPlayScoreExcelConfigData.json": {
+        "OutPath": "MpPlayScoreData.json",
+        "UID": "PlayType",
+        "Notes": ""
+    },
+    "MpPlayStatisticConfigData.json": {
+        "OutPath": "MpPlayStatisticConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MpPlayTextDataExcelConfigData.json": {
+        "OutPath": "MpPlayTextDataData.json",
+        "UID": "MpPlayId",
+        "Notes": ""
+    },
+    "MpPlayWatcherConfigData.json": {
+        "OutPath": "MpPlayWatcherConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MusicGameBasicConfigData.json": {
+        "OutPath": "MusicGameBasicConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "MusicInfoConfigData.json": {
+        "OutPath": "MusicInfoConfigData.json",
+        "UID": "MusicID",
+        "Notes": ""
+    },
+    "NewActivityAvatarSelectionExcelConfigData.json": {
+        "OutPath": "NewActivityAvatarSelectionData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "NewActivityCondExcelConfigData.json": {
+        "OutPath": "NewActivityCondData.json",
+        "UID": "CondId",
+        "Notes": ""
+    },
+    "NewActivityEntryConfigData.json": {
+        "OutPath": "NewActivityEntryConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NewActivityExcelConfigData.json": {
+        "OutPath": "NewActivityData.json",
+        "UID": "ActivityId",
+        "Notes": ""
+    },
+    "NewActivitySaleExcelConfigData.json": {
+        "OutPath": "NewActivitySaleData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NewActivityScoreLimitExcelConfigData.json": {
+        "OutPath": "NewActivityScoreLimitData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NewActivityScoreRewardExcelConfigData.json": {
+        "OutPath": "NewActivityScoreRewardData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NewActivityScoreShowExcelConfigData.json": {
+        "OutPath": "NewActivityScoreShowData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NewActivityTimeGroupExcelConfigData.json": {
+        "OutPath": "NewActivityTimeGroupData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NewActivityWatcherConfigData.json": {
+        "OutPath": "NewActivityWatcherConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NpcCrowdExcelConfigData.json": {
+        "OutPath": "NpcCrowdData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NpcExcelConfigData.json": {
+        "OutPath": "NpcData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "NpcFirstMetExcelConfigData.json": {
+        "OutPath": "NpcFirstMetData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "OfferingLevelUpExcelConfigData.json": {
+        "OutPath": "OfferingLevelUpData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "OfferingOpenStateConfigData.json": {
+        "OutPath": "OfferingOpenStateConfigData.json",
+        "UID": "OfferingId",
+        "Notes": ""
+    },
+    "OpActivityBonusExcelConfigData.json": {
+        "OutPath": "OpActivityBonusData.json",
+        "UID": "BonusId",
+        "Notes": ""
+    },
+    "OpActivityExcelConfigData.json": {
+        "OutPath": "OpActivityData.json",
+        "UID": "OpActivityId",
+        "Notes": ""
+    },
+    "OpenStateConfigData.json": {
+        "OutPath": "OpenStateConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "OptionExcelConfigData.json": {
+        "OutPath": "OptionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "OverflowTransformExcelConfigData.json": {
+        "OutPath": "OverflowTransformData.json",
+        "UID": "TransformId",
+        "Notes": ""
+    },
+    "PersonalLineActivityExcelConfigData.json": {
+        "OutPath": "PersonalLineActivityData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "PersonalLineExcelConfigData.json": {
+        "OutPath": "PersonalLineData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "PhotographExpressionExcelConfigData.json": {
+        "OutPath": "PhotographExpressionData.json",
+        "UID": "FetterId",
+        "Notes": ""
+    },
+    "PhotographPoseExcelConfigData.json": {
+        "OutPath": "PhotographPoseData.json",
+        "UID": "CharacterId",
+        "Notes": ""
+    },
+    "PhotographPosenameExcelConfigData.json": {
+        "OutPath": "PhotographPosenameData.json",
+        "UID": "FetterId",
+        "Notes": ""
+    },
+    "PhotographTaskData.json": {
+        "OutPath": "PhotographTaskData.json",
+        "UID": "TaskId",
+        "Notes": ""
+    },
+    "PlayerLevelExcelConfigData.json": {
+        "OutPath": "PlayerLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "PlayerLevelLockExcelConfigData.json": {
+        "OutPath": "PlayerLevelLockData.json",
+        "UID": "WorldLevel",
+        "Notes": ""
+    },
+    "PriceTierConfigData.json": {
+        "OutPath": "PriceTierConfigData.json",
+        "UID": "TierName",
+        "Notes": ""
+    },
+    "ProductCardDetailConfigData.json": {
+        "OutPath": "ProductCardDetailConfigData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "ProductGoogleGiftCardDetailConfigData.json": {
+        "OutPath": "ProductGoogleGiftCardDetailConfigData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "ProductIdConfigData.json": {
+        "OutPath": "ProductIdConfigData.json",
+        "UID": "ProductId",
+        "Notes": ""
+    },
+    "ProductMcoinDetailConfigData.json": {
+        "OutPath": "ProductMcoinDetailConfigData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "ProductPlayDetailConfigData.json": {
+        "OutPath": "ProductPlayDetailConfigData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "ProductPS4PackageDetailConfigData.json": {
+        "OutPath": "ProductPS4PackageDetailConfigData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "ProudSkillExcelConfigData.json": {
+        "OutPath": "ProudSkillData.json",
+        "UID": "ProudSkillId",
+        "Notes": ""
+    },
+    "PS4GroupExcelConfigData.json": {
+        "OutPath": "PS4GroupData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "PS5GroupExcelConfigData.json": {
+        "OutPath": "PS5GroupData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "PSActivitiesActivityConfigData.json": {
+        "OutPath": "PSActivitiesActivityConfigData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "PSActivitiesSubTaskConfigData.json": {
+        "OutPath": "PSActivitiesSubTaskConfigData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "PSActivitiesTaskConfigData.json": {
+        "OutPath": "PSActivitiesTaskConfigData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "PushTipsCodexExcelConfigData.json": {
+        "OutPath": "PushTipsCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "PushTipsConfigData.json": {
+        "OutPath": "PushTipsConfigData.json",
+        "UID": "TutorialId",
+        "Notes": ""
+    },
+    "QuestCodexExcelConfigData.json": {
+        "OutPath": "QuestCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "QuestExcelConfigData.json": {
+        "OutPath": "QuestData.json",
+        "UID": "SubId",
+        "Notes": ""
+    },
+    "QuestGlobalVarConfigData.json": {
+        "OutPath": "QuestGlobalVarConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "QuestPlaceConfigData.json": {
+        "OutPath": "QuestPlaceConfigData.json",
+        "UID": "PlaceId",
+        "Notes": ""
+    },
+    "QuestSummarizationTextExcelConfigData.json": {
+        "OutPath": "QuestSummarizationTextData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RadarHintExcelConfigData.json": {
+        "OutPath": "RadarHintData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RandomMainQuestExcelConfigData.json": {
+        "OutPath": "RandomMainQuestData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RandomQuestElemPoolExcelConfigData.json": {
+        "OutPath": "RandomQuestElemPoolData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RandomQuestEntranceExcelConfigData.json": {
+        "OutPath": "RandomQuestEntranceData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RandomQuestExcelConfigData.json": {
+        "OutPath": "RandomQuestData.json",
+        "UID": "SubId",
+        "Notes": ""
+    },
+    "RandomQuestTemplateExcelConfigData.json": {
+        "OutPath": "RandomQuestTemplateData.json",
+        "UID": "MainId",
+        "Notes": ""
+    },
+    "RandTaskExcelConfigData.json": {
+        "OutPath": "RandTaskData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "RandTaskLevelConfigData.json": {
+        "OutPath": "RandTaskLevelConfigData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "RandTaskRewardConfigData.json": {
+        "OutPath": "RandTaskRewardConfigData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ReactionEnergyExcelConfigData.json": {
+        "OutPath": "ReactionEnergyData.json",
+        "UID": "Type",
+        "Notes": ""
+    },
+    "RefreshIndexExcelConfigData.json": {
+        "OutPath": "RefreshIndexData.json",
+        "UID": "RefreshId",
+        "Notes": ""
+    },
+    "RefreshPolicyExcelConfigData.json": {
+        "OutPath": "RefreshPolicyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RegionSearchCondExcelConfigData.json": {
+        "OutPath": "RegionSearchCondData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RegionSearchExcelConfigData.json": {
+        "OutPath": "RegionSearchData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RegionSearchRegionExcelConfigData.json": {
+        "OutPath": "RegionSearchRegionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReliquaryAffixExcelConfigData.json": {
+        "OutPath": "ReliquaryAffixData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReliquaryCodexExcelConfigData.json": {
+        "OutPath": "ReliquaryCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReliquaryDecomposeExcelConfigData.json": {
+        "OutPath": "ReliquaryDecomposeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReliquaryExcelConfigData.json": {
+        "OutPath": "ReliquaryData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReliquaryLevelExcelConfigData.json": {
+        "OutPath": "ReliquaryLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "ReliquaryMainPropExcelConfigData.json": {
+        "OutPath": "ReliquaryMainPropData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReliquaryPowerupExcelConfigData.json": {
+        "OutPath": "ReliquaryPowerupData.json",
+        "UID": "PowerupMultiple",
+        "Notes": ""
+    },
+    "ReliquarySetExcelConfigData.json": {
+        "OutPath": "ReliquarySetData.json",
+        "UID": "SetId",
+        "Notes": ""
+    },
+    "ReminderExcelConfigData.json": {
+        "OutPath": "ReminderData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReminderIndexExcelConfigData.json": {
+        "OutPath": "ReminderIndexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReputationCityExcelConfigData.json": {
+        "OutPath": "ReputationCityData.json",
+        "UID": "CityId",
+        "Notes": ""
+    },
+    "ReputationEntranceExcelConfigData.json": {
+        "OutPath": "ReputationEntranceData.json",
+        "UID": "TextId",
+        "Notes": ""
+    },
+    "ReputationExploreExcelConfigData.json": {
+        "OutPath": "ReputationExploreData.json",
+        "UID": "ExploreId",
+        "Notes": ""
+    },
+    "ReputationFunctionExcelConfigData.json": {
+        "OutPath": "ReputationFunctionData.json",
+        "UID": "FunctionId",
+        "Notes": ""
+    },
+    "ReputationLevelExcelConfigData.json": {
+        "OutPath": "ReputationLevelData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReputationQuestExcelConfigData.json": {
+        "OutPath": "ReputationQuestData.json",
+        "UID": "ParentQuestId",
+        "Notes": ""
+    },
+    "ReputationRequestExcelConfigData.json": {
+        "OutPath": "ReputationRequestData.json",
+        "UID": "RequestId",
+        "Notes": ""
+    },
+    "ReunionMissionExcelConfigData.json": {
+        "OutPath": "ReunionMissionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReunionPrivilegeExcelConfigData.json": {
+        "OutPath": "ReunionPrivilegeData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReunionScheduleExcelConfigData.json": {
+        "OutPath": "ReunionScheduleData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReunionSignInExcelConfigData.json": {
+        "OutPath": "ReunionSignInData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReunionWatcherExcelConfigData.json": {
+        "OutPath": "ReunionWatcherData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ReviseLevelGrowExcelConfigData.json": {
+        "OutPath": "ReviseLevelGrowData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RewardExcelConfigData.json": {
+        "OutPath": "RewardData.json",
+        "UID": "RewardId",
+        "Notes": ""
+    },
+    "RewardPreviewExcelConfigData.json": {
+        "OutPath": "RewardPreviewData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RoomExcelConfigData.json": {
+        "OutPath": "RoomData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RoomWeatherExcelConfigData.json": {
+        "OutPath": "RoomWeatherData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "RoutineDetailExcelConfigData.json": {
+        "OutPath": "RoutineDetailData.json",
+        "UID": "RoutineId",
+        "Notes": ""
+    },
+    "RoutineTypeExcelConfigData.json": {
+        "OutPath": "RoutineTypeData.json",
+        "UID": "RoutineType",
+        "Notes": ""
+    },
+    "RqTalkExcelConfigData.json": {
+        "OutPath": "RqTalkData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SceneExcelConfigData.json": {
+        "OutPath": "SceneData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SceneTagConfigData.json": {
+        "OutPath": "SceneTagConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SeaLampSectionExcelConfigData.json": {
+        "OutPath": "SeaLampSectionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SeaLampSectionMainQuestExcelConfigData.json": {
+        "OutPath": "SeaLampSectionMainQuestData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SeaLampSectionMiniQuestExcelConfigData.json": {
+        "OutPath": "SeaLampSectionMiniQuestData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SensitiveWordConfigData.json": {
+        "OutPath": "SensitiveWordConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ShopExcelConfigData.json": {
+        "OutPath": "ShopData.json",
+        "UID": "ShopId",
+        "Notes": ""
+    },
+    "ShopGoodsExcelConfigData.json": {
+        "OutPath": "ShopGoodsData.json",
+        "UID": "GoodsId",
+        "Notes": ""
+    },
+    "ShopmallEntranceExcelConfigData.json": {
+        "OutPath": "ShopmallEntranceData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ShopmallGoodsSaleConfigData.json": {
+        "OutPath": "ShopmallGoodsSaleConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ShopmallRecommendConfigData.json": {
+        "OutPath": "ShopmallRecommendConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ShopmallSubTabExcelConfigData.json": {
+        "OutPath": "ShopmallSubTabData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ShopMaterialOrderExcelConfigData.json": {
+        "OutPath": "ShopMaterialOrderData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "ShopRotateExcelConfigData.json": {
+        "OutPath": "ShopRotateData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "SignInCondExcelConfigData.json": {
+        "OutPath": "SignInCondData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "SignInDayExcelConfigData.json": {
+        "OutPath": "SignInDayData.json",
+        "UID": "ConfigId",
+        "Notes": ""
+    },
+    "SignInPeriodExcelConfigData.json": {
+        "OutPath": "SignInPeriodData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "StateExcelConfigData.json": {
+        "OutPath": "StateData.json",
+        "UID": "StateName",
+        "Notes": ""
+    },
+    "StrengthenBasePointExcelConfigData.json": {
+        "OutPath": "StrengthenBasePointData.json",
+        "UID": "DungeonId",
+        "Notes": ""
+    },
+    "SystemOpenUIConfigData.json": {
+        "OutPath": "SystemOpenUIConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TalkExcelConfigData.json": {
+        "OutPath": "TalkData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TalkSelectTimeOutExcelConfigData.json": {
+        "OutPath": "TalkSelectTimeOutData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TauntLevelTemplateExcelConfigData.json": {
+        "OutPath": "TauntLevelTemplateData.json",
+        "UID": "Type",
+        "Notes": ""
+    },
+    "TeamResonanceExcelConfigData.json": {
+        "OutPath": "TeamResonanceData.json",
+        "UID": "TeamResonanceId",
+        "Notes": ""
+    },
+    "TemplateReminderExcelConfigData.json": {
+        "OutPath": "TemplateReminderData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TowerBuffExcelConfigData.json": {
+        "OutPath": "TowerBuffData.json",
+        "UID": "TowerBuffId",
+        "Notes": ""
+    },
+    "TowerFloorExcelConfigData.json": {
+        "OutPath": "TowerFloorData.json",
+        "UID": "FloorId",
+        "Notes": ""
+    },
+    "TowerLevelExcelConfigData.json": {
+        "OutPath": "TowerLevelData.json",
+        "UID": "LevelId",
+        "Notes": ""
+    },
+    "TowerScheduleExcelConfigData.json": {
+        "OutPath": "TowerScheduleData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "TowerSkipFloorExcelConfigData.json": {
+        "OutPath": "TowerSkipFloorData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TransPointRewardConfigData.json": {
+        "OutPath": "TransPointRewardConfigData.json",
+        "UID": "PointId",
+        "Notes": ""
+    },
+    "TreasureMapBonusRegionExcelConfigData.json": {
+        "OutPath": "TreasureMapBonusRegionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TreasureMapExcelConfigData.json": {
+        "OutPath": "TreasureMapData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TreasureMapRegionExcelConfigData.json": {
+        "OutPath": "TreasureMapRegionData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TreeDropExcelConfigData.json": {
+        "OutPath": "TreeDropData.json",
+        "UID": "TreeType",
+        "Notes": ""
+    },
+    "TreeTypeExcelConfigData.json": {
+        "OutPath": "TreeTypeData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "TrialAvatarActivityDataExcelConfigData.json": {
+        "OutPath": "TrialAvatarActivityDataData.json",
+        "UID": "TrialAvatarId",
+        "Notes": ""
+    },
+    "TrialAvatarActivityExcelConfigData.json": {
+        "OutPath": "TrialAvatarActivityData.json",
+        "UID": "ScheduleId",
+        "Notes": ""
+    },
+    "TrialAvatarExcelConfigData.json": {
+        "OutPath": "TrialAvatarData.json",
+        "UID": "TrialAvatarId",
+        "Notes": ""
+    },
+    "TrialAvatarTemplateExcelConfigData.json": {
+        "OutPath": "TrialAvatarTemplateData.json",
+        "UID": "TrialAvatarLevel",
+        "Notes": ""
+    },
+    "TrialReliquaryExcelConfigData.json": {
+        "OutPath": "TrialReliquaryData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TriggerExcelConfigData.json": {
+        "OutPath": "TriggerData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TutorialDetailExcelConfigData.json": {
+        "OutPath": "TutorialDetailData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "TutorialExcelConfigData.json": {
+        "OutPath": "TutorialData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "UidOpNotifyExcelConfigData.json": {
+        "OutPath": "UidOpNotifyData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "VehicleSkillDepotExcelConfigData.json": {
+        "OutPath": "VehicleSkillDepotData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "VehicleSkillExcelConfigData.json": {
+        "OutPath": "VehicleSkillData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "ViewCodexExcelConfigData.json": {
+        "OutPath": "ViewCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WeaponCodexExcelConfigData.json": {
+        "OutPath": "WeaponCodexData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WeaponCurveExcelConfigData.json": {
+        "OutPath": "WeaponCurveData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "WeaponExcelConfigData.json": {
+        "OutPath": "WeaponData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WeaponLevelExcelConfigData.json": {
+        "OutPath": "WeaponLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    },
+    "WeaponPromoteExcelConfigData.json": {
+        "OutPath": "WeaponPromoteData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WeatherExcelConfigData.json": {
+        "OutPath": "WeatherData.json",
+        "UID": "AreaID",
+        "Notes": ""
+    },
+    "WeatherTemplateExcelConfigData.json": {
+        "OutPath": "WeatherTemplateData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WidgetExcelConfigData.json": {
+        "OutPath": "WidgetData.json",
+        "UID": "MaterialID",
+        "Notes": ""
+    },
+    "WidgetGeneralExcelConfigData.json": {
+        "OutPath": "WidgetGeneralData.json",
+        "UID": "MaterialID",
+        "Notes": ""
+    },
+    "WorldAreaConfigData.json": {
+        "OutPath": "WorldAreaConfigData.json",
+        "UID": "ID",
+        "Notes": ""
+    },
+    "WorldAreaExploreEventConfigData.json": {
+        "OutPath": "WorldAreaExploreEventConfigData.json",
+        "UID": "EventID",
+        "Notes": ""
+    },
+    "WorldAreaLevelupConfigData.json": {
+        "OutPath": "WorldAreaLevelupConfigData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WorldExcelConfigData.json": {
+        "OutPath": "WorldData.json",
+        "UID": "Id",
+        "Notes": ""
+    },
+    "WorldLevelExcelConfigData.json": {
+        "OutPath": "WorldLevelData.json",
+        "UID": "Level",
+        "Notes": ""
+    }
+}

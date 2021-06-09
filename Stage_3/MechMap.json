@@ -1,0 +1,949 @@
+{
+    "Veneficus Mechanicus: Tidal Flats": {
+        "1": {
+            "Long": "Veneficus Mechanicus: Tidal Flats",
+            "Short": "Tidal Flats",
+            "Upgrade Cost": 0,
+            "Attack": 250,
+            "Speed": 4,
+            "Range": 6,
+            "Ability Desc": "Attacks opponents in a small AoE with Water Cannons that deal Hydro DMG and apply the Wet status.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "2": {
+            "Long": "Veneficus Mechanicus: Tidal Flats",
+            "Short": "Tidal Flats",
+            "Upgrade Cost": 75,
+            "Attack": 625,
+            "Speed": 4,
+            "Range": 6,
+            "Ability Desc": "Attacks opponents in a small AoE with Water Cannons that deal Hydro DMG and apply the Wet status.",
+            "Build Cost": 120,
+            "Refund": 24
+        },
+        "3": {
+            "Long": "Veneficus Mechanicus: Mirror Image",
+            "Short": "Mirror Image",
+            "Upgrade Cost": 100,
+            "Attack": 1000,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.",
+            "Build Cost": 140,
+            "Refund": 28
+        },
+        "4": {
+            "Long": "Veneficus Mechanicus: Mirror Image",
+            "Short": "Mirror Image",
+            "Upgrade Cost": 150,
+            "Attack": 1375,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.",
+            "Build Cost": 160,
+            "Refund": 32
+        },
+        "5": {
+            "Long": "Veneficus Mechanicus: Rippling Reflections",
+            "Short": "Rippling Reflections",
+            "Upgrade Cost": 200,
+            "Attack": 1750,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.\nAdditionally, Veneficus Mechanicus: Rippling Reflections periodically creates Mist Bubbles in the surrounding area that temporarily imprison opponents who come in contact with them.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "6": {
+            "Long": "Veneficus Mechanicus: Rippling Reflections",
+            "Short": "Rippling Reflections",
+            "Upgrade Cost": 250,
+            "Attack": 2125,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.\nAdditionally, Veneficus Mechanicus: Rippling Reflections periodically creates Mist Bubbles in the surrounding area that temporarily imprison opponents who come in contact with them.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "7": {
+            "Long": "Veneficus Mechanicus: Rippling Reflections",
+            "Short": "Rippling Reflections",
+            "Upgrade Cost": 300,
+            "Attack": 2500,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.\nAdditionally, Veneficus Mechanicus: Rippling Reflections periodically creates Mist Bubbles in the surrounding area that temporarily imprison opponents who come in contact with them.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "8": {
+            "Long": "Veneficus Mechanicus: Rippling Reflections",
+            "Short": "Rippling Reflections",
+            "Upgrade Cost": 350,
+            "Attack": 2875,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.\nAdditionally, Veneficus Mechanicus: Rippling Reflections periodically creates Mist Bubbles in the surrounding area that temporarily imprison opponents who come in contact with them.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "9": {
+            "Long": "Veneficus Mechanicus: Rippling Reflections",
+            "Short": "Rippling Reflections",
+            "Upgrade Cost": 400,
+            "Attack": 3250,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.\nAdditionally, Veneficus Mechanicus: Rippling Reflections periodically creates Mist Bubbles in the surrounding area that temporarily imprison opponents who come in contact with them.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "10": {
+            "Long": "Veneficus Mechanicus: Rippling Reflections",
+            "Short": "Rippling Reflections",
+            "Upgrade Cost": 450,
+            "Attack": 3625,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Attacks opponents in a larger AoE with Water Cannons that deal Hydro DMG and apply the Wet status.\nAdditionally, Veneficus Mechanicus: Rippling Reflections periodically creates Mist Bubbles in the surrounding area that temporarily imprison opponents who come in contact with them.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "Bonus 1": [
+            3,
+            "Water Cannons deal Hydro DMG and apply Wet to opponents in a larger AoE"
+        ],
+        "Bonus 2": [
+            5,
+            "Periodically creates Mist Bubbles in the surrounding area and imprisons the opponents that come in contact with them"
+        ]
+    },
+    "Veneficus Mechanicus: Spark": {
+        "1": {
+            "Long": "Veneficus Mechanicus: Spark",
+            "Short": "Spark",
+            "Upgrade Cost": 0,
+            "Attack": 500,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a small AoE.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "2": {
+            "Long": "Veneficus Mechanicus: Spark",
+            "Short": "Spark",
+            "Upgrade Cost": 75,
+            "Attack": 1250,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a small AoE.",
+            "Build Cost": 120,
+            "Refund": 24
+        },
+        "3": {
+            "Long": "Veneficus Mechanicus: Conflagration",
+            "Short": "Conflagration",
+            "Upgrade Cost": 100,
+            "Attack": 2000,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE.",
+            "Build Cost": 140,
+            "Refund": 28
+        },
+        "4": {
+            "Long": "Veneficus Mechanicus: Conflagration",
+            "Short": "Conflagration",
+            "Upgrade Cost": 150,
+            "Attack": 2750,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE.",
+            "Build Cost": 160,
+            "Refund": 32
+        },
+        "5": {
+            "Long": "Veneficus Mechanicus: Inferno",
+            "Short": "Inferno",
+            "Upgrade Cost": 200,
+            "Attack": 3500,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE and leaving behind Burning flames that deal Pyro DMG to the opponents passing through.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "6": {
+            "Long": "Veneficus Mechanicus: Inferno",
+            "Short": "Inferno",
+            "Upgrade Cost": 250,
+            "Attack": 4250,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE and leaving behind Burning flames that deal Pyro DMG to the opponents passing through.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "7": {
+            "Long": "Veneficus Mechanicus: Inferno",
+            "Short": "Inferno",
+            "Upgrade Cost": 300,
+            "Attack": 5000,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE and leaving behind Burning flames that deal Pyro DMG to the opponents passing through.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "8": {
+            "Long": "Veneficus Mechanicus: Inferno",
+            "Short": "Inferno",
+            "Upgrade Cost": 350,
+            "Attack": 5750,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE and leaving behind Burning flames that deal Pyro DMG to the opponents passing through.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "9": {
+            "Long": "Veneficus Mechanicus: Inferno",
+            "Short": "Inferno",
+            "Upgrade Cost": 400,
+            "Attack": 6500,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE and leaving behind Burning flames that deal Pyro DMG to the opponents passing through.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "10": {
+            "Long": "Veneficus Mechanicus: Inferno",
+            "Short": "Inferno",
+            "Upgrade Cost": 450,
+            "Attack": 7250,
+            "Speed": 5,
+            "Range": 20,
+            "Ability Desc": "Attacks opponents with Blazing Sparks that explode, dealing Pyro DMG in a medium AoE and leaving behind Burning flames that deal Pyro DMG to the opponents passing through.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "Bonus 1": [
+            3,
+            "Blazing Sparks explode dealing Pyro DMG in a larger AoE"
+        ],
+        "Bonus 2": [
+            5,
+            "Blazing Sparks leave behind Burning flames that deal Pyro DMG to the opponents passing through"
+        ]
+    },
+    "Veneficus Mechanicus: Thin Ice": {
+        "1": {
+            "Long": "Veneficus Mechanicus: Thin Ice",
+            "Short": "Thin Ice",
+            "Upgrade Cost": 0,
+            "Attack": 100,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, deals Cryo DMG to opponents.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "2": {
+            "Long": "Veneficus Mechanicus: Thin Ice",
+            "Short": "Thin Ice",
+            "Upgrade Cost": 75,
+            "Attack": 250,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, deals Cryo DMG to opponents.",
+            "Build Cost": 120,
+            "Refund": 24
+        },
+        "3": {
+            "Long": "Veneficus Mechanicus: Rimefrost",
+            "Short": "Rimefrost",
+            "Upgrade Cost": 100,
+            "Attack": 400,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, deals Cryo DMG to opponents and reduces their Movement SPD.",
+            "Build Cost": 140,
+            "Refund": 28
+        },
+        "4": {
+            "Long": "Veneficus Mechanicus: Rimefrost",
+            "Short": "Rimefrost",
+            "Upgrade Cost": 150,
+            "Attack": 550,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, deals Cryo DMG to opponents and reduces their Movement SPD.",
+            "Build Cost": 160,
+            "Refund": 32
+        },
+        "5": {
+            "Long": "Veneficus Mechanicus: Glacial Bloom",
+            "Short": "Glacial Bloom",
+            "Upgrade Cost": 200,
+            "Attack": 700,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, an icy explosion occurs, dealing Cryo DMG to opponents in its AoE and reducing their Movement SPD.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "6": {
+            "Long": "Veneficus Mechanicus: Glacial Bloom",
+            "Short": "Glacial Bloom",
+            "Upgrade Cost": 250,
+            "Attack": 850,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, an icy explosion occurs, dealing Cryo DMG to opponents in its AoE and reducing their Movement SPD.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "7": {
+            "Long": "Veneficus Mechanicus: Glacial Bloom",
+            "Short": "Glacial Bloom",
+            "Upgrade Cost": 300,
+            "Attack": 1000,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, an icy explosion occurs, dealing Cryo DMG to opponents in its AoE and reducing their Movement SPD.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "8": {
+            "Long": "Veneficus Mechanicus: Glacial Bloom",
+            "Short": "Glacial Bloom",
+            "Upgrade Cost": 350,
+            "Attack": 1150,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, an icy explosion occurs, dealing Cryo DMG to opponents in its AoE and reducing their Movement SPD.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "9": {
+            "Long": "Veneficus Mechanicus: Glacial Bloom",
+            "Short": "Glacial Bloom",
+            "Upgrade Cost": 400,
+            "Attack": 1300,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, an icy explosion occurs, dealing Cryo DMG to opponents in its AoE and reducing their Movement SPD.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "10": {
+            "Long": "Veneficus Mechanicus: Glacial Bloom",
+            "Short": "Glacial Bloom",
+            "Upgrade Cost": 450,
+            "Attack": 1450,
+            "Speed": 3,
+            "Range": 15,
+            "Ability Desc": "Periodically fires a Frost Bullet in a straight line. On hit, an icy explosion occurs, dealing Cryo DMG to opponents in its AoE and reducing their Movement SPD.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "Bonus 1": [
+            3,
+            "Frost Bullets decrease opponents' Movement SPD"
+        ],
+        "Bonus 2": [
+            5,
+            "Frost Bullets will trigger icy explosions that deal AoE DMG"
+        ]
+    },
+    "Veneficus Mechanicus: Gust": {
+        "1": {
+            "Long": "Veneficus Mechanicus: Gust",
+            "Short": "Gust",
+            "Upgrade Cost": 0,
+            "Attack": 300,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nReleases an Anemo attack that knocks opponents back.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "2": {
+            "Long": "Veneficus Mechanicus: Gust",
+            "Short": "Gust",
+            "Upgrade Cost": 75,
+            "Attack": 750,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nReleases an Anemo attack that knocks opponents back.",
+            "Build Cost": 120,
+            "Refund": 24
+        },
+        "3": {
+            "Long": "Veneficus Mechanicus: Razor Wind",
+            "Short": "Razor Wind",
+            "Upgrade Cost": 100,
+            "Attack": 1200,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nReleases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 140,
+            "Refund": 28
+        },
+        "4": {
+            "Long": "Veneficus Mechanicus: Razor Wind",
+            "Short": "Razor Wind",
+            "Upgrade Cost": 150,
+            "Attack": 1650,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nReleases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 160,
+            "Refund": 32
+        },
+        "5": {
+            "Long": "Veneficus Mechanicus: Dust Devil",
+            "Short": "Dust Devil",
+            "Upgrade Cost": 200,
+            "Attack": 2100,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nWhile charging, it pulls in opponents within a small AoE. Releases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "6": {
+            "Long": "Veneficus Mechanicus: Dust Devil",
+            "Short": "Dust Devil",
+            "Upgrade Cost": 250,
+            "Attack": 2550,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nWhile charging, it pulls in opponents within a small AoE. Releases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "7": {
+            "Long": "Veneficus Mechanicus: Dust Devil",
+            "Short": "Dust Devil",
+            "Upgrade Cost": 300,
+            "Attack": 3000,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nWhile charging, it pulls in opponents within a small AoE. Releases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "8": {
+            "Long": "Veneficus Mechanicus: Dust Devil",
+            "Short": "Dust Devil",
+            "Upgrade Cost": 350,
+            "Attack": 3450,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nWhile charging, it pulls in opponents within a small AoE. Releases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "9": {
+            "Long": "Veneficus Mechanicus: Dust Devil",
+            "Short": "Dust Devil",
+            "Upgrade Cost": 400,
+            "Attack": 3900,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nWhile charging, it pulls in opponents within a small AoE. Releases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "10": {
+            "Long": "Veneficus Mechanicus: Dust Devil",
+            "Short": "Dust Devil",
+            "Upgrade Cost": 450,
+            "Attack": 4350,
+            "Speed": 4,
+            "Range": 8,
+            "Ability Desc": "Once deployed, the orientation can be adjusted in the construction menu to attack in different directions.\nWhile charging, it pulls in opponents within a small AoE. Releases an Anemo attack with a greater knockback effect.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "Bonus 1": [
+            3,
+            "Increased knockback distance"
+        ],
+        "Bonus 2": [
+            5,
+            "While charging, will pull in opponents within a small AoE"
+        ]
+    },
+    "Veneficus Mechanicus: Thunderstrike": {
+        "1": {
+            "Long": "Veneficus Mechanicus: Thunderstrike",
+            "Short": "Thunderstrike",
+            "Upgrade Cost": 0,
+            "Attack": 200,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 1 opponent at a time with a Thunder Strike that deals Electro DMG.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "2": {
+            "Long": "Veneficus Mechanicus: Thunderstrike",
+            "Short": "Thunderstrike",
+            "Upgrade Cost": 75,
+            "Attack": 500,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 1 opponent at a time with a Thunder Strike that deals Electro DMG.",
+            "Build Cost": 120,
+            "Refund": 24
+        },
+        "3": {
+            "Long": "Veneficus Mechanicus: Blitz Trident",
+            "Short": "Blitz Trident",
+            "Upgrade Cost": 100,
+            "Attack": 800,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG.",
+            "Build Cost": 140,
+            "Refund": 28
+        },
+        "4": {
+            "Long": "Veneficus Mechanicus: Blitz Trident",
+            "Short": "Blitz Trident",
+            "Upgrade Cost": 150,
+            "Attack": 1100,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG.",
+            "Build Cost": 160,
+            "Refund": 32
+        },
+        "5": {
+            "Long": "Veneficus Mechanicus: Furious Discharge",
+            "Short": "Furious Discharge",
+            "Upgrade Cost": 200,
+            "Attack": 1400,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG\nAdditionally, Veneficus Mechanicus: Furious Discharge periodically strikes one nearby opponent with a Lightning strike that deals Electro DMG.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "6": {
+            "Long": "Veneficus Mechanicus: Furious Discharge",
+            "Short": "Furious Discharge",
+            "Upgrade Cost": 250,
+            "Attack": 1700,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG\nAdditionally, Veneficus Mechanicus: Furious Discharge periodically strikes one nearby opponent with a Lightning strike that deals Electro DMG.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "7": {
+            "Long": "Veneficus Mechanicus: Furious Discharge",
+            "Short": "Furious Discharge",
+            "Upgrade Cost": 300,
+            "Attack": 2000,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG\nAdditionally, Veneficus Mechanicus: Furious Discharge periodically strikes one nearby opponent with a Lightning strike that deals Electro DMG.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "8": {
+            "Long": "Veneficus Mechanicus: Furious Discharge",
+            "Short": "Furious Discharge",
+            "Upgrade Cost": 350,
+            "Attack": 2300,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG\nAdditionally, Veneficus Mechanicus: Furious Discharge periodically strikes one nearby opponent with a Lightning strike that deals Electro DMG.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "9": {
+            "Long": "Veneficus Mechanicus: Furious Discharge",
+            "Short": "Furious Discharge",
+            "Upgrade Cost": 400,
+            "Attack": 2600,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG\nAdditionally, Veneficus Mechanicus: Furious Discharge periodically strikes one nearby opponent with a Lightning strike that deals Electro DMG.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "10": {
+            "Long": "Veneficus Mechanicus: Furious Discharge",
+            "Short": "Furious Discharge",
+            "Upgrade Cost": 450,
+            "Attack": 2900,
+            "Speed": 4,
+            "Range": 15,
+            "Ability Desc": "Attacks 3 opponents at a time with Thunder Strikes that deal Electro DMG\nAdditionally, Veneficus Mechanicus: Furious Discharge periodically strikes one nearby opponent with a Lightning strike that deals Electro DMG.",
+            "Build Cost": 180,
+            "Refund": 36
+        },
+        "Bonus 1": [
+            3,
+            "Thunder Strikes attack 3 opponents at a time"
+        ],
+        "Bonus 2": [
+            5,
+            "Periodically strikes one of the nearby opponents with a Lightning that causes Electro DMG"
+        ]
+    },
+    "Veneficus Mechanicus: Longbow": {
+        "1": {
+            "Long": "Veneficus Mechanicus: Longbow",
+            "Short": "Longbow",
+            "Upgrade Cost": 0,
+            "Attack": 300,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Periodically fires an Arrow Shot, dealing Physical DMG to opponents it hits.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "2": {
+            "Long": "Veneficus Mechanicus: Longbow",
+            "Short": "Longbow",
+            "Upgrade Cost": 75,
+            "Attack": 750,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Periodically fires an Arrow Shot, dealing Physical DMG to opponents it hits.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "3": {
+            "Long": "Veneficus Mechanicus: Sharpshooter",
+            "Short": "Sharpshooter",
+            "Upgrade Cost": 100,
+            "Attack": 1200,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that pierces through the enemies along its trajectory, dealing Physical DMG. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "4": {
+            "Long": "Veneficus Mechanicus: Sharpshooter",
+            "Short": "Sharpshooter",
+            "Upgrade Cost": 150,
+            "Attack": 1650,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that pierces through the enemies along its trajectory, dealing Physical DMG. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "5": {
+            "Long": "Veneficus Mechanicus: Ordnance",
+            "Short": "Ordnance",
+            "Upgrade Cost": 200,
+            "Attack": 2100,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that homes in on an opponent, dealing Physical DMG on impact. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "6": {
+            "Long": "Veneficus Mechanicus: Ordnance",
+            "Short": "Ordnance",
+            "Upgrade Cost": 250,
+            "Attack": 2550,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that homes in on an opponent, dealing Physical DMG on impact. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "7": {
+            "Long": "Veneficus Mechanicus: Ordnance",
+            "Short": "Ordnance",
+            "Upgrade Cost": 300,
+            "Attack": 3000,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that homes in on an opponent, dealing Physical DMG on impact. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "8": {
+            "Long": "Veneficus Mechanicus: Ordnance",
+            "Short": "Ordnance",
+            "Upgrade Cost": 350,
+            "Attack": 3450,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that homes in on an opponent, dealing Physical DMG on impact. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "9": {
+            "Long": "Veneficus Mechanicus: Ordnance",
+            "Short": "Ordnance",
+            "Upgrade Cost": 400,
+            "Attack": 3900,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that homes in on an opponent, dealing Physical DMG on impact. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "10": {
+            "Long": "Veneficus Mechanicus: Ordnance",
+            "Short": "Ordnance",
+            "Upgrade Cost": 450,
+            "Attack": 4350,
+            "Speed": 2,
+            "Range": 30,
+            "Ability Desc": "Intermittently releases a Shattering Bolt that homes in on an opponent, dealing Physical DMG on impact. Shattering Bolts are especially effective against Geo.",
+            "Build Cost": 100,
+            "Refund": 20
+        },
+        "Bonus 1": [
+            3,
+            "Increased effectiveness against Geo"
+        ],
+        "Bonus 2": [
+            5,
+            "Shattering Bolts gain a homing ability"
+        ]
+    },
+    "Mysticus Mechanicus: Desire": {
+        "1": {
+            "Long": "Mysticus Mechanicus: Desire",
+            "Short": "Desire",
+            "Upgrade Cost": 0,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 6,
+            "Ability Desc": "Continuously buffs the Veneficus Mechanici within a small AoE around it, increasing their DMG.\nThis buff does not stack with the effects of other Mysticus Mechanici: Desire and Mysticus Mechanici: Fulfilment.",
+            "Build Cost": 150,
+            "Refund": 30
+        },
+        "2": {
+            "Long": "Mysticus Mechanicus: Fulfilment",
+            "Short": "Fulfilment",
+            "Upgrade Cost": 300,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 8,
+            "Ability Desc": "Continuously buffs the Veneficus Mechanici within a large AoE around it, increasing their DMG.\nThis buff does not stack with the effects of other Mysticus Mechanici: Fulfilment and Mysticus Mechanici: Desire.",
+            "Build Cost": 150,
+            "Refund": 30
+        },
+        "3": {
+            "Long": "Mysticus Mechanicus: Arcanum",
+            "Short": "Arcanum",
+            "Upgrade Cost": 400,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 8,
+            "Ability Desc": "Continuously buffs the Veneficus Mechanici within a large AoE around it, increasing their DMG.\nThe effects of multiple Mysticus Mechanici: Arcanum can stack with one another and with the buffs provided by either Mysticus Mechanici: Desire or Mysticus Mechanici: Fulfilment.",
+            "Build Cost": 150,
+            "Refund": 30
+        },
+        "Bonus 1": [
+            2,
+            "Increases the buff's AoE"
+        ],
+        "Bonus 2": [
+            3,
+            "Can overlap with the effects of other Mysticus Mechanici"
+        ]
+    },
+    "Recovery Mechanicus: Mark I": {
+        "1": {
+            "Long": "Recovery Mechanicus: Mark I",
+            "Short": "Recovery Mk I",
+            "Upgrade Cost": 0,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 6,
+            "Ability Desc": "Recovery Mechanicus: Mark I generates bonus Veneficus Points for each opponent defeated in a small AoE around it.",
+            "Build Cost": 50,
+            "Refund": 10
+        },
+        "2": {
+            "Long": "Recovery Mechanicus: Mark II",
+            "Short": "Recovery Mk II",
+            "Upgrade Cost": 300,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 8,
+            "Ability Desc": "Recovery Mechanicus: Mark II generates bonus Veneficus Points for each opponent defeated in a large AoE around it.",
+            "Build Cost": 50,
+            "Refund": 10
+        },
+        "3": {
+            "Long": "Recovery Mechanicus: Mark III",
+            "Short": "Recovery Mk III",
+            "Upgrade Cost": 400,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 8,
+            "Ability Desc": "Recovery Mechanicus: Mark III generates a great deal of bonus Veneficus Points for each opponent defeated in a large AoE around it.",
+            "Build Cost": 50,
+            "Refund": 10
+        },
+        "Bonus 1": [
+            2,
+            "Increased area of effect"
+        ],
+        "Bonus 2": [
+            3,
+            "Greatly increases the amount of Veneficus Points recovered in its area of effect"
+        ]
+    },
+    "Ambush Mine": {
+        "1": {
+            "Long": "Ambush Mine",
+            "Short": "Ambush Mine",
+            "Upgrade Cost": 0,
+            "Attack": 800,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Upon contact with the enemy, Ambush Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.",
+            "Build Cost": 20,
+            "Refund": 4
+        },
+        "2": {
+            "Long": "Ambush Mine",
+            "Short": "Ambush Mine",
+            "Upgrade Cost": 75,
+            "Attack": 2000,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Upon contact with the enemy, Ambush Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.",
+            "Build Cost": 20,
+            "Refund": 4
+        },
+        "3": {
+            "Long": "Soulfire Mine",
+            "Short": "Soulfire Mine",
+            "Upgrade Cost": 100,
+            "Attack": 3200,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Soulfire Mines.\nUpon contact with the enemy, Soulfire Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "4": {
+            "Long": "Soulfire Mine",
+            "Short": "Soulfire Mine",
+            "Upgrade Cost": 150,
+            "Attack": 4400,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Soulfire Mines.\nUpon contact with the enemy, Soulfire Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "5": {
+            "Long": "Tandem Mine",
+            "Short": "Tandem Mine",
+            "Upgrade Cost": 200,
+            "Attack": 5600,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Tandem Mines.\nUpon contact with the enemy, Tandem Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.\n Additionally, when an opponent is defeated by the Tandem Mine's DMG, a secondary explosion will occur. Only one additional explosion may be triggered.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "6": {
+            "Long": "Tandem Mine",
+            "Short": "Tandem Mine",
+            "Upgrade Cost": 250,
+            "Attack": 6800,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Tandem Mines.\nUpon contact with the enemy, Tandem Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.\n Additionally, when an opponent is defeated by the Tandem Mine's DMG, a secondary explosion will occur. Only one additional explosion may be triggered.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "7": {
+            "Long": "Tandem Mine",
+            "Short": "Tandem Mine",
+            "Upgrade Cost": 300,
+            "Attack": 8000,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Tandem Mines.\nUpon contact with the enemy, Tandem Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.\n Additionally, when an opponent is defeated by the Tandem Mine's DMG, a secondary explosion will occur. Only one additional explosion may be triggered.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "8": {
+            "Long": "Tandem Mine",
+            "Short": "Tandem Mine",
+            "Upgrade Cost": 350,
+            "Attack": 9200,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Tandem Mines.\nUpon contact with the enemy, Tandem Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.\n Additionally, when an opponent is defeated by the Tandem Mine's DMG, a secondary explosion will occur. Only one additional explosion may be triggered.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "9": {
+            "Long": "Tandem Mine",
+            "Short": "Tandem Mine",
+            "Upgrade Cost": 400,
+            "Attack": 10400,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Tandem Mines.\nUpon contact with the enemy, Tandem Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.\n Additionally, when an opponent is defeated by the Tandem Mine's DMG, a secondary explosion will occur. Only one additional explosion may be triggered.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "10": {
+            "Long": "Tandem Mine",
+            "Short": "Tandem Mine",
+            "Upgrade Cost": 450,
+            "Attack": 11600,
+            "Speed": 0,
+            "Range": 5,
+            "Ability Desc": "Greatly decreases the Veneficus Points cost of Tandem Mines.\nUpon contact with the enemy, Tandem Mine will explode, dealing massive Pyro DMG to the surrounding enemy units.\n Additionally, when an opponent is defeated by the Tandem Mine's DMG, a secondary explosion will occur. Only one additional explosion may be triggered.",
+            "Build Cost": 10,
+            "Refund": 2
+        },
+        "Bonus 1": [
+            3,
+            "Greatly decreases the amount of Veneficus Points needed to build"
+        ],
+        "Bonus 2": [
+            5,
+            "Defeating an opponent with a mine may cause an additional explosion to occur"
+        ]
+    },
+    "Arcane Mechanicus: Portal of Wonders": {
+        "1": {
+            "Long": "Arcane Mechanicus: Portal of Wonders",
+            "Short": "Portal of Wonders",
+            "Upgrade Cost": 0,
+            "Attack": 0,
+            "Speed": 0,
+            "Range": 0,
+            "Ability Desc": "Players can select Arcane Mechanicus: Portal of Wonders to teleport to another Portal.\nUp to two Arcane Mechanici: Portal of Wonders can be built in a Stage.",
+            "Build Cost": 40,
+            "Refund": 8
+        },
+        "Bonus 1": [
+            0,
+            ""
+        ],
+        "Bonus 2": [
+            0,
+            ""
+        ]
+    }
+}

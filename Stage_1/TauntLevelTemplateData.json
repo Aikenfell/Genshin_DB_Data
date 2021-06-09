@@ -1,0 +1,44 @@
+{
+    "0": {
+        "TauntLevelVal": 10
+    },
+    "Ability_TauntLevel_2": {
+        "Type": "Ability_TauntLevel_2",
+        "TauntLevelVal": 30
+    },
+    "Ability_TauntLevel_3": {
+        "Type": "Ability_TauntLevel_3",
+        "TauntLevelVal": 50
+    },
+    "Ability_TauntLevel_4": {
+        "Type": "Ability_TauntLevel_4",
+        "TauntLevelVal": 70
+    },
+    "Ability_TauntLevel_5": {
+        "Type": "Ability_TauntLevel_5",
+        "TauntLevelVal": 90
+    },
+    "Monster_TauntLevel_1": {
+        "Type": "Monster_TauntLevel_1"
+    },
+    "Monster_TauntLevel_2": {
+        "Type": "Monster_TauntLevel_2",
+        "TauntLevelVal": 20
+    },
+    "Monster_TauntLevel_3": {
+        "Type": "Monster_TauntLevel_3",
+        "TauntLevelVal": 40
+    },
+    "Monster_TauntLevel_4": {
+        "Type": "Monster_TauntLevel_4",
+        "TauntLevelVal": 60
+    },
+    "Monster_TauntLevel_5": {
+        "Type": "Monster_TauntLevel_5",
+        "TauntLevelVal": 80
+    },
+    "Monster_TauntLevel_6": {
+        "Type": "Monster_TauntLevel_6",
+        "TauntLevelVal": 100
+    }
+}

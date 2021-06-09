@@ -1,0 +1,2456 @@
+{
+    "1": {
+        "ClientId": 10000,
+        "Id": 1,
+        "Show": true,
+        "LevelConfigName": "Level_Avatar_DefenseDown",
+        "DescTextMapHash": 3109256178
+    },
+    "2": {
+        "ClientId": 10001,
+        "Id": 2,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "DescTextMapHash": 3935856410
+    },
+    "3": {
+        "ClientId": 10002,
+        "Id": 3,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "DescTextMapHash": 2165783538
+    },
+    "4": {
+        "ClientId": 10003,
+        "Id": 4,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Wind",
+        "DescTextMapHash": 323728106
+    },
+    "5": {
+        "ClientId": 10004,
+        "Id": 5,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "DescTextMapHash": 749862618
+    },
+    "6": {
+        "ClientId": 10005,
+        "Id": 6,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Water",
+        "DescTextMapHash": 364338386
+    },
+    "7": {
+        "ClientId": 10006,
+        "Id": 7,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Grass",
+        "DescTextMapHash": 2044372618
+    },
+    "8": {
+        "ClientId": 10007,
+        "Id": 8,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "DescTextMapHash": 3206664354
+    },
+    "9": {
+        "ClientId": 10008,
+        "Id": 9,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Electric",
+        "DescTextMapHash": 1121743490
+    },
+    "10": {
+        "ClientId": 10009,
+        "Id": 10,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Fire",
+        "DescTextMapHash": 3841742506
+    },
+    "11": {
+        "ClientId": 10010,
+        "Id": 11,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Wind",
+        "DescTextMapHash": 2616124290
+    },
+    "12": {
+        "ClientId": 10011,
+        "Id": 12,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Ice",
+        "DescTextMapHash": 293828714
+    },
+    "13": {
+        "ClientId": 10012,
+        "Id": 13,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Water",
+        "DescTextMapHash": 4052529698
+    },
+    "14": {
+        "ClientId": 10013,
+        "Id": 14,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Grass",
+        "DescTextMapHash": 752183178
+    },
+    "15": {
+        "ClientId": 10014,
+        "Id": 15,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageDown_Rock",
+        "DescTextMapHash": 3217463890
+    },
+    "16": {
+        "ClientId": 10015,
+        "Id": 16,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Heal_Down",
+        "DescTextMapHash": 3852311098
+    },
+    "17": {
+        "ClientId": 10016,
+        "Id": 17,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+        "DescTextMapHash": 199834394
+    },
+    "18": {
+        "ClientId": 10017,
+        "Id": 18,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+        "DescTextMapHash": 4289104738
+    },
+    "19": {
+        "ClientId": 10018,
+        "Id": 19,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Wind",
+        "DescTextMapHash": 4248143754
+    },
+    "20": {
+        "ClientId": 10019,
+        "Id": 20,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Ice",
+        "DescTextMapHash": 922981514
+    },
+    "21": {
+        "ClientId": 10020,
+        "Id": 21,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Water",
+        "DescTextMapHash": 1658476274
+    },
+    "22": {
+        "ClientId": 10021,
+        "Id": 22,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Grass",
+        "DescTextMapHash": 2869715682
+    },
+    "23": {
+        "ClientId": 10022,
+        "Id": 23,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementBeHurtDamageUp_Rock",
+        "DescTextMapHash": 4162996914
+    },
+    "24": {
+        "ClientId": 10023,
+        "Id": 24,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "DescTextMapHash": 2298797658
+    },
+    "25": {
+        "ClientId": 10024,
+        "Id": 25,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_RangeAttackDamageUp",
+        "DescTextMapHash": 2221785706
+    },
+    "26": {
+        "ClientId": 10025,
+        "Id": 26,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_MaleAddHurt",
+        "DescTextMapHash": 552046058
+    },
+    "27": {
+        "ClientId": 10026,
+        "Id": 27,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_FemaleAddHurt",
+        "DescTextMapHash": 987434674
+    },
+    "28": {
+        "ClientId": 10027,
+        "Id": 28,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_SwordAddHurt",
+        "DescTextMapHash": 687548210
+    },
+    "29": {
+        "ClientId": 10028,
+        "Id": 29,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ClaymoreAddHurt",
+        "DescTextMapHash": 1589719226
+    },
+    "30": {
+        "ClientId": 10029,
+        "Id": 30,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PoleAddHurt",
+        "DescTextMapHash": 1216884570
+    },
+    "31": {
+        "ClientId": 10030,
+        "Id": 31,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_CatalystAddHurt",
+        "DescTextMapHash": 1042062754
+    },
+    "32": {
+        "ClientId": 10031,
+        "Id": 32,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_BowAddHurt",
+        "DescTextMapHash": 3667991738
+    },
+    "33": {
+        "ClientId": 10032,
+        "Id": 33,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Fire",
+        "DescTextMapHash": 2541895866
+    },
+    "34": {
+        "ClientId": 10033,
+        "Id": 34,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Electric",
+        "DescTextMapHash": 2012350298
+    },
+    "35": {
+        "ClientId": 10034,
+        "Id": 35,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Water",
+        "DescTextMapHash": 1246044738
+    },
+    "36": {
+        "ClientId": 10035,
+        "Id": 36,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Ice",
+        "DescTextMapHash": 990535402
+    },
+    "37": {
+        "ClientId": 10036,
+        "Id": 37,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Wind",
+        "DescTextMapHash": 3819281194
+    },
+    "38": {
+        "ClientId": 10037,
+        "Id": 38,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Rock",
+        "DescTextMapHash": 2671028298
+    },
+    "39": {
+        "ClientId": 10038,
+        "Id": 39,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_AvatarDot_Grass",
+        "DescTextMapHash": 1663658170
+    },
+    "40": {
+        "ClientId": 10039,
+        "Id": 40,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_RandomThunder",
+        "DescTextMapHash": 565097242
+    },
+    "41": {
+        "ClientId": 10040,
+        "Id": 41,
+        "Show": true,
+        "LevelConfigName": "Level_Electric_Test",
+        "DescTextMapHash": 2769092058
+    },
+    "42": {
+        "ClientId": 10041,
+        "Id": 42,
+        "Show": true,
+        "LevelConfigName": "Level_Explode_Test",
+        "DescTextMapHash": 1176272362
+    },
+    "43": {
+        "ClientId": 10042,
+        "Id": 43,
+        "Show": true,
+        "LevelConfigName": "Level_Superconductor_Test",
+        "DescTextMapHash": 3267416482
+    },
+    "44": {
+        "ClientId": 10043,
+        "Id": 44,
+        "Show": true,
+        "LevelConfigName": "Level_Melt_Test",
+        "DescTextMapHash": 3994675138
+    },
+    "45": {
+        "ClientId": 10044,
+        "Id": 45,
+        "Show": true,
+        "LevelConfigName": "Level_Stream_Test",
+        "DescTextMapHash": 3986163610
+    },
+    "46": {
+        "ClientId": 10045,
+        "Id": 46,
+        "Show": true,
+        "LevelConfigName": "Level_Freeze_Test",
+        "DescTextMapHash": 2676159698
+    },
+    "47": {
+        "ClientId": 10046,
+        "Id": 47,
+        "Show": true,
+        "LevelConfigName": "Level_Burning_Test",
+        "DescTextMapHash": 3059640506
+    },
+    "48": {
+        "ClientId": 10047,
+        "Id": 48,
+        "Show": true,
+        "LevelConfigName": "Level_Swril_Test",
+        "DescTextMapHash": 1226662090
+    },
+    "49": {
+        "ClientId": 10048,
+        "Id": 49,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_CriticalUp",
+        "DescTextMapHash": 2594743074
+    },
+    "50": {
+        "ClientId": 10049,
+        "Id": 50,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_CriticalHurtUp",
+        "DescTextMapHash": 3994069002
+    },
+    "51": {
+        "ClientId": 10050,
+        "Id": 51,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 2120603194
+    },
+    "52": {
+        "ClientId": 10051,
+        "Id": 52,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 471653194
+    },
+    "53": {
+        "ClientId": 10052,
+        "Id": 53,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 654331522
+    },
+    "54": {
+        "ClientId": 10053,
+        "Id": 54,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 1870939802
+    },
+    "55": {
+        "ClientId": 10054,
+        "Id": 55,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 14713746
+    },
+    "56": {
+        "ClientId": 10055,
+        "Id": 56,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 4005610922
+    },
+    "57": {
+        "ClientId": 10056,
+        "Id": 57,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_ChargeEfficiencyDown",
+        "DescTextMapHash": 693273602
+    },
+    "58": {
+        "ClientId": 10057,
+        "Id": 58,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_GenerateElemBall",
+        "DescTextMapHash": 2662000594
+    },
+    "59": {
+        "ClientId": 10058,
+        "Id": 59,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Monster_ElementBeHurtDamageDown_All",
+        "DescTextMapHash": 2190070890
+    },
+    "60": {
+        "ClientId": 10059,
+        "Id": 60,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 3589382330
+    },
+    "61": {
+        "ClientId": 10060,
+        "Id": 61,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Ball_AttackSpeed_Heal",
+        "DescTextMapHash": 2241943954
+    },
+    "62": {
+        "ClientId": 10061,
+        "Id": 62,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Ball_MoveSpeed_Defenc",
+        "DescTextMapHash": 111992362
+    },
+    "1000": {
+        "ClientId": 10064,
+        "Id": 1000,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "DescTextMapHash": 3841139058
+    },
+    "1001": {
+        "ClientId": 10067,
+        "Id": 1001,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "DescTextMapHash": 2981942066
+    },
+    "1002": {
+        "ClientId": 10070,
+        "Id": 1002,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Wind",
+        "DescTextMapHash": 2728380970
+    },
+    "1003": {
+        "ClientId": 10073,
+        "Id": 1003,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Ice",
+        "DescTextMapHash": 1508642602
+    },
+    "1004": {
+        "ClientId": 10076,
+        "Id": 1004,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Water",
+        "DescTextMapHash": 162396994
+    },
+    "1005": {
+        "ClientId": 10079,
+        "Id": 1005,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Grass",
+        "DescTextMapHash": 878705842
+    },
+    "1006": {
+        "ClientId": 10082,
+        "Id": 1006,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "DescTextMapHash": 1681004018
+    },
+    "1007": {
+        "ClientId": 10085,
+        "Id": 1007,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "DescTextMapHash": 3530148466
+    },
+    "1008": {
+        "ClientId": 10088,
+        "Id": 1008,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_MeleeAttackDamageUp",
+        "DescTextMapHash": 2725887754
+    },
+    "1009": {
+        "ClientId": 10091,
+        "Id": 1009,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_RangeAttackDamageUp",
+        "DescTextMapHash": 285595154
+    },
+    "1010": {
+        "ClientId": 10094,
+        "Id": 1010,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_BowAddHurt",
+        "DescTextMapHash": 1332027362
+    },
+    "1050": {
+        "ClientId": 10096,
+        "Id": 1050,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_SprintAreaAttack",
+        "DescTextMapHash": 3475418714
+    },
+    "1051": {
+        "ClientId": 10098,
+        "Id": 1051,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_HighStaminaAreaAttack",
+        "DescTextMapHash": 1374671218
+    },
+    "1052": {
+        "ClientId": 10100,
+        "Id": 1052,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+        "DescTextMapHash": 3816617762
+    },
+    "1053": {
+        "ClientId": 10102,
+        "Id": 1053,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ExtraAreaAttack",
+        "DescTextMapHash": 3475694210
+    },
+    "1054": {
+        "ClientId": 10105,
+        "Id": 1054,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_SprintAreaAttack",
+        "DescTextMapHash": 2612942114
+    },
+    "1055": {
+        "ClientId": 10108,
+        "Id": 1055,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_HighStaminaAreaAttack",
+        "DescTextMapHash": 1874715714
+    },
+    "1056": {
+        "ClientId": 10111,
+        "Id": 1056,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+        "DescTextMapHash": 3429740770
+    },
+    "1057": {
+        "ClientId": 10114,
+        "Id": 1057,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ExtraAreaAttack",
+        "DescTextMapHash": 3569583354
+    },
+    "1060": {
+        "ClientId": 10115,
+        "Id": 1060,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "DescTextMapHash": 2571947322
+    },
+    "1061": {
+        "ClientId": 10116,
+        "Id": 1061,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "DescTextMapHash": 2855024690
+    },
+    "1062": {
+        "ClientId": 10117,
+        "Id": 1062,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "DescTextMapHash": 3878238466
+    },
+    "1063": {
+        "ClientId": 10118,
+        "Id": 1063,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Stream",
+        "DescTextMapHash": 4124797314
+    },
+    "1064": {
+        "ClientId": 10119,
+        "Id": 1064,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Shock",
+        "DescTextMapHash": 1354856090
+    },
+    "1065": {
+        "ClientId": 10120,
+        "Id": 1065,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "DescTextMapHash": 164079170
+    },
+    "1066": {
+        "ClientId": 10121,
+        "Id": 1066,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "DescTextMapHash": 1636659242
+    },
+    "1067": {
+        "ClientId": 10122,
+        "Id": 1067,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+        "DescTextMapHash": 4293122490
+    },
+    "1068": {
+        "ClientId": 10123,
+        "Id": 1068,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "DescTextMapHash": 555461666
+    },
+    "1069": {
+        "ClientId": 10124,
+        "Id": 1069,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Shock",
+        "DescTextMapHash": 291401802
+    },
+    "1070": {
+        "ClientId": 10127,
+        "Id": 1070,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "DescTextMapHash": 2270908410
+    },
+    "1071": {
+        "ClientId": 10130,
+        "Id": 1071,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "DescTextMapHash": 4056979274
+    },
+    "1100": {
+        "ClientId": 10131,
+        "Id": 1100,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "DescTextMapHash": 2662671394
+    },
+    "1101": {
+        "ClientId": 10132,
+        "Id": 1101,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Melt",
+        "DescTextMapHash": 1015758474
+    },
+    "1102": {
+        "ClientId": 10134,
+        "Id": 1102,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "DescTextMapHash": 1167520402
+    },
+    "1103": {
+        "ClientId": 10136,
+        "Id": 1103,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "DescTextMapHash": 2640963306
+    },
+    "1104": {
+        "ClientId": 10138,
+        "Id": 1104,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Shock",
+        "DescTextMapHash": 2345998442
+    },
+    "1105": {
+        "ClientId": 10140,
+        "Id": 1105,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "DescTextMapHash": 991294394
+    },
+    "1106": {
+        "ClientId": 10142,
+        "Id": 1106,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Superconductor",
+        "DescTextMapHash": 1450993594
+    },
+    "1107": {
+        "ClientId": 10143,
+        "Id": 1107,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Fire",
+        "DescTextMapHash": 2604484714
+    },
+    "1108": {
+        "ClientId": 10144,
+        "Id": 1108,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 1004901490
+    },
+    "1109": {
+        "ClientId": 10145,
+        "Id": 1109,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 43431906
+    },
+    "1110": {
+        "ClientId": 10146,
+        "Id": 1110,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 4002078290
+    },
+    "1111": {
+        "ClientId": 10147,
+        "Id": 1111,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 2771248346
+    },
+    "1112": {
+        "ClientId": 10148,
+        "Id": 1112,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 1026467626
+    },
+    "1113": {
+        "ClientId": 10149,
+        "Id": 1113,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_PhysicalAddHurt",
+        "DescTextMapHash": 3740324946
+    },
+    "1114": {
+        "ClientId": 10150,
+        "Id": 1114,
+        "Show": true,
+        "LevelConfigName": "Level_Electric_Test",
+        "DescTextMapHash": 2886430042
+    },
+    "1115": {
+        "ClientId": 10151,
+        "Id": 1115,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Explode",
+        "DescTextMapHash": 1518088634
+    },
+    "1116": {
+        "ClientId": 10152,
+        "Id": 1116,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "DescTextMapHash": 3655999154
+    },
+    "1117": {
+        "ClientId": 10153,
+        "Id": 1117,
+        "Show": true,
+        "LevelConfigName": "Level_Electric_Test",
+        "DescTextMapHash": 3262904722
+    },
+    "1118": {
+        "ClientId": 10156,
+        "Id": 1118,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "DescTextMapHash": 1498136602
+    },
+    "1119": {
+        "ClientId": 10159,
+        "Id": 1119,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Stream",
+        "DescTextMapHash": 1215912466
+    },
+    "1120": {
+        "ClientId": 10160,
+        "Id": 1120,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Electric",
+        "DescTextMapHash": 3003233706
+    },
+    "1121": {
+        "ClientId": 10162,
+        "Id": 1121,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Superconductor",
+        "DescTextMapHash": 3195210154
+    },
+    "1122": {
+        "ClientId": 10164,
+        "Id": 1122,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "DescTextMapHash": 2581676866
+    },
+    "1123": {
+        "ClientId": 10166,
+        "Id": 1123,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "DescTextMapHash": 690746482
+    },
+    "1124": {
+        "ClientId": 10168,
+        "Id": 1124,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionHurt_Explode",
+        "DescTextMapHash": 2746461074
+    },
+    "1125": {
+        "ClientId": 10169,
+        "Id": 1125,
+        "Show": true,
+        "LevelConfigName": "Level_Melt_Test",
+        "DescTextMapHash": 1720410066
+    },
+    "1126": {
+        "ClientId": 10170,
+        "Id": 1126,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "DescTextMapHash": 2453463594
+    },
+    "1127": {
+        "ClientId": 10171,
+        "Id": 1127,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "DescTextMapHash": 1453373442
+    },
+    "1128": {
+        "ClientId": 10172,
+        "Id": 1128,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_ElementAddHurt_Rock",
+        "DescTextMapHash": 2452733498
+    },
+    "1129": {
+        "ClientId": 10174,
+        "Id": 1129,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_CriticalUp",
+        "DescTextMapHash": 1726500442
+    },
+    "1130": {
+        "ClientId": 10175,
+        "Id": 1130,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 1975271354
+    },
+    "1131": {
+        "ClientId": 10177,
+        "Id": 1131,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 2243525538
+    },
+    "1132": {
+        "ClientId": 10178,
+        "Id": 1132,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 2619732106
+    },
+    "1133": {
+        "ClientId": 10179,
+        "Id": 1133,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 3139625826
+    },
+    "1134": {
+        "ClientId": 10180,
+        "Id": 1134,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 3551814986
+    },
+    "1135": {
+        "ClientId": 10182,
+        "Id": 1135,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 1953360890
+    },
+    "1136": {
+        "ClientId": 10183,
+        "Id": 1136,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 3312564242
+    },
+    "1137": {
+        "ClientId": 10185,
+        "Id": 1137,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 2820874170
+    },
+    "1138": {
+        "ClientId": 10186,
+        "Id": 1138,
+        "LevelConfigName": "LevelEntity_Monster_HpUp",
+        "DescTextMapHash": 656061794
+    },
+    "1139": {
+        "ClientId": 10188,
+        "Id": 1139,
+        "LevelConfigName": "LevelEntity_Monster_AttackUp",
+        "DescTextMapHash": 3151371634
+    },
+    "1150": {
+        "ClientId": 10191,
+        "Id": 1150,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv1",
+        "DescTextMapHash": 82603434
+    },
+    "1151": {
+        "ClientId": 10194,
+        "Id": 1151,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 806823714
+    },
+    "1152": {
+        "ClientId": 10197,
+        "Id": 1152,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv1",
+        "DescTextMapHash": 3346517434
+    },
+    "1153": {
+        "ClientId": 10201,
+        "Id": 1153,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv1",
+        "DescTextMapHash": 2844728426
+    },
+    "1154": {
+        "ClientId": 10205,
+        "Id": 1154,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 1753040570
+    },
+    "1140": {
+        "ClientId": 10208,
+        "Id": 1140,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 1609757122
+    },
+    "1141": {
+        "ClientId": 10211,
+        "Id": 1141,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3834234618
+    },
+    "1142": {
+        "ClientId": 10215,
+        "Id": 1142,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 2262209402
+    },
+    "1143": {
+        "ClientId": 10219,
+        "Id": 1143,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 3799529874
+    },
+    "1144": {
+        "ClientId": 10223,
+        "Id": 1144,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3703378314
+    },
+    "1155": {
+        "ClientId": 10225,
+        "Id": 1155,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 4131141562
+    },
+    "1156": {
+        "ClientId": 10227,
+        "Id": 1156,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 1981886906
+    },
+    "1157": {
+        "ClientId": 10230,
+        "Id": 1157,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_HealUp",
+        "DescTextMapHash": 1062424210
+    },
+    "1158": {
+        "ClientId": 10233,
+        "Id": 1158,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_TowerBuff_CriticalDropElementBall",
+        "DescTextMapHash": 675115306
+    },
+    "1159": {
+        "ClientId": 10236,
+        "Id": 1159,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 1110897562
+    },
+    "1160": {
+        "ClientId": 10239,
+        "Id": 1160,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 2118095530
+    },
+    "1161": {
+        "ClientId": 10241,
+        "Id": 1161,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 2099495794
+    },
+    "1162": {
+        "ClientId": 10244,
+        "Id": 1162,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 318664578
+    },
+    "1163": {
+        "ClientId": 10246,
+        "Id": 1163,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 577378826
+    },
+    "1164": {
+        "ClientId": 10248,
+        "Id": 1164,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 2281676746
+    },
+    "1165": {
+        "ClientId": 10250,
+        "Id": 1165,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 99628242
+    },
+    "1166": {
+        "ClientId": 10252,
+        "Id": 1166,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 1522564058
+    },
+    "1167": {
+        "ClientId": 10253,
+        "Id": 1167,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ChargeEfficiency",
+        "DescTextMapHash": 911761730
+    },
+    "1200": {
+        "ClientId": 10255,
+        "Id": 1200,
+        "Show": true,
+        "LevelConfigName": "Level_Explode_Test",
+        "DescTextMapHash": 3671455578
+    },
+    "1201": {
+        "ClientId": 10257,
+        "Id": 1201,
+        "Show": true,
+        "LevelConfigName": "Level_Freeze_Test",
+        "DescTextMapHash": 788007594
+    },
+    "1202": {
+        "ClientId": 10260,
+        "Id": 1202,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 3075480170
+    },
+    "1203": {
+        "ClientId": 10263,
+        "Id": 1203,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 3097333978
+    },
+    "1204": {
+        "ClientId": 10265,
+        "Id": 1204,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 3622277442
+    },
+    "1205": {
+        "ClientId": 10268,
+        "Id": 1205,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 1112585642
+    },
+    "1206": {
+        "ClientId": 10271,
+        "Id": 1206,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 235006458
+    },
+    "1207": {
+        "ClientId": 10273,
+        "Id": 1207,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 2775902610
+    },
+    "1208": {
+        "ClientId": 10274,
+        "Id": 1208,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AtkSpeedLowHP",
+        "DescTextMapHash": 1711662402
+    },
+    "1209": {
+        "ClientId": 10275,
+        "Id": 1209,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AtkSpeedHighHP",
+        "DescTextMapHash": 3905463922
+    },
+    "1210": {
+        "ClientId": 10276,
+        "Id": 1210,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_MoveSpeedLowHP",
+        "DescTextMapHash": 3044417802
+    },
+    "1211": {
+        "ClientId": 10277,
+        "Id": 1211,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_MoveSpeedHighHP",
+        "DescTextMapHash": 575147770
+    },
+    "1212": {
+        "ClientId": 10278,
+        "Id": 1212,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpLowHP",
+        "DescTextMapHash": 3845950114
+    },
+    "1213": {
+        "ClientId": 10279,
+        "Id": 1213,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpHighHP",
+        "DescTextMapHash": 58734794
+    },
+    "1214": {
+        "ClientId": 10280,
+        "Id": 1214,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AtkDefUpAfterULT",
+        "DescTextMapHash": 2666972506
+    },
+    "1215": {
+        "ClientId": 10282,
+        "Id": 1215,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 1653816290
+    },
+    "1216": {
+        "ClientId": 10286,
+        "Id": 1216,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3755675570
+    },
+    "1217": {
+        "ClientId": 10291,
+        "Id": 1217,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 596216162
+    },
+    "1218": {
+        "ClientId": 10296,
+        "Id": 1218,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv5",
+        "DescTextMapHash": 3701229970
+    },
+    "1219": {
+        "ClientId": 10300,
+        "Id": 1219,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 495356306
+    },
+    "1220": {
+        "ClientId": 10303,
+        "Id": 1220,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 2911643466
+    },
+    "1221": {
+        "ClientId": 10307,
+        "Id": 1221,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 1944550002
+    },
+    "1222": {
+        "ClientId": 10310,
+        "Id": 1222,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 750742706
+    },
+    "1300": {
+        "ClientId": 10311,
+        "Id": 1300,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1363988730
+    },
+    "1301": {
+        "ClientId": 10312,
+        "Id": 1301,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3115449794
+    },
+    "1302": {
+        "ClientId": 10313,
+        "Id": 1302,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 282939290
+    },
+    "1303": {
+        "ClientId": 10314,
+        "Id": 1303,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 2739839178
+    },
+    "1304": {
+        "ClientId": 10315,
+        "Id": 1304,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1015211514
+    },
+    "1305": {
+        "ClientId": 10316,
+        "Id": 1305,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3785968906
+    },
+    "1306": {
+        "ClientId": 10321,
+        "Id": 1306,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 813744714
+    },
+    "1307": {
+        "ClientId": 10323,
+        "Id": 1307,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 3251013754
+    },
+    "1308": {
+        "ClientId": 10326,
+        "Id": 1308,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 707189594
+    },
+    "1309": {
+        "ClientId": 10331,
+        "Id": 1309,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 2624390354
+    },
+    "1310": {
+        "ClientId": 10332,
+        "Id": 1310,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ShieldEnhanceAtk",
+        "DescTextMapHash": 3790000890
+    },
+    "1311": {
+        "ClientId": 10333,
+        "Id": 1311,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldDoDamage",
+        "DescTextMapHash": 2984396106
+    },
+    "1312": {
+        "ClientId": 10334,
+        "Id": 1312,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ShieldOnBeingHitDoDamage",
+        "DescTextMapHash": 3541742922
+    },
+    "1313": {
+        "ClientId": 10337,
+        "Id": 1313,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3295992474
+    },
+    "1314": {
+        "ClientId": 10340,
+        "Id": 1314,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3466746018
+    },
+    "1315": {
+        "ClientId": 10342,
+        "Id": 1315,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 3642223034
+    },
+    "1316": {
+        "ClientId": 10345,
+        "Id": 1316,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3295200034
+    },
+    "1317": {
+        "ClientId": 10347,
+        "Id": 1317,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldReduceCD_Ice",
+        "DescTextMapHash": 4134609602
+    },
+    "1318": {
+        "ClientId": 10348,
+        "Id": 1318,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldAtkSpeedUp_Ice",
+        "DescTextMapHash": 561398154
+    },
+    "1319": {
+        "ClientId": 10349,
+        "Id": 1319,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldCriticalUp_Ice",
+        "DescTextMapHash": 3440098746
+    },
+    "1320": {
+        "ClientId": 10357,
+        "Id": 1320,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkSpeed",
+        "DescTextMapHash": 3611770946
+    },
+    "1321": {
+        "ClientId": 10362,
+        "Id": 1321,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeed",
+        "DescTextMapHash": 4294309314
+    },
+    "1322": {
+        "ClientId": 10365,
+        "Id": 1322,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinusDown",
+        "DescTextMapHash": 489720194
+    },
+    "1323": {
+        "ClientId": 10369,
+        "Id": 1323,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SprintBeHurtDamageUp",
+        "DescTextMapHash": 2873480570
+    },
+    "1324": {
+        "ClientId": 10370,
+        "Id": 1324,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Electric",
+        "DescTextMapHash": 2867337282
+    },
+    "1325": {
+        "ClientId": 10371,
+        "Id": 1325,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_CriticalDown",
+        "DescTextMapHash": 4190500042
+    },
+    "1326": {
+        "ClientId": 10372,
+        "Id": 1326,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterULT",
+        "DescTextMapHash": 3020115066
+    },
+    "1327": {
+        "ClientId": 10373,
+        "Id": 1327,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDownHighHP",
+        "DescTextMapHash": 2287250026
+    },
+    "1328": {
+        "ClientId": 10374,
+        "Id": 1328,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_DashStamina_Increment",
+        "DescTextMapHash": 3577949266
+    },
+    "1329": {
+        "ClientId": 10375,
+        "Id": 1329,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SkillCDIncrement",
+        "DescTextMapHash": 3710409466
+    },
+    "1330": {
+        "ClientId": 10376,
+        "Id": 1330,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinus_Ver2",
+        "DescTextMapHash": 3888340418
+    },
+    "1331": {
+        "ClientId": 10377,
+        "Id": 1331,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkSpeed",
+        "DescTextMapHash": 287912642
+    },
+    "1332": {
+        "ClientId": 10378,
+        "Id": 1332,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Fire",
+        "DescTextMapHash": 2338578490
+    },
+    "1333": {
+        "ClientId": 10379,
+        "Id": 1333,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_CriticalHurtDown",
+        "DescTextMapHash": 1884290034
+    },
+    "1334": {
+        "ClientId": 10380,
+        "Id": 1334,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDownLowHP",
+        "DescTextMapHash": 2943473986
+    },
+    "1335": {
+        "ClientId": 10381,
+        "Id": 1335,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AttackUp",
+        "DescTextMapHash": 1282438826
+    },
+    "1336": {
+        "ClientId": 10382,
+        "Id": 1336,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeed",
+        "DescTextMapHash": 843406882
+    },
+    "1337": {
+        "ClientId": 10383,
+        "Id": 1337,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ElementBeHurtDamageDown_Ice",
+        "DescTextMapHash": 3108184218
+    },
+    "1338": {
+        "ClientId": 10384,
+        "Id": 1338,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDefUpHighHP",
+        "DescTextMapHash": 1755901394
+    },
+    "1339": {
+        "ClientId": 10385,
+        "Id": 1339,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_ShieldCostMinusDown",
+        "DescTextMapHash": 4170849074
+    },
+    "1340": {
+        "ClientId": 10386,
+        "Id": 1340,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_PhysicalDown",
+        "DescTextMapHash": 3998443314
+    },
+    "1341": {
+        "ClientId": 10387,
+        "Id": 1341,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkDefUpLowHP",
+        "DescTextMapHash": 184389242
+    },
+    "1342": {
+        "ClientId": 10388,
+        "Id": 1342,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MoveSpeedDown",
+        "DescTextMapHash": 1726065514
+    },
+    "1343": {
+        "ClientId": 10389,
+        "Id": 1343,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SprintBeHurtDamageUp",
+        "DescTextMapHash": 3308214634
+    },
+    "1344": {
+        "ClientId": 10392,
+        "Id": 1344,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 2451588826
+    },
+    "1345": {
+        "ClientId": 10393,
+        "Id": 1345,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Heal_Down_Ver2",
+        "DescTextMapHash": 1028535922
+    },
+    "1346": {
+        "ClientId": 10394,
+        "Id": 1346,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_ChargeEfficiencyDown",
+        "DescTextMapHash": 1719058322
+    },
+    "1347": {
+        "ClientId": 10395,
+        "Id": 1347,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+        "DescTextMapHash": 3884578722
+    },
+    "1348": {
+        "ClientId": 10396,
+        "Id": 1348,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_NoShieldAtkDown",
+        "DescTextMapHash": 3764874674
+    },
+    "1349": {
+        "ClientId": 10397,
+        "Id": 1349,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ChargeEfficiency_Ver2",
+        "DescTextMapHash": 381563794
+    },
+    "1350": {
+        "ClientId": 10398,
+        "Id": 1350,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpLowHP_Ver2",
+        "DescTextMapHash": 3500653562
+    },
+    "1351": {
+        "ClientId": 10399,
+        "Id": 1351,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpHighHP_Ver2",
+        "DescTextMapHash": 3272335986
+    },
+    "1352": {
+        "ClientId": 10400,
+        "Id": 1352,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 782541426
+    },
+    "1353": {
+        "ClientId": 10401,
+        "Id": 1353,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_01",
+        "DescTextMapHash": 1473956554
+    },
+    "1354": {
+        "ClientId": 10402,
+        "Id": 1354,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_02",
+        "DescTextMapHash": 3083179754
+    },
+    "1355": {
+        "ClientId": 10403,
+        "Id": 1355,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_03",
+        "DescTextMapHash": 1539905810
+    },
+    "1356": {
+        "ClientId": 10404,
+        "Id": 1356,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_SpecialAvatarDamageUp_04",
+        "DescTextMapHash": 3198001738
+    },
+    "1357": {
+        "ClientId": 10406,
+        "Id": 1357,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpLowHP_Ver_1_13",
+        "DescTextMapHash": 1523622242
+    },
+    "1358": {
+        "ClientId": 10407,
+        "Id": 1358,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AreaAttackLowHP_Ver_1_13",
+        "DescTextMapHash": 4206201274
+    },
+    "1359": {
+        "ClientId": 10408,
+        "Id": 1359,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AttackUpAreaDamageLowHP_Ver_1_13",
+        "DescTextMapHash": 567287546
+    },
+    "1360": {
+        "ClientId": 10409,
+        "Id": 1360,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_025",
+        "DescTextMapHash": 1887663610
+    },
+    "1361": {
+        "ClientId": 10410,
+        "Id": 1361,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_050",
+        "DescTextMapHash": 3199084258
+    },
+    "1362": {
+        "ClientId": 10411,
+        "Id": 1362,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_100",
+        "DescTextMapHash": 2324193386
+    },
+    "1363": {
+        "ClientId": 10418,
+        "Id": 1363,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 4281087034
+    },
+    "1364": {
+        "ClientId": 10416,
+        "Id": 1364,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ExtraAreaAttack",
+        "DescTextMapHash": 3482174410
+    },
+    "1365": {
+        "ClientId": 10417,
+        "Id": 1365,
+        "LevelConfigName": "LevelEntity_Activity_TowerDefence_AvatarDebuff",
+        "DescTextMapHash": 1091727858
+    },
+    "1366": {
+        "ClientId": 10419,
+        "Id": 1366,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AreaNoEnemyAttackUp_Ver_1_14",
+        "DescTextMapHash": 2153546114
+    },
+    "1367": {
+        "ClientId": 10420,
+        "Id": 1367,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_EnemyDefDownOnFallingAttack_Ver_1_14",
+        "DescTextMapHash": 2081704354
+    },
+    "1368": {
+        "ClientId": 10421,
+        "Id": 1368,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_DropElementBallOnFallingAttack_Ver_1_14",
+        "DescTextMapHash": 23145610
+    },
+    "1369": {
+        "ClientId": 10425,
+        "Id": 1369,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 346622594
+    },
+    "1370": {
+        "ClientId": 10429,
+        "Id": 1370,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ShieldOnBeingHitDoDamage",
+        "DescTextMapHash": 1057181194
+    },
+    "1371": {
+        "ClientId": 10431,
+        "Id": 1371,
+        "Show": true,
+        "LevelConfigName": "ActivityAbility_SuperTrial_FallingAreaAttack",
+        "DescTextMapHash": 1682404442
+    },
+    "1372": {
+        "ClientId": 10433,
+        "Id": 1372,
+        "Show": true,
+        "LevelConfigName": "ActivityAbility_SuperTrial_GainShieldAreaAttack",
+        "DescTextMapHash": 3569750850
+    },
+    "1373": {
+        "ClientId": 10435,
+        "Id": 1373,
+        "Show": true,
+        "LevelConfigName": "ActivityAbility_SuperTrial_HealingReviveElemEnergy",
+        "DescTextMapHash": 18448762
+    },
+    "1374": {
+        "ClientId": 10437,
+        "Id": 1374,
+        "Show": true,
+        "LevelConfigName": "ActivityAbility_SuperTrial_ElementReactionAttack",
+        "DescTextMapHash": 818397130
+    },
+    "1375": {
+        "ClientId": 10439,
+        "Id": 1375,
+        "Show": true,
+        "LevelConfigName": "ActivityAbility_SuperTrial_MeleeAreaAttack",
+        "DescTextMapHash": 1125082842
+    },
+    "1376": {
+        "ClientId": 10441,
+        "Id": 1376,
+        "Show": true,
+        "LevelConfigName": "ActivityAbility_SuperTrial_RangeNoEnemyStaminaReduction",
+        "DescTextMapHash": 1539845554
+    },
+    "1377": {
+        "ClientId": 10442,
+        "Id": 1377,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_Avatar_ShieldOnBeingHitDoDamage_Ver_1_15",
+        "DescTextMapHash": 2458609962
+    },
+    "1378": {
+        "ClientId": 10444,
+        "Id": 1378,
+        "LevelConfigName": "LevelEntity_HpUp_20p",
+        "DescTextMapHash": 2137092786
+    },
+    "1379": {
+        "ClientId": 10446,
+        "Id": 1379,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv2",
+        "DescTextMapHash": 1217814818
+    },
+    "1380": {
+        "ClientId": 10449,
+        "Id": 1380,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 3516956202
+    },
+    "1381": {
+        "ClientId": 10451,
+        "Id": 1381,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 3535287602
+    },
+    "1382": {
+        "ClientId": 10452,
+        "Id": 1382,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_PhysicalHurtUpAreaAttack",
+        "DescTextMapHash": 352431130
+    },
+    "1383": {
+        "ClientId": 10453,
+        "Id": 1383,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ShieldBeingHitDoAttack",
+        "DescTextMapHash": 2681302058
+    },
+    "1384": {
+        "ClientId": 10454,
+        "Id": 1384,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpAreaAttack",
+        "DescTextMapHash": 1420294130
+    },
+    "1401": {
+        "ClientId": 10455,
+        "Id": 1401,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_HpUp",
+        "DescTextMapHash": 1376549770
+    },
+    "1402": {
+        "ClientId": 10456,
+        "Id": 1402,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv2_HpUp",
+        "DescTextMapHash": 1209113762
+    },
+    "1403": {
+        "ClientId": 10457,
+        "Id": 1403,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_HpUp",
+        "DescTextMapHash": 1040336506
+    },
+    "1411": {
+        "ClientId": 10458,
+        "Id": 1411,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_ElecSubHurtDelta",
+        "DescTextMapHash": 501018842
+    },
+    "1412": {
+        "ClientId": 10459,
+        "Id": 1412,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_FireSubHurtDelta",
+        "DescTextMapHash": 3693878986
+    },
+    "1413": {
+        "ClientId": 10460,
+        "Id": 1413,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv2_RockSubHurtDelta",
+        "DescTextMapHash": 3227943610
+    },
+    "1414": {
+        "ClientId": 10461,
+        "Id": 1414,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_Actor_IceSubHurtDelta",
+        "DescTextMapHash": 2101579090
+    },
+    "1415": {
+        "ClientId": 10462,
+        "Id": 1415,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_Actor_WaterSubHurtDelta",
+        "DescTextMapHash": 1948273658
+    },
+    "1416": {
+        "ClientId": 10463,
+        "Id": 1416,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv2_WindSubHurtDelta",
+        "DescTextMapHash": 1953066442
+    },
+    "1417": {
+        "ClientId": 10464,
+        "Id": 1417,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv4_PhysicalSubHurt",
+        "DescTextMapHash": 3072930698
+    },
+    "1418": {
+        "ClientId": 10465,
+        "Id": 1418,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_AtkUp",
+        "DescTextMapHash": 913866530
+    },
+    "1421": {
+        "ClientId": 10466,
+        "Id": 1421,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_ShieldCostMinusDown",
+        "DescTextMapHash": 3896648890
+    },
+    "1422": {
+        "ClientId": 10467,
+        "Id": 1422,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_MoveSpeedDown",
+        "DescTextMapHash": 3182178722
+    },
+    "1423": {
+        "ClientId": 10468,
+        "Id": 1423,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_HealDown",
+        "DescTextMapHash": 1904857938
+    },
+    "1424": {
+        "ClientId": 10469,
+        "Id": 1424,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_ChargeEfficiencyDown",
+        "DescTextMapHash": 2531400490
+    },
+    "1431": {
+        "ClientId": 10470,
+        "Id": 1431,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_DashStaminaUp",
+        "DescTextMapHash": 2272532802
+    },
+    "1432": {
+        "ClientId": 10471,
+        "Id": 1432,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_SkillCDIncrement",
+        "DescTextMapHash": 1800033282
+    },
+    "1433": {
+        "ClientId": 10472,
+        "Id": 1433,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_RecoverStaminaRatioDown",
+        "DescTextMapHash": 3996931146
+    },
+    "1434": {
+        "ClientId": 10473,
+        "Id": 1434,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv1_NoShieldAtkDown",
+        "DescTextMapHash": 4020580866
+    },
+    "1435": {
+        "ClientId": 10474,
+        "Id": 1435,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_AtkDownHighHP",
+        "DescTextMapHash": 3446322066
+    },
+    "1436": {
+        "ClientId": 10475,
+        "Id": 1436,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_AtkDownLowHP",
+        "DescTextMapHash": 404032298
+    },
+    "1437": {
+        "ClientId": 10476,
+        "Id": 1437,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_SpeedDownLowHP",
+        "DescTextMapHash": 3318236874
+    },
+    "1438": {
+        "ClientId": 10477,
+        "Id": 1438,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_SprintBeHurtDamageUp",
+        "DescTextMapHash": 4173284538
+    },
+    "1439": {
+        "ClientId": 10478,
+        "Id": 1439,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv3_BeHurtDamageUpAfterChangeAvatar",
+        "DescTextMapHash": 3003213578
+    },
+    "1440": {
+        "ClientId": 10479,
+        "Id": 1440,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv4_BeHurtDamageUpAfterULT",
+        "DescTextMapHash": 3359924938
+    },
+    "1441": {
+        "ClientId": 10480,
+        "Id": 1441,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Lv2_AtkDownLowHP",
+        "DescTextMapHash": 1588351266
+    },
+    "1451": {
+        "ClientId": 10490,
+        "Id": 1451,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_DeathRattleCrystal_ExtraLifeTime",
+        "DescTextMapHash": 2537501106
+    },
+    "1452": {
+        "ClientId": 10491,
+        "Id": 1452,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_DeathRattleCrystal_ExtraTimes",
+        "DescTextMapHash": 1679500210
+    },
+    "1453": {
+        "ClientId": 10492,
+        "Id": 1453,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Sovereign_ExtraHeal",
+        "DescTextMapHash": 2225924842
+    },
+    "1454": {
+        "ClientId": 10493,
+        "Id": 1454,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EnergyDisk_Sovereign_AtkUp",
+        "DescTextMapHash": 319397050
+    },
+    "1461": {
+        "ClientId": 10494,
+        "Id": 1461,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3407606170
+    },
+    "1462": {
+        "ClientId": 10495,
+        "Id": 1462,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1079412098
+    },
+    "1463": {
+        "ClientId": 10496,
+        "Id": 1463,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 790337874
+    },
+    "1464": {
+        "ClientId": 10497,
+        "Id": 1464,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 4050188194
+    },
+    "1465": {
+        "ClientId": 10498,
+        "Id": 1465,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 2554443354
+    },
+    "1466": {
+        "ClientId": 10499,
+        "Id": 1466,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 2660133498
+    },
+    "1467": {
+        "ClientId": 10500,
+        "Id": 1467,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3297239514
+    },
+    "1385": {
+        "ClientId": 10502,
+        "Id": 1385,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv3",
+        "DescTextMapHash": 2580970362
+    },
+    "1386": {
+        "ClientId": 10503,
+        "Id": 1386,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1858278930
+    },
+    "1387": {
+        "ClientId": 10504,
+        "Id": 1387,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_SwirlDoAttack",
+        "DescTextMapHash": 3423214530
+    },
+    "1388": {
+        "ClientId": 10505,
+        "Id": 1388,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_SwirlReviveElemEnergy",
+        "DescTextMapHash": 97702826
+    },
+    "1389": {
+        "ClientId": 10506,
+        "Id": 1389,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_SwirlDoField",
+        "DescTextMapHash": 1053919306
+    },
+    "1501": {
+        "ClientId": 10507,
+        "Id": 1501,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Monster_HpUp_LV1",
+        "DescTextMapHash": 1549022770
+    },
+    "1502": {
+        "ClientId": 10508,
+        "Id": 1502,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Monster_HpUp_LV2",
+        "DescTextMapHash": 2066644866
+    },
+    "1503": {
+        "ClientId": 10509,
+        "Id": 1503,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Monster_HpUp_LV3",
+        "DescTextMapHash": 2143263842
+    },
+    "1504": {
+        "ClientId": 10510,
+        "Id": 1504,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_IceSubHurtDelta",
+        "DescTextMapHash": 827112514
+    },
+    "1505": {
+        "ClientId": 10511,
+        "Id": 1505,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_ElecSubHurtDelta",
+        "DescTextMapHash": 2035695146
+    },
+    "1506": {
+        "ClientId": 10512,
+        "Id": 1506,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkUp",
+        "DescTextMapHash": 2744344842
+    },
+    "1507": {
+        "ClientId": 10513,
+        "Id": 1507,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_HurtDown",
+        "DescTextMapHash": 2157860034
+    },
+    "1508": {
+        "ClientId": 10514,
+        "Id": 1508,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_SprintBeHurtDamageUp",
+        "DescTextMapHash": 2718579618
+    },
+    "1509": {
+        "ClientId": 10515,
+        "Id": 1509,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+        "DescTextMapHash": 4040337738
+    },
+    "1510": {
+        "ClientId": 10516,
+        "Id": 1510,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkDownHighHP",
+        "DescTextMapHash": 762668050
+    },
+    "1511": {
+        "ClientId": 10517,
+        "Id": 1511,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkTriggerAoe_LV1",
+        "DescTextMapHash": 396507178
+    },
+    "1512": {
+        "ClientId": 10518,
+        "Id": 1512,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkTriggerAoe_LV2",
+        "DescTextMapHash": 1950771986
+    },
+    "1513": {
+        "ClientId": 10519,
+        "Id": 1513,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkTriggerAoe_LV3",
+        "DescTextMapHash": 3434716170
+    },
+    "1514": {
+        "ClientId": 10520,
+        "Id": 1514,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkUpWhenNoHarm_LV1",
+        "DescTextMapHash": 1459880666
+    },
+    "1515": {
+        "ClientId": 10521,
+        "Id": 1515,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkUpWhenNoHarm_LV2",
+        "DescTextMapHash": 1005372402
+    },
+    "1516": {
+        "ClientId": 10522,
+        "Id": 1516,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidA_AtkUpWhenNoHarm_LV3",
+        "DescTextMapHash": 1974511170
+    },
+    "1517": {
+        "ClientId": 10523,
+        "Id": 1517,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoA_FireSubHurtDelta",
+        "DescTextMapHash": 1550096002
+    },
+    "1518": {
+        "ClientId": 10524,
+        "Id": 1518,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoA_WaterSubHurtDelta",
+        "DescTextMapHash": 1059757674
+    },
+    "1519": {
+        "ClientId": 10525,
+        "Id": 1519,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoA_AtkUp",
+        "DescTextMapHash": 1767644906
+    },
+    "1520": {
+        "ClientId": 10526,
+        "Id": 1520,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoA_LowHPTriggerLoseHP",
+        "DescTextMapHash": 3824369698
+    },
+    "1521": {
+        "ClientId": 10527,
+        "Id": 1521,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_BeHurtDamageUpAfterULT",
+        "DescTextMapHash": 3784860994
+    },
+    "1522": {
+        "ClientId": 10528,
+        "Id": 1522,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoA_AtkDownHighHP",
+        "DescTextMapHash": 2604689882
+    },
+    "1523": {
+        "ClientId": 10529,
+        "Id": 1523,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_SkillCDIncrementAtkUp_LV1",
+        "DescTextMapHash": 685040498
+    },
+    "1524": {
+        "ClientId": 10530,
+        "Id": 1524,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_SkillCDIncrementAtkUp_LV2",
+        "DescTextMapHash": 2078886810
+    },
+    "1525": {
+        "ClientId": 10531,
+        "Id": 1525,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_SkillCDIncrementAtkUp_LV3",
+        "DescTextMapHash": 205860914
+    },
+    "1526": {
+        "ClientId": 10532,
+        "Id": 1526,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Samurai_NingyoA_RockSubHurtDelta",
+        "DescTextMapHash": 306345906
+    },
+    "1527": {
+        "ClientId": 10533,
+        "Id": 1527,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Samurai_NingyoA_WindSubHurtDelta",
+        "DescTextMapHash": 1567882810
+    },
+    "1528": {
+        "ClientId": 10534,
+        "Id": 1528,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Samurai_NingyoA_AtkUp",
+        "DescTextMapHash": 532951162
+    },
+    "1529": {
+        "ClientId": 10535,
+        "Id": 1529,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_BeHurtDamageUpAfterChangeAvatar",
+        "DescTextMapHash": 3505183090
+    },
+    "1530": {
+        "ClientId": 10536,
+        "Id": 1530,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoB_OnAvatarIn_AtkDown",
+        "DescTextMapHash": 2990562770
+    },
+    "1531": {
+        "ClientId": 10537,
+        "Id": 1531,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoB_SprintAreaAttack_LV1",
+        "DescTextMapHash": 1065780402
+    },
+    "1532": {
+        "ClientId": 10538,
+        "Id": 1532,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoB_SprintAreaAttack_LV2",
+        "DescTextMapHash": 1275740162
+    },
+    "1533": {
+        "ClientId": 10539,
+        "Id": 1533,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoB_SprintAreaAttack_LV3",
+        "DescTextMapHash": 3802025082
+    },
+    "1534": {
+        "ClientId": 10540,
+        "Id": 1534,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_FireSubHurtDelta",
+        "DescTextMapHash": 1548486514
+    },
+    "1535": {
+        "ClientId": 10541,
+        "Id": 1535,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_PhysicalSubHurt",
+        "DescTextMapHash": 2595243306
+    },
+    "1536": {
+        "ClientId": 10542,
+        "Id": 1536,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_AtkUp",
+        "DescTextMapHash": 2453893074
+    },
+    "1537": {
+        "ClientId": 10543,
+        "Id": 1537,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_ShieldCostMinusDown",
+        "DescTextMapHash": 3524252586
+    },
+    "1538": {
+        "ClientId": 10544,
+        "Id": 1538,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_CritLoseHp",
+        "DescTextMapHash": 3930569010
+    },
+    "1539": {
+        "ClientId": 10545,
+        "Id": 1539,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_BeHurtDamageUpAfterULT",
+        "DescTextMapHash": 160827682
+    },
+    "1540": {
+        "ClientId": 10546,
+        "Id": 1540,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_FrozenRevive",
+        "DescTextMapHash": 433744402
+    },
+    "1541": {
+        "ClientId": 10547,
+        "Id": 1541,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_LowHpAtkUpAndTriggerAoe_LV1",
+        "DescTextMapHash": 2246115770
+    },
+    "1542": {
+        "ClientId": 10548,
+        "Id": 1542,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_LowHpAtkUpAndTriggerAoe_LV2",
+        "DescTextMapHash": 943201850
+    },
+    "1543": {
+        "ClientId": 10549,
+        "Id": 1543,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_OceanidB_LowHpAtkUpAndTriggerAoe_LV3",
+        "DescTextMapHash": 1750346978
+    },
+    "1544": {
+        "ClientId": 10550,
+        "Id": 1544,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_ShieldLv1",
+        "DescTextMapHash": 3340538730
+    },
+    "1545": {
+        "ClientId": 10551,
+        "Id": 1545,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_ShieldLv2",
+        "DescTextMapHash": 2486347474
+    },
+    "1546": {
+        "ClientId": 10552,
+        "Id": 1546,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_ShieldLv3",
+        "DescTextMapHash": 1247268882
+    },
+    "1547": {
+        "ClientId": 10553,
+        "Id": 1547,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_SkillCDIncrement",
+        "DescTextMapHash": 974625578
+    },
+    "1548": {
+        "ClientId": 10554,
+        "Id": 1548,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Drake_PrimoB_HasShieldSpeedDown",
+        "DescTextMapHash": 3425661842
+    },
+    "1549": {
+        "ClientId": 10555,
+        "Id": 1549,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_ChargeDown",
+        "DescTextMapHash": 2174932306
+    },
+    "1550": {
+        "ClientId": 10556,
+        "Id": 1550,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_HealDown",
+        "DescTextMapHash": 3791850650
+    },
+    "1551": {
+        "ClientId": 10557,
+        "Id": 1551,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_01",
+        "DescTextMapHash": 1203913058
+    },
+    "1552": {
+        "ClientId": 10558,
+        "Id": 1552,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_02",
+        "DescTextMapHash": 2762036770
+    },
+    "1553": {
+        "ClientId": 10559,
+        "Id": 1553,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_03",
+        "DescTextMapHash": 3463719874
+    },
+    "1554": {
+        "ClientId": 10560,
+        "Id": 1554,
+        "LevelConfigName": "LevelEntity_EffigyChallenge2_SpecialAvatarDamageUp_04",
+        "DescTextMapHash": 578374994
+    },
+    "1555": {
+        "ClientId": 10561,
+        "Id": 1555,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_Samurai_NingyoA_CritDownAfterBurst",
+        "DescTextMapHash": 774177122
+    }
+}

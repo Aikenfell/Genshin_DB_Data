@@ -1,0 +1,1420 @@
+{
+    "\u884c\u8005\u4e4b\u5fc3": {
+        "Bonuses": [
+            [
+                "2",
+                "\u653b\u64ca\u529b\u63d0\u9ad818%\u3002"
+            ],
+            [
+                "4",
+                "\u91cd\u64ca\u7684\u66b4\u64ca\u7387\u63d0\u534730%\u3002"
+            ]
+        ],
+        "SID": "10001",
+        "Set Pieces": {
+            "Flower": [
+                "\u6545\u4eba\u4e4b\u5fc3",
+                "\u7389\u85cd\u8272\u7684\u5c0f\u82b1\uff0c\u82b1\u8396\u4e0a\u7e6b\u8457\u8ab0\u4eba\u7684\u7d72\u5e36\u3002",
+                "\nThe traveler from a distant land pinned this flower close to his chest.\n\nThe traveler left a life of great privilege to pursue a wandering, unburdened life.\nIn a foreign land, by a clear lake of sweet waters, he met a frowning maiden.\n\n\"A traveler from afar? ...Huh. Not like it matters.\"\n\"You're a musician? Well then, pray do not insult me with empty praises or song.\"\n\"Just remember me as I am.\"\n\"As one about to be offered up as a sacrifice for the 'festival.'\"\n\nThe traveler who had abandoned his homeland pinned this flower close to his chest.\nHe wished to remind himself to love no one, and become attached to nothing.\nYet he would remember that maiden as he had promised, and walk into the fire for her sake...\n",
+                "10001_Fl"
+            ],
+            "Feather": [
+                "\u6b78\u9109\u4e4b\u7fbd",
+                "\u85cd\u8272\u7684\u7bad\u7fbd\uff0c\u5176\u4e0a\u51dd\u7d50\u8457\u65c5\u4eba\u6d88\u901d\u9060\u53bb\u7684\u7737\u6200\u3002",
+                "\nHope was ripped to shreds by ruthless might, and promises of reunion disappeared like fleeting shadows.\nThe wandering traveler had once against lost a place to call home.\n\nThe condescending evil stole his love's joy,\nAnd the endless conflict ground down his irreverent soul.\nThose gentle, playful rhythms of revelry,\nNow turned to sharp, icy clangs.\n\nFor his comrades, for his best friend, for the tables around which none would again share wine.\nFor freedom, for life, and for revenge against the evil that had taken her smile.\nThus resolved, the traveler plucked his last string, and fired his final arrow.\n\nAs he grew accustomed to life in this foreign land, he gazed up at the azure sky.\nAh, so the sky here was the same as the one back in his homeland...\n",
+                "10001_Fe"
+            ],
+            "Timepiece": [
+                "\u9010\u5149\u4e4b\u77f3",
+                "\u98fd\u7d93\u6ec4\u6851\u7684\u6642\u6677\uff0c\u6c38\u9060\u5728\u975c\u9ed8\u4e2d\u8a18\u9304\u8457\u65e5\u6708\u5faa\u74b0\u3002",
+                "\nThe traveler pursued both fate and the inexorable passage of time.\nThe troupe that resisted the aristocracy \u2014 and their end \u2014 could be seen the eternal flow of time.\n\nIn the course of a long journey, even the most well-made watch might cease to work.\nThe only unfailing marker of time was the passage of the sun and moon.\nSo to chase formless time, the traveler could only pursue light itself.\n\nThe great halls of the nobility, and the rebellious troupe with no room to lay their heads.\nBoth were churned just the same by the flow of time, and both like fleeting dreams raced towards the same destruction.\n\nUnder the moonless night sky, the dark shadows drew upon the outlander's tired face.\n\"The songs are spent like arrows few, to the choir the curtain calls.\"\n\"Shall I ever see you smile anew, when the tower in the city square falls?\"",
+                "10001_Ti"
+            ],
+            "Goblet": [
+                "\u7570\u570b\u4e4b\u76de",
+                "\u6a38\u7d20\u7684\u767d\u74f7\u9152\u676f\uff0c\u66fe\u7d93\u76c8\u6eff\u4e86\u6b61\u6109\u7684\u9152\u6c34\u3002",
+                "\nA lyre has 4 strings.\nThe days he spent with his comrades in the \"troupe\" were probably the happiest in his life of wandering.\nAt first, it was just a chance meeting with the conductor \u2014 but for the invisible strings of fate.\nFirst came the girl who used a flute as a sword, and then that fellow Kreuzlied \u2014 one by one, the traveler met them all.\n\nIn the joyous tavern, the lyrist introduced a maiden he had met by chance to his comrades amidst the singing and dancing.\nThe drunken traveler strummed the strings and sang in a loud voice.\n\nWith them by his side, he would never have to travel alone again...\nPerhaps it would be alright to walk with them till journey's end.",
+                "10001_Go"
+            ],
+            "Headpiece": [
+                "\u611f\u5225\u4e4b\u51a0",
+                "\u6563\u767c\u7684\u6625\u98a8\u6c23\u606f\u7684\u67f3\u51a0\u3002",
+                "\nThe departing traveler would take this crown of willow branches as a final memento.\nWith it, he would remember his lover, now departed like a dandelion on the breeze.\n\nThe traveler was the wandering lyrist, and that maiden in the country of wine was a prisoner of the nobility.\nFor reasons he knew not himself, his lyre-song revealed his true heart.\n\n\"What would move me, you ask? ...Well, it would be your smile.\"\n\"I've never known you to smile, after all. Not even once.\"\n\"I will break the chains that bind you.\"\n\"When that time comes, would you let me see you smile?\"\n\n\"Yes, and thank you. It would be wonderful indeed if you could do that.\"\nPretty words, but who could trust them, coming from a singer?",
+                "10001_He"
+            ]
+        }
+    },
+    "\u52c7\u58eb\u4e4b\u5fc3": {
+        "Bonuses": [
+            [
+                "2",
+                "\u653b\u64ca\u529b\u63d0\u9ad818%\u3002"
+            ],
+            [
+                "4",
+                "\u5c0d\u751f\u547d\u503c\u9ad8\u65bc50%\u7684\u6575\u4eba\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u589e\u52a030%\u3002"
+            ]
+        ],
+        "SID": "10002",
+        "Set Pieces": {
+            "Flower": [
+                "\u52c7\u58eb\u7684\u52f3\u7ae0",
+                "\u5225\u5728\u80f8\u524d\u7684\u6a38\u5be6\u5c0f\u82b1\uff0c\u662f\u4e00\u6b21\u5192\u96aa\u5f8c\u5f97\u5230\u7684\u7d00\u5ff5\u54c1\u3002",
+                "\nThe little hero slipped out of doors by night, and with his friend rushed headlong into the wolves' forest.\nWith his slingshot he chased boars, and with sturdy branches he would battle imaginary monsters.\nFollowing the shining Seelie deep into the woods, he discovered a treasure that had laid buried for a thousand years.\n\nThat treasure was a small yellow flower.\n\nWhen the tired hero returned to his childhood bedroom, and flipped through the proof of his first adventures,\nHe discovered to his surprise that the long-hidden flower had yet to wilt.\nYet in this it was alone, for everything else had changed with the passing of years.\n",
+                "10002_Fl"
+            ],
+            "Feather": [
+                "\u52c7\u58eb\u7684\u671f\u8a31",
+                "\u660e\u4eae\u7684\u9cf4\u79bd\u7fce\u7fbd\u3002\u80fd\u5e36\u4f86\u5c0f\u5c0f\u7684\u52c7\u6c23\u3002",
+                "\nTo comfort his crybaby of a companion, the young hero gave his friend a bird's feather.\nThis was proof of their shared adventure, of the treasure they found together, and was meant to embolden his comrade.\n\nMuch later, one of them was named a \"lion,\"\nAnd became a crownless king at the head of many knights.\nThe other became a \"wolf,\"\nSupporting his friend from the shadows, and running affairs of state.\n\nIn those turbulent times, the two defended their home and each other like sword and dagger.\nBut this was a story from long ago.\nSo many were lost during the cataclysm.\n",
+                "10002_Fe"
+            ],
+            "Timepiece": [
+                "\u52c7\u58eb\u7684\u5805\u6bc5",
+                "\u8001\u820a\u7684\u5fae\u578b\u6c99\u6f0f\uff0c\u4e0d\u5177\u6709\u5be6\u7528\u6027\u3002\u8207\u6b72\u6708\u4e00\u6a23\u4e0d\u53ef\u6349\u6478\u3002",
+                "\nWhen the black curses poured forth, and the roots of disaster infested the earth,\nThe knights, on expedition in a foreign land, would face the horror head on, their formation steely as the northern glaciers.\n\nThe steel of their greatswords flashed brightly, and the dark ichor fell like poisoned rain.\n\nAt last the hero returned home, but this time, without his old friend.\nSo much had changed, save for the hourglass that childhood companion had gifted him.\n",
+                "10002_Ti"
+            ],
+            "Goblet": [
+                "\u52c7\u58eb\u7684\u58ef\u884c",
+                "\u6728\u88fd\u7684\u7c97\u7cd9\u5bb9\u5668\uff0c\u5176\u4e2d\u7a7a\u6d1e\u6d1e\u5730\u76db\u6eff\u4e86\u56de\u61b6\u3002",
+                "\nThe young hero's first battle ended, and for the first time he tasted the sweet wine of victory.\nThat day, deep of the vine he drank together with his closest friend \u2014 supportive, joyful, and blissfully ignorant.\n\nMany years later, when the cataclysm came, he led the knights to fight for his homeland.\nOn the eve of battle, he advised his childhood friend and long-time deputy to come drink with him.\n\n\"If you do not return, I will not mourn you.\"\n\"Nay, I will toast you, and drink in your honor, just as we do today.\"\n",
+                "10002_Go"
+            ],
+            "Headpiece": [
+                "\u52c7\u58eb\u7684\u51a0\u5195",
+                "\u7c97\u7565\u7de8\u6210\u7684\u8349\u74b0\u3002\u5c0d\u4e00\u4e9b\u4eba\u4f86\u8aaa\uff0c\u5c31\u8ddf\u738b\u8005\u7684\u91d1\u51a0\u4e00\u6a23\u8cb4\u91cd\u5427\u3002",
+                "\nThe little hero entered the deep, mysterious forest, and henceforth walked the path of resistance.\nHis best playmate played the role of the champion knight of the aristocracy.\n\n\"Like a lion I stride the battlefield, like she did a thousand years before.\"\n\"Songs I will inspire with my sword, to give to generations to come.\"\n\nTheir toy greatswords and tree branches clashed in their fierce duel\u2014\nTill at last the hero won the day, and seized the aristocrats' crowns from their heads.\n\nMany years later, this wreath of flowers, though crudely made,\nWould seem more precious still than the power a master of knights held...",
+                "10002_He"
+            ]
+        }
+    },
+    "\u5b88\u8b77\u4e4b\u5fc3": {
+        "Bonuses": [
+            [
+                "2",
+                "\u9632\u79a6\u529b\u63d0\u9ad830%\u3002"
+            ],
+            [
+                "4",
+                "\u968a\u4f0d\u88e1\u81ea\u5df1\u7684\u89d2\u8272\u6bcf\u6709\u4e0d\u540c\u4e00\u7a2e\u7684\u5143\u7d20\u985e\u578b\uff0c\u81ea\u8eab\u7372\u5f9730%\u76f8\u61c9\u7684\u5143\u7d20\u6297\u6027\u3002"
+            ]
+        ],
+        "SID": "10003",
+        "Set Pieces": {
+            "Flower": [
+                "\u5b88\u8b77\u4e4b\u82b1",
+                "\u5b88\u8b77\u8005\u73cd\u8996\u7684\u9cf6\u5c3e\u82b1\u3002\u4e26\u6c92\u6709\u6a5f\u6703\u9001\u7d66\u50be\u5fc3\u7684\u4eba\u3002",
+                "\nOnly that maiden's clear voice,\nCould cause the guardian's brow to come unbound.\n\nTheir time together was short.\nAt last, the knight's blood would run dry,\nAs would her tears and her songs.\n",
+                "10003_Fl"
+            ],
+            "Feather": [
+                "\u5b88\u8b77\u5fbd\u5370",
+                "\u8c61\u5fb5\u8457\u67d0\u4eba\u300c\u6e34\u671b\u6210\u70ba\u5805\u76fe\u300d\u7684\u7fbd\u884c\u5225\u91dd\u3002",
+                "\nThe shield-crest engraved upon this quill glitters in the pale moonlight.\nLong ago, this light would strike fear into the hearts of evildoers and thieves.\n\nThe guardian had a very precious knightly title.\nBut at night, he would disguise his crest and face beneath a mantle.\nThus, he could shake off his restraints and do that which needed to be done\u2014\n\u2014Yet could not be done by an upright knight in good standing.\n",
+                "10003_Fe"
+            ],
+            "Timepiece": [
+                "\u5b88\u8b77\u5ea7\u9418",
+                "\u5c55\u793a\u7576\u4e0b\u6642\u9593\u7684\u5c0f\u9053\u5177\uff0c\u5728\u6c92\u6709\u6708\u4eae\u7684\u9ed1\u591c\u88e1\u662f\u552f\u4e00\u7684\u6642\u9593\u53c3\u7167\u3002",
+                "\nThe ticking of the clock's hands, the candlelight, and the reams of case notes,\nThe shadows by moonlight, the blade and black mantle,\nThese were the constant companions of the lonesome guardian.\nBut no matter how far he went, there was never enough time.\nHis superior, carefree and proud, often laughed at his curtness, his unsmiling face, his aversion to fun.\n\nBut the guardian was not one to look back on the past \u2014 only to the present and future.\nOnly by reaving every last trace of evil, no matter the means,\nCould he ensure that this land that his friend and superior loved could have a future without fear.\n\nOnly when he gazed on that maiden in the square,\nCould he think upon things he had no time for.\n\nOnly then could he think about his own future...",
+                "10003_Ti"
+            ],
+            "Goblet": [
+                "\u5b88\u8b77\u4e4b\u76bf",
+                "\u91d1\u5c6c\u7684\u5bb9\u5668\u3002\u53ef\u4ee5\u7528\u4f86\u76db\u88dd\u67d0\u7a2e\u80fd\u6392\u9063\u6f2b\u9577\u5b88\u671b\u5e36\u4f86\u7684\u5b64\u7368\u7684\u6db2\u9ad4\u3002",
+                "\nAn exceedingly ordinary old wine canteen.\nIf one had to point out something special about it,\nIt would be that it never once contained a drop of alcohol.\n\n\"Come on, you have to try a little wine sometime.\"\nThe guardian's longtime friend and superior joked.\n\"Quit knitting those eyebrows together, have a little wine and song!\"\n\"I mean, that's how we have the courage to face tomorrow.\"\n",
+                "10003_Go"
+            ],
+            "Headpiece": [
+                "\u5b88\u8b77\u675f\u5e36",
+                "\u88ab\u591c\u8272\u67d3\u6210\u975b\u9752\u7684\u7e54\u7269\u3002\u80fd\u5728\u7dca\u6025\u6642\u523b\u5145\u7576\u7e43\u5e36\u3002",
+                "\nAlways have a backup plan\u2014\nHe wore this headband to remind himself of that axiom.\nIn an emergency, it could also serve as a tourniquet.\n\nBy this creed he taught his swordsmanship to the knights under his friend's command.\nBy this credo he also mentored a white knight who loved justice above all else.\nIn its name he nipped many seedlings that might have blossomed into evil in the bud.\n\nAs long as he was sufficiently prepared,\nEven if one day, he should be unable to defend this land,\nOr protect his friend, or that maiden who loved to sing...",
+                "10003_He"
+            ]
+        }
+    },
+    "\u5947\u8e5f": {
+        "Bonuses": [
+            [
+                "2",
+                "\u6240\u6709\u5143\u7d20\u6297\u6027\u63d0\u9ad820%\u3002"
+            ],
+            [
+                "4",
+                "\u53d7\u5230\u67d0\u500b\u5143\u7d20\u985e\u578b\u7684\u50b7\u5bb3\u5f8c\uff0c\u76f8\u61c9\u7684\u5143\u7d20\u6297\u6027\u63d0\u534730%\uff0c\u6301\u7e8c10\u79d2\u3002\u8a72\u6548\u679c\u6bcf10\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002"
+            ]
+        ],
+        "SID": "10004",
+        "Set Pieces": {
+            "Flower": [
+                "\u5947\u8e5f\u4e4b\u82b1",
+                "\u5ca9\u77f3\u4e4b\u4e2d\u751f\u9577\u51fa\u4f86\u7684\u82b1\u3002\u80fd\u5920\u88c2\u7a7f\u5805\u786c\u7684\u5ca9\u58c1\uff0c\u662f\u56e0\u70ba\u82b1\u8ffd\u5c0b\u8457\u5149\u3002",
+                "\nA little blue flower that sprouted between the cracks of an old tombstone.\nThe carvings on the tombstone are a legacy of death, yet what sprouted from its cracks was the miracle of life.\n",
+                "10004_Fl"
+            ],
+            "Feather": [
+                "\u5947\u8e5f\u4e4b\u7fbd",
+                "\u4f86\u81ea\u901f\u5ea6\u6975\u5feb\u7684\u731b\u79bd\uff0c\u90a3\u5947\u8e5f\u822c\u7684\u4e00\u64ca\u8089\u773c\u5e7e\u4e4e\u7121\u6cd5\u6355\u6349\u3002",
+                "\nPlucked from a falcon that was as fast as the wind. The mere existence of such a bird is a miracle.\nIt was gifted with clear vision and sharp claws.\nWith its broad wings, its gliding speed was unparalleled.\n",
+                "10004_Fe"
+            ],
+            "Timepiece": [
+                "\u5947\u8e5f\u4e4b\u6c99",
+                "\u770b\u8d77\u4f86\u662f\u5c0b\u5e38\u7684\u6c99\u6f0f\uff0c\u4e7e\u6db8\u7684\u6c99\u792b\u96a8\u8457\u7ffb\u8f49\u904b\u52d5\u50cf\u6c34\u4e00\u6a23\u6d41\u52d5\u3002",
+                "\nIt is often said that one may achieve victory by striving, but receive a miracle only by waiting.\nBut is it not a miracle that fine sand was once a hard rock?\nIs it not too a miracle that we met each other?\n",
+                "10004_Ti"
+            ],
+            "Goblet": [
+                "\u5947\u8e5f\u4e4b\u676f",
+                "\u6c11\u9593\u6d41\u50b3\u7684\u7b97\u547d\u5100\u5f0f\u4f7f\u7528\u7684\u676f\u5b50\uff0c\u4e5f\u53ef\u4ee5\u88dd\u6c34\u3002",
+                "\nA clear goblet glittering with starlight.\nIn the past it was used to tell fortunes,\nFor the water it held was believed to reflect the Starry Sea.\n",
+                "10004_Go"
+            ],
+            "Headpiece": [
+                "\u5947\u8e5f\u8033\u589c",
+                "\u4fbf\u5b9c\u7684\u98fe\u7269\uff0c\u537b\u662f\u9060\u53e4\u6642\u4ee3\u7684\u9695\u661f\u5e36\u4f86\u7684\u5947\u7279\u7684\u91d1\u5c6c\u88fd\u6210\u3002",
+                "\nAn inexpensive pair of earrings made from metal that shines like the stars.\nWhat the sellers don't know is that the shine of these earrings comes from the fallen stars of ancient times.\n",
+                "10004_He"
+            ]
+        }
+    },
+    "\u6230\u72c2": {
+        "Bonuses": [
+            [
+                "2",
+                "\u66b4\u64ca\u7387\u63d0\u9ad812%\u3002"
+            ],
+            [
+                "4",
+                "\u751f\u547d\u503c\u4f4e\u65bc70%\u6642\uff0c\u66b4\u64ca\u7387\u984d\u5916\u63d0\u534724%\u3002"
+            ]
+        ],
+        "SID": "10005",
+        "Set Pieces": {
+            "Flower": [
+                "\u6230\u72c2\u7684\u8594\u8587",
+                "\u88ab\u67d3\u7d05\u7684\u7cbe\u7dfb\u82b1\u6735\uff0c\u8207\u72c2\u6230\u58eb\u7684\u6c23\u8cea\u5fae\u5999\u5730\u76f8\u7b26\u3002",
+                "\nIn the days before the berserker descended into madness, he would sometimes pause in the rose garden for a moment to himself.\nHe had never had a family, nor had he a lover, or a friend.\nWhen he was not on the battlefield, he would come here to tend to the fragile flowers in the garden with all his heart,\nas if the crimson flowers buried in the thorns were the only warmth he could cling to.\n",
+                "10005_Fl"
+            ],
+            "Feather": [
+                "\u6230\u72c2\u7684\u7fce\u7fbd",
+                "\u539f\u672c\u50b3\u8aaa\u4e2d\u5831\u55aa\u4e4b\u9ce5\u7684\u9eef\u85cd\u5c3e\u7fbd\uff0c\u4e00\u90e8\u5206\u88ab\u67d3\u6210\u4e86\u7d05\u8272\u3002",
+                "\nThe once-sane berserker's homeland fell victim to the raging war between gods and mortals.\nThe rose garden burst into flames and birds of omen fed on the flesh of his countrymen.\nReborn in flames, vengeance and bloodlust took over the warrior's mind, turning him into a berserker.\nBlack feathers, scattered on the battlefield, were painted red by his rage as he took his revenge.\n",
+                "10005_Fe"
+            ],
+            "Timepiece": [
+                "\u6230\u72c2\u7684\u6642\u8a08",
+                "\u6c38\u9060\u7121\u60c5\u6d41\u52d5\u8457\u7684\u5668\u7269\u3002\u63d0\u9192\u8457\u72c2\u6230\u58eb\u81ea\u5df1\u5728\u6230\u5834\u4e0a\u7684\u6642\u9650\uff0c\u548c\u5728\u4eba\u4e16\u9593\u7684\u6642\u9650\u3002",
+                "\nThe end inevitably comes for all, even the seemingly invincible berserker.\nAs the blood on his hands finally dried up, the berserker's footsteps began to falter.\nHis life was destined to end the moment he met his last challenger on the battlefield.\nOn the battlefield where blood flowed like rivers, his hourglass was painted red by the setting sun.\n",
+                "10005_Ti"
+            ],
+            "Goblet": [
+                "\u6230\u72c2\u7684\u9aa8\u676f",
+                "\u4ee5\u4e0d\u77e5\u540d\u7684\u5de8\u5927\u7378\u985e\u9aa8\u982d\u88fd\u6210\u7684\u676f\u3002\u662f\u67d0\u6b21\u5edd\u6bba\u5f8c\u5f97\u5230\u7684\u7375\u7372\u3002",
+                "\nThe bloodthirsty berserker ravaged the lands, fighting humans and monsters alike, and even challenged the gods.\nIn a barren and lifeless land, he encountered a giant monster.\nHis iron mask could not conceal his rage, and so an endless fight ensued.\nHours, days, and years passed. The monster was finally defeated.\nThe berserker sucked out the marrow of the monster's broken horn. This was how the victor drank to his success.\n",
+                "10005_Go"
+            ],
+            "Headpiece": [
+                "\u6230\u72c2\u7684\u9b3c\u9762",
+                "\u5728\u4e0d\u9867\u751f\u6b7b\u7684\u5edd\u6bba\u4e2d\u7834\u788e\u4e00\u534a\u7684\u99ed\u4eba\u9435\u88fd\u9762\u5177\u3002",
+                "\nBathed in the flames that devoured his homeland, the berserker's face was no longer recognizable.\nThe iron mask became joined with his flesh, permanently branding his face with a heartless countenance.\nThen, in a fierce battle, his horrifying mask was split into two by his opponent.\nThe cracks of the mask tore apart the flesh that had long stuck to it.\nBut neither pain nor blood could stop the berserker's unfaltering footsteps.\nThe berserker kept roaring until the fresh blood covered the black clots hardened on his face.\n",
+                "10005_He"
+            ]
+        }
+    },
+    "\u6b66\u4eba": {
+        "Bonuses": [
+            [
+                "2",
+                "\u666e\u901a\u653b\u64ca\u8207\u91cd\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff1b"
+            ],
+            [
+                "4",
+                "\u65bd\u653e\u5143\u7d20\u6230\u6280\u5f8c\u76848\u79d2\u5167\uff0c\u666e\u901a\u653b\u64ca\u548c\u91cd\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534725%\u3002"
+            ]
+        ],
+        "SID": "10006",
+        "Set Pieces": {
+            "Flower": [
+                "\u6b66\u4eba\u7684\u7d05\u82b1",
+                "\u552f\u7368\u6b64\u7a2e\u7d05\u82b1\u80fd\u8b93\u6b66\u4eba\u66ab\u6642\u5fd8\u537b\u75db\u82e6\u3002",
+                "\nEver since being recognized by the master, the martial artist had been practicing every day for years.\nThe path of pursuing martial arts is long and harsh, and injuries are inevitable.\nAs instructed, he plucked a small crimson flower in the forest.\nAlthough his proud battle scars will never fully heal, at least the pain can be alleviated.\n",
+                "10006_Fl"
+            ],
+            "Feather": [
+                "\u6b66\u4eba\u7684\u7fbd\u98fe",
+                "\u96a8\u8655\u53ef\u898b\u7684\u9ce5\u985e\u843d\u6bdb\uff0c\u9ad8\u624b\u7528\u4f86\u7df4\u7fd2\u529b\u9053\uff0c\u65b0\u624b\u5247\u7528\u4f86\u88fd\u6210\u6247\u5b50\u3002",
+                "\nA feather plucked from a bird soaring in the sky by a skillful martial artist.\nThe essence of martial arts is not necessarily about the power of attacks.\nAgility and nimbleness honed over years of training are just as prideworthy for a martial artist.\nThe martial artist will wear the feather on his chest as proof of his unparalleled skills.\n",
+                "10006_Fe"
+            ],
+            "Timepiece": [
+                "\u6b66\u4eba\u7684\u6c34\u6f0f",
+                "\u9032\u884c\u8010\u529b\u935b\u7149\u6642\u8a08\u6642\u7684\u5c0f\u9053\u5177\uff0c\u6bd4\u6c99\u6f0f\u7684\u6d41\u8f49\u66f4\u52a0\u7a69\u5b9a\u3002",
+                "\nAn hourglass that uses the flow of water to measure the passage of time. The martial artist would have it with him at all times.\nWhen he was training under the waterfall or practicing a single leg stance on the stake,\nhe endured all the pain and suffering alone.\nThis time piece recorded every second of it in silence.\n",
+                "10006_Ti"
+            ],
+            "Goblet": [
+                "\u6b66\u4eba\u7684\u9152\u676f",
+                "\u7a0d\u5fae\u6709\u9ede\u7cbe\u7dfb\u7684\u9152\u676f\uff0c\u662f\u50c5\u5728\u6b66\u4eba\u4e0a\u5834\u524d\u4f7f\u7528\u7684\u5100\u5f0f\u5668\u5177\u3002",
+                "\nBefore proudly stepping into the arena, a parting ritual with a glass of fine wine is essential for martial artists.\nEach of them faced with a worthy opponent, two martial artists will raise their glasses to one another.\nThey then step into the arena with a calm and collected composure to face their opponent with the utmost respect.\nThis is the true meaning of the toast, which comes before the fight takes place. It does not serve to glorify victory or cast shame on defeat.\n",
+                "10006_Go"
+            ],
+            "Headpiece": [
+                "\u6b66\u4eba\u7684\u982d\u5dfe",
+                "\u5165\u9580\u7b2c\u4e00\u4ef6\u4e8b\uff0c\u7cbe\u6c23\u795e\u3002\u7d81\u4e0a\u982d\u5dfe\uff0c\u96a8\u6642\u63d0\u9192\u81ea\u5df1\u52ff\u5fd8\u9019\u4e09\u5b57\u3002",
+                "\nA bright-red bandana that belonged to a martial artist. The color has now faded.\nIt serves as proof that the bearer practiced martial arts at a young age. It also represents the high ambition the young martial artist once had.\nBefore the first crack of dawn, the young martial artist was already training in the forest.\nMany years later, the martial artist is now an instructor. Though youth may be a thing of his past, he remains just as alert and diligent as when he was young.\n",
+                "10006_He"
+            ]
+        }
+    },
+    "\u6559\u5b98": {
+        "Bonuses": [
+            [
+                "2",
+                "\u5143\u7d20\u7cbe\u901a\u63d0\u9ad880\u9ede\u3002"
+            ],
+            [
+                "4",
+                "\u89f8\u767c\u5143\u7d20\u53cd\u61c9\u5f8c\uff0c\u968a\u4f0d\u4e2d\u6240\u6709\u89d2\u8272\u7684\u5143\u7d20\u7cbe\u901a\u63d0\u9ad8120\u9ede\uff0c\u6301\u7e8c8\u79d2\u3002"
+            ]
+        ],
+        "SID": "10007",
+        "Set Pieces": {
+            "Flower": [
+                "\u6559\u5b98\u7684\u80f8\u82b1",
+                "\u6559\u5b98\u7684\u80f8\u53e3\u5225\u8457\u9019\u7a2e\u82b1\u7684\u6642\u5019\uff0c\u610f\u5473\u8457\u4eca\u65e5\u4e0d\u7df4\u5175\u3002",
+                "\nEvery student in the school knew that the strict instructor was a serious soldier.\nBut every week, there would always be a day or two when the instructor would wear this yellow flower brooch on his chest.\nThe smile on the instructor's face would always bring the students a sense of relief.\nFor when the instructor wore the yellow flower brooch, it meant that they could take a day off and go home.\nOnce his boisterous students had finally gone, the instructor would visit a silent graveyard.\nThere, after a moment of silence, he would pay his respects to the familiar names carved on the tombstones.\n",
+                "10007_Fl"
+            ],
+            "Feather": [
+                "\u6559\u5b98\u7684\u7fbd\u98fe",
+                "\u719f\u77e5\u5982\u4f55\u5316\u89e3\u653b\u64ca\u529b\u9053\u7684\u6559\u5b98\uff0c\u4e0d\u6703\u8b93\u9019\u7a2e\u7fbd\u98fe\u88ab\u52c1\u98a8\u5439\u6389\u3002",
+                "\nThe strict instructor once sharpened his own combat skills on the merciless battlefield.\nWhat he teaches the students goes beyond self-defense techniques to apply in battle.\nMoreso than attacking and defending, what he imparts to them is the skill of surviving on the front line even in the face of insurmountable odds.\nEvery move and technique he demonstrates pays homage to the veterans of wars gone by.\nFor it was their sacrifices that helped him become who he is today.\n",
+                "10007_Fe"
+            ],
+            "Timepiece": [
+                "\u6559\u5b98\u7684\u61f7\u9336",
+                "\u4e0d\u80fd\u7528\u4f86\u770b\u6642\u9593\u7684\u61f7\u9336\uff0c\u662f\u5b8c\u5168\u5949\u737b\u7d66\u8a13\u7df4\u7684\u8a08\u6642\u5de5\u5177\u3002",
+                "\nA pocket watch treasured by the instructor. It is not, however, military-issue gear from the instructor's school.\nBack when the instructor was still a soldier, this pocket watch was used to coordinate charges against the enemy.\nIt marked victories and defeats, and counted the final hours of the soldiers.\nFor the students, it represented the hardships they endured on the long path towards becoming a real soldier.\n",
+                "10007_Ti"
+            ],
+            "Goblet": [
+                "\u6559\u5b98\u7684\u8336\u676f",
+                "\u96d6\u7136\u5728\u5916\u4eba\u770b\u4f86\u53ea\u662f\u666e\u901a\u7684\u8336\u676f\uff0c\u4f46\u5728\u5b78\u54e1\u773c\u88e1\u53ef\u662f\u6559\u5b98\u6b0a\u529b\u7684\u8c61\u5fb5\u3002",
+                "\nEvery military school student knows that the so-called \"free training time\" could not have anything less to do with freedom.\nThe instructor sits back and watches while the students train rigorously in the field.\nA cup of black tea with a little too much sugar in it marks a typical afternoon for the instructor.\nThis peaceful time is a privilege of the instructor, and the embodiment of his authority.\n",
+                "10007_Go"
+            ],
+            "Headpiece": [
+                "\u6559\u5b98\u7684\u5e3d\u5b50",
+                "\u5236\u5f0f\u7684\u6559\u5b98\u5e3d\u5b50\u3002\u662f\u62d2\u7d55\u4e86\u6649\u5347\u7684\u8ecd\u5b98\u624d\u80fd\u7372\u5f97\u7684\u6b8a\u69ae\u3002",
+                "\n\"I don't have the talent to command an army as its general,\nNor am I qualified for anything beyond being a soldier.\nAll I can do is to be a strict instructor to these children,\nSo that they might survive on the battlefield a bit longer.\"\n",
+                "10007_He"
+            ]
+        }
+    },
+    "\u8ced\u5f92": {
+        "Bonuses": [
+            [
+                "2",
+                "\u5143\u7d20\u6230\u6280\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534720%\u3002"
+            ],
+            [
+                "4",
+                "\u64ca\u6557\u6575\u4eba\u6642\uff0c\u6709100%\u7684\u6a5f\u7387\u6e05\u9664\u5143\u7d20\u6230\u6280\u7684\u51b7\u537b\u6642\u9593\u3002\u8a72\u6548\u679c\u6bcf15\u79d2\u81f3\u591a\u89f8\u767c\u4e00\u6b21\u3002"
+            ]
+        ],
+        "SID": "10008",
+        "Set Pieces": {
+            "Flower": [
+                "\u8ced\u5f92\u7684\u80f8\u82b1",
+                "\u83ef\u9e97\u7684\u5927\u82b1\u6735\uff0c\u5176\u4e2d\u80fd\u85cf\u5f97\u4e0b\u81ea\u5df1\u4e8b\u524d\u6e96\u5099\u597d\u7684\u9ab0\u5b50\u3002",
+                "\nGamblers like to flaunt their wealth, although their money can disappear overnight.\nShe would wear this huge, exotic flower ornament on her ears. It certainly catches the eye.\nBut what they would not see is the trick dice carefully hidden within the flower.\nThe gambler would only sneak this dice out of the brooch in an urgent situation.\nSwapping in this dice under the vigilant eyes of the guests was how she turned the table around.\n",
+                "10008_Fl"
+            ],
+            "Feather": [
+                "\u8ced\u5f92\u7684\u7fbd\u98fe",
+                "\u5927\u578b\u9ce5\u7684\u5c3e\u7fbd\uff0c\u5176\u4e2d\u80fd\u85cf\u5f97\u4e0b\u80fd\u6539\u5929\u9006\u547d\u7684\u724c\u3002",
+                "\nThis colorful feather served to decorate a gambler's hat. Its flamboyance disgusts true aristocrats.\nBut what the aristocrats do not see is the delicate mechanism hidden beneath the surface.\nWhen the time comes, the gambler subtly swaps in a hidden, game-changing card.\nUpon seeing this card, the disdain and condescension on the aristocrats' faces would instantly give way to sheer shock.\n",
+                "10008_Fe"
+            ],
+            "Timepiece": [
+                "\u8ced\u5f92\u7684\u61f7\u9336",
+                "\u7834\u788e\u7684\u61f7\u9336\uff0c\u66fe\u7d93\u70ba\u5b83\u7684\u4e3b\u4eba\u64cb\u4e0b\u4e86\u81f4\u547d\u7684\u653b\u64ca\u3002",
+                "\nPerfect timing is necessary for the gambler's trick to work.\nThat's why she always had this golden pocket watch in her breast pocket.\nIn countless games, there was always that crucial moment when her sensitive perception of time saved her.\n",
+                "10008_Ti"
+            ],
+            "Goblet": [
+                "\u8ced\u5f92\u7684\u9ab0\u76c5",
+                "\u662f\u7279\u88fd\u7684\u3001\u7528\u65bc\u55ae\u4e00\u7528\u9014\u7684\u5bb9\u5668\uff0c\u4f46\u5176\u4e2d\u4e26\u6c92\u6709\u6b3a\u8a50\u7528\u7684\u6a5f\u95dc\u3002",
+                "\nEvery gambler is superstitious to some degree. Many are very fond of custom-made dice cups, for instance.\nThis was her custom-made dice cup. Despite what one might expect, there was nothing dishonest about it. It had no hidden mechanisms.\nFate only decides half of one's dice rolls. The other half are decided by oneself.\nAnd yet, she never rolled the dice away from the gambling table.\n",
+                "10008_Go"
+            ],
+            "Headpiece": [
+                "\u8ced\u5f92\u7684\u8033\u74b0",
+                "\u80fd\u8b93\u4eba\u51b7\u975c\u8a55\u4f30\u5c40\u52e2\u8207\u98a8\u96aa\uff0c\u907f\u514d\u5371\u6a5f\u7684\u7fe0\u85cd\u8033\u74b0\u3002",
+                "\nThese ostentatious earrings are the perfect representation of the gambler's transient wealth.\nThe glimmer of the gem is just as soothing as the sky and the lake.\nThe earrings would be coated with a mildly sedative substance to keep the gambler calm in the game.\nIn games where one gambles with life and death, remaining calm and composed is the key to winning.\n",
+                "10008_He"
+            ]
+        }
+    },
+    "\u6d41\u653e\u8005": {
+        "Bonuses": [
+            [
+                "2",
+                "\u5143\u7d20\u5145\u80fd\u6548\u7387\u63d0\u9ad820%\u3002"
+            ],
+            [
+                "4",
+                "\u65bd\u653e\u5143\u7d20\u7206\u767c\u5f8c\uff0c\u6bcf2\u79d2\u70ba\u968a\u4f0d\u4e2d\u6240\u6709\u89d2\u8272\uff08\u4e0d\u5305\u62ec\u81ea\u8eab\uff09\u6062\u5fa92\u9ede\u5143\u7d20\u80fd\u91cf\u3002\u8a72\u6548\u679c\u6301\u7e8c6\u79d2\uff0c\u7121\u6cd5\u758a\u52a0\u3002"
+            ]
+        ],
+        "SID": "10009",
+        "Set Pieces": {
+            "Flower": [
+                "\u6d41\u653e\u8005\u4e4b\u82b1",
+                "\u5e36\u5728\u8eab\u4e0a\u7684\u9eef\u6de1\u7684\u82b1\u3002\u662f\u6d41\u653e\u4e4b\u8eab\u4e5f\u8981\u5e36\u8457\uff0c\u4e00\u5b9a\u6709\u91cd\u8981\u7684\u610f\u7fa9\u5427\u3002",
+                "\nIt all happened before the exiled aristocrat was involved in the family feud.\nThis flower bloomed before the first blood was shed.\nHaving witnessed the cruelty of humanity, the exile left his kindness and gentleness in the past.\nBut this faded flower and the innocent smile he once had will always be his treasure.\n",
+                "10009_Fl"
+            ],
+            "Feather": [
+                "\u6d41\u653e\u8005\u4e4b\u7fbd",
+                "\u4e26\u4e0d\u662f\u523b\u610f\u7684\u88dd\u98fe\u7269\uff0c\u53ea\u662f\u5728\u8352\u91ce\u6d41\u6d6a\u4e2d\u5076\u7136\u6cbe\u4e0a\u7684\u4e0d\u77e5\u540d\u7684\u9ce5\u7fbd\u3002",
+                "\nThrough plains and forests, the exile traveled alone in the wild.\nThrough thick layers of dark clouds, an azure feather fell on his shoulder.\nThe feather came from a panicked bird escaping from the falcon, just like the exile.\nThe feather represents the spirit of a nestless, free bird, just like the exile.\n",
+                "10009_Fe"
+            ],
+            "Timepiece": [
+                "\u6d41\u653e\u8005\u61f7\u9336",
+                "\u6c34\u6676\u88fd\u6210\u7684\u9336\u93e1\u5df2\u7d93\u7834\u788e\uff0c\u9023\u9336\u91dd\u4e5f\u5168\u6578\u812b\u843d\uff0c\u4f46\u4ecd\u7136\u4e0d\u9858\u4e1f\u68c4\u3002",
+                "\nThe aristocrat acquired this pocket watch back in his youth.\nThis delicate timepiece recorded every moment of his childhood.\nBut tragedy brought his carefree days to an abrupt end.\nThe aristocrat was forced into a long and lonesome exile.\n",
+                "10009_Ti"
+            ],
+            "Goblet": [
+                "\u6d41\u653e\u8005\u4e4b\u676f",
+                "\u9eef\u6de1\u7684\u91cd\u91d1\u5c6c\u88fd\u6210\u7684\u676f\u5f62\u5668\u76bf\uff0c\u53ef\u4ee5\u770b\u51fa\u5916\u58c1\u4e0a\u539f\u672c\u9472\u6709\u5bf6\u77f3\uff0c\u53c8\u88ab\u6316\u6389\u4e86\u3002",
+                "\nThis silver goblet is a family heirloom of an exiled aristocrat. The exterior was once inlaid with a gem engraved with his family crest.\nBut after the exile had brought shame to his family, he carved out the symbol of which he was once proud.\nAs a result, this cup is broken and can no longer hold liquid.\nBut the exile still carries it with him until the end of his journey.\n",
+                "10009_Go"
+            ],
+            "Headpiece": [
+                "\u6d41\u653e\u8005\u982d\u51a0",
+                "\u5c0a\u8cb4\u7684\u982d\u51a0\uff0c\u662d\u793a\u8eab\u5206\u7684\u5fbd\u8a18\u88ab\u7528\u5200\u5283\u7834\uff0c\u539f\u672c\u7684\u986f\u8cb4\u8eab\u5206\u5df2\u88ab\u5ee2\u9edc\u3002",
+                "\nAs a child, the exile lived in a noble house. His childhood was carefree, and his playground was a palace built with silver.\nIn the times of old, the circlet of his father was a symbol of gentility and nobility.\nHowever, years later, a family feud painted the collapsing palace blood-red.\nThe circlet became the evidence of the exile's crime and has been with the exile ever since.\n",
+                "10009_He"
+            ]
+        }
+    },
+    "\u5192\u96aa\u5bb6": {
+        "Bonuses": [
+            [
+                "2",
+                "\u751f\u547d\u503c\u4e0a\u9650\u63d0\u9ad81000\u9ede\u3002"
+            ],
+            [
+                "4",
+                "\u958b\u555f\u5404\u985e\u5bf6\u7bb1\u5f8c\u76845\u79d2\u5167\uff0c\u6301\u7e8c\u6062\u5fa930%\u751f\u547d\u503c\u3002"
+            ]
+        ],
+        "SID": "10010",
+        "Set Pieces": {
+            "Flower": [
+                "\u5192\u96aa\u5bb6\u4e4b\u82b1",
+                "\u5f9e\u6df1\u9083\u7684\u53e4\u90fd\u5c0b\u5f97\u7684\u7d55\u5883\u6c42\u751f\u7684\u5c0f\u82b1\uff0c\u88ab\u7576\u505a\u9a55\u50b2\u7684\u52f3\u7ae0\u4f69\u5728\u80f8\u524d\u3002",
+                "\nThe ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.\nMoved by the sight of life sprouting in defiance of a lifeless land, he almost forgot about the treasures buried deep in the ruin.\nAfter pausing to ponder it for a while, the adventurer plucked the flower, wore it as a brooch, and ventured forth into the darkness.\n",
+                "10010_Fl"
+            ],
+            "Feather": [
+                "\u5192\u96aa\u5bb6\u5c3e\u7fbd",
+                "\u7570\u570b\u7684\u5947\u5999\u9ce5\u985e\u7684\u7fbd\u6bdb\uff0c\u5728\u9019\u7247\u5927\u9678\u4e0a\u975e\u5e38\u7f55\u898b\u3002",
+                "\nAn adventurer once traveled through a forest in search of rare beasts never seen before.\nAs he tore his way recklessly through the foliage, the adventurer tripped on a tree root.\nWhen he regained consciousness, he saw a girl so beautiful that he was willing to give up the adventurer's life to be with her.\nHer appearance was surreal, with a cluster of feathers adorning her hair.\n",
+                "10010_Fe"
+            ],
+            "Timepiece": [
+                "\u5192\u96aa\u5bb6\u61f7\u9336",
+                "\u5e38\u5728\u4e0d\u898b\u5929\u65e5\u7684\u5de8\u6df5\u6216\u662f\u5931\u843d\u7684\u53e4\u90fd\u6d41\u9023\u7684\u5192\u96aa\u5bb6\uff0c\u6703\u7d93\u5e38\u5fd8\u8a18\u6642\u9593\u3002",
+                "\nA pocket watch that once belonged to an adventurer. It was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the Adventurers' Guild.\nThe adventurer spent most of his days in darkness. The rhythmic sound of its moving hands was the only proof he had of the passage of time.\nLong after he had grown accustomed to a normal life, having given up the adventurer lifestyle he once loved so dearly, \nthis forgotten pocket watch still sat quietly in the cabinet, waiting for its next adventure.\n",
+                "10010_Ti"
+            ],
+            "Goblet": [
+                "\u5192\u96aa\u5bb6\u91d1\u676f",
+                "\u5192\u96aa\u5bb6\u67d0\u6b21\u51fa\u5f81\u7684\u6230\u5229\u54c1\uff0c\u96d6\u7136\u6709\u7f3a\u53e3\uff0c\u4ecd\u7136\u662f\u503c\u5f97\u9a55\u50b2\u7684\u7375\u7372\u3002",
+                "\nAn old, golden goblet that the adventurer used to drink water. It is said that he found it in an old ruin.\nThe exterior is engraved with ancient symbols and inlaid with a faded gemstone.\nEventually, the adventurer bid farewell to the nomadic lifestyle.\nThis old, golden goblet was traded in for new, shiny Mora.\n",
+                "10010_Go"
+            ],
+            "Headpiece": [
+                "\u5192\u96aa\u5bb6\u982d\u5e36",
+                "\u675f\u5728\u984d\u524d\u7684\u98fe\u5e36\uff0c\u5438\u6eff\u4e86\u6c57\u6db2\u3001\u8986\u84cb\u8457\u5875\u571f\u3002\u4f46\u9ad2\u6c61\u96e3\u4ee5\u906e\u63a9\u5192\u96aa\u5bb6\u7684\u9a55\u50b2\u3002",
+                "\nThere is nothing special about this green bandana, save that the fabric is rather robust and highly absorbent.\nJust like the bandana, its wearer was an unexceptional, ordinary person.\nBut countless secrets lie hidden in the stars high up above and the abyss deep down below.\nAll of these things are awaiting discovery by mere mortals.\n",
+                "10010_He"
+            ]
+        }
+    },
+    "\u5e78\u904b\u5152": {
+        "Bonuses": [
+            [
+                "2",
+                "\u9632\u79a6\u529b\u63d0\u9ad8100\u9ede\u3002"
+            ],
+            [
+                "4",
+                "\u62fe\u53d6\u6469\u62c9\u6642\uff0c\u6062\u5fa9300\u9ede\u751f\u547d\u503c\u3002"
+            ]
+        ],
+        "SID": "10011",
+        "Set Pieces": {
+            "Flower": [
+                "\u5e78\u904b\u5152\u7da0\u82b1",
+                "\u7121\u6182\u7121\u616e\u5730\u751f\u9577\u5728\u539f\u91ce\u88e1\u7684\u56db\u8449\u7da0\u82b1\uff0c\u88ab\u63a1\u662f\u56e0\u70ba\u80fd\u5e36\u4f86\u5e78\u904b\u4e4b\u8aaa\u3002",
+                "\nOne who is favored by fortune tends to experience at least their fair share of miracles.\nThe legendary four-leaf clover, for instance, is a precious find that brings luck to its bearer.\nOnce, while playing in the field, the carefree young boy known as Lucky Dog happened across just such a clover.\nDelighted, he plucked it from the ground and put it in his pocket.\nNo-one knows whether it was the clover which brought him his good fortune, or the other way around.\n",
+                "10011_Fl"
+            ],
+            "Feather": [
+                "\u5e78\u904b\u5152\u9df9\u7fbd",
+                "\u64cb\u5728\u9762\u524d\u7684\u9b54\u7269\u537b\u88ab\u6355\u98df\u7684\u9df9\u96bc\u76ef\u4e0a\uff0c\u5076\u723e\u80fd\u5e36\u4f86\u9019\u7a2e\u7a0b\u5ea6\u904b\u6c23\u7684\u7fce\u7fbd\u3002",
+                "\nWhen fortune has your back, even the most ferocious monster has to yield.\nStrolling in the forest, the boy known as Lucky Dog had no idea that a monster was lurking nearby, having singled him out as its prey.\nThe boy became distracted by some colorful mushrooms, and the monster pounced. He leaped out and landed on the poisonous mushrooms, stomping them flat.\nThis was going to be an easy hunt, the monster thought \u2014 until a feather from the eagle circling above fell quietly onto its back.\n",
+                "10011_Fe"
+            ],
+            "Timepiece": [
+                "\u5e78\u904b\u5152\u6c99\u6f0f",
+                "\u56e0\u70ba\u7834\u6d1e\u800c\u7a7a\u7a7a\u5982\u4e5f\u7684\u6c99\u6f0f\u3002\u6642\u5149\u6d41\u901d\u5c0d\u7121\u6182\u7121\u616e\u7684\u4eba\u6c92\u6709\u610f\u7fa9\u3002",
+                "\nEven time itself could not leave a wrinkle on the face of the happy-go-lucky boy known as Lucky Dog.\nLucky Dog had no family, let alone children of his own.\nBut in the course of his life of good fortune, he considered all he met as his friends and family.\nAs his life was nearing its end, he saw an hourglass with sand flowing down, as if counting down his remaining time.\nHe simply chuckled, took a slingshot, and shattered the hourglass.\n",
+                "10011_Ti"
+            ],
+            "Goblet": [
+                "\u5e78\u904b\u5152\u4e4b\u676f",
+                "\u7cbe\u7dfb\u7684\u91d1\u5c6c\u5668\u76bf\uff0c\u66fe\u7d93\u88ab\u7528\u4f86\u6253\u8db4\u4e86\u591c\u76dc\u3002",
+                "\nOnce there was a child favored by fortune from the day he was born. Try as they might, even the most vicious bandits could not lay a finger on him. He became known as Lucky Dog.\nThe child grew up, and one day in the throes of adulthood he found himself stumbling drunk along the back alley behind the tavern.\nUnder the starless sky, a vicious bandit prepared to rob Lucky Dog, taking advantage of his compromised state.\nBut just as the bandit was about to strike, a flying goblet hit him square on the forehead, knocking him out cold.\nNaturally, this makes Lucky Dog one of very few people known to have benefited, rather than suffered, from being in the vicinity of a tavern brawl.\n",
+                "10011_Go"
+            ],
+            "Headpiece": [
+                "\u5e78\u904b\u5152\u9280\u51a0",
+                "\u539f\u672c\u589c\u5165\u843d\u7a74\uff0c\u537b\u662f\u88ab\u9a45\u9010\u7684\u820a\u5b97\u65cf\u85cf\u5bf6\u7684\u5730\u7a96\u3002\u662f\u90a3\u6b21\u7d93\u6b77\u7684\u7d00\u5ff5\u54c1\u3002",
+                "\nOne who is favored by fortune can even find priceless treasures in the most deadly of traps.\nWhile wandering around some ruins, the boy known as Lucky Dog accidentally fell into a deep pit.\nHe landed safely on a pile of dust. It turned out to be a mattress that over the years had gradually broken down, eventually turning to dust.\nJust like that, Lucky Dog discovered a treasure trove left by the old aristocrats. This circlet came to epitomize his luck.\n",
+                "10011_He"
+            ]
+        }
+    },
+    "\u5b78\u58eb": {
+        "Bonuses": [
+            [
+                "2",
+                "\u5143\u7d20\u5145\u80fd\u6548\u7387\u63d0\u9ad820%\u3002"
+            ],
+            [
+                "4",
+                "\u7372\u5f97\u5143\u7d20\u5fae\u7c92\u6216\u5143\u7d20\u6676\u7403\u6642\uff0c\u968a\u4f0d\u4e2d\u6240\u6709\u5f13\u7bad\u548c\u6cd5\u5668\u89d2\u8272\u984d\u5916\u6062\u5fa93\u9ede\u5143\u7d20\u80fd\u91cf\u3002\u8a72\u6548\u679c\u6bcf3\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002"
+            ]
+        ],
+        "SID": "10012",
+        "Set Pieces": {
+            "Flower": [
+                "\u5b78\u58eb\u7684\u66f8\u7c64",
+                "\u7528\u4f86\u5145\u7576\u66f8\u7c64\u7684\u4e7e\u82b1\uff0c\u5438\u6eff\u4e86\u66f8\u5377\u7684\u9999\u6c23\u3002",
+                "\nFlowers were a rare sight for the scholar who lived in her ivory tower, buried under piles of books.\nA young man, who admired the scholar, once gave her this exotic flower in the hope of bringing some life to the dull and lonely days she spent in her study.\nThe scholar accepted the gift gratefully and made a flower bookmark with it.\nEver since then, there has always been a splash of vivid color hidden somewhere in the pages of the dull piles of books.\n",
+                "10012_Fl"
+            ],
+            "Feather": [
+                "\u5b78\u58eb\u7684\u7fbd\u7b46",
+                "\u7528\u505a\u66f8\u5beb\u5de5\u5177\u7684\u67d0\u7a2e\u9ce5\u985e\u5c3e\u7fbd\uff0c\u6839\u90e8\u5df2\u7d93\u88ab\u6d78\u6210\u6d17\u4e0d\u53bb\u7684\u9ed1\u3002",
+                "\nThe scholar's quill pen is made from the feather of an exotic bird.\nAfter an enormous amount of writing, the feather has been stained black.\nIn all her years, the scholar never thought of changing her stained quill pen for a new one.\nJust as an old soldier feels most at ease with his own weapon, the scholar needed her familiar quill pen.\n",
+                "10012_Fe"
+            ],
+            "Timepiece": [
+                "\u5b78\u58eb\u7684\u6642\u9418",
+                "\u9069\u5408\u653e\u5728\u684c\u9762\u4e0a\u7684\u5c0f\u9418\uff0c\u5c0d\u4e45\u4e0d\u898b\u5929\u65e5\u7684\u5b78\u8005\u4f86\u8aaa\u662f\u552f\u4e00\u7684\u6642\u9593\u53c3\u8003\u5427\u3002",
+                "\nA delicate clock placed carefully on the scholar's desk.\nSpending days and nights in her study, the scholar lost all sense of time.\nThis exquisite clock served as a beacon guiding the scholar in her relentless pursuit of knowledge.\nThe time the scholar spent would prove to be fruitful. Knowledge would find its way to her.\n",
+                "10012_Ti"
+            ],
+            "Goblet": [
+                "\u5b78\u58eb\u7684\u58a8\u676f",
+                "\u539f\u672c\u662f\u98f2\u6c34\u7528\u7684\u5bb9\u5668\uff0c\u56e0\u70ba\u5e38\u7528\u4f86\u6d17\u7b46\u800c\u88ab\u67d3\u9ed1\u3002",
+                "\nA delicate tea cup that belonged to a scholar. This treasured cup is made of light porcelain and gilded with gold stripes.\nThe dainty cup was in stark contrast with the messy room in which it was found, but seemed to suggest that the scholar was from a well-to-do family.\nNot caring about the beauty and purpose of the tea cup, the scholar in her ivory tower dipped her quill pen in it.\nShe only saw it as a convenient ware to wash the tip. Now covered in ink stains, the cup has long since lost its former elegance.\n",
+                "10012_Go"
+            ],
+            "Headpiece": [
+                "\u5b78\u58eb\u7684\u93e1\u7247",
+                "\u5927\u91cf\u7684\u95b1\u8b80\u6703\u50b7\u5bb3\u8b80\u8005\u7684\u8996\u529b\uff1b\u70ba\u4e86\u5f4c\u88dc\u9019\u6a23\u7684\u640d\u50b7\uff0c\u800c\u5b9a\u88fd\u7684\u9053\u5177\u3002",
+                "\nThe pursuit of knowledge is a risky gamble. Even after devoting one's entire life to it, it may prove to have been futile.\nThe scholar spent half of her lifetime in endless research, taking notes and making calculations.\nHaving failed to find the answers she was looking for, she once hesitated and questioned her career choice, thus wasting further time.\nHer once sharp eyesight had also been damaged by intensive reading.\nAll this, and the answers she sought were still beyond her reach.\n",
+                "10012_He"
+            ]
+        }
+    },
+    "\u904a\u91ab": {
+        "Bonuses": [
+            [
+                "2",
+                "\u89d2\u8272\u53d7\u5230\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad820%\u3002"
+            ],
+            [
+                "4",
+                "\u65bd\u653e\u5143\u7d20\u7206\u767c\u6642\uff0c\u6062\u5fa920%\u751f\u547d\u503c\u3002"
+            ]
+        ],
+        "SID": "10013",
+        "Set Pieces": {
+            "Flower": [
+                "\u904a\u91ab\u7684\u9280\u84ee",
+                "\u662f\u73cd\u8cb4\u7684\u85e5\u6750\uff0c\u4f46\u5b58\u653e\u4e86\u9019\u9ebc\u4e45\u5df2\u7d93\u5931\u53bb\u4e86\u85e5\u7528\u50f9\u503c\u3002",
+                "\nThe doctor traveled across the land in search of rare herbs, with the zeal of an adventurer.\nOn a steep cliff between slippery rocks, she found this silver lotus.\nThe lotus was never made into medicine, but its scent gave her the strength to go on from that day forward.\n",
+                "10013_Fl"
+            ],
+            "Feather": [
+                "\u904a\u91ab\u7684\u689f\u7fbd",
+                "\u689f\u7684\u5805\u786c\u7fbd\u6bdb\uff0c\u591c\u9593\u884c\u91ab\u6642\u7528\u591c\u884c\u731b\u79bd\u7684\u610f\u8c61\u9f13\u821e\u81ea\u5df1\u3002",
+                "\nEven the pitch-black night could not stand between the traveling doctor and her patients.\nDanger lurks in every corner at night. Those who venture out must be as vigilant as the owl.\nBut unlike the owl, the endless nights without rest eventually took their toll on the traveling doctor, and she fell ill.\n",
+                "10013_Fe"
+            ],
+            "Timepiece": [
+                "\u904a\u91ab\u7684\u61f7\u9418",
+                "\u7528\u4f86\u7cbe\u78ba\u8a08\u6642\u7684\u9053\u5177\u3002\u5c0d\u91ab\u8005\u800c\u8a00\uff0c\u5373\u4f7f\u662f\u4e00\u79d2\u7684\u6642\u9593\u4e5f\u4e0d\u80fd\u6d6a\u8cbb\u3002",
+                "\nWhen treating a dying patient, every second counts.\nThe accuracy of this watch had helped the traveling doctor turn the tide numerous times.\nBut as she lay alone on the sickbed in her final days, all she could do was savor its sound, each tick standing for one of the precious moments of life she had left.\nWhat used to be a tool to save lives now sang a final elegy for its owner.\n",
+                "10013_Ti"
+            ],
+            "Goblet": [
+                "\u904a\u91ab\u7684\u85e5\u58fa",
+                "\u539f\u672c\u88dd\u6eff\u4e86\u63d0\u7149\u5f8c\u6975\u6fc3\u7684\u85e5\u6c41\uff0c\u5982\u4eca\u53ea\u5269\u4e0b\u6fc3\u70c8\u7684\u85e5\u5473\u3002",
+                "\nThe medicine has long dried up, but its bitter smell still lingers in this pot.\nWith that bitter medicine, the traveling doctor saved countless lives.\nAnd when she fell seriously ill, no-one was there for her except for the medicine pot on the furnace.\n",
+                "10013_Go"
+            ],
+            "Headpiece": [
+                "\u904a\u91ab\u7684\u65b9\u5dfe",
+                "\u5e73\u6642\u80fd\u5728\u884c\u91ab\u6642\u7d81\u4f4f\u4e82\u9aee\uff0c\u7dca\u6025\u60c5\u6cc1\u4e0b\u4e5f\u80fd\u7528\u4f86\u6258\u8d77\u626d\u50b7\u3001\u6298\u65b7\u7684\u624b\u81c2\u3002",
+                "\nBack when the traveling doctor roamed from place to place, her days were busy and she hurried between appointments.\nCome sun or rain, nothing could keep her from her work.\nThis handkerchief not only protected her messy hair, it also served as a bandage.\nIt saw her through all her hardships and became her most loyal partner on her journey.\n",
+                "10013_He"
+            ]
+        }
+    },
+    "\u51b0\u98a8\u8ff7\u9014\u7684\u52c7\u58eb": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u51b0\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u653b\u64ca\u8655\u65bc\u51b0\u5143\u7d20\u5f71\u97ff\u4e0b\u7684\u6575\u4eba\u6642\uff0c\u66b4\u64ca\u7387\u63d0\u9ad820%\uff1b\u82e5\u6575\u4eba\u8655\u65bc\u51cd\u7d50\u72c0\u614b\u4e0b\uff0c\u5247\u66b4\u64ca\u7387\u984d\u5916\u63d0\u9ad820%\u3002"
+            ]
+        ],
+        "SID": "14001",
+        "Set Pieces": {
+            "Flower": [
+                "\u6b77\u7d93\u98a8\u96ea\u7684\u601d\u5ff5",
+                "\u65e9\u5df2\u7d55\u8de1\u7684\u51b0\u5ddd\u4e4b\u82b1\uff0c\u971c\u7d50\u8457\u9ede\u9ede\u51b0\u9732\u3002\u5b64\u9ad8\u7684\u52c7\u58eb\u4e5f\u66fe\u70ba\u9019\u6735\u9bae\u82b1\u6298\u8170\u3002",
+                "\nThis is a flower of ever-frost, plucked by a pair of gentle hands.\nIt must have given a certain someone the strength to see winter as a warm embrace.\n\n\"This fourth fresco is prepared for you. Your likeness will forever remain on this wall.\"\n\"For the sake of that fresco, and for everyone's sake, I will wait for you, and pray for your return...\"\n\nThe maiden stood before a blank wall, and smiling, she pinned a small flower to the hero's breast.\nThat was an elegant and unruffled fellow, who would never bat an eyelid, not even in the face of death itself.\n\nThe heroism of the Icebreaker was forgotten, buried in the storms of the North.\nSince then, the snow has melted \u2014 but this flower has not withered.\n",
+                "14001_Fl"
+            ],
+            "Feather": [
+                "\u6467\u51b0\u800c\u884c\u7684\u57f7\u671b",
+                "\u6563\u4f48\u5bd2\u51ac\u7684\u9ce5\u7fbd\uff0c\u5f77\u5f7f\u80fd\u611f\u53d7\u5230\u731b\u79bd\u5728\u96ea\u539f\u8207\u51b0\u5cf0\u4e4b\u4e0a\u547c\u865f\u7ff1\u7fd4\u7684\u632f\u7fc5\u4e4b\u98a8\u3002",
+                "\nA feather of a bird of prey that did not originally belong in the winter chill. It is cold to the touch.\nAnd when you do touch it, it is as if you can hear cries in the snowstorm, unbowed but bereft of hope.\n\nWith no nest or shelter, the bird faced the storms proudly.\nThis feather has been assailed with coalescing ice and snow, leaving it coated in pearls of frost.\n\nIt once came from a falcon in flight and was plucked violently from that bird by the frigid winds.\nIt drifted a while in the air before the weight of the frost dragged it back down to the ground.\n\n\"I believe that the lively birds will follow you, and return to the gardens of the summer palace, now green once more.\"\n\"Those who have been chased away by the chilling tide, and those children who have lost their homes, they will return with you to the home of their dreams.\"\n\nThe hero, bearing such great burdens on his back, halted in the whipping snow, struggling to discern the color of that feather.\nSealed in ice, that feather's color faded every step of the way \u2014 just like the hero's task.\n",
+                "14001_Fe"
+            ],
+            "Timepiece": [
+                "\u51b0\u96ea\u6545\u570b\u7684\u7d42\u671f",
+                "\u7b49\u5f85\u52c7\u58eb\u6b78\u4f86\u7684\u6545\u570b\u4eba\u6c11\u6240\u7528\u7684\u6642\u8a08\u3002\u5176\u4e2d\u6d41\u6dcc\u7684\u4e26\u4e0d\u662f\u6c99\uff0c\u800c\u662f\u4e0d\u5316\u7684\u51b0\u5c51\u3002",
+                "\nAn ancient hourglass with fine powdered snow flowing in it.\nEven the coldest winter cannot freeze the flow of time.\n\n\"The cold that descends from the sky can freeze time itself.\"\nThis myth was widely believed throughout the entombed mountain city.\n\nAs the hero reached the top of the wall of wind and ice, the night was descending and the snowstorm was howling.\nNeither sun- nor moon-light could pierce this white wind easily.\nEven the bleakest storm cannot freeze the river of time,\n\nThat will not wilt even if buried deep below the snow.\nAnd even the most formidable hero will one day be forgotten.\n",
+                "14001_Ti"
+            ],
+            "Goblet": [
+                "\u904d\u7d50\u5bd2\u971c\u7684\u50b2\u9aa8",
+                "\u4ee5\u5bd2\u51b0\u96d5\u88fd\u6210\u7684\u676f\u76de\uff0c\u5982\u51ac\u5929\u4e00\u6a23\u5805\u5229\u3002\u66fe\u7d93\u7684\u4e3b\u4eba\u5f9e\u4e2d\u555c\u98f2\u904e\u4e0d\u51cd\u4e4b\u9152\u3002",
+                "\nFor the outlander who once searched for hope in midwinter on another's behalf,\nEven the glass he drank from was carved out of ice.\n\nDrinking bitter wine in this glass would feel like swallowing icicles that stung every inch of one's throat.\nOrdinary people would struggle to enjoy this sensation \u2014 but the reticent hero relished it.\n\nHe was a warrior as silent as the ice itself, blocking the frigid winds that descended from the stars with his body.\nBut not content with merely being protected, the maiden who painted left the man she admired these last instructions:\n\n\"If fear or despair, both of which are within our nature, should crush you, or cause you to never return, then...\"\n\"...Then please, live on. Do not accompany us unto our doom \u2014 to languish forgotten in the snow.\"\n\nTaking another swig of bitter wine to steel himself for the journey, he turned away from the maiden's wet eyes,\nAnd he would set out on an unending pursuit, towards the land of snow and profundity.\n",
+                "14001_Go"
+            ],
+            "Headpiece": [
+                "\u7834\u51b0\u8e0f\u96ea\u7684\u56de\u97f3",
+                "\u5922\u60f3\u5f81\u670d\u51b0\u96ea\u7684\u53e4\u4ee3\u82f1\u96c4\u51a0\u5195\uff0c\u662f\u9a45\u4f7f\u5b83\u7684\u6545\u4e3b\u76f4\u9762\u523b\u9aa8\u5bd2\u51ac\u7684\u52c7\u6c23\u4e4b\u8b49\u3002",
+                "\nThe hero set out on his journey, bearing the tiny hopes that the entombed city still had for salvation.\nDonning his winter crown, he marched purposefully away, disappearing into the boundless snowstorm.\n\nBearing his agreement with the mountain city, bearing their clear-eyed gazes, the hero never once feared the unknown beyond the icy curtain.\nThe once-lush mountainside and the blessings that now no longer fell from the skies \u2014 these were the hero's motivation to carry on no matter what.\n\n\"Past the ice-sealed door, walking down the corridors to the depths,\"\n\"He will break off a branch of silver-white, and bring hope to the snowy land.\"\n\nThe maiden sang these songs to comfort her people, and she nursed her memories of him.\nShe believed that he would return to her, with genial springtime and unshakeable hope in his train.\n\nBut in the end, the hero who stepped out into the snow would not return in time.\nHe would stand accused of flight by hateful words long ground to dust amid the snowstorms...\n",
+                "14001_He"
+            ]
+        }
+    },
+    "\u5e73\u606f\u9cf4\u96f7\u7684\u5c0a\u8005": {
+        "Bonuses": [
+            [
+                "2",
+                "\u96f7\u5143\u7d20\u6297\u6027\u63d0\u9ad840%\u3002"
+            ],
+            [
+                "4",
+                "\u5c0d\u8655\u65bc\u96f7\u5143\u7d20\u5f71\u97ff\u4e0b\u7684\u6575\u4eba\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534735%\u3002"
+            ]
+        ],
+        "SID": "14002",
+        "Set Pieces": {
+            "Flower": [
+                "\u5e73\u96f7\u4e4b\u5fc3",
+                "\u50c5\u65bc\u96f7\u9706\u4e4b\u6012\u4e2d\u50b2\u7136\u76db\u653e\u7684\u82b1\u6735\uff0c\u81f3\u4eca\u4ecd\u80fd\u8cdc\u4e88\u884c\u8d70\u5728\u96f7\u96e8\u4e2d\u7684\u904a\u4eba\u52c7\u6c23\u3002",
+                "\nA purple flower plucked in a thunderstorm.\nWhoever wears it will no longer fear the thunder and lightning.\n\nThis flower blossoms only in thunderstorms, and never withers despite the constant rain.\nThis is the Flower of Thunder. Kneeling before it, the Thundersoother plucked it with reverence.\n\nThe Thundersoother wore this flower on his chest at all times as he fearlessly faced the thunder and lightning.\nEven when fighting the fierce Beast of Thunder, his resolve never wavered.\nTo the Thundersoother, wearing this purple flower may have been merely an act of whimsy,\nbut to travelers, the flower was the source of the unfaltering resolve that conquered the thunder.\n",
+                "14002_Fl"
+            ],
+            "Feather": [
+                "\u5e73\u96f7\u4e4b\u7fbd",
+                "\u5728\u50b3\u8aaa\u4e2d\uff0c\u633a\u8eab\u5e73\u606f\u4e86\u96f7\u96fb\u7684\u52c7\u6b66\u82f1\u96c4\u7684\u5fbd\u7ae0\uff0c\u662f\u7ff1\u7fd4\u65bc\u72c2\u96f7\u7684\u731b\u79bd\u4e4b\u7fbd\u3002",
+                "\nAn insignia made in the shape of the plume of a falcon that soared through the storms.\nIts wearer can almost feel the booming of thunder and the heat of a volcano.\n\nFearing neither the thunder nor the volcano,\nthe falcon left its plume in the burnt woods.\nThe Thundersoother fashioned an amethyst insignia in the plume's likeness.\nThe purple insignia shimmered with light under the gaze of enemies.\nOn this small object lightning glittered,\nas if to foreshadow the downfall of the Beast of Thunder.\n\nLike the falcon, the Thundersoother conquered both thunder and flames,\nand eventually beheaded the Beast of Thunder.\n",
+                "14002_Fe"
+            ],
+            "Timepiece": [
+                "\u5e73\u96f7\u4e4b\u523b",
+                "\u93ae\u670d\u96f7\u96fb\u7684\u52c7\u58eb\u6301\u6709\u7684\u6642\u8a08\uff0c\u5176\u4e2d\u7684\u96f7\u4e4b\u788e\u6676\u96a8\u6d41\u901d\u5982\u96f7\u5982\u96fb\u7684\u6642\u9593\u7009\u843d\u3002",
+                "\nAn hourglass the Thundersoother once used. Flowing within it is not sand, but tiny Electro shards.\nThe shards shatter and flow down as time passes, then merge together at the bottom of the hourglass.\n\nThe Thundersoother who defeated the Beast of Thunder crafted this hourglass from amethyst.\nThe passage of time is just like lightning. It bursts through the sky and is gone in a flash.\nEven the Thundersoother could not conquer the flash of time.\n\nWithin this hourglass, even thunder and lightning have to obey the never-changing law of time.\nIn the hourglass, the shards shatter and merge countless times while time silently flashes by.\nObserving this taught the Thundersoother about the cycle of life and death. Empowered with this knowledge, he was able to defeat the beast.\n",
+                "14002_Ti"
+            ],
+            "Goblet": [
+                "\u5e73\u96f7\u4e4b\u5668",
+                "\u5e73\u96f7\u52c7\u58eb\u7684\u9152\u76de\uff0c\u64da\u8aaa\u5e73\u606f\u4e86\u96f7\u4e4b\u9b54\u7378\u7684\u82f1\u96c4\u66fe\u7528\u9019\u5c0a\u9152\u76de\u6eff\u76db\u7d2b\u96fb\u70ba\u98f2\u3002",
+                "\nA goblet that once belonged to the Thundersoother.\nPerhaps its former owner once used it to drink the thunder.\n\nMighty as he was, the Thundersoother was a mere mortal with human feelings.\nRage and ecstasy would come and go in a flash, just like the pounding thunder.\nThis goblet witnessed not only the feats of the Thundersoother, but also his sorrow and laughter.\n\nFrom this goblet was drunk the wine used in the sacrificial slaying of the Thundersoother's family.\nFrom this goblet came the courage that helped the Thundersoother venture forth into the beast's cave.\nFrom this goblet came the sole source of companionship for the Thundersoother, who spent his final days in solitude.\n",
+                "14002_Go"
+            ],
+            "Headpiece": [
+                "\u5e73\u96f7\u4e4b\u51a0",
+                "\u5e73\u96f7\u52c7\u58eb\u7684\u51a0\u5195\uff0c\u662f\u53e4\u8001\u7684\u82f1\u96c4\u64ca\u6557\u4e86\u5371\u5bb3\u5927\u5730\u7684\u96f7\u4e4b\u9b54\u7378\u800c\u7372\u5f97\u7684\u83ef\u51a0\u3002",
+                "\nA very ancient diadem.\nIt shines with the light of the pacified lightning.\n\nThe ferocious Beast of Thunder\nonce enslaved people with its mighty lightning.\nBut its lightning existed only in a flash,\nand like the lightning, its mightiness soon disappeared.\n\nThe Thundersoother defeated the beast in a lightning storm.\nHe claimed this diadem as his trophy.\nBut the past can never be fully pacified.\n",
+                "14002_He"
+            ]
+        }
+    },
+    "\u6e21\u904e\u70c8\u706b\u7684\u8ce2\u4eba": {
+        "Bonuses": [
+            [
+                "2",
+                "\u706b\u5143\u7d20\u6297\u6027\u63d0\u9ad840%\u3002"
+            ],
+            [
+                "4",
+                "\u5c0d\u8655\u65bc\u706b\u5143\u7d20\u5f71\u97ff\u4e0b\u7684\u6575\u4eba\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534735%\u3002"
+            ]
+        ],
+        "SID": "14003",
+        "Set Pieces": {
+            "Flower": [
+                "\u6e21\u706b\u8005\u7684\u6c7a\u7d55",
+                "\u5728\u70c8\u7130\u7684\u7c07\u64c1\u4e0b\u76db\u958b\u7684\u82b1\u6735\uff0c\u50b3\u8aaa\u53e4\u4ee3\u667a\u8005\u4f69\u8457\u5b83\u8d70\u9032\u4e86\u706b\u6d77\u3002",
+                "\nA flower that only blooms in the burning flames.\nThe searing pain it causes will make the wearer stronger.\n\nThe fiery-red flower shines like shimmering agate.\nThis flaming flower was once a brooch worn by the Lavawalker.\n\nIn the Lavawalker's final days, he said to his people:\n\"This is the flower that blooms in flames. Until the day that the fires turn me into ashes,\nYou shall see the glowing embers of this flower shining through the dark smoke.\"\n\nThe people followed the flower's flickering light to the edge of the Mare Jivari.\nThere they found the blooming flowers \u2014 but the Lavawalker was nowhere to be seen.\n",
+                "14003_Fl"
+            ],
+            "Feather": [
+                "\u6e21\u706b\u8005\u7684\u89e3\u812b",
+                "\u6d74\u706b\u7684\u5b64\u9ad8\u4e4b\u9ce5\u7684\u7fbd\u6bdb\uff0c\u4f3c\u4e4e\u80fd\u5f9e\u4e2d\u807d\u5230\u91ce\u706b\u88e1\u7684\u632f\u7fc5\u4e4b\u8072\u3002",
+                "\nA feather plucked by the Lavawalker from a bird that sings amid the flames.\nThe wearer can almost hear the sound of the bird's wings flapping in the blaze.\n\nLegend has it that there exists a kind of solitary bird that sings in the blazing flames.\nPeople worshiped it as a totem while kings saw it as a sign of nobility.\n\nDonning this feather, the Lavawalker retreated from the outside world.\nAlone he came and alone he went, leaving no trace behind.\nSince then, people often hear cries coming from the Mare Jivari.\nNo-one knows if they are the song of the bird or the sighs of the Lavawalker.\n",
+                "14003_Fe"
+            ],
+            "Timepiece": [
+                "\u6e21\u706b\u8005\u7684\u714e\u71ac",
+                "\u6d41\u6dcc\u8457\u9583\u720d\u71b1\u7802\u7684\u6c99\u6f0f\u3002\u6d41\u6c99\u5306\u5306\u800c\u53bb\uff0c\u5f9e\u4e0d\u7559\u4e0b\u4efb\u4f55\u70d9\u5370\u3002",
+                "\nWhat flows within this hourglass is not regular sand, but burning sand.\nLike this burning sand, time flows forward, leaving no trace of its own existence.\n\nThe story of the Lavawalker continued even after he had traveled across the Mare Jivari.\nIt is said that he spent another one hundred years living as a hermit.\nBut this short retreat brought little relief from his burning torment.\n\nDuring his time as a secluded sage, the Lavawalker could not bear the eternal scorch. He crafted this hourglass to mark the passing of time.\nAs the flames blazed, burning sand flowed endlessly through the hourglass day after day.\n\nSadly, though the Lavawalker did not fear the scorching flames of the Mare Jivari, he could not quench the torturing flames of time.\nThe anguish of being left alone without the disciples and family he held so dear burned away at his soul more than any flames could ever scorch his flesh.\n",
+                "14003_Ti"
+            ],
+            "Goblet": [
+                "\u6e21\u706b\u8005\u7684\u9192\u609f",
+                "\u50b3\u8aaa\u4e2d\u662f\u80fd\u8010\u6d41\u706b\u9ad8\u71b1\u7684\u676f\u76de\uff0c\u5982\u4eca\u5176\u4e2d\u7a7a\u7121\u4e00\u7269\uff0c\u50c5\u6709\u9918\u6eab\u3002",
+                "\nA goblet that once contained lava. Now empty, it still has a slight hint of warmth.\nThis goblet once belonged to a sage known as the Lavawalker. Wisdom flowed from within.\n\nThe Lavawalker would toy with the goblet. Even in the blazing heat, it remained intact.\nLegend has it that the Lavawalker would drink lava from this goblet as if it were a glass of fine wine.\nBut while fine wine evaporates in high heat, the wisdom of the sage could withstand a trial by fire.\n\nTo the Lavawalker, fine wine was merely a catalyst in the process of producing ingenuity.\nAided by alcohol, even the slightest spark can combust into a brilliant idea.\n\nThe goblet was a silent witness to the forging of wisdom amidst the flames.\nThe moment before the Lavawalker set off on his final journey was when the goblet was filled with the most pride.\n",
+                "14003_Go"
+            ],
+            "Headpiece": [
+                "\u6e21\u706b\u8005\u7684\u667a\u6167",
+                "\u6e21\u904e\u706b\u6d77\u7684\u667a\u8005\u4e4b\u51a0\uff0c\u66fe\u7d93\u6620\u7167\u8457\u5728\u71b1\u6d6a\u4e2d\u633a\u7acb\u7684\u53e4\u8001\u8eab\u5f71\u3002",
+                "\nAn ancient circlet that once belonged to the Lavawalker \u2014 a sage who wandered in the Mare Jivari.\nUpon close examination, one can almost see his figure standing strong amidst the fiery flames.\n\nThe wandering sage of the Mare Jivari known as the Lavawalker crafted this circlet from crimson agate to resist the intense heat of the flames.\nThe circlet was built with wisdom and tenacity. It sparked fear and jealousy among peers and seniors alike.\n\n\"How dare the Lavawalker challenge the flames of the Mare Jivari! Such blasphemy has not been seen in hundreds of years!\nThe flaming sea will surely devour this arrogant young man and the sky will blow his ashes into the void.\"\n\nIn his jealousy, the teacher demanded that his student step into the flaming sea wearing the circlet.\nIn a state of calmness, the Lavawalker strolled onto the lava and gradually disappeared into the horizon.\n",
+                "14003_He"
+            ]
+        }
+    },
+    "\u88ab\u6190\u611b\u7684\u5c11\u5973": {
+        "Bonuses": [
+            [
+                "2",
+                "\u89d2\u8272\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u534715%\u3002"
+            ],
+            [
+                "4",
+                "\u65bd\u653e\u5143\u7d20\u6230\u6280\u6216\u5143\u7d20\u7206\u767c\u5f8c\u768410\u79d2\u5167\uff0c\u968a\u4f0d\u4e2d\u6240\u6709\u89d2\u8272\u53d7\u6cbb\u7642\u6548\u679c\u52a0\u6210\u63d0\u9ad820%\u3002"
+            ]
+        ],
+        "SID": "14004",
+        "Set Pieces": {
+            "Flower": [
+                "\u9060\u65b9\u7684\u5c11\u5973\u4e4b\u5fc3",
+                "\u6c38\u9060\u5b0c\u5ae9\u7684\u9bae\u82b1\uff0c\u6b77\u7d93\u9577\u4e45\u6642\u5149\u4ecd\u4e0d\u67af\u840e\u5730\u6563\u767c\u8457\u82ac\u82b3\u3002",
+                "\nThe maiden's flower. Fresh and elegant just like its original owner.\nThe books say that this species of flower has long been extinct.\n\nJust like that passage the maiden had read countless times in books:\n\"The damsel in distress was saved by the white knight in shining armor.\"\n\"And they exchanged flowers as blessings to one another.\"\n\nThough a maiden's heart is said to change with the seasons, just like a flower,\nThis flower remained constant.\nFor her heart had stopped in that moment long ago:\nThe moment that she met the knight.\n",
+                "14004_Fl"
+            ],
+            "Feather": [
+                "\u5c11\u5973\u98c4\u6416\u7684\u601d\u5ff5",
+                "\u5bc4\u8a17\u8ab0\u4eba\u7684\u601d\u5ff5\u7684\u7fbd\u98fe\uff0c\u5c31\u5982\u8207\u98a8\u4e00\u540c\u53bb\u5f80\u9060\u65b9\u7684\u5019\u9ce5\u3002",
+                "\nAn old but delicate feathered ornament.\nAfter many years, it is now covered in layers of dust.\n\nFor the maiden, time stopped still the day she met the knight.\nNothing mattered to her anymore, not even love and youth.\nShe sought him constantly, wandering far like a lost bird without a nest to cling to.\n\n\"May my love reach the knight,\" she prayed.\nMeanwhile, the knight dedicated himself to the pursuit of chivalry.\nIn a distant land where ancient empires crumbled,\nWould the knight see the scenery she dreamt of?\n",
+                "14004_Fe"
+            ],
+            "Timepiece": [
+                "\u5c11\u5973\u82e6\u77ed\u7684\u826f\u8fb0",
+                "\u6307\u91dd\u7684\u65cb\u8f49\u4e0d\u6703\u6709\u76e1\u982d\uff0c\u4f46\u5c11\u5973\u53d7\u4eba\u5bf5\u611b\u7684\u6b72\u6708\u5247\u76f8\u53cd\u3002",
+                "\nA delicate timepiece.\nIt stood as a testament to the inevitable passage of time, indifferent to its owner's feeling.\n\nThe maiden's time would one day come to an end.\nBut her waiting would not.\nThe short hand seemed to be constantly chasing after the long hand.\nMuch like the incessant longing that filled the maiden's heart and mind.\n\nYears after the event, she still remembered the knight she met that day.\nThe white knight that came to her. The white knight she had been waiting for ever since.\n",
+                "14004_Ti"
+            ],
+            "Goblet": [
+                "\u5c11\u5973\u7247\u523b\u7684\u9592\u6687",
+                "\u5c6c\u65bc\u7d05\u8336\u800c\u4e0d\u5c6c\u65bc\u70c8\u9152\uff0c\u5c6c\u65bc\u82b3\u751c\u800c\u4e0d\u5c6c\u65bc\u82e6\u6f80\u7684\u676f\u76bf\u3002",
+                "\nThe maiden's most cherished teaware.\nIt was once filled with elegant black tea.\n\nIndulging herself in pastries and tea,\nShe cared not one bit about the mundane world. This was her privilege as a maiden.\n\n\"This flower shall be my medal. That is all I need.\"\nThe knight said to her on the day they met.\n\"But, my heart is already\u2014\"\nNot finishing her confession was her privilege,\nbut also the chains of courtliness the maiden had to bear.\n",
+                "14004_Go"
+            ],
+            "Headpiece": [
+                "\u5c11\u5973\u6613\u901d\u7684\u82b3\u984f",
+                "\u7cbe\u5fc3\u4fdd\u990a\u7684\u5973\u58eb\u5e3d\uff0c\u5373\u4f7f\u662f\u773c\u89d2\u7684\u76ba\u7d0b\u4e5f\u53ef\u4ee5\u5b8c\u7f8e\u906e\u84cb\u3002",
+                "\nEven when surrounded by flowers from her courters, \nThe maiden never removed her hat to get a better look at them.\nTheir names and faces were not worth remembering.\n\nFor years, at the end of every day,\nthe maiden would brush off the dust on her hat.\nBut the passage of time showed in her face, too \u2014 and unlike the dust, it could never be brushed off.\n\nAs time passed, fewer and fewer courters visited her with flowers.\nWhat did it matter? For her, time had already stopped long ago on that fateful day.\n",
+                "14004_He"
+            ]
+        }
+    },
+    "\u89d2\u9b25\u58eb\u7684\u7d42\u5e55\u79ae": {
+        "Bonuses": [
+            [
+                "2",
+                "\u653b\u64ca\u529b\u63d0\u9ad818%\u3002"
+            ],
+            [
+                "4",
+                "\u88dd\u5099\u8a72\u8056\u907a\u7269\u5957\u88dd\u7684\u89d2\u8272\u70ba\u55ae\u624b\u528d\u3001\u96d9\u624b\u528d\u3001\u9577\u67c4\u6b66\u5668\u89d2\u8272\u6642\uff0c\u89d2\u8272\u666e\u901a\u653b\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad835%\u3002"
+            ]
+        ],
+        "SID": "15001",
+        "Set Pieces": {
+            "Flower": [
+                "\u89d2\u9b25\u58eb\u7684\u7559\u6200",
+                "\u7121\u4eba\u77e5\u66c9\u50b3\u5947\u7684\u9b25\u58eb\u70ba\u4f55\u59cb\u7d42\u5c07\u9019\u6735\u5c0f\u82b1\u6234\u5728\u80f8\u53e3\uff0c\u9019\u662f\u6b98\u9177\u7684\u6230\u58eb\u8eab\u4e0a\u552f\u4e00\u7684\u5f31\u9ede\u3002",
+                "\nAn ordinary flower picked gently by the gladiator's master.\nHe made a brooch with it and pinned it on the gladiator's chest. It came to symbolize his gentler side.\n\nBefore the gladiator became a living legend, he once strolled with his young master in the garden.\nThe master picked a flower and gave it to the silent slave.\n\"Not all gifts are given out of benevolence. Sometimes they are nothing more than acts of whimsy.\"\nOne day in the far-off future, the gladiator's sly master would say these words to him.\n\nThe invincible gladiator finally fell at the foreign girl's feet.\nAt that moment, he recalled a dream he had had many years ago.\n\"Such beautiful flowers. I wonder when I'll be able to begin my own journey to see them.\"\n\"I'd like to see how beautiful the wild flowers are.\"\n",
+                "15001_Fl"
+            ],
+            "Feather": [
+                "\u89d2\u9b25\u58eb\u7684\u6b78\u5bbf",
+                "\u5982\u96bc\u822c\u81ea\u5728\u7684\u5922\u60f3\u4e4b\u7fbd\u3002\u5728\u50b3\u5947\u751f\u6daf\u7684\u7d42\u9ede\uff0c\u7121\u7f88\u7684\u98db\u9ce5\u5728\u4ed6\u7684\u5fc3\u53e3\u8986\u4e0a\u4e86\u9019\u6839\u7fbd\u6bdb\u3002",
+                "\nThe end had finally come for the triumphant gladiator.\nThe young challenger paid her final homage to the gladiator.\n\nWhen the vanity of victory and desire for freedom dissipated into the air like the morning fog,\nand when the light of dawn finally shone on the arena through layers of blood-soaked clouds, the gladiator saw a flying bird.\n\nOne battle away from being free, the gladiator was defeated by an anonymous girl.\nCries and howls burst out in the crowd like pounding thunder, but the victor refused to humiliate her opponent by execution.\nShe refused to plunge her sword into the opponent's throat and end his life like that of a slave.\n\nThe gladiator's healing wounds were covered with invisible feathers.\nHe eventually set off on a journey, finally as free as a bird.\nHis destination was the place where flowers bloom and birds soar.\n",
+                "15001_Fe"
+            ],
+            "Timepiece": [
+                "\u89d2\u9b25\u58eb\u7684\u5e0c\u5180",
+                "\u8a18\u9304\u4e86\u89d2\u9b25\u58eb\u8840\u67d3\u5287\u5834\u7684\u5e74\u6708\u7684\u6642\u8a08\u3002\u4e4b\u65bc\u5176\u4eba\uff0c\u5247\u8c61\u5fb5\u8457\u53bb\u5f80\u7d42\u7372\u81ea\u7531\u4e4b\u65e5\u7684\u9053\u8def\u3002",
+                "\nThe gladiator crafted this hourglass himself. He would flip the hourglass before each battle.\nWhen the hourglass stopped flipping, the gladiator had long since died in a pool of his own blood.\n\nThe gladiator would put this hourglass aside before entering the arena.\nWhen the fight had ended and the crowd started to cheer for him, the sand in the hourglass was still flowing.\n\nIn the gladiator's final fight, he faced a young girl.\nIn her eyes, he saw both the timidity of a young girl and the ferocity of a young lioness.\nFrom his steps, the girl saw the unbreakable shackles of age that the gladiator wore.\nIt was a fight like the old gladiator had not had in years. Fierce, yet satisfying.\nBut the fight ended in a flash. The sword plunged into the gladiator's heart, and the sand in his hourglass crawled to a stop.\n",
+                "15001_Ti"
+            ],
+            "Goblet": [
+                "\u89d2\u9b25\u58eb\u7684\u9163\u9189",
+                "\u53e4\u4ee3\u7684\u89d2\u9b25\u58eb\u75db\u98f2\u52dd\u5229\u4e4b\u9152\u7684\u91d1\u676f\u3002\u76f4\u5230\u4ed6\u5012\u4e0b\u7684\u90a3\u4e00\u523b\uff0c\u9152\u676f\u88ab\u4ed6\u81ea\u5df1\u7684\u6b72\u6708\u704c\u6eff\u3002",
+                "\nA lavish goblet made of gold. It was a gift from the champion gladiator's master.\nFrom this goblet the champion gladiator drank, be it fine wine or the blood of the defeated.\n\nAnother victory for the gladiator. Covered in wounds, he dedicated the victory to his master.\nMore intoxicating and pain numbing than the fine wine was the victory, honor, and applause from the crowd. \n\nThe master allowed him to join the feast and presented him with this goblet.\nIt was an exquisite goblet, made specially for him. A symbol of how much his master cared.\nBut the golden chains of vanity had bound the gladiator and the poisonous snake of desire had strangled him.\nBy pausing to wait for the wine of victory, the gladiator missed his chance to seize a fleeting chance at freedom.\n",
+                "15001_Go"
+            ],
+            "Headpiece": [
+                "\u89d2\u9b25\u58eb\u7684\u51f1\u65cb",
+                "\u53e4\u4ee3\u50b3\u5947\u89d2\u9b25\u58eb\u7684\u982d\u76d4\uff0c\u66fe\u6cbe\u67d3\u4e86\u7121\u6578\u6575\u624b\u7684\u9bae\u8840\uff0c\u4e5f\u66fe\u9a55\u50b2\u5730\u63a5\u53d7\u7121\u6578\u89c0\u773e\u7684\u6b61\u547c\u3002",
+                "\nA helmet of the gladiator adorned with feathers.\nTo zealous spectators, this helmet was the symbol of invincibility.\n\nThe legendary gladiator had fought numerous battles. None had ever stood a chance of survival before his sword, be they human or monster.\nOn each triumphant day, the champion gladiator would walk through the gate to a hero's welcome from the adoring crowd.\n\nOnly in moments of victory could the slave have a taste of what it felt like to be a master. But the cost of this vain aspiration was for the faint glow of freedom to be shrouded by darkness.\nOn the day of his triumph, the gladiator finally caught a glimpse of the world outside his cell. He was a step closer to freedom.\n\nBut only when his helmet fell down on the arena floor did he and the spectators alike realize that it was all just a farce.\nThe offering of his petty life made no difference. He would always be a worthless slave in the eyes of his master.\n",
+                "15001_He"
+            ]
+        }
+    },
+    "\u7fe0\u7da0\u4e4b\u5f71": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u98a8\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u64f4\u6563\u53cd\u61c9\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534760%\u3002\u6839\u64da\u64f4\u6563\u7684\u5143\u7d20\u985e\u578b\uff0c\u964d\u4f4e\u53d7\u5230\u5f71\u97ff\u7684\u6575\u4eba40%\u7684\u5c0d\u61c9\u5143\u7d20\u6297\u6027\uff0c\u6301\u7e8c10\u79d2\u3002"
+            ]
+        ],
+        "SID": "15002",
+        "Set Pieces": {
+            "Flower": [
+                "\u91ce\u82b1\u8a18\u61b6\u7684\u7da0\u91ce",
+                "\u66fe\u7d93\u904d\u4f48\u67d0\u5730\u7684\u91ce\u82b1\u3002\u96e2\u958b\u4e86\u5927\u5730\uff0c\u88ab\u7375\u4eba\u4f69\u5728\u80f8\u524d\u3002",
+                "\nA white wild flower that used to cover the earth.\nIt has not withered one bit, and still gives off an exquisite fragrance.\n\nIn the days when wildlife still roamed the earth and monsters had not yet appeared,\nthe Viridescent Venerer would use this flower to conceal her human scent.\nThus it was said that to seek the silent and gentle Viridescent Venerer,\none simply need to close one's eyes and walk barefoot through the forest, following the subtle fragrance of wild flowers.\nOnly those who could tread as softly as a hunter could avoid making the leaves crackle underfoot, alerting the queen of hunters to their presence.\n\nIt was also said that the one who eventually found the hunter was a boy.\nAt that time, disaster had just befallen the ancient kingdom and misery was spreading across the land.\n",
+                "15002_Fl"
+            ],
+            "Feather": [
+                "\u7375\u4eba\u9752\u7fe0\u7684\u7bad\u7fbd",
+                "\u66fe\u7d93\u4e00\u77ac\u8cab\u7a7f\u7375\u7269\u7684\u7bad\u77e2\u7684\u5c3e\u7fbd\u3002\u5982\u4eca\u4f9d\u820a\u5e73\u6574\u5149\u6f54\u3002",
+                "\nA glossy and shining feather of a falcon. It once served as a fine fletching on one of the Viridescent Venerer's arrows.\n\nIn the past, when the Viridescent Venerer's arrow hit its target,\nshe would come down and stroke the fur of her prey gently until its life force returned to nature in peace.\nFor she knew that one day, she too would embark on a journey to the place where the souls of her prey rested.\n\nThe Viridescent Venerer believed that at the end of her life, she would wake up from reality,\nand be reunited with the departed at an endless hunting ground.\n\nBut she also believed that the moment her arrow pierced through the monster that had killed the boy,\nthat endless hunting ground at the end of her life was gone from her grasp.\nFor she killed that mutated monster not for the sake of survival,\nbut out of vengeance and suffering.\n",
+                "15002_Fe"
+            ],
+            "Timepiece": [
+                "\u7fe0\u7da0\u7375\u4eba\u7684\u7be4\u5b9a",
+                "\u7375\u4eba\u66fe\u7d93\u96a8\u8eab\u651c\u5e36\u7684\u5947\u5999\u5100\u5668\uff0c\u6c38\u9060\u6307\u5411\u81ea\u5df1\u7684\u7375\u7269\u3002",
+                "\nA delicate device used for wayfinding.\n\nLegend has it that when the Viridescent Venerer walked barefoot on the fields,\nthe grass beneath her feet would tell her what the birds in the trees could see,\nand the mud she trod on would tell her what the roots in the earth could hear.\n\nBut it is said that ever since disaster struck, the grass and trees never spoke again.\nFor the God of the Woods had died in the disaster.\n\nSince then, she relied on this device for direction when hunting.\nAt the request of a boy she encountered, she ceased hunting birds and beasts.\nInstead, she made the monsters that brought destruction and suffering her prey.\n",
+                "15002_Ti"
+            ],
+            "Goblet": [
+                "\u7fe0\u7da0\u7375\u4eba\u7684\u5bb9\u5668",
+                "\u7da0\u91ce\u7375\u4eba\u66fe\u7528\u904e\u7684\u6c34\u58fa\uff0c\u88e1\u9762\u7684\u7a7a\u9593\u9060\u6bd4\u60f3\u50cf\u5f97\u66f4\u5927\u3002",
+                "\nA very robust and leakproof vessel.\nA legendary hunter known as the Viridescent Venerer once used it to collect whispers by the campfire.\n\nOne night, the Viridescent Venerer picked up the scent of other human beings.\nAs a hunter, she feared neither wolf packs nor monsters.\nWhat she feared far more than this was joining the chatter by the campfire.\nFor she had long forgotten how to speak human language.\n\nEven after rejoining the humans and accepting her place as Viridescent Venerer, no-one ever heard her say a single word.\nSimilarly, no-one ever saw her leave a single trace behind.\n\nThe Viridescent Venerer collected the laughter she heard that night and stored it in her vessel.\nFor many years, she would listen back to the voices in the vessel whenever she felt lonely.\n",
+                "15002_Go"
+            ],
+            "Headpiece": [
+                "\u7fe0\u7da0\u7684\u7375\u4eba\u4e4b\u51a0",
+                "\u66fe\u5c6c\u65bc\u7da0\u91ce\u7375\u4eba\u7684\u9a55\u50b2\u982d\u51a0\uff0c\u5982\u540c\u539f\u91ce\u4e4b\u98a8\u4e00\u822c\u9752\u7fe0\u3002",
+                "\nA hunter's hat without any blood stains.\nIn folklore, it belonged to the uncrowned queen of hunters \u2014 the Viridescent Venerer.\n\n\"Never become the foe of the earth and the forest.\" This was the hunters' rule.\nInstead, a hunter should become a silent part of nature.\nIt is said that a bird once built its nest in this hat.\n\nNone could ever bestow a crown upon the queen of hunters,\nsince the only one superior to her was nature itself.\n\nIn the crisis that soon followed, her hunter's hat became\na frightful sight for monsters to behold.\n",
+                "15002_He"
+            ]
+        }
+    },
+    "\u6d41\u6d6a\u5927\u5730\u7684\u6a02\u5718": {
+        "Bonuses": [
+            [
+                "2",
+                "\u5143\u7d20\u7cbe\u901a\u63d0\u9ad880\u9ede\u3002"
+            ],
+            [
+                "4",
+                "\u88dd\u5099\u8a72\u8056\u907a\u7269\u5957\u88dd\u7684\u89d2\u8272\u70ba\u6cd5\u5668\u3001\u5f13\u7bad\u89d2\u8272\u6642\uff0c\u89d2\u8272\u91cd\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad835%\u3002"
+            ]
+        ],
+        "SID": "15003",
+        "Set Pieces": {
+            "Flower": [
+                "\u6a02\u5718\u7684\u6668\u5149",
+                "\u5c0f\u5c0f\u7684\u82b1\u5f62\u5fbd\u7ae0\u3002\u5074\u8033\u7d30\u807d\u7684\u8a71\uff0c\u4eff\u4f5b\u80fd\u807d\u5230\u60a0\u63da\u7684\u7b1b\u8072\u548c\u6e05\u65b0\u7684\u6b4c\u5531\u8072\u3002",
+                "\nA small flower-shaped insignia. There seems to be music coming from it.\n\nAmong the members of the troupe was a charismatic swordswoman.\nBeautiful as the light on water, elegant as the chirping lark.\nHer every slash hummed a tune of the wind.\n\nThe end of each song and dance was like the sun after the rain.\nDust has since settled, and both the stage and life itself feel emptier for the absence of her music.\n\nBoth her music and her sword were as lethal as they were beautiful.\nThis was in keeping with the troupe's performances, which were intended for two very different audiences.\nFor the audience of foes, the music drifted far beyond the stage.\n",
+                "15003_Fl"
+            ],
+            "Feather": [
+                "\u7434\u5e2b\u7684\u7bad\u7fbd",
+                "\u9752\u85cd\u8272\u7684\u7bad\u7fbd\uff0c\u4e26\u672a\u5728\u6f2b\u9577\u6b72\u6708\u4e2d\u892a\u8272\u7834\u788e\u3002\u4f3c\u4e4e\u5e36\u4f86\u4e86\u843d\u73e0\u6d41\u6c34\u7684\u7434\u8072\u3002",
+                "\nAn azure arrow fletching that has survived the test of time.\nThe fletching seems to produce a tune as the arrow flies through air.\n\nThe harpist of the troupe was also a skilled archer.\nLegend has it that he could lure the birds in the sky with his harp and then shoot them down with his arrows.\nIt is said that he never looked at the sky while he was playing the harp to lure the birds.\nSome believed the reason was his harpist's arrogance, while his companion said it was his hunter's mercy.\n\nThe ill-fated birds became the fletching of the harpist's arrows,\nand the sound of the harp became the birds' elegy.\n",
+                "15003_Fe"
+            ],
+            "Timepiece": [
+                "\u7d42\u5e55\u7684\u6642\u8a08",
+                "\u70ba\u6a02\u5718\u7684\u6f14\u594f\u8a08\u6642\u7684\u6c99\u6f0f\uff0c\u66fe\u767c\u51fa\u4fd0\u843d\u7684\u8072\u97ff\u3002\u5982\u4eca\u4ed6\u5011\u7684\u8868\u6f14\u5df2\u7d93\u843d\u5e55\u3002",
+                "\nThe troupe's hourglass, which is also a harp.\nThe tune becomes deeper with the passage of time.\n\nWhen the performance was coming to an end, the troupe would play this harp.\nAs time passed, the tune of the harp became deeper.\nThe sound of the harp dying down marked the end of the show.\n\nEverything has an end, and the troupe was no exception.\nOne by one, each member of the troupe met their fate and their instruments were buried deep in the dust.\nAs the harp fell silent, the final sound heard from the musical troupe was the faint trickle of sand as it slid down the hourglass one final time.\n",
+                "15003_Ti"
+            ],
+            "Goblet": [
+                "\u541f\u904a\u8005\u4e4b\u58fa",
+                "\u5916\u578b\u5947\u5999\u7684\u53e4\u4ee3\u6c34\u58fa\uff0c\u5167\u5074\u5b89\u88dd\u8457\u7434\u5f26\uff0c\u96a8\u6d41\u6c34\u800c\u594f\u51fa\u7121\u65cb\u5f8b\u7684\u5947\u5999\u6a02\u8072\u3002",
+                "\nA strangely-shaped kettle that plays a wondrous tune as the water flows out.\nThere was always music in the life of a Troupe member, even when drinking water.\n\nAn ancient tale tells of a wandering troupe that roamed the land.\nFor flutes they had swords, and for harps they had bows. They performed not only for friends, but also for foes.\nThey traveled through the desert and set foot in the blazing Mare Jivari.\n\nThe tune of the harp echoing in the kettle was a reminder for them.\n\"Along with the boundless tunes we walk.\"\n\"Wherever there is music, there is us.\"\n",
+                "15003_Go"
+            ],
+            "Headpiece": [
+                "\u6307\u63ee\u7684\u79ae\u5e3d",
+                "\u5118\u7ba1\u98fd\u7d93\u98a8\u971c\uff0c\u4f46\u4f9d\u820a\u5149\u5f69\u7167\u4eba\u7684\u79ae\u5e3d\u3002\u5176\u4e2d\u4f3c\u4e4e\u8ff4\u76ea\u8457\u53e4\u8001\u60a0\u63da\u7684\u6a02\u8072\u3002",
+                "\nA beautiful top hat untouched by time.\nListening closely, one can almost hear an ancient tune echoing inside the hat.\n\nThousands of years ago, a troupe wandered through the lands.\nThe troupe owned not a single shred of sheet music. What they saw was what they sung, and what they heard was what they played.\nAs time passed, the troupe gradually realized the vastness of the world.\n\n\"There are so many things in the world for us to sing of.\"\n\nThe members then turned the notes into words and recorded their journey in a book.\nThis book, The Widsith as they called it, was still held tightly in the conductor's hands even after his death.\n",
+                "15003_He"
+            ]
+        }
+    },
+    "\u51b0\u4e4b\u5ddd\u8207\u96ea\u4e4b\u7802": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u51b0\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u8d85\u5c0e\u53cd\u61c9\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u5347100%\uff0c\u878d\u5316\u53cd\u61c9\u7684\u52a0\u6210\u4fc2\u6578\u63d0\u9ad815%\u3002\u65bd\u653e\u5143\u7d20\u7206\u767c\u5f8c\u768410\u79d2\u5167\uff0c\u51b0\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u984d\u5916\u63d0\u534730%\u3002"
+            ]
+        ],
+        "SID": "15004",
+        "Set Pieces": {
+            "Flower": [
+                "\u51dc\u51ac\u971c\u5fc3",
+                "\u9677\u5165\u975c\u9ed8\u7684\u51b0\u4e4b\u82b1\uff0c\u51dd\u56fa\u5728\u6458\u4e0b\u7684\u90a3\u4e00\u523b\uff0c\u662f\u9a0e\u58eb\u4e0d\u96e2\u8eab\u7684\u7d00\u5ff5\u3002",
+                "\nThis flower once bloomed in a foreign land, but its colors faded after it became encased in ice.\nIt was frozen when picked, serving as an eternal memento for the Knight of Boreas.\n\nThe Knight of Boreas had a heart of firm iron and a body hardened like the glaciers of the North.\nWolves befriended him and the North Wind accompanied him.\n\nYet few knew he belonged not to the heartless snowscape of the North.\nHis true home was filled with never-withering flowers and never-frozen rivers.\nBut he left his homeland. For he had a ranger's boundless spirit, which conflicted with the sages' narrow idealism.\nThe flower he picked became his loyal companion through countless winters.\n\n",
+                "15004_Fl"
+            ],
+            "Feather": [
+                "\u96ea\u85cf\u4e4b\u7fbd",
+                "\u8207\u5317\u98a8\u540c\u884c\u7684\u9a0e\u58eb\u65bc\u96ea\u4e2d\u62fe\u7372\u7684\u9ce5\u7fbd\uff0c\u5982\u4eca\u4f9d\u820a\u975c\u5019\u89e3\u51cd\u4e4b\u523b\u3002",
+                "\nThe feather of a bird that had never experienced the brisk winter is now frozen in ice.\nThe memory of the knight this feather carries will eventually fade, just as the ice will thaw.\n\nThe knight wandered along with the North Wind.\nAs feared as he was respected, he became known as the Knight of Boreas.\n\nWhen the Knight of Boreas noticed the whispered complaints of the people, he would set off on another journey.\nPerhaps the day would come when the winter ended. Sometimes, the Knight of Boreas mused aloud to the North Wind:\n\"A day may come when\u2014\"\nBut the moment he spoke, his words would be frozen by the howling wind.\n\n\"...when I can be in the land of spring, where flowers cover the earth and birds migrate homeward.\"\nWalking with the North Wind, the Knight of Boreas had always been waiting for the spring buried deep in his memory.\nSmiling wryly as he inspected the frozen feather, he wondered if the bird it came from shared his fate: lost in transit, with nowhere to call home.\n",
+                "15004_Fe"
+            ],
+            "Timepiece": [
+                "\u51dd\u51b0\u6210\u7802",
+                "\u8207\u5317\u98a8\u540c\u884c\u7684\u9a0e\u58eb\u66fe\u7528\u7684\u6642\u8a08\uff0c\u5167\u90e8\u662f\u6c38\u4e0d\u6d88\u53bb\u7684\u96ea\u7802\u8207\u971c\u98a8\u3002",
+                "\nAn hourglass of ice.\nEternal winds, not sands, flow inside.\n\nThe Knight of Boreas walked with the North Wind, his armor covered in frost.\nOn his endless journey, the cold winters were gifts scattered around the land.\n\nSolidified frost obstructed his movements in combat amidst storms.\nWhen the Knight of Boreas rested, hopes of brief respite were dashed as he saw the ice on his armor only grew thicker while stationary.\nThe knight had long forgotten his days as a wanderer.\nThe eternal icy winds had long since frozen time.\n\n",
+                "15004_Ti"
+            ],
+            "Goblet": [
+                "\u5317\u98a8\u4e4b\u76de",
+                "\u8207\u5317\u98a8\u540c\u884c\u7684\u9a0e\u58eb\u7559\u4e0b\u7684\u7a7a\u4e4b\u676f\uff0c\u51dc\u51ac\u7684\u971c\u4e4b\u606f\u4f9d\u820a\u6eff\u76c8\u5176\u4e2d\u3002",
+                "\nA ritual goblet forged of ice.\nIt holds not wine, but the hollering wind.\n\nThe howling wind of the North was like a ferocious wolf pursuing the knight along his path.\nA normal traveler would have been devoured by the frosty wind.\n\nBut he was not a normal traveler.\nIn the storm, the knight raised the goblet filled with frosty wind and proposed a toast to his howling travel partner.\nTogether they drank, the bitter wind serving as their wine. The knight and the North Wind became friends.",
+                "15004_Go"
+            ],
+            "Headpiece": [
+                "\u51b0\u6cb3\u4e4b\u51a0",
+                "\u8207\u5317\u98a8\u540c\u884c\u7684\u9a0e\u58eb\u6240\u6234\u7684\u51a0\u5195\uff0c\u4ee5\u51dc\u51ac\u7684\u5bd2\u51b0\u8207\u767d\u9280\u6253\u9020\u800c\u6210\u3002",
+                "\nA crown made of ice and silver,\noblivious to the spring of the North.\n\nAlong with the North Wind, the Knight of Boreas traveled through raging storms.\nThe Knight of Boreas fought with monsters on the icy plains of the North.\n\nHe traveled alone now, for the unrelenting blizzard had buried every last one of his companions in the snow.\nThe merciless wind itself had become his one faithful travel companion.\nThe hearts of those who look into the abyss shall be engulfed by the abyss,\nand the souls of those who fall into the glaciers shall become trapped in the glaciers.\n",
+                "15004_He"
+            ]
+        }
+    },
+    "\u5982\u96f7\u7684\u76db\u6012": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u96f7\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u8d85\u8f09\u3001\u611f\u96fb\u3001\u8d85\u5c0e\u53cd\u61c9\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534740%\u3002\u89f8\u767c\u9019\u4e9b\u5143\u7d20\u53cd\u61c9\u6642\uff0c\u5143\u7d20\u6230\u6280\u51b7\u537b\u6642\u9593\u6e1b\u5c111\u79d2\u3002\u8a72\u6548\u679c\u6bcf0.8\u79d2\u6700\u591a\u89f8\u767c\u4e00\u6b21\u3002"
+            ]
+        ],
+        "SID": "15005",
+        "Set Pieces": {
+            "Flower": [
+                "\u96f7\u9ce5\u7684\u6190\u61ab",
+                "\u5728\u52ab\u96e3\u4e4b\u65e5\u50e5\u5016\u514d\u53d7\u7d1b\u4e82\u7684\u8e10\u8e0f\u8207\u7d2b\u4e4b\u706b\u7684\u5fff\u6068\u4e4b\u6467\uff0c\u65bc\u6158\u8c61\u4e2d\u5016\u5b58\u7684\u96f7\u8272\u4e4b\u82b1\u3002",
+                "\nA purple wild flower that survived in the volcanic ash.\nIt witnessed the total decimation of the ancient tribe.\n\nWith an innocent's blood, the shaman summoned the Thunderbird.\nThey made their offerings, waiting for the Thunderbird to reveal and the oracles.\nHowever, what descended with the Thunderbird, was the lightning of destruction.\n\nFor the transgression against the young lad who sang to it, the sentence was total obliteration.\nThe Thunderbird showed its true nature, wiping the tribe from the face of the earth.\n\n\n",
+                "15005_Fl"
+            ],
+            "Feather": [
+                "\u96f7\u707d\u7684\u5b51\u907a",
+                "\u5e36\u96fb\u7684\u96f7\u4e4b\u7fbd\uff0c\u662f\u96f7\u4e4b\u9b54\u9ce5\u964d\u4e0b\u6b98\u9177\u7684\u5831\u61c9\u3002\u907a\u843d\u7684\u7fbd\u6bdb\u4ecd\u9583\u720d\u8457\u5b83\u76db\u6012\u7684\u96f7\u5149\u3002",
+                "\nThe lost feather of the Thunderbird enchanted in purple lightning.\nIt serves as the last witness of the destruction of the tribe.\n\nThe ancient tribe held the Thunderbird as its protector. But it rained down thunder upon the tribe.\nOn one gloomy night, it shared a pure friendship with the lad.\nOnce it departed, the lad picked up the feather it dropped.\n\n\"I shall sing you another tune,\nWhen you come again with thunder and rain.\"\n\nDriven to madness by the remorse of a promise unkept,\nThe Thunderbird left the mountain in cinders.\nIt was hunted down years after, slain as a monster.\n\nYears passed, the burned land revitalized.\nThe lightning-feather was left buried in the vegetation.\nThe story of the Thunderbird and the young lad all but perished with the tribe.\n\n",
+                "15005_Fe"
+            ],
+            "Timepiece": [
+                "\u96f7\u9706\u7684\u6642\u8a08",
+                "\u4fe1\u5949\u96f7\u9ce5\u7684\u90e8\u65cf\u9810\u544a\u5929\u7a7a\u7684\u96f7\u4e4b\u4e3b\u964d\u81e8\u7684\u6c99\u6f0f\u3002\u56e0\u4e00\u65cf\u7684\u672b\u8def\u9677\u5165\u4e86\u6c38\u9060\u7684\u975c\u6b62\u3002",
+                "\nA luxurious hourglass belonging to the ancient tribe that worshiped the Thunderbird.\nAs the tribe faded away, so did the hourglass.\n\nA luxurious hourglass, made with amethyst and amber gold, that belonged to a shaman.\nThe hourglass would serve its purpose for the festival held in the Thunderbird's honor.\n\nIn the last festival the tribe held, the frenzied Thunderbird blew away the bloodstained altar.\nThe countdown to the arrival of the protector became the countdown to the tribe's destruction.\nThe Thunderbird decimated the tribe to avenge the one who sang to it.\n\nUnbeknownst to the Thunderbird, the lad himself considered his sacrifice as an offering.\nAll for the good of the tribe, for the blessings of the Thunderbird.\n\n\n",
+                "15005_Ti"
+            ],
+            "Goblet": [
+                "\u964d\u96f7\u7684\u51f6\u5146",
+                "\u6ce8\u5165\u7121\u8f9c\u8005\u9bae\u8840\u7684\u795d\u8056\u7684\u5100\u5f0f\u4e4b\u676f\uff0c\u7948\u9858\u96f7\u9cf4\u8ff4\u76ea\u5176\u4e2d\uff0c\u6700\u7d42\u6ea2\u6eff\u4e86\u5982\u96f7\u7684\u76db\u6012\u3002",
+                "\nA ritual goblet used by the shamans of an ancient tribe.\nIt held the blood to be offered to the Thunderbird.\n\nIn the seasons when the Thunderbird flew amidst the stormy mountains, a young lad sang without fear.\nAttracted to his voice, the prideful Thunderbird landed by his side.\n\n\"Curious tunes, tiny human. Afraid not of thunder and storms?\n\"They said I can bring peace to thunder and storms.\"\n\nThe young lad paused and answered.\nThe Thunderbird cried but kept its silence.\nFor his was an enchanting song.\n\nIt was the first and last meeting between the Thunderbird and the young boy.\nFor the next he saw of the boy was when his blood filled the golden goblet on the sacrificial altar.\n",
+                "15005_Go"
+            ],
+            "Headpiece": [
+                "\u559a\u96f7\u7684\u982d\u51a0",
+                "\u53e4\u4ee3\u5d07\u62dc\u96f7\u4e4b\u9b54\u9ce5\u7684\u85a9\u6eff\u66fe\u6234\u904e\u7684\u982d\u51a0\uff0c\u8654\u8aa0\u7684\u4fe1\u4ef0\u537b\u7121\u6cd5\u6253\u52d5\u559c\u6012\u7121\u5e38\u7684\u9b54\u7378\u3002",
+                "\nIn the ancient tribe that worshiped the Thunderbird,\nelder shamans worn this crown.\n\nThe Thunderbird soared through the thunderstorms, raining down purple thunder and rain.\nAncient tribes feared its powers and thanked it for its blessings.\nShamans were chosen to offer blood sacrifices to it for protection and forgiveness.\n\nThe Thunderbird was still a monster that cared not for the worship of mankind.\nThey knew it not, and regarded the unpredictable actions of the Thunderbird as divine revelations.\nYet thunder was its breath, as were the fates of men.\nFrom the sky, men were no different from animals.\n\nUntil one day a song pierced through the roaring thunderstorm.\nThe song ripped through the clouds, and bestowed upon it, light.\n\n",
+                "15005_He"
+            ]
+        }
+    },
+    "\u71be\u70c8\u7684\u708e\u4e4b\u9b54\u5973": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u706b\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u8d85\u8f09\u3001\u71c3\u71d2\u53cd\u61c9\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534740%\uff0c\u84b8\u767c\u3001\u878d\u5316\u53cd\u61c9\u7684\u52a0\u6210\u4fc2\u6578\u63d0\u9ad815%\u3002\u65bd\u653e\u5143\u7d20\u6230\u6280\u5f8c\u768410\u79d2\u5167\uff0c2\u4ef6\u5957\u7684\u6548\u679c\u63d0\u9ad850%\uff0c\u8a72\u6548\u679c\u6700\u591a\u758a\u52a0\u4e09\u6b21\u3002"
+            ]
+        ],
+        "SID": "15006",
+        "Set Pieces": {
+            "Flower": [
+                "\u9b54\u5973\u7684\u708e\u4e4b\u82b1",
+                "\u66fe\u7d93\u5922\u60f3\u71d2\u76e1\u4e16\u9593\u9b54\u7269\u7684\u9b54\u5973\u89f8\u78b0\u904e\u7684\u82b1\u6735\u3002\u7121\u540d\u7684\u706b\u820c\u6eab\u6696\u5730\u8214\u8210\u89f8\u78b0\u5b83\u7684\u4eba\u3002",
+                "\nA common species of flower.\nIt is curiously capable of resisting the Crimson Witch's flames.\n\nA crisis centuries ago dashed all hope of the maiden seeing the future promised to her.\nThose dear to her, her past days, and her bright future. All gone.\n\nFrom the ashes, the Crimson Witch of Flame was born, and she burned away her pain with fire.\nYet this flower stayed resilient, soft, and moist.\nPerhaps both painful and beautiful memories were two sides of the same coin.",
+                "15006_Fl"
+            ],
+            "Feather": [
+                "\u9b54\u5973\u5e38\u71c3\u4e4b\u7fbd",
+                "\u66fe\u7d93\u5922\u60f3\u71d2\u76e1\u4e16\u9593\u9b54\u7269\u7684\u9b54\u5973\u89f8\u78b0\u904e\u7684\u9ce5\u7fbd\uff0c\u5728\u6046\u5e38\u7684\u71c3\u71d2\u4e2d\u63ee\u767c\u8457\u70c8\u7130\u7684\u6eab\u5ea6\u3002",
+                "\nA forever-burning bird feather.\nThe fire shall burn for all eternity.\n\nScorched earth followed in her wake, for she chose a path of hellfire.\nThough her fires only touched monsters and demons,\nPeople still cowered behind closed windows and try to drive her. But none of that mattered to her.\n\nNew hopes were birthed from the fires of old pains.\nShe needed not comforting nor sympathy.\nChirping by her side, the birds gave her all the understanding she needed.\n",
+                "15006_Fe"
+            ],
+            "Timepiece": [
+                "\u9b54\u5973\u7834\u6ec5\u4e4b\u6642",
+                "\u66fe\u7d93\u5922\u60f3\u71d2\u76e1\u4e16\u9593\u9b54\u7269\u7684\u9b54\u5973\u4f69\u6234\u7684\u6642\u8a08\u3002\u5176\u4e2d\u6d41\u6dcc\u8457\u7684\u662f\u9b54\u5973\u737b\u7d66\u706b\u7130\u7684\u6b72\u6708\u3002",
+                "\nA small vessel containing a high-temperature liquid.\nIt is said to be the molten souls of evil spirits.\n\nA special Hydro timepiece given to the Crimson Witch before calamity struck. Back then she was still a maiden, and had not yet embarked on her journey.\nOne cycle was the time required to finish her study at the Academia.\nBy the time the countdown ended and she returned to her hometown, its previous owner had become a casualty of the crisis.\n\nHer maiden years were over. The Crimson Witch of Flame was born, and with her the era of destruction.\nThe timepiece bore witness to the days of monsters and the pain they caused, until all were burned away.\n",
+                "15006_Ti"
+            ],
+            "Goblet": [
+                "\u9b54\u5973\u7684\u5fc3\u4e4b\u706b",
+                "\u66fe\u7d93\u5922\u60f3\u71d2\u76e1\u4e16\u9593\u9b54\u7269\u7684\u708e\u4e4b\u9b54\u5973\u7559\u4e0b\u7684\u6d41\u706b\u4e4b\u7515\u3002\u74f6\u4e2d\u706b\u6c38\u4e0d\u7184\u6ec5\uff0c\u4e00\u5982\u5176\u4eba\u3002",
+                "\nA clear bottle containing liquid fire.\nThe techniques involved in making liquid fire have since been lost.\n\nThe Crimson Witch of Flame walked upon the earth, burning monsters into cinders.\nRumor told of how she sacrificed her mortal body to become the embodiment of liquid fire herself.\n\nStill, love and longing once dwelt in her maiden heart.\nUntil fires burned away that beautiful and fragile part.\nThus, she became the witch that historians were loath to remember.\n",
+                "15006_Go"
+            ],
+            "Headpiece": [
+                "\u7126\u707c\u7684\u9b54\u5973\u5e3d",
+                "\u66fe\u7d93\u5922\u60f3\u71d2\u76e1\u4e16\u9593\u9b54\u7269\u7684\u708e\u4e4b\u9b54\u5973\u66fe\u7d93\u6234\u904e\u7684\u5e3d\u5b50\u3002\u5bec\u5927\u7684\u5e3d\u7c37\u80fd\u906e\u64cb\u5979\u7684\u8996\u7dda\u3002",
+                "\nA traditional witch's pointed hat with a large brim.\nIt grants a witch the reverence and fear which she commands.\n\nTo the Crimson Witch of Flame, this large hat shielded her from surrounding distractions.\nIt was how she was able to hone her Pyro skills when she was still an apprentice.\n\nIn combat, she needed not pay attention to monsters disintegrating in flames.\nNor did she need to look at her own burnt face in the water's reflection.\nAnd so the Crimson Witch continued to burn, blind to the extent of her devastation.\n",
+                "15006_He"
+            ]
+        }
+    },
+    "\u6614\u65e5\u5b97\u5ba4\u4e4b\u5100": {
+        "Bonuses": [
+            [
+                "2",
+                "\u5143\u7d20\u7206\u767c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534720%\u3002"
+            ],
+            [
+                "4",
+                "\u65bd\u653e\u5143\u7d20\u7206\u767c\u5f8c\uff0c\u968a\u4f0d\u4e2d\u6240\u6709\u89d2\u8272\u653b\u64ca\u529b\u63d0\u534720%\uff0c\u6301\u7e8c12\u79d2\u3002\u8a72\u6548\u679c\u4e0d\u53ef\u758a\u52a0\u3002"
+            ]
+        ],
+        "SID": "15007",
+        "Set Pieces": {
+            "Flower": [
+                "\u5b97\u5ba4\u4e4b\u82b1",
+                "\u7da2\u7dde\u88fd\u6210\u7684\u7483\u8272\u82b1\uff0c\u5e38\u5728\u5178\u96c5\u5834\u5408\u4f69\u6234\u3002\u5982\u4eca\u4ecd\u50cf\u88ab\u62cb\u68c4\u7684\u90a3\u5929\u4e00\u6a23\u9bae\u660e\u3002",
+                "\nA blue lily made of silky satin\nthat once served as a noblewoman's headdress.\n\nA noble who once ruled over Mondstadt left it behind.\nIn that legendary age, the nobles were examples for the people.\nThey guided their subjects with their conduct and wisdom.\nThey were the true representation of the people of Mondstadt.\nThey were noble not only in lineage,\nbut also in their commitment to virtues and principles.\n\nThe longevity of the nobles was cut short by their endless self-indulgence.\nOstentation gave way to devolution.\n",
+                "15007_Fl"
+            ],
+            "Feather": [
+                "\u5b97\u5ba4\u4e4b\u7fce",
+                "\u820a\u65e5\u8499\u5fb7\u8cb4\u65cf\u6703\u7375\u6642\u5728\u5e3d\u7c37\u4e0a\u4f69\u6234\u7684\u7fbd\u98fe\u3002\u5982\u4eca\u50b2\u7136\u633a\u7acb\u4f9d\u820a\uff0c\u4e0d\u8af3\u6642\u5149\u3002",
+                "\nThe feather of a falcon proudly perched on top of an old noble's hat.\nHunting with the common folk and sharing the spoils with them was an old tradition.\n\nCommonplace were the hunts, a hobby of the ruling class of Mondstadt.\nThe festivities were shared with their servants and the common folk,\nAs a sign of the benevolence of the nobles.\nAll the people were eager participants in the festivities.\n\nHunts soon lost their meaning.\nThe nobles took everything as their own, presuming it their right.\nProudly the feather still stood, yet faded was its color in the people's eyes.\n",
+                "15007_Fe"
+            ],
+            "Timepiece": [
+                "\u5b97\u5ba4\u6642\u8a08",
+                "\u66fe\u7d93\u5c6c\u65bc\u820a\u65e5\u8499\u5fb7\u8cb4\u65cf\u7684\u61f7\u9336\uff0c\u96a8\u6f2b\u9577\u7684\u8b5c\u7cfb\u6d41\u50b3\u81f3\u4eca\uff0c\u898b\u8b49\u4e86\u904e\u5f80\u5e74\u6b72\u3002",
+                "\nAn exquisite pocket watch made of sapphire.\nIt remains functional even after all these years.\n\nThe pocket watch of a noble who once ruled over Mondstadt. The time it tells is still accurate.\nPunctuality is a virtue, and this pocket watch helped the nobles stay on a virtuous path.\nIt was more for self-discipline than a tool to influence the common folk.\nAt daybreak, a worthy noble must be more vigilant than his people.\nAt night, he should be more thoughtful and restless than they.\n\nOver the years, the once-strict schedule was overturned by their indolent descendants.\nTheir timepieces grew more extravagant, but lost their virtuous function.\n",
+                "15007_Ti"
+            ],
+            "Goblet": [
+                "\u5b97\u5ba4\u9280\u7515",
+                "\u66fe\u7d93\u5c6c\u65bc\u820a\u65e5\u8499\u5fb7\u8cb4\u65cf\u7684\u9996\u98fe\u7515\uff0c\u7a7a\u7a7a\u5982\u4e5f\u7684\u8179\u5167\u4eff\u4f5b\u8ff4\u97ff\u8457\u54c0\u621a\u7684\u98a8\u8072\u3002",
+                "\nAn ornamental urn made of sapphire, bearing the silver insignia of a noble house.\nIt is exquisite and elegant, a testament to the aesthetics of the ancient nobles of Mondstadt.\n\nA noble who once ruled over Mondstadt left it behind.\nHowever, the extravagant treasures that once lay inside are now gone.\nThese luxuries were symbols of the noble's stature,\nas well as the confidence, pride, and prosperity of the people of Mondstadt.\n\nThen, the nobles fell prey to power.\nThey took and they spent without regard for the people.\nLuxurious accessories became vanity items.\n",
+                "15007_Go"
+            ],
+            "Headpiece": [
+                "\u5b97\u5ba4\u9762\u5177",
+                "\u66fe\u7d93\u5c6c\u65bc\u820a\u65e5\u8499\u5fb7\u8cb4\u65cf\u7684\u821e\u6703\u9762\u5177\uff0c\u90a3\u7a7a\u6d1e\u7684\u773c\u7736\u4f9d\u820a\u51dd\u671b\u8457\u6614\u65e5\u7684\u76db\u666f\u3002",
+                "\nA silver mask inlaid with gold and gems and engraved with delicate patterns.\nDelicately made, it showcases the elegance and customs of the old nobles.\n\nThe first nobles who rose up to rule Mondstadt began as heroes of humble origins.\nThese great chieftains and elegant princes as well as beautiful princesses and noblemen\nonce welcomed the people to their banquets and feasts.\nIn those days long past, the nobles shared their wisdom and elegance generously.\n\nIn that golden age, the nobles shared with the people their knowledge and profits.\nBut the later nobles were seduced by power. Their banquets were exclusively for their own pleasure.\n",
+                "15007_He"
+            ]
+        }
+    },
+    "\u67d3\u8840\u7684\u9a0e\u58eb\u9053": {
+        "Bonuses": [
+            [
+                "2",
+                "\u9020\u6210\u7684\u7269\u7406\u50b7\u5bb3\u63d0\u9ad825%\u3002"
+            ],
+            [
+                "4",
+                "\u64ca\u6557\u6575\u4eba\u5f8c\u768410\u79d2\u5167\uff0c\u65bd\u653e\u91cd\u64ca\u6642\u4e0d\u6d88\u8017\u9ad4\u529b\uff0c\u4e14\u91cd\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u534750%\u3002"
+            ]
+        ],
+        "SID": "15008",
+        "Set Pieces": {
+            "Flower": [
+                "\u67d3\u8840\u7684\u9435\u4e4b\u5fc3",
+                "\u88ab\u8840\u67d3\u9ed1\uff0c\u8b8a\u5f97\u5982\u92fc\u9435\u4e00\u822c\u5805\u786c\u7684\u4e7e\u82b1\u3002\u5c0d\u6545\u4e3b\u800c\u8a00\uff0c\u662f\u67d0\u7a2e\u7d00\u5ff5\u54c1\u5427\u3002",
+                "\nA common white flower given to the knight by a rescued damsel.\nIt is dried and hardened by the blood from all his bloodshed.\n\nThanking him for his valor, the damsel offered a reward.\nHe turned down all she gave, save for a pure white flower.\n\n\"For a knight, chivalry is its own reward.\"\n\"This flower shall be my medal. That is all I need.\"\n\nHe wore the flower upon his heart.\nLike his armor, it was stained as black as a winter's night.\nLike his heart, it was hardened like a tempered blade.\n",
+                "15008_Fl"
+            ],
+            "Feather": [
+                "\u67d3\u8840\u7684\u9ed1\u4e4b\u7fbd",
+                "\u9ecf\u5728\u9a0e\u58eb\u6597\u7bf7\u4e0a\u7684\u9d09\u7fbd\u3002\u56e0\u70ba\u53cd\u8986\u6cbe\u67d3\u5927\u91cf\u7684\u9ed1\u8840\u5df2\u7d93\u88ab\u5fb9\u5e95\u67d3\u6210\u58a8\u8272\u3002",
+                "\nOne of the countless raven feathers stuck to the Bloodstained Knight.\nFor where there is blood, ravens shall follow.\n\nIn the end the Bloodstained Knight could no longer tell\nwhether the blood that stained him was his own or that of his enemies.\n\nEventually, on his long journey filled with bloodshed, he came to a realization:\nHis path of so-called chivalry had turned him from the white knight he used to be into the monster he had now become.\nHis only followers were the ravens drawn to the bloodshed he left in his wake.\n",
+                "15008_Fe"
+            ],
+            "Timepiece": [
+                "\u9a0e\u58eb\u67d3\u8840\u4e4b\u6642",
+                "\u9a0e\u58eb\u66fe\u7d93\u4f7f\u7528\u904e\u7684\u6642\u8a08\u3002\u5176\u4e2d\u7684\u6db2\u9ad4\u5df2\u7d93\u5b8c\u5168\u51dd\u7d50\u4e86\uff0c\u5931\u53bb\u4e86\u8a08\u6642\u529f\u80fd\u3002",
+                "\nDeep in the abyss, where celestial bodies cast no light,\nthe Bloodstained Knight kept this timepiece, though time had lost all meaning.\n\nAt an end was the Bloodstained Knight's story,\nfor he realized there was no place for him on this earth.\nHe ventured into the fallen ancient kingdom, and died in battle in the monsters' lair.\nAt the bottom of the world, he learned the origin of the monsters that destroyed the ancient kingdom.\n\n\"The ancient kingdom was wrongfully cursed,\"\n\"Turning its inhabitants into monsters.\"\n\"The code of chivalry tolerates not such injustice.\"\n\"If Abyss be thy name, I pledge to you my loyalty.\"\n",
+                "15008_Ti"
+            ],
+            "Goblet": [
+                "\u67d3\u8840\u9a0e\u58eb\u4e4b\u676f",
+                "\u67d3\u8840\u9a0e\u58eb\u6301\u6709\u7684\u9eef\u6de1\u91d1\u5c6c\u676f\u76bf\u3002\u5916\u58c1\u56e0\u70ba\u7159\u71fb\u8207\u51dd\u7d50\u7684\u8840\u8b8a\u5f97\u6f06\u9ed1\u5982\u591c\u3002",
+                "\nOriginally an exquisite silver goblet with gold engravings depicting the feats of a chivalrous knight.\nBut blood and smoke have stained the cup beyond recognition.\n\nCovered in blood, the knight who slayed demons returned from the scourged battlefield,\nOnly to find that those awaiting his rescue were nowhere to be found among the burning, collapsed houses.\n\nDefeated, the Bloodstained Knight took the smoke-blackened goblet,\nand vowed to rid the world of monsters, of poverty and of evil.\n",
+                "15008_Go"
+            ],
+            "Headpiece": [
+                "\u67d3\u8840\u7684\u9435\u5047\u9762",
+                "\u9a0e\u58eb\u7528\u4f86\u906e\u63a9\u81ea\u5df1\u9762\u76ee\u7684\u9435\u9762\u5177\uff0c\u95dc\u65bc\u9762\u5177\u4e0b\u7684\u5bb9\u8c8c\u5e7e\u4f55\u66fe\u6709\u7121\u6578\u731c\u60f3\u3002",
+                "\nA luxurious platinum mask that once belonged to a knight of noble birth.\nThe dark stains of dry blood are now a permanent part of its appearance.\n\nAs the Bloodstained Knight reached out to help a person in need after slaying the monster,\nThe way she cowered in fear made the knight realize:\nHe was now a monster himself.\nTainted by the blood and cruelty of his drawn-out war.\n\n\"Shield me from the eyes\"\n\"Of those I vowed to protect.\"\n\"And shield them from the horrors I am bound to effect.\"\n",
+                "15008_He"
+            ]
+        }
+    },
+    "\u796d\u706b\u4e4b\u4eba": {
+        "Bonuses": [
+            [
+                "1",
+                "\u53d7\u5230\u7684\u706b\u5143\u7d20\u9644\u8457\u6548\u679c\u7684\u6301\u7e8c\u6642\u9593\u6e1b\u5c1140%\u3002"
+            ]
+        ],
+        "SID": "15009",
+        "Set Pieces": {
+            "Headpiece": [
+                "\u796d\u706b\u79ae\u51a0",
+                "\u53e4\u8001\u7684\u6642\u4ee3\u88e1\uff0c\u53f8\u796d\u7940\u4e4b\u4eba\u6240\u914d\u6234\u7684\u79ae\u51a0\u3002\u56e0\u9577\u5e74\u53d7\u706b\u820c\u8214\u8210\uff0c\u64c1\u6709\u5947\u5999\u7684\u6297\u6027\u3002",
+                "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThe envoys of the gods walked among benighted humanity then. The eternal ice had just begun to thaw, and the first fires were still new.\n\nIt was a time of great prosperity, when all was left in the hands of such heavenly revelations.\nThe envoys of heaven said that the world would soon enter a new and brighter age.\nThis was predestined, that future immutable.\n\nBut would a day come when such wonderful times might come to an end?\n\nTo this question the envoys gave no answer. So, the people chose from among them a chief priest,\nAnd adorning his head with a crown of white branches, they sent him out into the deep places of the world,\nTo antediluvian ruins and long-buried altars of sacrifice, to seek answers and enlightenment...\n",
+                "15009_He"
+            ]
+        }
+    },
+    "\u796d\u6c34\u4e4b\u4eba": {
+        "Bonuses": [
+            [
+                "1",
+                "\u53d7\u5230\u7684\u6c34\u5143\u7d20\u9644\u8457\u6548\u679c\u7684\u6301\u7e8c\u6642\u9593\u6e1b\u5c1140%\u3002"
+            ]
+        ],
+        "SID": "15010",
+        "Set Pieces": {
+            "Headpiece": [
+                "\u796d\u6c34\u79ae\u51a0",
+                "\u53e4\u8001\u7684\u6642\u4ee3\u88e1\uff0c\u53f8\u796d\u7940\u4e4b\u4eba\u6240\u914d\u6234\u7684\u79ae\u51a0\u3002\u56e0\u9577\u5e74\u6d78\u6c92\u5728\u6c34\u4e2d\uff0c\u64c1\u6709\u5947\u5999\u7684\u6297\u6027\u3002",
+                "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the ancient flames were extinguished amidst the first falling rains.\n\nIt was a prosperous time, a period of bountiful harvest.\nThen the earth was blessed and ruled by heaven, and the elemental flows were smooth and well-ordered.\nA hundred years of bounty were written in the stars, and none could change this divine law.\n\nBut what of the time after, a hundred, a thousand years from now? Would they have famine where they had plenty, poverty where once were riches?\nWould their altars and palaces become one with the soil, with only that silver-white tree for company?\n\nThe heavenly envoys, who ever spoke what they knew, were silent. So to understand this doom,\nThe chief priest, head crowned with white branches, would delve into the deep places of the world...\n",
+                "15010_He"
+            ]
+        }
+    },
+    "\u796d\u96f7\u4e4b\u4eba": {
+        "Bonuses": [
+            [
+                "1",
+                "\u53d7\u5230\u7684\u96f7\u5143\u7d20\u9644\u8457\u6548\u679c\u7684\u6301\u7e8c\u6642\u9593\u6e1b\u5c1140%\u3002"
+            ]
+        ],
+        "SID": "15011",
+        "Set Pieces": {
+            "Headpiece": [
+                "\u796d\u96f7\u79ae\u51a0",
+                "\u53e4\u8001\u7684\u6642\u4ee3\u88e1\uff0c\u53f8\u796d\u7940\u4e4b\u4eba\u6240\u914d\u6234\u7684\u79ae\u51a0\u3002\u56e0\u9577\u5e74\u8046\u807d\u8457\u96f7\u9cf4\uff0c\u64c1\u6709\u5947\u5999\u7684\u6297\u6027\u3002",
+                "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the waters ran dry as thunder first pierced the skies.\n\nPeople enjoyed untold wisdom, and that wisdom was their boon.\nTheir prosperity brought pride and ambition, and the mind to question.\n\nSo they questioned the heavens' authority, and schemed to enter the garden of gods.\nAnd though they had promised to the people divine love, prosperity and wisdom, the envoys of heaven were angry.\nFor to question eternity was forbidden,\nFor earth to challenge sky, inexpiable.\n\nSo the chief priest who wore the white-branched crown went forth to appease the divine envoys,\nAnd into the deep places he went, seeking the hidden wisdom of the silver tree in the ancient capitol...\n",
+                "15011_He"
+            ]
+        }
+    },
+    "\u796d\u51b0\u4e4b\u4eba": {
+        "Bonuses": [
+            [
+                "1",
+                "\u53d7\u5230\u7684\u51b0\u5143\u7d20\u9644\u8457\u6548\u679c\u7684\u6301\u7e8c\u6642\u9593\u6e1b\u5c1140%\u3002"
+            ]
+        ],
+        "SID": "15013",
+        "Set Pieces": {
+            "Headpiece": [
+                "\u796d\u51b0\u79ae\u51a0",
+                "\u53e4\u8001\u7684\u6642\u4ee3\u88e1\uff0c\u53f8\u796d\u7940\u4e4b\u4eba\u6240\u914d\u6234\u7684\u79ae\u51a0\u3002\u56e0\u904e\u53bb\u98fd\u5690\u971c\u5bd2\uff0c\u64c1\u6709\u5947\u5999\u7684\u6297\u6027\u3002",
+                "\nThey say that,\nThe line of chief priests have always seen this same sight as their days draw to an end:\nA mountain of crowns in a secret place, beneath a withered tree\u2014\n\u2014each one hiding a lifetime of secrets kept.\nEach retiring chief priest offers up their crown of flawless white branches to this world.\nEvery mighty and ancient city, and every austere place of sacrifice must one day return to profundity in the earth.\n\nAll prosperity must someday end.\nBut this does not mean that nothing is eternal.\n\nAt the end of a cycle, the earth shall be renewed. Thus eternity is cyclical.\nThe search for truth is a product of prosperity, and not the seed that plants it.\n\nThey say that,\nOnce upon a time, the people of the land could hear revelations from Celestia directly.\nThe envoys of the gods walked among benighted humanity then. In those days, life was weak, and the earth was blanketed in unending ice.\n",
+                "15013_He"
+            ]
+        }
+    },
+    "\u60a0\u53e4\u7684\u78d0\u5ca9": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u5ca9\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u7372\u5f97\u7d50\u6676\u53cd\u61c9\u5f62\u6210\u7684\u6676\u7247\u6642\uff0c\u968a\u4f0d\u4e2d\u6240\u6709\u89d2\u8272\u7372\u5f9735%\u5c0d\u61c9\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\uff0c\u6301\u7e8c10\u79d2\u3002\u540c\u6642\u53ea\u80fd\u901a\u904e\u8a72\u6548\u679c\u7372\u5f97\u4e00\u7a2e\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ]
+        ],
+        "SID": "15014",
+        "Set Pieces": {
+            "Flower": [
+                "\u78d0\u9640\u88c2\u751f\u4e4b\u82b1",
+                "\u76db\u958b\u65bc\u78d0\u9640\u5de8\u5ca9\u7684\u91d1\u77f3\u4e4b\u82b1\u3002\u82b1\u74e3\u96a8\u98a8\u8f15\u6416\uff0c\u4f3c\u6709\u751f\u6a5f\u3002",
+                "\nA flower that bloomed in a cliff's impregnable cleft.\nIt is an exquisite life shaped by the essence of Geo.\n\nThere is a folk saying that goes thus:\nIn times of yore, someone told the Lord of Geo that there was no life to be found in barren stone.\nThus did the Lord of Geo command flowers of purest gold to burst forth from the face of an uneven rock.\n\nPerhaps the Geo Archon did once work such a great wonder,\nOr perhaps this is but one of the many tales that shroud this ancient world.\nBut the prosperous harbor that grew out of the lifeless mountains,\nAnd that braves the raging waves of the Sea of Clouds\u2014\nPerhaps that was the brilliant flower, after all.",
+                "15014_Fl"
+            ],
+            "Feather": [
+                "\u5d6f\u5ce8\u7fa4\u5cf0\u4e4b\u7ffc",
+                "\u4f86\u81ea\u78ef\u5ca9\u5de8\u9cf6\u7684\u92fc\u7fbd\uff0c\u7384\u77f3\u7684\u7fbd\u5c16\u6709\u6642\u6703\u51dd\u7d50\u6e05\u51b7\u7684\u9732\u73e0\u3002",
+                "\nA feather left behind by the giant wings that flattened the mountains.\nThough it has long turned moss-green, this feather remains sharp as a naked blade.\n\nThey say that in ancient times, when the world was in turmoil, Rex Lapis plucked mountains and turned them into huge birds of prey.\nThese birds were carved out of rock and jade, and they soared above the ground once they had taken shape.\nSpiraling toward the heavens, they pierced through the clouds and flattened many stone peaks therein.\n\nThey say that these rock kites spread their wings and dived towards the ocean,\nAnd they fell from the sky like comets,\nRight into the heart of the sea, and the monsters within...\n\nAnd they say that the pillars of stone that jut out from the ocean continue to attract birds to this day.",
+                "15014_Fe"
+            ],
+            "Timepiece": [
+                "\u661f\u7f85\u572d\u74a7\u4e4b\u6677",
+                "\u4ee5\u6574\u584a\u572d\u74a7\u96d5\u7422\u800c\u6210\u7684\u65e5\u6677\uff0c\u7d0b\u8def\u5c64\u758a\u661f\u7f85\uff0c\u6c89\u9ed8\u5730\u8a18\u9304\u8457\u5931\u53bb\u7684\u6642\u9593\u3002",
+                "\nA sundial made using regal jade.\nIt silently pursues both time and tide.\n\nEven rocks that have stood firm for time immemorial will eventually disintegrate over time, crumbling into dust and gravel.\n\nLegend has it that the Lord of Geo once made the glittering stars of the earth into devices for telling time, all the better to teach the ancient humans about the value of every moment.\nOver the passage of time, this sundial came to be the prized possession of a young person who was still then a scholar in training.\n\n\"When I was young, I dreamed of studying the classics and going to Sumeru to attain the greatest wisdom.\"\n\"Yet when gaining this dial, I played with and examined it for many long days, and could not find in it a single flaw.\"\n\"Thus I changed tacks and sought a master craftsman to learn a new trade, and thereby challenge the creator of this divine tool.\"\n",
+                "15014_Ti"
+            ],
+            "Goblet": [
+                "\u5dc9\u5ca9\u7422\u5851\u4e4b\u6a3d",
+                "\u83ef\u9e97\u800c\u4e0d\u5931\u838a\u91cd\u7684\u9152\u6a3d\uff0c\u5343\u5e74\u524d\u66fe\u6eff\u76db\u7389\u9732\u3002",
+                "\nA vessel for wine carved from immovable rock.\nIt is said to be filled with the ambrosia of sovereigns.\n\nIt behooves basalt to be impregnable, and crystal to shine in its translucence.\nGoing incognito amongst mortals should be likewise, exquisite in its enjoyments.\n\nFolk legend holds that in order to drink wine,\nRex Lapis brought forth bedrock,\nAnd carved jade and lovely stone into a wine vessel for himself.\n\nSome even say that there were once seven such vessels.",
+                "15014_Go"
+            ],
+            "Headpiece": [
+                "\u4e0d\u52d5\u7384\u77f3\u4e4b\u76f8",
+                "\u7384\u5ca9\u7cbe\u96d5\u800c\u6210\u7684\u838a\u56b4\u9762\u5177\uff0c\u7a7a\u6d1e\u7684\u96d9\u773c\u6c38\u9060\u51b0\u51b7\u5730\u51dd\u8996\u8457\u524d\u65b9\u3002",
+                "\nIt is said that during the years when gods contended against one another, Rex Lapis' aspect was that of boundless slaughter.\nIn those god-eat-god battles, one could never have ascribed gentleness to him.\n\nHe knew right from wrong, and never missed his mark: in those days of tumult, he would show no mercy, even to friends-turned-foes.\nRex Lapis' stone-cold expression never once changed throughout that storied age.\n\nThey say that only when the dust settled did he lay down that unmovable visage.\nBut it had been necessary, for he had donned it to fulfill a contract.",
+                "15014_He"
+            ]
+        }
+    },
+    "\u9006\u98db\u7684\u6d41\u661f": {
+        "Bonuses": [
+            [
+                "2",
+                "\u8b77\u76fe\u5f37\u6548\u63d0\u9ad835%\u3002"
+            ],
+            [
+                "4",
+                "\u8655\u65bc\u8b77\u76fe\u5e87\u8b77\u4e0b\u6642\uff0c\u984d\u5916\u7372\u5f9740%\u666e\u901a\u653b\u64ca\u548c\u91cd\u64ca\u50b7\u5bb3\u52a0\u6210\u3002"
+            ]
+        ],
+        "SID": "15015",
+        "Set Pieces": {
+            "Flower": [
+                "\u590f\u796d\u4e4b\u82b1",
+                "\u6c38\u9060\u76db\u653e\u7684\u4eba\u9020\u4e4b\u82b1\uff0c\u5176\u4e2d\u662f\u5426\u5177\u6709\u751f\u547d\u5462\uff1f",
+                "\nA summer festival flower that blooms forever,\nThat will not wilt even if buried deep below the snow.That will not wilt even if buried deep below the snow.\n\nSome may label it an imitation, an false life,\nFor life lies in change, pain and growth,\nIn meetings, and also in partings.\n\nBut the memories of meeting her,\nOf watching the fireworks bloom in the sky like fresh flowers together,\nThe memories of that foxy-eyed woman who eventually disappeared without a trace...\nThat unwithering flower is the final thing to remember her by.\n\nIn the end, the difference comes down to the fact that for some,\nLife is as eternal as this undying summer bloom,\nBut for most, it is as transient as smoke.\n",
+                "15015_Fl"
+            ],
+            "Feather": [
+                "\u590f\u796d\u7d42\u672b",
+                "\u7cbe\u7dfb\u7684\u6728\u9020\u98db\u93e2\u3002\u62b5\u9054\u7d42\u9ede\u5f8c\u624d\u6703\u505c\u6eef\u4e4b\u7269\u3002",
+                "\nAn intricately-made throwing dart. It is a common sight during the summer festival.\nIn the ghost stories of Inazuma,\nThere is a tale about a meeting between the human and inhuman...\n\nTo celebrate my wife's pregnancy, I went to the shrine to give a votive offering.\nBut for reasons unknown, I went up the mountain with these objects.\nThe water balloon from when I seven, the fox mask from when I was seventeen,\nAnd a flower that would not wilt in ten or even a hundred years.\n\nWhy did I expect to meet her again?\nNo matchmaker introduced myself and my wife, and we were always short on money,\nAnd it took some time for us to produce an heir,\nBut our days were still filled with happiness, were they not?\n\nBut still I detoured on that mountain road to the place where I'd seen the fireworks with her.\nPulling the bushes apart, I thought I saw her dressed in white, sitting upon that rock.\nBut when I came forward and looked, it was just a fox sunbathing.\nIt leaped up at the sound of snapping branches, and fled into the woods,\nAnd like the spots of light that poke between leaves moved by the breeze, it was gone in a flash.\nAll that was left was an old wooden throwing dart.",
+                "15015_Fe"
+            ],
+            "Timepiece": [
+                "\u590f\u796d\u4e4b\u523b",
+                "\u505c\u6eef\u5728\u67d0\u4e00\u6642\u523b\u7684\u7cbe\u7dfb\u61f7\u9418\u3002",
+                "\nA small, ornate pocket watch.\nThe watch seems to have stopped at a certain time of day.\nIn the ghost stories of Inazuma,\nThis has something to do with an encounter with something inhuman...\n\nOn the night of the summer festival, as I walked the path to the shrine with the girl I admired,\nI heard, only barely, the sound of a lost child's cries.\nIn that moment of distraction, I fell, spraining my ankle and breaking that pocket watch.\n\nWhile she ran to look for some ointment,\nI tried to make way for the people passing through,\nAnd sat down on a rock by the wayside to rest.\nThe beautiful mask-wearing woman sat down beside me.\n\"There are few who know about this spot.\"\n\"But it's the best place to watch the fireworks, you know?\"\n\nIt should have been a dream.\nWe hadn't met in ten years,\nAnd she had aged not a single day in those years, and yet...\n\n\"You've grown so much. Looks like we should pass on the game of fusen.\"\n\"I've brought wine, though. Let's watch the fireworks together. What do you say?\"\n",
+                "15015_Ti"
+            ],
+            "Goblet": [
+                "\u590f\u796d\u6c34\u7389",
+                "\u590f\u796d\u6642\uff0c\u76db\u6c34\u6c23\u7403\u4e26\u4e0d\u7f55\u898b\u3002\u4f46\u5982\u6b64\u7cbe\u7dfb\u7684\u50c5\u6b64\u4e00\u500b\u3002",
+                "\nA beautiful water balloon filled with water.\nIn the ghost stories of Inazuma,\nThis is a memento from a chance meeting with something inhuman...\n\nDuring the summer festival, I was separated from my parents.\nIt was but a moment, but I had wanted to look at the water balloons,\nAnd let go my hand that had gripped on to my father's sleeve.\nBefore we knew it, the tide of people escorting the divine palanquin had washed us apart.\n\nI cried by the torii gates along the road to the shrine,\nAnd I counted the feet of the people ascending the mountain.\nI do not know when it happened,\nBut a beautiful lady with fox-like eyes had come to my side, and taken my hand.\n\n\"How preposterous, to leave such an adorable child here.\"\n\"So, how about it? Would you like to see the fireworks, throw some darts, and play fusen with me?\"\n",
+                "15015_Go"
+            ],
+            "Headpiece": [
+                "\u590f\u796d\u4e4b\u9762",
+                "\u4f9d\u64da\u50b3\u8aaa\u4e2d\u7684\u795e\u660e\u5f62\u8c61\u88fd\u4f5c\u7684\uff0c\u975e\u5e38\u6d41\u884c\u7684\u9762\u5177\u3002",
+                "\nThe mask of one indwelt by a deity.\nA mask that has been cast in the image of some legendary deity.\n\nPeople will often take on the guise of the fox of legend,\nCovering their faces with masks based on her divine visage,\nPerhaps wishing that they might gain her ability of transformation.\n\nIn Inazuma's legends, everything has a spirit.\n...But even so,\nIt is likely that most such beings would have long fled,\nDriven into the forests by the suppression of the Shogun.\n\nBut many people still believe in these divine foxes and the ability to be indwelt by them...\nThey believe that thousands of years of age may confer power upon animals.\nAs such, they also believe in what this fox mask represents.\n\nA note has been left on the back of this mask, written in a lovely hand.\n\"I'm sorry, I departed under the cover of the fireworks.\"\n\"We will most likely never meet again. Take care of yourself.\"\n",
+                "15015_He"
+            ]
+        }
+    },
+    "\u6c89\u6dea\u4e4b\u5fc3": {
+        "Bonuses": [
+            [
+                "2",
+                "\u7372\u5f9715%\u6c34\u5143\u7d20\u50b7\u5bb3\u52a0\u6210\u3002"
+            ],
+            [
+                "4",
+                "\u65bd\u653e\u5143\u7d20\u6230\u6280\u5f8c\u768415\u79d2\u5167\uff0c\u666e\u901a\u653b\u64ca\u8207\u91cd\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad830%\u3002"
+            ]
+        ],
+        "SID": "15016",
+        "Set Pieces": {
+            "Flower": [
+                "\u98fe\u91d1\u80f8\u82b1",
+                "\u8272\u6fa4\u6697\u6de1\u7684\u6597\u7bf7\u5225\u91dd\u3002\u539f\u672c\u934d\u4e0a\u7684\u91d1\u8272\u5df2\u7d93\u88ab\u6d77\u98a8\u78e8\u53bb\u3002",
+                "\nA corsage whose coloration has been blistered away by the sea-salt wind.\nEven a man who wanders the ocean waves,\nHas items and memories that he prizes.\n\nThe great warship raised its anchor and headed out to sea, and the Chief Mate once more left harbor with the Skipper.\nFor the Skipper's absurd pursuit, and for his own faded memories,\nThe Chief Mate hummed a crappy shanty of his own composing, forming a chorus with the whales and the waves.\n\n\"The scoundrel who gave up his family name and the witch who hunted him (never) reached the sea!\"\n\"The wise step-brother who could not be an heir became head at last (or did he?)\"\n\n\"Words that cannot be sung... Have I also forsaken the truth for illusions?\"\n\"Having lost it all, and given it all up, and then sinking beneath the waves...\"\n\"...Maybe this isn't the worst of endings, after all. Hahahahaha!\"\n",
+                "15016_Fl"
+            ],
+            "Feather": [
+                "\u8ffd\u61b6\u4e4b\u98a8",
+                "\u96a8\u55da\u54bd\u7684\u6d77\u98a8\u3001\u8165\u7d05\u7684\u6d77\u6d6a\u800c\u4f86\u7684\u98db\u7fbd\uff0c\u5e74\u6b72\u6539\u8b8a\u4e86\u5b83\u7684\u5f62\u72c0\u8207\u984f\u8272\u3002",
+                "\nA red feather is an ill omen, perhaps even a portent of death.\nIt washed ashore one day together with the corpse of a great sea creature.\n\nThe cynical Chief Mate was no native of Liyue. Rather, he came from a gray land ruled by an aristocracy.\nAll said that he, too, was once such a noble, but that he must have disgraced his house and been turned out as a result.\nThat was but baseless hearsay, however, for when he first came to the harbor, he carried naught but a slim sword,\nAnd a small sapphire-blue feather pinned to his mantle.\n\nLater, the wanderer would throw in with the Skipper and set out to sea, contending with great waves and sea creatures alike.\nThat once azure-blue feather would also be stained red by blood and by the salt of the great ocean.\n\nIn his last moment,\nHe clearly recalled those days now drowned in drink.\nLike treasure in the sand brought to light by the lapping waves...",
+                "15016_Fe"
+            ],
+            "Timepiece": [
+                "\u5805\u9285\u7f85\u76e4",
+                "\u53e4\u820a\u7684\u9285\u88fd\u7f85\u76e4\uff0c\u6307\u91dd\u59cb\u7d42\u671d\u5411\u9059\u4e0d\u53ef\u53ca\u7684\u5f7c\u5cb8\uff0c\u4e0d\u5b58\u5728\u7684\u6e2f\u7063\u3002",
+                "\nA bronze compass used by a seaman.\nIn an ever-tumultuous life of wandering,\nIt points toward the direction where its owner's heart lies.\n\nThe rough Skipper once used this compass to guide his huge ship,\nNavigating treacherous ocean paths and conquering huge whirlpools.\nIt also guided the one whose deep hatred hid behind an uninhibited laugh,\nAnd who, lost and despondent, sought death and burning drink...\n\n\"I believe you all sing that the thief could not avoid the gallows in the end, eh?\"\n\"As long as you have a place to belong to, even ending up in the belly of a fish would be alright\u2014\"\n\"Hey now, didn't you sign a contract with this ship when you came aboard?\"\n\"That memory didn't get washed down with the wine, did it?\"\n\"Good, then \u2014 after all, it is time to fulfill your contract.\"\n\n\"Is that so? ...Well, alright. It doesn't matter anymore, anyway...\"\n",
+                "15016_Ti"
+            ],
+            "Goblet": [
+                "\u6c89\u6ce2\u4e4b\u76de",
+                "\u7121\u5fc3\u6253\u6488\u4e0a\u4f86\u7684\u892a\u8272\u9152\u76de\uff0c\u6697\u6de1\u7684\u5916\u89c0\u5462\u5583\u8457\u6d77\u6ce2\u4e4b\u5e95\u7684\u5f80\u65e5\u3002",
+                "\nA faded, but finely-crafted wine cup,\nGround down by the sands in the sea's depths.\n\nThe exquisite cup fell from the Chief Mate's hand, raising tiny ripples as it hit the ocean surface.\nWhat did it see amid the schools of fish in the dying light?\nWhat had he encountered amidst the silent alleys, before the bars of the flower-inlaid windows of a secret tryst?\nDown and down the dark gold cup sank, into the dreams of the sea monster, and into the dreams of the Chief Mate...\n\n\"Someday, I will return the favor for this mark of humiliation that you left upon me.\"\nThe moonlight illuminated sapphire eyes and that striking scar.\nIn his memory, her countenance grew brighter, beautiful, cold and proud,\nBut he had forgotten what he had said then, and grew suddenly despondent as a result.\n\n\"Come to think of it, how many times have I forgotten the past...\"\n\n\"Ha, does it matter how you retell the past?\"\n\"All deaths are in vain. There is no saving that which has already sunk.\"\n",
+                "15016_Go"
+            ],
+            "Headpiece": [
+                "\u9152\u6f2c\u8239\u5e3d",
+                "\u53e4\u820a\u7684\u8239\u5e3d\uff0c\u7e5a\u7e5e\u8457\u4e0d\u6563\u7684\u9152\u6c23\u3001\u6d78\u6f2c\u4e86\u6591\u99c1\u7684\u9152\u75d5\u3002",
+                "\nA tricorne hat thick with the smell of alcohol.\nIts shape and design symbolize the position of its owner.\n\nThe hard-drinking Chief Mate was lost in a drunken reverie from morning till night, and was rarely ever sober.\nHe reeked of alcohol all over, mumbling often of tattered memories.\nThe jovial Skipper did not reprimand him, however, and indeed kept giving him important responsibilities.\n\n\"Well, we are both people without a thing to our names, eh? Hahahaha!\"\n\n\"The wine-sodden sea hat was thrust by a storm into the sky, and then carried away on the roiling waves.\"\n\"Those fated to lose their homelands engage in battles bereft of hope and want.\"\n\"That which they lost to the sea of memory, they sought to reclaim from the deep.\"\n\n\"The wind and waves are correct. We have found it.\"\n\"That giant creature that haunts and gnaws at me even in my dreams...\"\n\"The time for vengeance has arrived. We set sail!\"\n",
+                "15016_He"
+            ]
+        }
+    },
+    "\u5343\u5ca9\u7262\u56fa": {
+        "Bonuses": [
+            [
+                "2",
+                "\u751f\u547d\u503c\u63d0\u534720%"
+            ],
+            [
+                "4",
+                "\u5143\u7d20\u6230\u6280\u547d\u4e2d\u6575\u4eba\u5f8c\uff0c\u4f7f\u968a\u4f0d\u4e2d\u9644\u8fd1\u7684\u6240\u6709\u89d2\u8272\u653b\u64ca\u529b\u63d0\u534720%\uff0c\u8b77\u76fe\u5f37\u6548\u63d0\u534730%\uff0c\u6301\u7e8c3\u79d2\u3002\u8a72\u6548\u679c\u6bcf0.5\u79d2\u81f3\u591a\u89f8\u767c\u4e00\u6b21\u3002\u88dd\u5099\u6b64\u8056\u907a\u7269\u5957\u88dd\u7684\u89d2\u8272\u8655\u65bc\u968a\u4f0d\u5f8c\u53f0\u6642\uff0c\u4f9d\u7136\u80fd\u89f8\u767c\u8a72\u6548\u679c\u3002"
+            ]
+        ],
+        "SID": "15017",
+        "Set Pieces": {
+            "Flower": [
+                "\u52f3\u7e3e\u4e4b\u82b1",
+                "\u4ee5\u91d1\u7b94\u88fd\u6210\u7684\u7cbe\u7dfb\u82b1\u6735\uff0c\u8c61\u5fb5\u4e86\u5176\u4e3b\u4eba\u6240\u7372\u5f97\u7684\u529f\u52f3\u8207\u69ae\u8b7d\u3002",
+                "\nIn an age when solemn songs were sung from the clifftops, a meteorite once fell into the Chasm.\nOut of the depths of the boundless night sky above, the iron meteorite plummeted to the ground, turning the earth to powdered glaze on impact.\n\nThough human life is fleeting, Rex Lapis personally ordered the Millelith to rush to the defense of the mines.\nAs the Abyss flooded forth, the Millelith escorted countless civilians to safety.\nMiners tell tales of a small number of troops from the rearguard, who remained in the Chasm.\nTogether with the nameless yaksha, they fought courageously until they, too, made the ultimate sacrifice among the jagged rocks.\n\nIn time, the names of both mortals and adepti alike were forgotten. In time, even the mountains and rivers change form.\nYet there will never come a time when their honorable deeds shall be forgotten. Like this gold-leafed flower, they will shine on forever.\n500 years on, the harbor city remains as steadfastly peaceful today as the day the disaster was quelled.\nAnd still, the troops wear this golden flower with pride, in honor of the sacrifice made by their forebears.\n",
+                "15017_Fl"
+            ],
+            "Feather": [
+                "\u662d\u6b66\u7fce\u7fbd",
+                "\u5728\u5100\u4ed7\u5834\u5408\u4f69\u6234\u7684\u9df9\u7fce\uff0c\u7528\u4ee5\u5411\u5916\u4eba\u986f\u660e\u7483\u6708\u6e2f\u7684\u5a01\u56b4\u8207\u6c7a\u5fc3\u3002",
+                "\nAs a mark of military service, the Millelith use the feathers of high-altitude birds of prey to adorn their uniforms.\nThese tail feathers are only worn on ceremonial occasions. They boost the morale of the citizenry and fill visiting outlanders with a sense of awe.\n\nIt is said that in its inception, this ceremonial custom was inspired by the nameless yaksha.\nIn the heat of battle, when the yaksha was engaged in fierce combat with the Abyss, some of its plumage was stripped away. The feathers that fell to the ground were seen as a symbol of hope.\nIn the end, the brave yaksha and fearless citizenry would sink into an exhausted slumber in the dark lair of the enemy.\nRex Lapis was moved by their sacrifice and observed a prolonged vow of silence among the low murmuring of the mountain stone.\nThe people claim that the nameless yaksha that defended The Chasm was not, in fact, under the command of Rex Lapis.\nInstead, they believe that it was an act of redemption from a longstanding sin... a price paid for cowardice and dereliction of duty.\n\nWhatever the truth of the matter, the yaksha that had once soared through celestial heights had now returned to a free existence amongst the clouds.\nAs for the soldiers, trapped in eternal slumber in the depths of The Chasm... their legend continues to evolve with the flow of time.",
+                "15017_Fe"
+            ],
+            "Timepiece": [
+                "\u91d1\u9285\u6642\u6677",
+                "\u5916\u89c0\u6a38\u7d20\u7684\u8a08\u6642\u9053\u5177\uff0c\u5728\u6230\u4e82\u7684\u6642\u4ee3\uff0c\u4e00\u5ea6\u662f\u5343\u5ca9\u8ecd\u7684\u5236\u5f0f\u88dd\u5099",
+                "\nA hardy timepiece powered by sunlight and moonlight, capable of capturing rays of light even on the darkest of days.\nWhen Liyue was threatened by a pitch-black malice, this time-dial helped the soldiers to remember the warmth of the sun.\n\nIn the course of fighting side-by-side with the yaksha, these mortal soldiers could not escape being contaminated by karma, or harmed during the slaughtering.\nTo avoid being consumed by the darkness of constant killing, the Millelith soldiers used this timepiece to silently mark the passage of time during each battle.\nThey fixed a unified marching pace and schedule so that one squadron of mortal soldiers would take the battlefield as the one before them retreated.\nThis cycle of advance and retreat continued all the way to the depths of the Chasm, where yaksha and valiant soldiers both fell.\n\n100 years later, this timepiece was unearthed by a miner. Its bronze surface sparkled in the bright starlight.\nUrban legends tell of a collector of curios wearing black robes, who roamed the market streets one day, buying up Orichalceous Time-Dials and paying a generous sum for each one.\nSome sellers queried him, curious to know what his reasons were, but he deftly deflected all their questions with an array of excuses and other verbal tricks.\nAs for what this individual's true motive was, perhaps only the unyielding forward march of time can finally deliver a satisfying explanation.\n",
+                "15017_Ti"
+            ],
+            "Goblet": [
+                "\u76df\u8a93\u91d1\u7235",
+                "\u5343\u5ca9\u8ecd\u7528\u4ee5\u76df\u8a93\u7684\u91d1\u7235\uff0c\u4f9d\u820a\u6b98\u7559\u8457\u7d72\u7d72\u9152\u9999\u3002",
+                "\nWhen the Millelith was first founded, Liyue was still a savage and dangerous place.\nThe elders of towns, villages, and tribes would pledge oaths of allegiance with a golden cup.\nAs a show of loyalty to Rex Lapis and duty to their countrymen,\nThey selected valiant soldiers from all regions. These soldiers became known as the Millelith.\n\nThey would go on to take up arms with a yaksha in battle, fighting from the rearguard. They too drank from that golden cup.\nIt was a final toast to the benevolent and majestic Lord of Geo. With their gaze fixed ahead of them, they stormed into the abyss.\nHundreds of years later, a conceited adventurer retrieved the cup from the depths of The Chasm and washed away the imperfections.\nMiraculously, the cup remained whole and untarnished by the passage of time. The pitch-dark of that subterranean realm had failed to remove its radiance.\n\nYet more centuries passed. Eventually, the people of Liyue would tell tales of an era of catastrophe and a nameless yaksha,\nTales of how heroes from disparate heritages and different lands united under a single banner against the Abyss...\nInevitably, the tale would touch upon the cup, and how the blood of those that went before remained clear and spotless as the day it was spilled.\n",
+                "15017_Go"
+            ],
+            "Headpiece": [
+                "\u5c07\u5e25\u515c\u936a",
+                "\u5e74\u4ee3\u4e45\u9060\u7684\u83ef\u9e97\u982d\u76d4\uff0c\u6d17\u6de8\u5875\u6c99\u5f8c\u4f9d\u820a\u660e\u4eae\u5982\u65b0\u3002",
+                "\nThe commander who fought together with the nameless yaksha fell in the line of duty,\nAs did the handful of his compatriots who fought alongside him.\nTo ensure that the afflicted civilians could safely escape, and to maintain their honor in the eyes of the Lord of Geo,\nThe helmet-clad troops of the front line took the lead, pointing their spears towards the Abyss and charging into battle.\n\nDisaster arrived in the land of glaze, and a horde of ancient foes came surging forth.\nAt the order of Rex Lapis, the yaksha fought a bloody battle against the warped creations of the Abyss.\nThe fight went on until the last drop of blood had soaked into the battlefield and all that was impure had been cleansed.\nAs the tide of the Abyss receded, the glaze sands shone gloriously once more,\n\nBut when the gloom that had filled the skies above The Chasm had finally dissipated, the yaksha disappeared without a trace.\nAs for the general and his men who left their helmets on the battlefield, they rest there in peace forevermore.\n",
+                "15017_He"
+            ]
+        }
+    },
+    "\u84bc\u767d\u4e4b\u706b": {
+        "Bonuses": [
+            [
+                "2",
+                "\u9020\u6210\u7684\u7269\u7406\u50b7\u5bb3\u63d0\u9ad825%\u3002"
+            ],
+            [
+                "4",
+                "\u5143\u7d20\u6230\u6280\u547d\u4e2d\u6575\u4eba\u5f8c\uff0c\u653b\u64ca\u529b\u63d0\u53479%\u3002\u8a72\u6548\u679c\u6301\u7e8c7\u79d2\uff0c\u81f3\u591a\u758a\u52a0\u5169\u5c64\uff0c\u6bcf0.3\u79d2\u81f3\u591a\u89f8\u767c\u4e00\u6b21\u3002\u758a\u6eff\u5169\u5c64\u6642\uff0c2\u4ef6\u5957\u88dd\u7684\u6548\u679c\u63d0\u5347100%\u3002"
+            ]
+        ],
+        "SID": "15018",
+        "Set Pieces": {
+            "Flower": [
+                "\u7121\u57a2\u4e4b\u82b1",
+                "\u6e5b\u85cd\u800c\u5805\u786c\uff0c\u6c38\u4e0d\u51cb\u6557\u3001\u6c38\u4e0d\u892a\u8272\u7684\u4eba\u9020\u82b1\u6735\u3002",
+                "\n\"You astound me. You have but a human body, and yet you carry such a power within you.\"\n\"You claim that you have no tears left to cry, no blood left to shed, but surely this is because you have filled yourself with fire...\"\n\"Though your body has long been covered in scars, fierce flames are all that now may flow, like molten iron, from your eyes and your wounds.\"\n\"But we appear to have gotten off-topic. I followed the trail of smoke and tracked you down because I wish to strike a deal with you...\"\n\"Let the flames that now devour you be extinguished by the grace of Her Majesty. What say you?\"\n\nThe first Fatuus gave power to a young woman in whom the flame of life had all but died,\nAnd in her wild imagination, she saw the line that lay between the corrupt past and a stainless future...\n\n\"I understand. Then, let glacial ice take the place of my erased past and extinguish these undying flames.\"\n\"Let the darkness of corruption, the pain of the world, and the humans, beasts, and the sin they carry all be purified by silent ice.\"\n\nBut despite this, a pure white flame continued to burn within her heart...\n\n\"We share the same goal, you, your Tsaritsa, and I.\"\n\"Cleanse the sources of distortion in this world: short-sighted, ignorant gods and the darkness and corruption of the Abyss.\"\n\"Good. I will do whatever it takes to become an effective instrument in the advancement of our common cause.\"\n\"For even if I dress in pure white from head to toe, the ashes of the dead that have long left their stain on every inch of my being can never be cleansed.\"\n",
+                "15018_Fl"
+            ],
+            "Feather": [
+                "\u8ce2\u91ab\u4e4b\u7fbd",
+                "\u908a\u7de3\u7121\u6bd4\u92b3\u5229\u7684\u4e0d\u7965\u7fce\u7fbd\uff0c\u6216\u8a31\u8c61\u5fb5\u8457\u7570\u985e\u7684\u4e0d\u7f88\u3002",
+                "\n\"A human is nothing more than a machine of a certain level of complexity.\"\nThus declared the youth from his lectern in the seedbed of wisdom.\nIf one were to disassemble a part of this machine and make enhancements to it,\nIts performance could be greatly amplified.\nWith or without a Vision, and irrespective of their physique or combat skills,\n\"Enhanced humans\" would surely display strength far beyond the average.\n\nDespite the risk of being denounced as a heretic and permanently cast from the circle of the wise,\nThe youth candidly jotted down these thoughts in the margins of his research notes:\nI. As anticipated, no research breakthroughs are possible, given the working style of the Academia.\nII. Nevertheless, being expelled would be a loss. One needs an environment conducive to research.\n\nFollowing a trail of rumors of heresy, the first of the Fatui tracked him down...\n\n\"Merely an enhanced human? If your great nation can furnish me with sufficient resources and ample time, I could even manufacture that which you would call a god. What say you?\"\nIn the desert that shone bright like liquid gold, he inquired of the Snezhnayan diplomat:\n\"Will you treat me like the Academia did? Will you call me a monster, a madman?\"\n\"Or will you treat me as my hometown did, and chase me away with pitchforks and clubs...?\"\n\nHowever...\n\"Good. Then, we are now in partnership.\"\n\"As for the matter of your title \u2014 what do you say to this...\"\nTaken completely by surprise by the sheer irony of the title he was given, the young man burst into hysterical laughter.",
+                "15018_Fe"
+            ],
+            "Timepiece": [
+                "\u505c\u64fa\u4e4b\u523b",
+                "\u6bbc\u7f69\u7121\u6cd5\u6253\u958b\u7684\u61f7\u9336\uff0c\u6703\u5805\u5b9a\u5730\u96a8\u8457\u6642\u5149\u6d41\u901d\u800c\u5600\u55d2\u4f5c\u97ff\u3002",
+                "\nMoney is the lifeblood of the world, and the pathways along which it flows are the world's arteries.\nThen, the center of the world is a heart made of gold.\n\nHe was not one of the favored, and could only pursue worldly power.\nBut though money ought to mean nothing to the gods,\nThey held it firmly within their grasp nonetheless, along with the countless other forms of power that they wielded.\n\nPerhaps he lusted for money because he had once been destitute,\nOr perhaps the fact that the gods had never looked upon him with favor ignited a burning desire for resistance inside him...\n\n\"The people of the land from which these coins hail revere contracts above all else.\"\n\"In the name of money, I shall respect the contract between us...\"\n\"We shall, by whatever means necessary, become the heart that pumps money around the world.\"\n\"And, when the moment comes, that heart shall cease beating by our will alone.\"\n",
+                "15018_Ti"
+            ],
+            "Goblet": [
+                "\u8d85\u8d8a\u4e4b\u76de",
+                "\u5f9e\u5916\u89c0\u7121\u5f9e\u65b7\u5b9a\u7d93\u6b77\u4e86\u591a\u5c11\u6b72\u6708\u7684\u7cbe\u7dfb\u676f\u76de\u3002",
+                "\nHe was born with a face fairer than any other,\nDestined to a long life and a hollow will.\n\nHe was a transcendent being, divinely created, but he was cast aside like worthless dross.\nYet, due to an error that cannot be known, he roused himself from slumber,\nAnd began to wander the mortal realm.\n\nBefore the Fatui found him, he had drifted for countless years\nAnd in that time, this is what his experience had taught him:\n\n\"I am a 'human' who surpasses all others.\"\n\"Even the gods daren't meddle in my fate.\"\n\"Neither mortal nor god, nor fate itself, is qualified to be my judge.\"\n\"I am free to choose how I wish to spend the remainder of my days.\"\n\n\"Since these mask-wearing people are so fun to be around...\"\n\"I think I'll become one of them.\"\n",
+                "15018_Go"
+            ],
+            "Headpiece": [
+                "\u55e4\u7b11\u4e4b\u9762",
+                "\u80fd\u5c07\u9762\u76ee\u906e\u853d\uff0c\u8b93\u4eba\u7121\u5f9e\u5224\u65b7\u8868\u60c5\u7684\u9762\u5177\u3002",
+                "\nSince the stain of my compatriots' blood cannot be cleansed, I shall become The Jester, who laughs in the face of fate.\nSince my level of learning could not compare with the sages, I failed to earn the favor of the previous ruler.\nSo too did I fail to stop them from tearing away the veil of sin, ushering in a tide of divine wrath, destruction, and foolishness...\nThen I shall become instead a fool, a Fatuus, and devote myself to Her Majesty, who understands my pain...\n\nMy name is Pierro, The Jester. Please listen to the words I have to say:\n\nProud Fatui comrades, I know your hearts harbor both the fires of rage and the cold of eternal winter.\nEach one of us has borne witness to the absurd callousness of the foundational principles of this world.\nSo, let us don our masks in mockery of the world as we go forth and rewrite the rules of destiny.\n",
+                "15018_He"
+            ]
+        }
+    }
+}

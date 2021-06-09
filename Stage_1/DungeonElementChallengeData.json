@@ -1,0 +1,68 @@
+{
+    "4022": {
+        "DungeonId": 4022,
+        "TrialAvatarId": [
+            5003,
+            5002
+        ],
+        "TutorialId": 1000
+    },
+    "4023": {
+        "DungeonId": 4023,
+        "TrialAvatarId": [
+            5002,
+            5000
+        ],
+        "TutorialId": 1001
+    },
+    "4024": {
+        "DungeonId": 4024,
+        "TrialAvatarId": [
+            5002,
+            5001
+        ],
+        "TutorialId": 1002
+    },
+    "4025": {
+        "DungeonId": 4025,
+        "TrialAvatarId": [
+            5001,
+            5000
+        ],
+        "TutorialId": 1003
+    },
+    "4026": {
+        "DungeonId": 4026,
+        "TrialAvatarId": [
+            5003,
+            5001
+        ],
+        "TutorialId": 1004
+    },
+    "4027": {
+        "DungeonId": 4027,
+        "TrialAvatarId": [
+            5003,
+            5000
+        ],
+        "TutorialId": 1005
+    },
+    "4028": {
+        "DungeonId": 4028,
+        "TrialAvatarId": [
+            5004,
+            5000,
+            5002
+        ],
+        "TutorialId": 1006
+    },
+    "4029": {
+        "DungeonId": 4029,
+        "TrialAvatarId": [
+            5005,
+            5002,
+            5000
+        ],
+        "TutorialId": 1007
+    }
+}

@@ -1,0 +1,682 @@
+{
+    "TEST_EMBEDDED_TEXT": {
+        "TextMapId": "TEST_EMBEDDED_TEXT",
+        "TextMapContentTextMapHash": 1619769509
+    },
+    "QUIT": {
+        "TextMapId": "QUIT",
+        "TextMapContentTextMapHash": 3126171262
+    },
+    "RETRY": {
+        "TextMapId": "RETRY",
+        "TextMapContentTextMapHash": 319352974
+    },
+    "YES": {
+        "TextMapId": "YES",
+        "TextMapContentTextMapHash": 4101828030
+    },
+    "NO": {
+        "TextMapId": "NO",
+        "TextMapContentTextMapHash": 2123529086
+    },
+    "VERSION": {
+        "TextMapId": "VERSION",
+        "TextMapContentTextMapHash": 87740854
+    },
+    "TIP_TITLE": {
+        "TextMapId": "TIP_TITLE",
+        "TextMapContentTextMapHash": 2588295368
+    },
+    "CANNOT_REACH_NETWORK": {
+        "TextMapId": "CANNOT_REACH_NETWORK",
+        "TextMapContentTextMapHash": 1698808378
+    },
+    "CANNOT_REAL_REACH_NETWORK": {
+        "TextMapId": "CANNOT_REAL_REACH_NETWORK",
+        "TextMapContentTextMapHash": 1452053755
+    },
+    "WEAK_SIGNAL": {
+        "TextMapId": "WEAK_SIGNAL",
+        "TextMapContentTextMapHash": 1197760986
+    },
+    "WRITE_FAILED": {
+        "TextMapId": "WRITE_FAILED",
+        "TextMapContentTextMapHash": 736309748
+    },
+    "NOT_ENOUGH_SPACE": {
+        "TextMapId": "NOT_ENOUGH_SPACE",
+        "TextMapContentTextMapHash": 1469270774
+    },
+    "CHECK_ENVIRONMENT": {
+        "TextMapId": "CHECK_ENVIRONMENT",
+        "TextMapContentTextMapHash": 1125726798
+    },
+    "CHECK_UPDATE": {
+        "TextMapId": "CHECK_UPDATE",
+        "TextMapContentTextMapHash": 1285204630
+    },
+    "DOWNLOADING_ASSETS": {
+        "TextMapId": "DOWNLOADING_ASSETS",
+        "TextMapContentTextMapHash": 1323480176
+    },
+    "DOWNLOADING_INDEX": {
+        "TextMapId": "DOWNLOADING_INDEX",
+        "TextMapContentTextMapHash": 3202095352
+    },
+    "DOWNLOADING_VERSION": {
+        "TextMapId": "DOWNLOADING_VERSION",
+        "TextMapContentTextMapHash": 2758552808
+    },
+    "DOWNLOADING_PROGRESS": {
+        "TextMapId": "DOWNLOADING_PROGRESS",
+        "TextMapContentTextMapHash": 537359600
+    },
+    "DOWNLOADING_DESCRIPTION": {
+        "TextMapId": "DOWNLOADING_DESCRIPTION",
+        "TextMapContentTextMapHash": 312546304
+    },
+    "DOWNLOADING_ENABLE_PUSH": {
+        "TextMapId": "DOWNLOADING_ENABLE_PUSH",
+        "TextMapContentTextMapHash": 3407054996
+    },
+    "AUDIO": {
+        "TextMapId": "AUDIO",
+        "TextMapContentTextMapHash": 1901033558
+    },
+    "VEDIO": {
+        "TextMapId": "VEDIO",
+        "TextMapContentTextMapHash": 3689042902
+    },
+    "UI_CHOOSE_DOWNLOADING": {
+        "TextMapId": "UI_CHOOSE_DOWNLOADING",
+        "TextMapContentTextMapHash": 2227120564
+    },
+    "VERIFYING_MD5": {
+        "TextMapId": "VERIFYING_MD5",
+        "TextMapContentTextMapHash": 2484366663
+    },
+    "WAITING TO DOWNLOAD": {
+        "TextMapId": "WAITING TO DOWNLOAD",
+        "TextMapContentTextMapHash": 3153751118
+    },
+    "LOADING_GAME": {
+        "TextMapId": "LOADING_GAME",
+        "TextMapContentTextMapHash": 1102015234
+    },
+    "UI_CHOOSE_UPDATE_RES": {
+        "TextMapId": "UI_CHOOSE_UPDATE_RES",
+        "TextMapContentTextMapHash": 2719144097
+    },
+    "UI_LOGIN_TITLE": {
+        "TextMapId": "UI_LOGIN_TITLE",
+        "TextMapContentTextMapHash": 546210612
+    },
+    "UI_LOGIN_USER_LABEL": {
+        "TextMapId": "UI_LOGIN_USER_LABEL",
+        "TextMapContentTextMapHash": 2272746301
+    },
+    "UI_LOGIN_ACCOUNT_LABEL": {
+        "TextMapId": "UI_LOGIN_ACCOUNT_LABEL",
+        "TextMapContentTextMapHash": 949751891
+    },
+    "UI_LOGIN_PHONENUMBER_PLACEHOLDER": {
+        "TextMapId": "UI_LOGIN_PHONENUMBER_PLACEHOLDER",
+        "TextMapContentTextMapHash": 2143452081
+    },
+    "UI_LOGIN_ACCOUNT_PLACEHOLDER": {
+        "TextMapId": "UI_LOGIN_ACCOUNT_PLACEHOLDER",
+        "TextMapContentTextMapHash": 4098529987
+    },
+    "UI_LOGIN_EMAIL_PLACEHOLDER": {
+        "TextMapId": "UI_LOGIN_EMAIL_PLACEHOLDER",
+        "TextMapContentTextMapHash": 4290541700
+    },
+    "UI_LOGIN_PASSWORD_LABEL": {
+        "TextMapId": "UI_LOGIN_PASSWORD_LABEL",
+        "TextMapContentTextMapHash": 4248114464
+    },
+    "UI_LOGIN_PASSWORD_PLACEHOLDER": {
+        "TextMapId": "UI_LOGIN_PASSWORD_PLACEHOLDER",
+        "TextMapContentTextMapHash": 1925010688
+    },
+    "UI_LOGIN_PRESS_TO_CONTINUE": {
+        "TextMapId": "UI_LOGIN_PRESS_TO_CONTINUE",
+        "TextMapContentTextMapHash": 3743484506
+    },
+    "UI_LOGIN_PREPARE_TO_DOWNLOAD": {
+        "TextMapId": "UI_LOGIN_PREPARE_TO_DOWNLOAD",
+        "TextMapContentTextMapHash": 796446476
+    },
+    "UI_LOGIN_PREPARE_DATA": {
+        "TextMapId": "UI_LOGIN_PREPARE_DATA",
+        "TextMapContentTextMapHash": 1128933734
+    },
+    "UI_LOGIN_ACCOUNT_OR_PASSWORD_ERROR": {
+        "TextMapId": "UI_LOGIN_ACCOUNT_OR_PASSWORD_ERROR",
+        "TextMapContentTextMapHash": 1337109918
+    },
+    "UI_LOGIN_ACCOUNT_IS_EMPTY": {
+        "TextMapId": "UI_LOGIN_ACCOUNT_IS_EMPTY",
+        "TextMapContentTextMapHash": 3234761681
+    },
+    "UI_LOGIN_PASSWORD_IS_EMPTY": {
+        "TextMapId": "UI_LOGIN_PASSWORD_IS_EMPTY",
+        "TextMapContentTextMapHash": 3332890275
+    },
+    "UI_LOGIN_BEGIN_GAME_BTN": {
+        "TextMapId": "UI_LOGIN_BEGIN_GAME_BTN",
+        "TextMapContentTextMapHash": 3574932777
+    },
+    "UI_LOGIN_TOUCH_TO_ENTER": {
+        "TextMapId": "UI_LOGIN_TOUCH_TO_ENTER",
+        "TextMapContentTextMapHash": 3535917764
+    },
+    "UI_LOGIN_SELECT_SERVER": {
+        "TextMapId": "UI_LOGIN_SELECT_SERVER",
+        "TextMapContentTextMapHash": 1291325680
+    },
+    "UI_LOGIN_SELECT_DESC": {
+        "TextMapId": "UI_LOGIN_SELECT_DESC",
+        "TextMapContentTextMapHash": 2228850720
+    },
+    "UI_LOGIN_SELECT_TIPS": {
+        "TextMapId": "UI_LOGIN_SELECT_TIPS",
+        "TextMapContentTextMapHash": 1375810920
+    },
+    "LOGIN_VISITOR_NAME": {
+        "TextMapId": "LOGIN_VISITOR_NAME",
+        "TextMapContentTextMapHash": 1746082113
+    },
+    "UI_LOGIN_VISITOR_CONFIRM": {
+        "TextMapId": "UI_LOGIN_VISITOR_CONFIRM",
+        "TextMapContentTextMapHash": 938283903
+    },
+    "UI_LOGIN_CONFIRM": {
+        "TextMapId": "UI_LOGIN_CONFIRM",
+        "TextMapContentTextMapHash": 2007376220
+    },
+    "UI_LOGIN_QUIT_CONFIRM_TITLE": {
+        "TextMapId": "UI_LOGIN_QUIT_CONFIRM_TITLE",
+        "TextMapContentTextMapHash": 256662637
+    },
+    "UI_LOGIN_QUIT_CONFIRM_DESC": {
+        "TextMapId": "UI_LOGIN_QUIT_CONFIRM_DESC",
+        "TextMapContentTextMapHash": 4133795669
+    },
+    "UI_LOGIN_QUIT_CONFIRM_OK": {
+        "TextMapId": "UI_LOGIN_QUIT_CONFIRM_OK",
+        "TextMapContentTextMapHash": 2197030693
+    },
+    "UI_LOGIN_QUIT_CONFIRM_CANCEL": {
+        "TextMapId": "UI_LOGIN_QUIT_CONFIRM_CANCEL",
+        "TextMapContentTextMapHash": 3716955821
+    },
+    "UI_HTTP_ERROR": {
+        "TextMapId": "UI_HTTP_ERROR",
+        "TextMapContentTextMapHash": 694540129
+    },
+    "UI_DOWNLOAD_ERROR": {
+        "TextMapId": "UI_DOWNLOAD_ERROR",
+        "TextMapContentTextMapHash": 2214792819
+    },
+    "UI_ENET_REGION_ERROR": {
+        "TextMapId": "UI_ENET_REGION_ERROR",
+        "TextMapContentTextMapHash": 3873322741
+    },
+    "UI_BETA_CANVAS_INFO": {
+        "TextMapId": "UI_BETA_CANVAS_INFO",
+        "TextMapContentTextMapHash": 2576131092
+    },
+    "UI_ENET_STOP_SERVER": {
+        "TextMapId": "UI_ENET_STOP_SERVER",
+        "TextMapContentTextMapHash": 413334675
+    },
+    "UI_ENET_FORCE_UPDATE": {
+        "TextMapId": "UI_ENET_FORCE_UPDATE",
+        "TextMapContentTextMapHash": 531798869
+    },
+    "UI_ENET_DISCONNECT": {
+        "TextMapId": "UI_ENET_DISCONNECT",
+        "TextMapContentTextMapHash": 3431488390
+    },
+    "UI_WRONG_DEVICE_INFO": {
+        "TextMapId": "UI_WRONG_DEVICE_INFO",
+        "TextMapContentTextMapHash": 1836122507
+    },
+    "UI_WRONG_DEVICE_TITLE": {
+        "TextMapId": "UI_WRONG_DEVICE_TITLE",
+        "TextMapContentTextMapHash": 3837763643
+    },
+    "UI_LOGO_HEALTHY_GAMING_TIPS_PS4": {
+        "TextMapId": "UI_LOGO_HEALTHY_GAMING_TIPS_PS4",
+        "TextMapContentTextMapHash": 2071787565
+    },
+    "UI_LOGO_HEALTHY_GAMING_TIPS_MOBILE": {
+        "TextMapId": "UI_LOGO_HEALTHY_GAMING_TIPS_MOBILE",
+        "TextMapContentTextMapHash": 909694037
+    },
+    "UI_LOGO_HEALTHY_GAMING_TIPS_PC": {
+        "TextMapId": "UI_LOGO_HEALTHY_GAMING_TIPS_PC",
+        "TextMapContentTextMapHash": 3231160997
+    },
+    "UI_NETWORK_EXCEPTION": {
+        "TextMapId": "UI_NETWORK_EXCEPTION",
+        "TextMapContentTextMapHash": 652809924
+    },
+    "UI_LOGO_WARNING_TITLE_CN": {
+        "TextMapId": "UI_LOGO_WARNING_TITLE_CN",
+        "TextMapContentTextMapHash": 1737243758
+    },
+    "UI_LOGO_WARNING_DESC_CN": {
+        "TextMapId": "UI_LOGO_WARNING_DESC_CN",
+        "TextMapContentTextMapHash": 2024766283
+    },
+    "UI_LOGO_WARNING_TITLE_OS": {
+        "TextMapId": "UI_LOGO_WARNING_TITLE_OS",
+        "TextMapContentTextMapHash": 3242547414
+    },
+    "UI_LOGO_WARNING_DESC_OS": {
+        "TextMapId": "UI_LOGO_WARNING_DESC_OS",
+        "TextMapContentTextMapHash": 684851147
+    },
+    "UI_LOGIN_LOGOUT": {
+        "TextMapId": "UI_LOGIN_LOGOUT",
+        "TextMapContentTextMapHash": 496124908
+    },
+    "UI_LOGIN_QUIT": {
+        "TextMapId": "UI_LOGIN_QUIT",
+        "TextMapContentTextMapHash": 2821655932
+    },
+    "UI_LOGIN_CANCEL": {
+        "TextMapId": "UI_LOGIN_CANCEL",
+        "TextMapContentTextMapHash": 2634103076
+    },
+    "UI_LOGIN_BACK": {
+        "TextMapId": "UI_LOGIN_BACK",
+        "TextMapContentTextMapHash": 1356510260
+    },
+    "UI_LOGIN_CONNECT_FAIL": {
+        "TextMapId": "UI_LOGIN_CONNECT_FAIL",
+        "TextMapContentTextMapHash": 2495670371
+    },
+    "UI_4G_NETWORK": {
+        "TextMapId": "UI_4G_NETWORK",
+        "TextMapContentTextMapHash": 171022149
+    },
+    "DOWNLOAD_FINISH_NOTIFCATION_TITLE": {
+        "TextMapId": "DOWNLOAD_FINISH_NOTIFCATION_TITLE",
+        "TextMapContentTextMapHash": 2215601742
+    },
+    "DOWNLOAD_FINISH_NOTIFCATION_CONTENT": {
+        "TextMapId": "DOWNLOAD_FINISH_NOTIFCATION_CONTENT",
+        "TextMapContentTextMapHash": 3207973758
+    },
+    "OK": {
+        "TextMapId": "OK",
+        "TextMapContentTextMapHash": 746817798
+    },
+    "Cancel": {
+        "TextMapId": "Cancel",
+        "TextMapContentTextMapHash": 3016732038
+    },
+    "UI_FULL_CLIENT_DOWNLOAD": {
+        "TextMapId": "UI_FULL_CLIENT_DOWNLOAD",
+        "TextMapContentTextMapHash": 3911798737
+    },
+    "BAD_LOCAL_DATA": {
+        "TextMapId": "BAD_LOCAL_DATA",
+        "TextMapContentTextMapHash": 2434813890
+    },
+    "UI_LOGIN_CHECK_USERAGREEMENT": {
+        "TextMapId": "UI_LOGIN_CHECK_USERAGREEMENT",
+        "TextMapContentTextMapHash": 3670243130
+    },
+    "UI_LOGIN_CHECK_PRIVACY_POLICY": {
+        "TextMapId": "UI_LOGIN_CHECK_PRIVACY_POLICY",
+        "TextMapContentTextMapHash": 3156035039
+    },
+    "UI_GOTO_URL": {
+        "TextMapId": "UI_GOTO_URL",
+        "TextMapContentTextMapHash": 4080294345
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_TIP_UNFINISH": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_TIP_UNFINISH",
+        "TextMapContentTextMapHash": 786306327
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_TIP_FINISH": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_TIP_FINISH",
+        "TextMapContentTextMapHash": 1977035615
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_BTN_OK": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_BTN_OK",
+        "TextMapContentTextMapHash": 3369897998
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_BTN_CANCEL": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_BTN_CANCEL",
+        "TextMapContentTextMapHash": 531973590
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_BTN_ENTER": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_BTN_ENTER",
+        "TextMapContentTextMapHash": 7791454
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_IS_WIFI": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_IS_WIFI",
+        "TextMapContentTextMapHash": 3035408958
+    },
+    "UI_DOWNLOAD_MEDIUM_RESOURCE_LOCK_FUNCTION": {
+        "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_LOCK_FUNCTION",
+        "TextMapContentTextMapHash": 1162284624
+    },
+    "UI_DOWNLOAD_RESOURCE_PAUSE": {
+        "TextMapId": "UI_DOWNLOAD_RESOURCE_PAUSE",
+        "TextMapContentTextMapHash": 3144762888
+    },
+    "UI_DOWNLOAD_RESOURCE_IS_CARRIER_TIP": {
+        "TextMapId": "UI_DOWNLOAD_RESOURCE_IS_CARRIER_TIP",
+        "TextMapContentTextMapHash": 3572249859
+    },
+    "UI_DOWNLOAD_RESOURCE_IS_CARRIER_TITLE": {
+        "TextMapId": "UI_DOWNLOAD_RESOURCE_IS_CARRIER_TITLE",
+        "TextMapContentTextMapHash": 227331371
+    },
+    "UI_DOWNLOAD_RESOURCE_IS_CARRIER_OK": {
+        "TextMapId": "UI_DOWNLOAD_RESOURCE_IS_CARRIER_OK",
+        "TextMapContentTextMapHash": 4052463875
+    },
+    "UI_PRE_DOWNLOAD_TITLE": {
+        "TextMapId": "UI_PRE_DOWNLOAD_TITLE",
+        "TextMapContentTextMapHash": 3589064216
+    },
+    "UI_PRE_DOWNLOAD_TIP": {
+        "TextMapId": "UI_PRE_DOWNLOAD_TIP",
+        "TextMapContentTextMapHash": 3996776936
+    },
+    "UI_PRE_DOWNLOAD_TEXT": {
+        "TextMapId": "UI_PRE_DOWNLOAD_TEXT",
+        "TextMapContentTextMapHash": 907865848
+    },
+    "UI_PRE_DOWNLOAD_RESOURCE": {
+        "TextMapId": "UI_PRE_DOWNLOAD_RESOURCE",
+        "TextMapContentTextMapHash": 2717876504
+    },
+    "UI_PRE_DOWNLOAD_RESOURCE_ING": {
+        "TextMapId": "UI_PRE_DOWNLOAD_RESOURCE_ING",
+        "TextMapContentTextMapHash": 2598187350
+    },
+    "UI_PRE_DOWNLOAD_BUTTON_YES": {
+        "TextMapId": "UI_PRE_DOWNLOAD_BUTTON_YES",
+        "TextMapContentTextMapHash": 3184167063
+    },
+    "UI_PRE_DOWNLOAD_PAUSE_BUTTON": {
+        "TextMapId": "UI_PRE_DOWNLOAD_PAUSE_BUTTON",
+        "TextMapContentTextMapHash": 4097171968
+    },
+    "UI_PRE_DOWNLOAD_PAUSE_TITLE": {
+        "TextMapId": "UI_PRE_DOWNLOAD_PAUSE_TITLE",
+        "TextMapContentTextMapHash": 2384463120
+    },
+    "UI_PRE_DOWNLOAD_PAUSE_TEXT": {
+        "TextMapId": "UI_PRE_DOWNLOAD_PAUSE_TEXT",
+        "TextMapContentTextMapHash": 1895609152
+    },
+    "UI_PRE_DOWNLOAD_FINISH_TEXT": {
+        "TextMapId": "UI_PRE_DOWNLOAD_FINISH_TEXT",
+        "TextMapContentTextMapHash": 1558829570
+    },
+    "UI_PRE_DOWNLOAD_SETTING_BUTTON": {
+        "TextMapId": "UI_PRE_DOWNLOAD_SETTING_BUTTON",
+        "TextMapContentTextMapHash": 970639847
+    },
+    "PICK_DOWNLOAD": {
+        "TextMapId": "PICK_DOWNLOAD",
+        "TextMapContentTextMapHash": 1359506199
+    },
+    "UI_RESET_GAME": {
+        "TextMapId": "UI_RESET_GAME",
+        "TextMapContentTextMapHash": 1279007211
+    },
+    "UI_LOGIN_ENTER_GAME_BTN": {
+        "TextMapId": "UI_LOGIN_ENTER_GAME_BTN",
+        "TextMapContentTextMapHash": 633842728
+    },
+    "UI_LOGIN_EDIT": {
+        "TextMapId": "UI_LOGIN_EDIT",
+        "TextMapContentTextMapHash": 3730755156
+    },
+    "UI_LOGIN_BULLETIN": {
+        "TextMapId": "UI_LOGIN_BULLETIN",
+        "TextMapContentTextMapHash": 129082876
+    },
+    "UI_DOWNLOAD_CANCELLED_CARRIER": {
+        "TextMapId": "UI_DOWNLOAD_CANCELLED_CARRIER",
+        "TextMapContentTextMapHash": 1443387866
+    },
+    "TITLE_PC_GAMENAME": {
+        "TextMapId": "TITLE_PC_GAMENAME",
+        "TextMapContentTextMapHash": 1192260790
+    },
+    "UI_HTTP_ERROR_TITLE": {
+        "TextMapId": "UI_HTTP_ERROR_TITLE",
+        "TextMapContentTextMapHash": 2189334114
+    },
+    "UI_HTTP_REGION_ERROR_TITLE": {
+        "TextMapId": "UI_HTTP_REGION_ERROR_TITLE",
+        "TextMapContentTextMapHash": 3971552014
+    },
+    "UI_GET_GLOBALDISPATCH_FAIL": {
+        "TextMapId": "UI_GET_GLOBALDISPATCH_FAIL",
+        "TextMapContentTextMapHash": 2901462166
+    },
+    "UI_GLOBALDISPATCH_RSP_ERR": {
+        "TextMapId": "UI_GLOBALDISPATCH_RSP_ERR",
+        "TextMapContentTextMapHash": 3909440020
+    },
+    "UI_GLOBALDISPATCH_CONFIG_ERR": {
+        "TextMapId": "UI_GLOBALDISPATCH_CONFIG_ERR",
+        "TextMapContentTextMapHash": 1938915693
+    },
+    "UI_GET_REGIONDISPATCH_FAIL": {
+        "TextMapId": "UI_GET_REGIONDISPATCH_FAIL",
+        "TextMapContentTextMapHash": 1654951579
+    },
+    "UI_REGIONDISPATCH_EXCEPTION": {
+        "TextMapId": "UI_REGIONDISPATCH_EXCEPTION",
+        "TextMapContentTextMapHash": 34657978
+    },
+    "UI_PS4_TRC_DISABLENETWORK": {
+        "TextMapId": "UI_PS4_TRC_DISABLENETWORK",
+        "TextMapContentTextMapHash": 1149395579
+    },
+    "UI_DISABLENETWORK_ERR": {
+        "TextMapId": "UI_DISABLENETWORK_ERR",
+        "TextMapContentTextMapHash": 2675415693
+    },
+    "UI_CONNECT_TIMEOUT": {
+        "TextMapId": "UI_CONNECT_TIMEOUT",
+        "TextMapContentTextMapHash": 218306652
+    },
+    "UI_ANTI_INDULGENCE_HINT": {
+        "TextMapId": "UI_ANTI_INDULGENCE_HINT",
+        "TextMapContentTextMapHash": 2311214533
+    },
+    "UI_ANTI_INDULGENCE_DEC": {
+        "TextMapId": "UI_ANTI_INDULGENCE_DEC",
+        "TextMapContentTextMapHash": 323379317
+    },
+    "UI_ANTI_INDULGENCE_TOURIST_HINT": {
+        "TextMapId": "UI_ANTI_INDULGENCE_TOURIST_HINT",
+        "TextMapContentTextMapHash": 3446998606
+    },
+    "UI_ANTI_INDULGENCE_SWITCH": {
+        "TextMapId": "UI_ANTI_INDULGENCE_SWITCH",
+        "TextMapContentTextMapHash": 587681533
+    },
+    "UI_ANTI_INDULGENCE_BIND": {
+        "TextMapId": "UI_ANTI_INDULGENCE_BIND",
+        "TextMapContentTextMapHash": 2405284629
+    },
+    "UI_PS4_TRC_PLAYER_RIGHTANDINTEREST": {
+        "TextMapId": "UI_PS4_TRC_PLAYER_RIGHTANDINTEREST",
+        "TextMapContentTextMapHash": 1478303039
+    },
+    "UI_PS4_TRC_PLAYER_RIGHTANDINTEREST_DEC": {
+        "TextMapId": "UI_PS4_TRC_PLAYER_RIGHTANDINTEREST_DEC",
+        "TextMapContentTextMapHash": 332952849
+    },
+    "UI_GAMEDATA_EXCEPTION": {
+        "TextMapId": "UI_GAMEDATA_EXCEPTION",
+        "TextMapContentTextMapHash": 3605134485
+    },
+    "UI_IOS_EXAM_BGMHINT": {
+        "TextMapId": "UI_IOS_EXAM_BGMHINT",
+        "TextMapContentTextMapHash": 2512099230
+    },
+    "UI_PERMISSION_STORAGE_DESCRIBE": {
+        "TextMapId": "UI_PERMISSION_STORAGE_DESCRIBE",
+        "TextMapContentTextMapHash": 508953192
+    },
+    "UI_PERMISSION_STORAGE_SECOND_DESCRIBE": {
+        "TextMapId": "UI_PERMISSION_STORAGE_SECOND_DESCRIBE",
+        "TextMapContentTextMapHash": 1594230023
+    },
+    "UI_PERMISSION_STORAGE_SECOND_DENY": {
+        "TextMapId": "UI_PERMISSION_STORAGE_SECOND_DENY",
+        "TextMapContentTextMapHash": 3029489151
+    },
+    "UI_PERMISSION_STORAGE_SECOND_ALLOW": {
+        "TextMapId": "UI_PERMISSION_STORAGE_SECOND_ALLOW",
+        "TextMapContentTextMapHash": 1155309663
+    },
+    "UI_PERMISSION_STORAGE_SECOND_TITLE_WARNING": {
+        "TextMapId": "UI_PERMISSION_STORAGE_SECOND_TITLE_WARNING",
+        "TextMapContentTextMapHash": 476652186
+    },
+    "UI_QUEUE_TITLE": {
+        "TextMapId": "UI_QUEUE_TITLE",
+        "TextMapContentTextMapHash": 1107315792
+    },
+    "UI_QUEUE_MESSAGE": {
+        "TextMapId": "UI_QUEUE_MESSAGE",
+        "TextMapContentTextMapHash": 981696400
+    },
+    "UI_QUEUE_BUTTON": {
+        "TextMapId": "UI_QUEUE_BUTTON",
+        "TextMapContentTextMapHash": 2850268112
+    },
+    "UI_KORREA_GRAC_PC_WARNING": {
+        "TextMapId": "UI_KORREA_GRAC_PC_WARNING",
+        "TextMapContentTextMapHash": 1954185855
+    },
+    "UI_DATA_CHECK": {
+        "TextMapId": "UI_DATA_CHECK",
+        "TextMapContentTextMapHash": 1737207775
+    },
+    "UI_STOP_DATA_CHECK": {
+        "TextMapId": "UI_STOP_DATA_CHECK",
+        "TextMapContentTextMapHash": 1735866358
+    },
+    "UI_CLIENT_DATA_CHECKING": {
+        "TextMapId": "UI_CLIENT_DATA_CHECKING",
+        "TextMapContentTextMapHash": 505646004
+    },
+    "UI_DATA_CHECK_CONTINUEGAME": {
+        "TextMapId": "UI_DATA_CHECK_CONTINUEGAME",
+        "TextMapContentTextMapHash": 1911758626
+    },
+    "UI_DATA_REPAIR_CONFIRM": {
+        "TextMapId": "UI_DATA_REPAIR_CONFIRM",
+        "TextMapContentTextMapHash": 1614785360
+    },
+    "UI_DATA_CHECK_START": {
+        "TextMapId": "UI_DATA_CHECK_START",
+        "TextMapContentTextMapHash": 2373125418
+    },
+    "UI_CLIENT_DATA_CHECK": {
+        "TextMapId": "UI_CLIENT_DATA_CHECK",
+        "TextMapContentTextMapHash": 3462016748
+    },
+    "UI_CLIENT_DATA_CHECK_QUESTION": {
+        "TextMapId": "UI_CLIENT_DATA_CHECK_QUESTION",
+        "TextMapContentTextMapHash": 429547252
+    },
+    "UI_STOP_DATA_CHECK_QUESTION": {
+        "TextMapId": "UI_STOP_DATA_CHECK_QUESTION",
+        "TextMapContentTextMapHash": 3451860542
+    },
+    "UI_DATA_CHECK_FULLCLIENT": {
+        "TextMapId": "UI_DATA_CHECK_FULLCLIENT",
+        "TextMapContentTextMapHash": 1906915682
+    },
+    "UI_DATA_CHECK_DATA_MISSING": {
+        "TextMapId": "UI_DATA_CHECK_DATA_MISSING",
+        "TextMapContentTextMapHash": 1794534052
+    },
+    "UI_CLOUD_GAME_ERRORHINT": {
+        "TextMapId": "UI_CLOUD_GAME_ERRORHINT",
+        "TextMapContentTextMapHash": 4218743961
+    },
+    "UI_HDR_SETUP_UI_TITLE": {
+        "TextMapId": "UI_HDR_SETUP_UI_TITLE",
+        "TextMapContentTextMapHash": 57270697
+    },
+    "UI_HDR_SETUP_UI_BUTTON1": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON1",
+        "TextMapContentTextMapHash": 4145546873
+    },
+    "UI_HDR_SETUP_UI_BUTTON2": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON2",
+        "TextMapContentTextMapHash": 569684817
+    },
+    "UI_HDR_SETUP_UI_TIPS": {
+        "TextMapId": "UI_HDR_SETUP_UI_TIPS",
+        "TextMapContentTextMapHash": 1618796217
+    },
+    "UI_HDR_SETUP_UI_BUTTON_RETURN": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON_RETURN",
+        "TextMapContentTextMapHash": 1985614716
+    },
+    "UI_HDR_SCREEN_SETUP_UI_TITLE": {
+        "TextMapId": "UI_HDR_SCREEN_SETUP_UI_TITLE",
+        "TextMapContentTextMapHash": 3753222226
+    },
+    "UI_HDR_SCREEN_SETUP_UI_TIPS": {
+        "TextMapId": "UI_HDR_SCREEN_SETUP_UI_TIPS",
+        "TextMapContentTextMapHash": 3563533730
+    },
+    "UI_HDR_SETUP_UI_BUTTON_TIPS1": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON_TIPS1",
+        "TextMapContentTextMapHash": 1777900780
+    },
+    "UI_HDR_SETUP_UI_BUTTON_TIPS2": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON_TIPS2",
+        "TextMapContentTextMapHash": 3263942044
+    },
+    "UI_HDR_SETUP_UI_BUTTON3": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON3",
+        "TextMapContentTextMapHash": 1026654825
+    },
+    "UI_HDR_SETUP_UI_BUTTON4": {
+        "TextMapId": "UI_HDR_SETUP_UI_BUTTON4",
+        "TextMapContentTextMapHash": 2552092697
+    },
+    "UI_SETTING_GRAPHICS_HDR": {
+        "TextMapId": "UI_SETTING_GRAPHICS_HDR",
+        "TextMapContentTextMapHash": 3539970754
+    },
+    "UI_SETTING_GO_TO_SET": {
+        "TextMapId": "UI_SETTING_GO_TO_SET",
+        "TextMapContentTextMapHash": 615346102
+    },
+    "UI_HDR_SETUP_TIPS_TITLE": {
+        "TextMapId": "UI_HDR_SETUP_TIPS_TITLE",
+        "TextMapContentTextMapHash": 2011494594
+    },
+    "UI_HDR_SETUP_TIPS_TEXT": {
+        "TextMapId": "UI_HDR_SETUP_TIPS_TEXT",
+        "TextMapContentTextMapHash": 3421951338
+    },
+    "APPLY_AUDIO_DIFF": {
+        "TextMapId": "APPLY_AUDIO_DIFF",
+        "TextMapContentTextMapHash": 3976874618
+    }
+}

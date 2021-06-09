@@ -1,0 +1,1636 @@
+{
+    "10000001": {
+        "Name": "Kate",
+        "Tags": [
+            "Sword"
+        ]
+    },
+    "10000002": {
+        "Name": "Ayaka",
+        "Tags": [
+            "Inazuma Denizen",
+            "Teen Female",
+            "Sword"
+        ]
+    },
+    "10000003": {
+        "Name": "Qin",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Adult Female",
+            "Sword"
+        ]
+    },
+    "10000005": {
+        "Name": "PlayerBoy",
+        "Tags": [
+            "Teen Male",
+            "Sword",
+            "Protagonist"
+        ]
+    },
+    "10000006": {
+        "Name": "Lisa",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Adult Female",
+            "Catalyst"
+        ]
+    },
+    "10000007": {
+        "Name": "PlayerGirl",
+        "Tags": [
+            "Teen Female",
+            "Sword",
+            "Protagonist"
+        ]
+    },
+    "10000014": {
+        "Name": "Barbara",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Female",
+            "Catalyst"
+        ]
+    },
+    "10000015": {
+        "Name": "Kaeya",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Adult Male",
+            "Sword"
+        ]
+    },
+    "10000016": {
+        "Name": "Diluc",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Adult Male",
+            "Claymore",
+            "Diluc"
+        ]
+    },
+    "10000020": {
+        "Name": "Razor",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Male",
+            "Claymore",
+            "Razor"
+        ]
+    },
+    "10000021": {
+        "Name": "Ambor",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Female",
+            "Bow"
+        ]
+    },
+    "10000022": {
+        "Name": "Venti",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Male",
+            "Bow",
+            "Gnosis Bearer"
+        ]
+    },
+    "10000023": {
+        "Name": "Xiangling",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Female",
+            "Polearm",
+            "Xiangling"
+        ]
+    },
+    "10000024": {
+        "Name": "Beidou",
+        "Tags": [
+            "Liyue Denizen",
+            "Adult Female",
+            "Claymore"
+        ]
+    },
+    "10000025": {
+        "Name": "Xingqiu",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Male",
+            "Sword",
+            "Xingqiu"
+        ]
+    },
+    "10000026": {
+        "Name": "Xiao",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Male",
+            "Polearm",
+            "Xiao"
+        ]
+    },
+    "10000027": {
+        "Name": "Ningguang",
+        "Tags": [
+            "Liyue Denizen",
+            "Adult Female",
+            "Catalyst"
+        ]
+    },
+    "10000029": {
+        "Name": "Klee",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Loli",
+            "Catalyst",
+            "Klee"
+        ]
+    },
+    "10000030": {
+        "Name": "Zhongli",
+        "Tags": [
+            "Liyue Denizen",
+            "Adult Male",
+            "Polearm",
+            "Gnosis Bearer",
+            "Zhongli"
+        ]
+    },
+    "10000031": {
+        "Name": "Fischl",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Female",
+            "Bow",
+            "Fischl"
+        ]
+    },
+    "10000032": {
+        "Name": "Bennett",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Male",
+            "Sword",
+            "Bennett"
+        ]
+    },
+    "10000033": {
+        "Name": "Tartaglia",
+        "Tags": [
+            "Adult Male",
+            "Bow",
+            "Tartaglia?/Harbinger?"
+        ]
+    },
+    "10000034": {
+        "Name": "Noel",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Female",
+            "Claymore",
+            "Noelle"
+        ]
+    },
+    "10000035": {
+        "Name": "Qiqi",
+        "Tags": [
+            "Liyue Denizen",
+            "Loli",
+            "Sword"
+        ]
+    },
+    "10000036": {
+        "Name": "Chongyun",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Male",
+            "Claymore",
+            "Chongyun"
+        ]
+    },
+    "10000037": {
+        "Name": "Ganyu",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Female",
+            "Bow",
+            "Ganyu"
+        ]
+    },
+    "10000038": {
+        "Name": "Albedo",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Male",
+            "Sword",
+            "Albedo",
+            "Albedo"
+        ]
+    },
+    "10000039": {
+        "Name": "Diona",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Loli",
+            "Bow",
+            "Diona?"
+        ]
+    },
+    "10000041": {
+        "Name": "Mona",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Female",
+            "Catalyst"
+        ]
+    },
+    "10000042": {
+        "Name": "Keqing",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Female",
+            "Sword",
+            "Keqing"
+        ]
+    },
+    "10000043": {
+        "Name": "Sucrose",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Teen Female",
+            "Catalyst",
+            "Sucrose"
+        ]
+    },
+    "10000044": {
+        "Name": "Xinyan",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Female",
+            "Claymore"
+        ]
+    },
+    "10000045": {
+        "Name": "Rosaria",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Adult Female",
+            "Polearm",
+            "Rosaria?"
+        ]
+    },
+    "10000046": {
+        "Name": "Hutao",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Female",
+            "Polearm"
+        ]
+    },
+    "10000047": {
+        "Name": "Kazuha",
+        "Tags": [
+            "Inazuma Denizen",
+            "Teen Male",
+            "Sword",
+            "Kazuha?"
+        ]
+    },
+    "10000048": {
+        "Name": "Feiyan",
+        "Tags": [
+            "Liyue Denizen",
+            "Teen Female",
+            "Catalyst",
+            "Feiyan?"
+        ]
+    },
+    "10000049": {
+        "Name": "PlayerGirl",
+        "Tags": [
+            "Inazuma Denizen",
+            "Teen Female",
+            "Bow"
+        ]
+    },
+    "10000050": {
+        "Name": "PlayerBoy",
+        "Tags": [
+            "Inazuma Denizen",
+            "Adult Male",
+            "Polearm",
+            "Unknown-10050"
+        ]
+    },
+    "10000051": {
+        "Name": "Eula",
+        "Tags": [
+            "Mondstadt Denizen",
+            "Adult Female",
+            "Claymore",
+            "Eula"
+        ]
+    },
+    "10000053": {
+        "Name": "PlayerGirl",
+        "Tags": [
+            "Inazuma Denizen",
+            "Loli",
+            "Claymore"
+        ]
+    },
+    "10000054": {
+        "Name": "Other",
+        "Tags": [
+            "Inazuma Denizen",
+            "Teen Female",
+            "Catalyst"
+        ]
+    },
+    "21010101": {
+        "Name": "Hili_None_01",
+        "Tags": [
+            "Hilichurl",
+            "Melee Enemy"
+        ]
+    },
+    "21010152": {
+        "Name": "Other",
+        "Tags": [
+            "Hilichurl"
+        ]
+    },
+    "21020101": {
+        "Name": "Brute_None_01",
+        "Tags": [
+            "Hilichurl",
+            "Melee Enemy"
+        ]
+    },
+    "21020201": {
+        "Name": "Brute_None_01",
+        "Tags": [
+            "Hilichurl",
+            "Claymore",
+            "Melee Enemy"
+        ]
+    },
+    "21020401": {
+        "Name": "Brute_Ice_01",
+        "Tags": [
+            "Hilichurl",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "21020501": {
+        "Name": "Brute_Rock_None",
+        "Tags": [
+            "Hilichurl",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "21020701": {
+        "Name": "Other",
+        "Tags": [
+            "Hilichurl",
+            "Claymore",
+            "Melee Enemy"
+        ]
+    },
+    "21020801": {
+        "Name": "Other",
+        "Tags": [
+            "Hilichurl",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010101": {
+        "Name": "Slime_Grass_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010201": {
+        "Name": "Slime_Grass_03",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010302": {
+        "Name": "Slime_Wind_02",
+        "Tags": [
+            "Slimes",
+            "Ranged Enemy"
+        ]
+    },
+    "20010301": {
+        "Name": "Slime_Wind_02",
+        "Tags": [
+            "Slimes",
+            "Ranged Enemy"
+        ]
+    },
+    "20010401": {
+        "Name": "Slime_Wind_03",
+        "Tags": [
+            "Slimes",
+            "Ranged Enemy"
+        ]
+    },
+    "29010101": {
+        "Name": "Dvalin",
+        "Tags": []
+    },
+    "29010102": {
+        "Name": "Dvalin",
+        "Tags": []
+    },
+    "29010103": {
+        "Name": "Dvalin",
+        "Tags": []
+    },
+    "29020101": {
+        "Name": "LupiBoreas",
+        "Tags": []
+    },
+    "29020102": {
+        "Name": "LupiBoreas",
+        "Tags": []
+    },
+    "29040101": {
+        "Name": "Dahaka",
+        "Tags": []
+    },
+    "29040102": {
+        "Name": "Dahaka",
+        "Tags": []
+    },
+    "29040103": {
+        "Name": "Dahaka",
+        "Tags": []
+    },
+    "29040104": {
+        "Name": "Dahaka",
+        "Tags": []
+    },
+    "29040111": {
+        "Name": "Dahaka",
+        "Tags": []
+    },
+    "20020101": {
+        "Name": "Elemental_Wind_01",
+        "Tags": [
+            "ElementalSphere"
+        ]
+    },
+    "20020201": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20040101": {
+        "Name": "Effigy_Electric",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20050101": {
+        "Name": "Oceanid",
+        "Tags": []
+    },
+    "20010501": {
+        "Name": "Slime_Electric_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010601": {
+        "Name": "Slime_Electric_03",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010701": {
+        "Name": "Slime_Electric_03_Positive",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010801": {
+        "Name": "Slime_Ice_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20010901": {
+        "Name": "Slime_Ice_03",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20011001": {
+        "Name": "Slime_Water_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20011101": {
+        "Name": "Slime_Water_03",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20040201": {
+        "Name": "Effigy_Wind",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20040301": {
+        "Name": "Effigy_Rock",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20040401": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20040501": {
+        "Name": "Effigy_Ice",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20040601": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20011601": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20011701": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20011801": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20011901": {
+        "Name": "Other",
+        "Tags": [
+            "ElementalSphere",
+            "Has Element"
+        ]
+    },
+    "20011002": {
+        "Name": "Slime_Water_02",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040001": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040002": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040003": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040004": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040005": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040006": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040007": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20040008": {
+        "Name": "Other",
+        "Tags": [
+            "Slimes"
+        ]
+    },
+    "20030101": {
+        "Name": "Other",
+        "Tags": [
+            "Ranged Enemy"
+        ]
+    },
+    "21010201": {
+        "Name": "Hili_None_01",
+        "Tags": [
+            "Hilichurl",
+            "Sword",
+            "Melee Enemy"
+        ]
+    },
+    "21010301": {
+        "Name": "Hili_None_01",
+        "Tags": [
+            "Hilichurl",
+            "Sword",
+            "Melee Enemy"
+        ]
+    },
+    "21010401": {
+        "Name": "Hili_None_01",
+        "Tags": [
+            "Hilichurl",
+            "Bow",
+            "Ranged Enemy"
+        ]
+    },
+    "21010501": {
+        "Name": "Hili_Fire_Range",
+        "Tags": [
+            "Hilichurl",
+            "Bow",
+            "Ranged Enemy"
+        ]
+    },
+    "21010601": {
+        "Name": "Hili_Fire_Range",
+        "Tags": [
+            "Hilichurl",
+            "Ranged Enemy"
+        ]
+    },
+    "21010602": {
+        "Name": "Other",
+        "Tags": [
+            "Hilichurl"
+        ]
+    },
+    "21010701": {
+        "Name": "Hili_Fire_Range",
+        "Tags": [
+            "Hilichurl",
+            "Sword",
+            "Melee Enemy"
+        ]
+    },
+    "21010901": {
+        "Name": "Hili_Ice_Range",
+        "Tags": [
+            "Hilichurl",
+            "Bow",
+            "Ranged Enemy"
+        ]
+    },
+    "21011001": {
+        "Name": "Hili_Electric_Range",
+        "Tags": [
+            "Hilichurl",
+            "Bow",
+            "Ranged Enemy"
+        ]
+    },
+    "21011101": {
+        "Name": "Other",
+        "Tags": [
+            "Hilichurl"
+        ]
+    },
+    "20011202": {
+        "Name": "Slime_Fire_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20011201": {
+        "Name": "Slime_Fire_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20011301": {
+        "Name": "Slime_Fire_03",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20011401": {
+        "Name": "Slime_Rock_02",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20011501": {
+        "Name": "Slime_Rock_03",
+        "Tags": [
+            "Slimes",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050201": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050202": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050301": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "20050401": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050402": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050501": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050601": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050701": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050702": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050801": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "20050901": {
+        "Name": "Oceanid_Underling",
+        "Tags": [
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "22010101": {
+        "Name": "Abyss_Fire_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "22010201": {
+        "Name": "Abyss_Ice_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "22010301": {
+        "Name": "Abyss_Water_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "22010401": {
+        "Name": "Other",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "22020101": {
+        "Name": "Invoker_Herald_Water_01",
+        "Tags": [
+            "Sword",
+            "Melee Enemy",
+            "Humanoid"
+        ]
+    },
+    "22030101": {
+        "Name": "Invoker_Deacon_Electric_01",
+        "Tags": [
+            "Catalyst",
+            "Ranged Enemy",
+            "Humanoid"
+        ]
+    },
+    "21030101": {
+        "Name": "Shaman_Water_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy"
+        ]
+    },
+    "21030201": {
+        "Name": "Shaman_Grass_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy"
+        ]
+    },
+    "21030301": {
+        "Name": "Shaman_Wind_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy"
+        ]
+    },
+    "21030401": {
+        "Name": "Shaman_Rock_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy"
+        ]
+    },
+    "21030501": {
+        "Name": "Shaman_Ice_01",
+        "Tags": [
+            "Samachurl",
+            "Catalyst",
+            "Ranged Enemy"
+        ]
+    },
+    "24010101": {
+        "Name": "Defender_Noner_01",
+        "Tags": [
+            "Ruin mobs"
+        ]
+    },
+    "21010801": {
+        "Name": "Other",
+        "Tags": [
+            "Hilichurl"
+        ]
+    },
+    "21010102": {
+        "Name": "Hili_None_01",
+        "Tags": [
+            "Hilichurl"
+        ]
+    },
+    "23010101": {
+        "Name": "Skirmisher_Male_Fat_SprayGun_Ice_01",
+        "Tags": [
+            "Fatui Skirmishers",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "23010201": {
+        "Name": "Skirmisher_Male_Fat_SprayGun_Water_01",
+        "Tags": [
+            "Fatui Skirmishers",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "23010301": {
+        "Name": "Skirmisher_Male_Strong_GreatHammer_Electric_01",
+        "Tags": [
+            "Fatui Skirmishers",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "23010401": {
+        "Name": "Skirmisher_Male_Standard_Staff_Rock_01",
+        "Tags": [
+            "Fatui Skirmishers",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "23010501": {
+        "Name": "Skirmisher_Male_Strong_Gloves_Wind_01",
+        "Tags": [
+            "Fatui Skirmishers",
+            "Melee Enemy",
+            "Has Element"
+        ]
+    },
+    "23010601": {
+        "Name": "Skirmisher_Male_Standard_Rifle_Fire_01",
+        "Tags": [
+            "Fatui Skirmishers",
+            "Ranged Enemy",
+            "Has Element"
+        ]
+    },
+    "23030101": {
+        "Name": "Fatuus_Summoner_01",
+        "Tags": [
+            "Fatui Skirmishers"
+        ]
+    },
+    "23020101": {
+        "Name": "Fatuus_Fire_01",
+        "Tags": [
+            "Fatui Skirmishers"
+        ]
+    },
+    "25080101": {
+        "Name": "Other",
+        "Tags": [
+            "Melee Enemy"
+        ]
+    },
+    "25090101": {
+        "Name": "Samurai_Ningyo",
+        "Tags": [
+            "Melee Enemy"
+        ]
+    },
+    "28010101": {
+        "Name": "Crab_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010102": {
+        "Name": "Crab_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010103": {
+        "Name": "Crab_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28020101": {
+        "Name": "Fox_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020102": {
+        "Name": "Fox_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020103": {
+        "Name": "Fox_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020104": {
+        "Name": "Fox_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020201": {
+        "Name": "Squirrel_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28010201": {
+        "Name": "Lizard_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010202": {
+        "Name": "Lizard_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010203": {
+        "Name": "Lizard_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010204": {
+        "Name": "Salamander_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010205": {
+        "Name": "Salamander_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010206": {
+        "Name": "Salamander_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010301": {
+        "Name": "Frog_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010302": {
+        "Name": "Frog_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28010303": {
+        "Name": "Frog_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28020301": {
+        "Name": "Boar_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020302": {
+        "Name": "Boar_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020401": {
+        "Name": "DogPrick_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020402": {
+        "Name": "DogPrick_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020403": {
+        "Name": "DogPrick_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020404": {
+        "Name": "DogPrick_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020501": {
+        "Name": "Cat_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020502": {
+        "Name": "Cat_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020503": {
+        "Name": "Cat_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020504": {
+        "Name": "Cat_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020505": {
+        "Name": "Cat_05",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020506": {
+        "Name": "Cat_06",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020507": {
+        "Name": "Cat_07",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020601": {
+        "Name": "Marten_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020602": {
+        "Name": "Marten_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020603": {
+        "Name": "Marten_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020604": {
+        "Name": "Marten_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030101": {
+        "Name": "Crane_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030201": {
+        "Name": "Falcon_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030202": {
+        "Name": "Falcon_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030203": {
+        "Name": "Falcon_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030204": {
+        "Name": "Falcon_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030301": {
+        "Name": "Pigeon_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030302": {
+        "Name": "Pigeon_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030303": {
+        "Name": "Pigeon_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030304": {
+        "Name": "Pigeon_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030305": {
+        "Name": "Pigeon_05",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030401": {
+        "Name": "Tit_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030402": {
+        "Name": "Tit_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030403": {
+        "Name": "Tit_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030404": {
+        "Name": "Tit_04",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030501": {
+        "Name": "Wigeon_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030502": {
+        "Name": "Wigeon_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28030503": {
+        "Name": "Wigeon_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28020203": {
+        "Name": "Other",
+        "Tags": [
+            "Animal"
+        ]
+    },
+    "28040101": {
+        "Name": "Fish_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28040102": {
+        "Name": "Fish_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28040103": {
+        "Name": "Fish_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28050101": {
+        "Name": "Wisp_Wind_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28050102": {
+        "Name": "Wisp_Rock_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28050103": {
+        "Name": "Wisp_Ice_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9005"
+        ]
+    },
+    "28050201": {
+        "Name": "Thoarder_Weasel_01",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28050202": {
+        "Name": "Thoarder_Weasel_02",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "28050203": {
+        "Name": "Thoarder_Weasel_03",
+        "Tags": [
+            "Animal",
+            "Unkown-9003"
+        ]
+    },
+    "25010101": {
+        "Name": "Thoarder_Male_NoWeapon_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25020101": {
+        "Name": "Thoarder_Male_Crossbow_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25030101": {
+        "Name": "Thoarder_Male_Shovel_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25040101": {
+        "Name": "Thoarder_Female_Hatchet_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25050101": {
+        "Name": "Millelith_Male_01",
+        "Tags": [
+            "Millelith",
+            "Ranged Enemy"
+        ]
+    },
+    "25050201": {
+        "Name": "Millelith_Male_02",
+        "Tags": [
+            "Millelith",
+            "Ranged Enemy",
+            "Captain"
+        ]
+    },
+    "26010101": {
+        "Name": "Mimik_Ice",
+        "Tags": [
+            "Regisvine"
+        ]
+    },
+    "26020101": {
+        "Name": "Regisvine_Ice",
+        "Tags": [
+            "Regisvine"
+        ]
+    },
+    "25010201": {
+        "Name": "Thoarder_Male_Rogue_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25010301": {
+        "Name": "Thoarder_Male_Chemist_Fire_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25010401": {
+        "Name": "Thoarder_Male_Chemist_Water_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25010501": {
+        "Name": "Thoarder_Male_Chemist_Electric_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25010601": {
+        "Name": "Thoarder_Male_Chemist_Ice_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25010701": {
+        "Name": "Thoarder_Male_Rogue_Fat_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25020201": {
+        "Name": "Thoarder_Male_Hunter_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25030201": {
+        "Name": "Thoarder_Male_Rogue_Fat_02",
+        "Tags": [
+            "Treasure Hoarders",
+            "Melee Enemy"
+        ]
+    },
+    "25030301": {
+        "Name": "Thoarder_Male_Sailor_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25060101": {
+        "Name": "Thoarder_MuscleMan_Boxer_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "25070101": {
+        "Name": "Thoarder_MuscleMan_Miner_01",
+        "Tags": [
+            "Treasure Hoarders",
+            "Ranged Enemy"
+        ]
+    },
+    "26060101": {
+        "Name": "Cicin_Thunder_01",
+        "Tags": [
+            "Ranged Enemy"
+        ]
+    },
+    "26060201": {
+        "Name": "Cicin_Water_01",
+        "Tags": [
+            "Ranged Enemy"
+        ]
+    }
+}

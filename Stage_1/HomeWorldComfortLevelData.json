@@ -1,0 +1,34 @@
+{
+    "2": {
+        "LevelID": 2,
+        "Comfort": 2000,
+        "HomeCoinProduceRate": 8,
+        "LevelNameTextMapHash": 196277833,
+        "LevelIconHashSuffix": 2941581716,
+        "LevelIconHashPre": 99
+    },
+    "3": {
+        "LevelID": 3,
+        "Comfort": 4500,
+        "HomeCoinProduceRate": 16,
+        "LevelNameTextMapHash": 2172116345,
+        "LevelIconHashSuffix": 65516512,
+        "LevelIconHashPre": 37
+    },
+    "4": {
+        "LevelID": 4,
+        "Comfort": 10000,
+        "HomeCoinProduceRate": 24,
+        "LevelNameTextMapHash": 1634133785,
+        "LevelIconHashSuffix": 3845586383,
+        "LevelIconHashPre": 234
+    },
+    "5": {
+        "LevelID": 5,
+        "Comfort": 20000,
+        "HomeCoinProduceRate": 30,
+        "LevelNameTextMapHash": 3088092417,
+        "LevelIconHashSuffix": 3052730698,
+        "LevelIconHashPre": 214
+    }
+}

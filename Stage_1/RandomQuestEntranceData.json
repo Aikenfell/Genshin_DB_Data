@@ -1,0 +1,54 @@
+{
+    "101": {
+        "Id": 101,
+        "Weight": 100,
+        "TemplateId": 30025,
+        "FilterLogicType": "LOGIC_AND",
+        "FilterList": [
+            {
+                "FilterType": "RQ_FILTER_PLAYER_POS_RING",
+                "FilterFactor": "{QuestRescuePos}",
+                "FilterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "FilterType": "RQ_FILTER_NPC",
+                "FilterFactor": "{QuestNpcID}",
+                "FilterParamList": []
+            },
+            {
+                "FilterType": "RQ_FILTER_NPC",
+                "FilterFactor": "{QuestNpcID2}",
+                "FilterParamList": []
+            }
+        ]
+    },
+    "102": {
+        "Id": 102,
+        "Weight": 100,
+        "TemplateId": 30023,
+        "FilterLogicType": "LOGIC_AND",
+        "FilterList": [
+            {
+                "FilterType": "RQ_FILTER_PLAYER_POS_RING",
+                "FilterFactor": "{QuestRescuePos}",
+                "FilterParamList": [
+                    40,
+                    100
+                ]
+            },
+            {
+                "FilterType": "RQ_FILTER_NPC",
+                "FilterFactor": "{QuestNpcID}",
+                "FilterParamList": []
+            },
+            {
+                "FilterType": "RQ_FILTER_NPC",
+                "FilterFactor": "{QuestNpcID2}",
+                "FilterParamList": []
+            }
+        ]
+    }
+}

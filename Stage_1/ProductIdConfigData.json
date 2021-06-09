@@ -1,0 +1,192 @@
+{
+    "ys_chn_primogem1ststall_tier1": {
+        "ProductId": "ys_chn_primogem1ststall_tier1",
+        "ConfigId": 1,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_primogem2ndstall_tier5": {
+        "ProductId": "ys_chn_primogem2ndstall_tier5",
+        "ConfigId": 2,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_primogem3rdstall_tier15": {
+        "ProductId": "ys_chn_primogem3rdstall_tier15",
+        "ConfigId": 3,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_primogem4thstall_tier30": {
+        "ProductId": "ys_chn_primogem4thstall_tier30",
+        "ConfigId": 4,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_primogem5thstall_tier50": {
+        "ProductId": "ys_chn_primogem5thstall_tier50",
+        "ConfigId": 5,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_primogem6thstall_tier60": {
+        "ProductId": "ys_chn_primogem6thstall_tier60",
+        "ConfigId": 6,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_blessofmoon_tier5": {
+        "ProductId": "ys_chn_blessofmoon_tier5",
+        "ConfigId": 101,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_bp_normal_tier10": {
+        "ProductId": "ys_chn_bp_normal_tier10",
+        "ConfigId": 201,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_bp_extra_tier20": {
+        "ProductId": "ys_chn_bp_extra_tier20",
+        "ConfigId": 202,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_chn_bp_upgrade_tier12": {
+        "ProductId": "ys_chn_bp_upgrade_tier12",
+        "ConfigId": 203,
+        "IsInternal": true,
+        "EntitlementId": ""
+    },
+    "ys_glb_primogem1ststall_tier1": {
+        "ProductId": "ys_glb_primogem1ststall_tier1",
+        "ConfigId": 1,
+        "EntitlementId": ""
+    },
+    "ys_glb_primogem2ndstall_tier5": {
+        "ProductId": "ys_glb_primogem2ndstall_tier5",
+        "ConfigId": 2,
+        "EntitlementId": ""
+    },
+    "ys_glb_primogem3rdstall_tier15": {
+        "ProductId": "ys_glb_primogem3rdstall_tier15",
+        "ConfigId": 3,
+        "EntitlementId": ""
+    },
+    "ys_glb_primogem4thstall_tier30": {
+        "ProductId": "ys_glb_primogem4thstall_tier30",
+        "ConfigId": 4,
+        "EntitlementId": ""
+    },
+    "ys_glb_primogem5thstall_tier50": {
+        "ProductId": "ys_glb_primogem5thstall_tier50",
+        "ConfigId": 5,
+        "EntitlementId": ""
+    },
+    "ys_glb_primogem6thstall_tier60": {
+        "ProductId": "ys_glb_primogem6thstall_tier60",
+        "ConfigId": 6,
+        "EntitlementId": ""
+    },
+    "ys_glb_blessofmoon_tier5": {
+        "ProductId": "ys_glb_blessofmoon_tier5",
+        "ConfigId": 101,
+        "EntitlementId": ""
+    },
+    "ys_glb_bp_normal_tier10": {
+        "ProductId": "ys_glb_bp_normal_tier10",
+        "ConfigId": 201,
+        "EntitlementId": ""
+    },
+    "ys_glb_bp_extra_tier20": {
+        "ProductId": "ys_glb_bp_extra_tier20",
+        "ConfigId": 202,
+        "EntitlementId": ""
+    },
+    "ys_glb_bp_upgrade_tier12": {
+        "ProductId": "ys_glb_bp_upgrade_tier12",
+        "ConfigId": 203,
+        "EntitlementId": ""
+    },
+    "YSPS4VC1STTIER01": {
+        "ProductId": "YSPS4VC1STTIER01",
+        "ConfigId": 1,
+        "EntitlementId": "VCX1ST"
+    },
+    "YSPS4VC2NDTIER05": {
+        "ProductId": "YSPS4VC2NDTIER05",
+        "ConfigId": 2,
+        "EntitlementId": "VCX2ND"
+    },
+    "YSPS4VC3RDTIER15": {
+        "ProductId": "YSPS4VC3RDTIER15",
+        "ConfigId": 3,
+        "EntitlementId": "VCX3RD"
+    },
+    "YSPS4VC4THTIER30": {
+        "ProductId": "YSPS4VC4THTIER30",
+        "ConfigId": 4,
+        "EntitlementId": "VCX4TH"
+    },
+    "YSPS4VC5THTIER50": {
+        "ProductId": "YSPS4VC5THTIER50",
+        "ConfigId": 5,
+        "EntitlementId": "VCX5TH"
+    },
+    "YSPS4VC6THTIER60": {
+        "ProductId": "YSPS4VC6THTIER60",
+        "ConfigId": 6,
+        "EntitlementId": "VCX6TH"
+    },
+    "YSPS4BLESSTIER05": {
+        "ProductId": "YSPS4BLESSTIER05",
+        "ConfigId": 101,
+        "EntitlementId": "BLESS1"
+    },
+    "YSPS4BP003TIER10": {
+        "ProductId": "YSPS4BP003TIER10",
+        "ConfigId": 201,
+        "EntitlementId": "BP0003"
+    },
+    "YSPS4BP004TIER20": {
+        "ProductId": "YSPS4BP004TIER20",
+        "ConfigId": 202,
+        "EntitlementId": "BP0004"
+    },
+    "YSPS4UP003TIER12": {
+        "ProductId": "YSPS4UP003TIER12",
+        "ConfigId": 203,
+        "EntitlementId": "UP0003"
+    },
+    "YSPS4PREORDER001": {
+        "ProductId": "YSPS4PREORDER001",
+        "ConfigId": 301,
+        "EntitlementId": "PRE001"
+    },
+    "YSPS4ADVENTURER0": {
+        "ProductId": "YSPS4ADVENTURER0",
+        "ConfigId": 302,
+        "EntitlementId": "ADVENT"
+    },
+    "ys_glb_surprisebundle1_googlegiftcard": {
+        "ProductId": "ys_glb_surprisebundle1_googlegiftcard",
+        "ConfigId": 401,
+        "EntitlementId": ""
+    },
+    "ys_glb_surprisebundle2_googlegiftcard": {
+        "ProductId": "ys_glb_surprisebundle2_googlegiftcard",
+        "ConfigId": 402,
+        "EntitlementId": ""
+    },
+    "ys_glb_surprisebundle3_googlegiftcard": {
+        "ProductId": "ys_glb_surprisebundle3_googlegiftcard",
+        "ConfigId": 403,
+        "EntitlementId": ""
+    },
+    "ys_glb_surprisebundle4_googlegiftcard": {
+        "ProductId": "ys_glb_surprisebundle4_googlegiftcard",
+        "ConfigId": 404,
+        "EntitlementId": ""
+    }
+}

@@ -1,0 +1,422 @@
+{
+    "Actor_MaxHPRatio": {
+        "PropName": "Actor_MaxHPRatio",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 9.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 9.0
+    },
+    "Actor_DefenceRatio": {
+        "PropName": "Actor_DefenceRatio",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 5.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 5.0
+    },
+    "Actor_AttackRatio": {
+        "PropName": "Actor_AttackRatio",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 9.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 9.0
+    },
+    "Actor_CriticalDelta": {
+        "PropName": "Actor_CriticalDelta",
+        "OverallMin": -3.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -3.0,
+        "LimitTagMax": 3.0,
+        "SucceedOwner": true
+    },
+    "Actor_CriticalExtraDelta": {
+        "PropName": "Actor_CriticalExtraDelta",
+        "OverallMin": -3.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -3.0,
+        "LimitTagMax": 3.0,
+        "SucceedOwner": true
+    },
+    "Actor_AntiCriticalDelta": {
+        "PropName": "Actor_AntiCriticalDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 1.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 1.0,
+        "SucceedOwner": true
+    },
+    "Actor_AntiCriticalExtraDelta": {
+        "PropName": "Actor_AntiCriticalExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 1.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 1.0,
+        "SucceedOwner": true
+    },
+    "Actor_CriticalHurtDelta": {
+        "PropName": "Actor_CriticalHurtDelta",
+        "OverallMin": -0.5,
+        "OverallMax": 5.0,
+        "LimitTagMin": -3.0,
+        "LimitTagMax": 5.0,
+        "SucceedOwner": true
+    },
+    "Actor_CriticalHurtExtraDelta": {
+        "PropName": "Actor_CriticalHurtExtraDelta",
+        "OverallMin": -0.5,
+        "OverallMax": 5.0,
+        "LimitTagMin": -3.0,
+        "LimitTagMax": 5.0,
+        "SucceedOwner": true
+    },
+    "Actor_ChargeEfficiencyDelta": {
+        "PropName": "Actor_ChargeEfficiencyDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -3.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_ChargeEfficiencyExtraDelta": {
+        "PropName": "Actor_ChargeEfficiencyExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -3.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_AddHurtDelta": {
+        "PropName": "Actor_AddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0,
+        "SucceedOwner": true
+    },
+    "Actor_SubHurtDelta": {
+        "PropName": "Actor_SubHurtDelta",
+        "OverallMin": -1.0,
+        "OverallMax": 0.949999988079071,
+        "LimitTagMin": -1.0,
+        "LimitTagMax": 0.949999988079071,
+        "SucceedOwner": true
+    },
+    "Actor_HealAddDelta": {
+        "PropName": "Actor_HealAddDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_HealedAddDelta": {
+        "PropName": "Actor_HealedAddDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_FireAddHurtDelta": {
+        "PropName": "Actor_FireAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_FireAddHurtExtraDelta": {
+        "PropName": "Actor_FireAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_ElecAddHurtDelta": {
+        "PropName": "Actor_ElecAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_ElecAddHurtExtraDelta": {
+        "PropName": "Actor_ElecAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WaterAddHurtDelta": {
+        "PropName": "Actor_WaterAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WaterAddHurtExtraDelta": {
+        "PropName": "Actor_WaterAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_GrassAddHurtDelta": {
+        "PropName": "Actor_GrassAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_GrassAddHurtExtraDelta": {
+        "PropName": "Actor_GrassAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WindAddHurtDelta": {
+        "PropName": "Actor_WindAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WindAddHurtExtraDelta": {
+        "PropName": "Actor_WindAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_IceAddHurtDelta": {
+        "PropName": "Actor_IceAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_IceAddHurtExtraDelta": {
+        "PropName": "Actor_IceAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_RockAddHurtDelta": {
+        "PropName": "Actor_RockAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_RockAddHurtExtraDelta": {
+        "PropName": "Actor_RockAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_PhysicalAddHurtDelta": {
+        "PropName": "Actor_PhysicalAddHurtDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_PhysicalAddHurtExtraDelta": {
+        "PropName": "Actor_PhysicalAddHurtExtraDelta",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "LimitTagMin": -0.8999999761581421,
+        "LimitTagMax": 3.0
+    },
+    "Actor_FireSubHurtDelta": {
+        "PropName": "Actor_FireSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_FireSubHurtExtraDelta": {
+        "PropName": "Actor_FireSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_ElecSubHurtDelta": {
+        "PropName": "Actor_ElecSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_ElecSubHurtExtraDelta": {
+        "PropName": "Actor_ElecSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WaterSubHurtDelta": {
+        "PropName": "Actor_WaterSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WaterSubHurtExtraDelta": {
+        "PropName": "Actor_WaterSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_GrassSubHurtDelta": {
+        "PropName": "Actor_GrassSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_GrassSubHurtExtraDelta": {
+        "PropName": "Actor_GrassSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WindSubHurtDelta": {
+        "PropName": "Actor_WindSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_WindSubHurtExtraDelta": {
+        "PropName": "Actor_WindSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_IceSubHurtDelta": {
+        "PropName": "Actor_IceSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_IceSubHurtExtraDelta": {
+        "PropName": "Actor_IceSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_RockSubHurtDelta": {
+        "PropName": "Actor_RockSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_RockSubHurtExtraDelta": {
+        "PropName": "Actor_RockSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_PhysicalSubHurtDelta": {
+        "PropName": "Actor_PhysicalSubHurtDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_PhysicalSubHurtExtraDelta": {
+        "PropName": "Actor_PhysicalSubHurtExtraDelta",
+        "OverallMin": -2.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_AddGravityScale": {
+        "PropName": "Actor_AddGravityScale",
+        "OverallMin": -2.0,
+        "OverallMax": 99.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 99.0
+    },
+    "Actor_SkillCDMinusRatio": {
+        "PropName": "Actor_SkillCDMinusRatio",
+        "OverallMin": -5.0,
+        "OverallMax": 0.800000011920929,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 0.6700000166893005
+    },
+    "Actor_SkillCDMinusExtraRatio": {
+        "PropName": "Actor_SkillCDMinusExtraRatio",
+        "OverallMin": -5.0,
+        "OverallMax": 0.800000011920929,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 0.6700000166893005
+    },
+    "Actor_ShieldCostMinusRatio": {
+        "PropName": "Actor_ShieldCostMinusRatio",
+        "OverallMin": -5.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Actor_ShieldCostMinusExtraRatio": {
+        "PropName": "Actor_ShieldCostMinusExtraRatio",
+        "OverallMin": -5.0,
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
+    },
+    "Entity_ChargeSpeedRatioDelta": {
+        "PropName": "Entity_ChargeSpeedRatioDelta",
+        "OverallMin": -0.800000011920929,
+        "OverallMax": 10.0
+    },
+    "Entity_MassRatio": {
+        "PropName": "Entity_MassRatio",
+        "OverallMax": 10000.0
+    },
+    "Entity_WeightRatio": {
+        "PropName": "Entity_WeightRatio",
+        "OverallMax": 10000.0
+    },
+    "Animator_MoveSpeedRatio": {
+        "PropName": "Animator_MoveSpeedRatio",
+        "OverallMin": -0.20000000298023224,
+        "OverallMax": 0.4000000059604645
+    },
+    "Animator_AttackSpeedRatio": {
+        "PropName": "Animator_AttackSpeedRatio",
+        "OverallMin": -0.20000000298023224,
+        "OverallMax": 0.6000000238418579
+    },
+    "Animator_OverallSpeedRatio": {
+        "PropName": "Animator_OverallSpeedRatio",
+        "OverallMin": -0.20000000298023224,
+        "OverallMax": 0.4000000059604645
+    },
+    "Animator_OverallSpeedRatioMultiplied": {
+        "PropName": "Animator_OverallSpeedRatioMultiplied",
+        "OverallMin": -1.0,
+        "OverallMax": 1.399999976158142
+    },
+    "Actor_EndureDelta": {
+        "PropName": "Actor_EndureDelta",
+        "SucceedOwner": true
+    },
+    "Actor_HitHeadDmgRatio": {
+        "PropName": "Actor_HitHeadDmgRatio",
+        "OverallMin": -0.8999999761581421,
+        "OverallMax": 3.0,
+        "SucceedOwner": true
+    },
+    "Actor_BulletMoveSpeedRatio": {
+        "PropName": "Actor_BulletMoveSpeedRatio",
+        "OverallMin": -1.0,
+        "OverallMax": 10.0
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "2001001": {
+        "ScheduleId": 2001001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_ASTER",
+        "SheetList": [
+            1,
+            2
+        ]
+    },
+    "3001001": {
+        "ScheduleId": 3001001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE",
+        "SheetList": [
+            3,
+            4,
+            5
+        ]
+    },
+    "5011001": {
+        "ScheduleId": 5011001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
+        "SheetList": [
+            6
+        ]
+    },
+    "2002001": {
+        "ScheduleId": 2002001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_SEA_LAMP",
+        "SheetList": [
+            7,
+            8,
+            9
+        ]
+    },
+    "2003001": {
+        "ScheduleId": 2003001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR",
+        "SheetList": [
+            10,
+            11
+        ]
+    },
+    "2004001": {
+        "ScheduleId": 2004001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB",
+        "SheetList": [
+            12
+        ]
+    },
+    "2005001": {
+        "ScheduleId": 2005001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_SUMMER_TIME",
+        "SheetList": [
+            13,
+            14
+        ]
+    },
+    "5032001": {
+        "ScheduleId": 5032001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING",
+        "SheetList": [
+            15
+        ]
+    }
+}

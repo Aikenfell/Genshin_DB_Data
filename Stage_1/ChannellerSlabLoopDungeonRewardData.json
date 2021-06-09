@@ -1,0 +1,102 @@
+{
+    "1": {
+        "Id": 1,
+        "ScoreGrade": 1000,
+        "RewardID": 3015301
+    },
+    "2": {
+        "Id": 2,
+        "ScoreGrade": 2000,
+        "RewardID": 3015302
+    },
+    "3": {
+        "Id": 3,
+        "ScoreGrade": 3000,
+        "RewardID": 3015303
+    },
+    "4": {
+        "Id": 4,
+        "ScoreGrade": 4000,
+        "RewardID": 3015304
+    },
+    "5": {
+        "Id": 5,
+        "ScoreGrade": 5000,
+        "RewardID": 3015305
+    },
+    "6": {
+        "Id": 6,
+        "ScoreGrade": 6000,
+        "RewardID": 3015306
+    },
+    "7": {
+        "Id": 7,
+        "ScoreGrade": 7000,
+        "RewardID": 3015307
+    },
+    "8": {
+        "Id": 8,
+        "ScoreGrade": 8000,
+        "RewardID": 3015308
+    },
+    "9": {
+        "Id": 9,
+        "ScoreGrade": 9000,
+        "RewardID": 3015309
+    },
+    "10": {
+        "Id": 10,
+        "ScoreGrade": 10000,
+        "RewardID": 3015310
+    },
+    "11": {
+        "Id": 11,
+        "ScoreGrade": 11000,
+        "RewardID": 3015311
+    },
+    "12": {
+        "Id": 12,
+        "ScoreGrade": 12000,
+        "RewardID": 3015312
+    },
+    "13": {
+        "Id": 13,
+        "ScoreGrade": 13000,
+        "RewardID": 3015313
+    },
+    "14": {
+        "Id": 14,
+        "ScoreGrade": 14000,
+        "RewardID": 3015314
+    },
+    "15": {
+        "Id": 15,
+        "ScoreGrade": 15000,
+        "RewardID": 3015315
+    },
+    "16": {
+        "Id": 16,
+        "ScoreGrade": 16000,
+        "RewardID": 3015316
+    },
+    "17": {
+        "Id": 17,
+        "ScoreGrade": 17000,
+        "RewardID": 3015317
+    },
+    "18": {
+        "Id": 18,
+        "ScoreGrade": 18000,
+        "RewardID": 3015318
+    },
+    "19": {
+        "Id": 19,
+        "ScoreGrade": 19000,
+        "RewardID": 3015319
+    },
+    "20": {
+        "Id": 20,
+        "ScoreGrade": 20000,
+        "RewardID": 3015320
+    }
+}

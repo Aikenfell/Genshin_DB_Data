@@ -1,0 +1,4387 @@
+{
+    "1001": {
+        "Id": 1001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "ClimbTest1",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1002": {
+        "Id": 1002,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "ClimbTest2",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1003": {
+        "Id": 1003,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "TheBigWorld",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1004": {
+        "Id": 1004,
+        "Type": "SCENE_ROOM",
+        "GDLCFIHIJKA": true,
+        "ScriptData": "Knight_Inside_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1005": {
+        "Id": 1005,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "ChurchSteal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_Sneak",
+        "SpecifiedAvatarList": [
+            10000005,
+            10000007
+        ],
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "测试"
+    },
+    "1006": {
+        "Id": 1006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1008": {
+        "Id": 1008,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "ChurchLobby",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1009": {
+        "Id": 1009,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "AngelShare",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1011": {
+        "Id": 1011,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Gameplay_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1013": {
+        "Id": 1013,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "SneakAdvancedTest",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_Sneak",
+        "SpecifiedAvatarList": [
+            10000005,
+            10000007
+        ],
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "测试"
+    },
+    "1015": {
+        "Id": 1015,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "WindZone",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_WindZone01",
+        "LevelEntityConfig": "Level_Sneak",
+        "SpecifiedAvatarList": [
+            10000005,
+            10000007
+        ],
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "正式"
+    },
+    "1016": {
+        "Id": 1016,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_AmborAbyss01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AmborAbyss01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1017": {
+        "Id": 1017,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Kettle01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Kettle01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1018": {
+        "Id": 1018,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "Chateau",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1019": {
+        "Id": 1019,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CloudDongTian_Test1",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1023": {
+        "Id": 1023,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "Level_Yurenzhong",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1024": {
+        "Id": 1024,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_WeekDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_WeekDungeon01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1030": {
+        "Id": 1030,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "TestIntercept_LiYue",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_Sneak",
+        "SpecifiedAvatarList": [],
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "测试"
+    },
+    "1031": {
+        "Id": 1031,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1032": {
+        "Id": 1032,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Cloud02",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Cloud03",
+        "LevelEntityConfig": "LevelEntity_Quest_XiaoDungeon",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1033": {
+        "Id": 1033,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "Indoor_Ly_Bank",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1034": {
+        "Id": 1034,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "Indoor_Ly_Liuliting",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1035": {
+        "Id": 1035,
+        "Type": "SCENE_ROOM",
+        "ScriptData": "Indoor_Ly_Xinyuexuan",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1050": {
+        "Id": 1050,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_WaterMonster_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1051": {
+        "Id": 1051,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_QunYuGe_CLX",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Qunyuge01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1052": {
+        "Id": 1052,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_FatOtaku",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_FatOtaku",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1053": {
+        "Id": 1053,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Kettle01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Kettle01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1054": {
+        "Id": 1054,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Kettle01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Kettle01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1055": {
+        "Id": 1055,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_YoungMaster",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_YoungMaster01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1056": {
+        "Id": 1056,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ZhongLi_WG",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Zhongli01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1057": {
+        "Id": 1057,
+        "Type": "SCENE_ROOM",
+        "GDLCFIHIJKA": true,
+        "ScriptData": "Indoor_Ly_Qunyuge",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "1058": {
+        "Id": 1058,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_FatOtaku",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_FatOtaku",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1059": {
+        "Id": 1059,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Hutao",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Hutao_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "2001": {
+        "Id": 2001,
+        "Type": "SCENE_HOME_WORLD",
+        "ScriptData": "Homeworld_Exterior_Above",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "2002": {
+        "Id": 2002,
+        "Type": "SCENE_HOME_WORLD",
+        "ScriptData": "Homeworld_Exterior_Karst",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "2003": {
+        "Id": 2003,
+        "Type": "SCENE_HOME_WORLD",
+        "ScriptData": "Homeworld_Exterior_Uncharted",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "2201": {
+        "Id": 2201,
+        "Type": "SCENE_HOME_ROOM",
+        "ScriptData": "Homeworld_Interior_Md_Apartment_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "2202": {
+        "Id": 2202,
+        "Type": "SCENE_HOME_ROOM",
+        "ScriptData": "Homeworld_Interior_Ly_Apartment_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "1": {
+        "Id": 1,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "BigWorld_LevelStreaming",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_BigWorld",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "2": {
+        "Id": 2,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "BigWorld_LevelStreaming",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_BigWorld",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "3": {
+        "Id": 3,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "BigWorld_LevelStreaming",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
+        "LevelEntityConfig": "Level_BigWorld",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式",
+        "MaxSpecifiedAvatarNum": 15
+    },
+    "4": {
+        "Id": 4,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "LostParadise_LevelStreaming",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_LP_General",
+        "LevelEntityConfig": "Level_BigWorld",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式",
+        "MaxSpecifiedAvatarNum": 1
+    },
+    "20000": {
+        "Id": 20000,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Gameplay_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20005": {
+        "Id": 20005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "PlotLevel_XiangLingLevel_Xyd",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_XianglingPlotLevel01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20006": {
+        "Id": 20006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20007": {
+        "Id": 20007,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "PlotLevel_BarbaraMission02_Xyd",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20008": {
+        "Id": 20008,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_KaeyaTutorialMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20009": {
+        "Id": 20009,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_AmborTutorialMission01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AmborTutorialMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20010": {
+        "Id": 20010,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission04",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20011": {
+        "Id": 20011,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20012": {
+        "Id": 20012,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20013": {
+        "Id": 20013,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20014": {
+        "Id": 20014,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20015": {
+        "Id": 20015,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "20016": {
+        "Id": 20016,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_KaeyaTutorialMission02",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20017": {
+        "Id": 20017,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "DvalinTest_S01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Dvalin_S01",
+        "LevelEntityConfig": "Level_Dvalin_S01",
+        "EntityAppearSorted": 1,
+        "SpecifiedAvatarList": [
+            10000005,
+            10000007
+        ],
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "正式"
+    },
+    "20018": {
+        "Id": 20018,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "DvalinTest_S04",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Dvalin_S04",
+        "LevelEntityConfig": "Level_Dvalin_S04",
+        "EntityAppearSorted": 1,
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20019": {
+        "Id": 20019,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission04",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20020": {
+        "Id": 20020,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "DvalinTest_S00",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Dvalin_S00",
+        "LevelEntityConfig": "Level_Dvalin_S00",
+        "EntityAppearSorted": 1,
+        "SpecifiedAvatarList": [
+            10000005,
+            10000007
+        ],
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "正式"
+    },
+    "20022": {
+        "Id": 20022,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_BarbaraMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20023": {
+        "Id": 20023,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Plot",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Plot",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20024": {
+        "Id": 20024,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_BarbaraMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20025": {
+        "Id": 20025,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "DvalinTest_S04",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Dvalin_S04",
+        "LevelEntityConfig": "Level_Dvalin_S04_Recycle",
+        "EntityAppearSorted": 1,
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20026": {
+        "Id": 20026,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_WeekDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_WeekDungeon01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20027": {
+        "Id": 20027,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_WeekDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_WeekDungeon01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20028": {
+        "Id": 20028,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_WeekDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_WeekDungeon01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20031": {
+        "Id": 20031,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_BarbaraMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20032": {
+        "Id": 20032,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_WindyTutorial_YQT",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20034": {
+        "Id": 20034,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "IndoorScene_Ly_Goldenhouse",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AureaBattle01",
+        "LevelEntityConfig": "Level_Tartaglia",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20035": {
+        "Id": 20035,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20036": {
+        "Id": 20036,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20037": {
+        "Id": 20037,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Eula",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Eula",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20101": {
+        "Id": 20101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "IndoorScene_Ly_Goldenhouse",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AureaBattle01",
+        "LevelEntityConfig": "Level_Tartaglia",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20102": {
+        "Id": 20102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Qiqi",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Qiqi",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20103": {
+        "Id": 20103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_AmborTutorialMission01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AmborTutorialMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20104": {
+        "Id": 20104,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_GoddessLY",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_GoddessLY01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20105": {
+        "Id": 20105,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_GoddessLY",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_GoddessLY01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20106": {
+        "Id": 20106,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_DahakaBoss01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_DahakaBoss01",
+        "LevelEntityConfig": "Level_Dahaka_CameraSetting",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20107": {
+        "Id": 20107,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_DahakaBoss01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_DahakaBoss01",
+        "LevelEntityConfig": "Level_Dahaka_CameraSetting",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20108": {
+        "Id": 20108,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_DahakaBoss01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_DahakaBoss01",
+        "LevelEntityConfig": "Level_Dahaka_CameraSetting",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20109": {
+        "Id": 20109,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_DahakaBoss01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_DahakaBoss01",
+        "LevelEntityConfig": "Level_Dahaka_CameraSetting",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "20110": {
+        "Id": 20110,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_DahakaBoss01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_DahakaBoss01",
+        "LevelEntityConfig": "Level_Dahaka_CameraSetting",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30001": {
+        "Id": 30001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "LevelTest_CurseMaze",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "30100": {
+        "Id": 30100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30101": {
+        "Id": 30101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30102": {
+        "Id": 30102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30103": {
+        "Id": 30103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30104": {
+        "Id": 30104,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30200": {
+        "Id": 30200,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30201": {
+        "Id": 30201,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30202": {
+        "Id": 30202,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30203": {
+        "Id": 30203,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30204": {
+        "Id": 30204,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30300": {
+        "Id": 30300,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30301": {
+        "Id": 30301,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30302": {
+        "Id": 30302,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30303": {
+        "Id": 30303,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30304": {
+        "Id": 30304,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30400": {
+        "Id": 30400,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30401": {
+        "Id": 30401,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30402": {
+        "Id": 30402,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30403": {
+        "Id": 30403,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30404": {
+        "Id": 30404,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30500": {
+        "Id": 30500,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30501": {
+        "Id": 30501,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30502": {
+        "Id": 30502,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30503": {
+        "Id": 30503,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30504": {
+        "Id": 30504,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30600": {
+        "Id": 30600,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30601": {
+        "Id": 30601,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30602": {
+        "Id": 30602,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30603": {
+        "Id": 30603,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30604": {
+        "Id": 30604,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30700": {
+        "Id": 30700,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30701": {
+        "Id": 30701,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30702": {
+        "Id": 30702,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30703": {
+        "Id": 30703,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30704": {
+        "Id": 30704,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30800": {
+        "Id": 30800,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30801": {
+        "Id": 30801,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30802": {
+        "Id": 30802,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30803": {
+        "Id": 30803,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30804": {
+        "Id": 30804,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30900": {
+        "Id": 30900,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30901": {
+        "Id": 30901,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30902": {
+        "Id": 30902,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30903": {
+        "Id": 30903,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "30904": {
+        "Id": 30904,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31000": {
+        "Id": 31000,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31001": {
+        "Id": 31001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31002": {
+        "Id": 31002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31003": {
+        "Id": 31003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31004": {
+        "Id": 31004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31100": {
+        "Id": 31100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31101": {
+        "Id": 31101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31102": {
+        "Id": 31102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31103": {
+        "Id": 31103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31104": {
+        "Id": 31104,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31200": {
+        "Id": 31200,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31201": {
+        "Id": 31201,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31202": {
+        "Id": 31202,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31203": {
+        "Id": 31203,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31204": {
+        "Id": 31204,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31300": {
+        "Id": 31300,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31301": {
+        "Id": 31301,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31302": {
+        "Id": 31302,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31303": {
+        "Id": 31303,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31304": {
+        "Id": 31304,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31400": {
+        "Id": 31400,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31401": {
+        "Id": 31401,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31402": {
+        "Id": 31402,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31403": {
+        "Id": 31403,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31404": {
+        "Id": 31404,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31500": {
+        "Id": 31500,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31501": {
+        "Id": 31501,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31502": {
+        "Id": 31502,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31503": {
+        "Id": 31503,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31504": {
+        "Id": 31504,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31600": {
+        "Id": 31600,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31601": {
+        "Id": 31601,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31602": {
+        "Id": 31602,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31603": {
+        "Id": 31603,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31604": {
+        "Id": 31604,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31700": {
+        "Id": 31700,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31701": {
+        "Id": 31701,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31702": {
+        "Id": 31702,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31703": {
+        "Id": 31703,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31704": {
+        "Id": 31704,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31800": {
+        "Id": 31800,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31801": {
+        "Id": 31801,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31802": {
+        "Id": 31802,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31803": {
+        "Id": 31803,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31804": {
+        "Id": 31804,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31900": {
+        "Id": 31900,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31901": {
+        "Id": 31901,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31902": {
+        "Id": 31902,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31903": {
+        "Id": 31903,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "31904": {
+        "Id": 31904,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32000": {
+        "Id": 32000,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32001": {
+        "Id": 32001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32002": {
+        "Id": 32002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32003": {
+        "Id": 32003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32004": {
+        "Id": 32004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32100": {
+        "Id": 32100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32101": {
+        "Id": 32101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32102": {
+        "Id": 32102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32103": {
+        "Id": 32103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32104": {
+        "Id": 32104,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32200": {
+        "Id": 32200,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32201": {
+        "Id": 32201,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32202": {
+        "Id": 32202,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32203": {
+        "Id": 32203,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "32204": {
+        "Id": 32204,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33100": {
+        "Id": 33100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33101": {
+        "Id": 33101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33102": {
+        "Id": 33102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33103": {
+        "Id": 33103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34100": {
+        "Id": 34100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34101": {
+        "Id": 34101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_General",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34102": {
+        "Id": 34102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34103": {
+        "Id": 34103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35100": {
+        "Id": 35100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35101": {
+        "Id": 35101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35102": {
+        "Id": 35102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35103": {
+        "Id": 35103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33401": {
+        "Id": 33401,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33402": {
+        "Id": 33402,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33403": {
+        "Id": 33403,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33404": {
+        "Id": 33404,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34401": {
+        "Id": 34401,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34402": {
+        "Id": 34402,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34403": {
+        "Id": 34403,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34404": {
+        "Id": 34404,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35401": {
+        "Id": 35401,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35402": {
+        "Id": 35402,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35403": {
+        "Id": 35403,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Dusk_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35404": {
+        "Id": 35404,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33700": {
+        "Id": 33700,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33701": {
+        "Id": 33701,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33702": {
+        "Id": 33702,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33703": {
+        "Id": 33703,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33704": {
+        "Id": 33704,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33705": {
+        "Id": 33705,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33706": {
+        "Id": 33706,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33707": {
+        "Id": 33707,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33708": {
+        "Id": 33708,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33709": {
+        "Id": 33709,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33710": {
+        "Id": 33710,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33711": {
+        "Id": 33711,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33712": {
+        "Id": 33712,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33713": {
+        "Id": 33713,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33714": {
+        "Id": 33714,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33715": {
+        "Id": 33715,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "33716": {
+        "Id": 33716,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34700": {
+        "Id": 34700,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34701": {
+        "Id": 34701,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34702": {
+        "Id": 34702,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34703": {
+        "Id": 34703,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34704": {
+        "Id": 34704,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34705": {
+        "Id": 34705,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34706": {
+        "Id": 34706,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34707": {
+        "Id": 34707,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34708": {
+        "Id": 34708,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34709": {
+        "Id": 34709,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34710": {
+        "Id": 34710,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34711": {
+        "Id": 34711,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34712": {
+        "Id": 34712,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34713": {
+        "Id": 34713,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34714": {
+        "Id": 34714,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34715": {
+        "Id": 34715,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "34716": {
+        "Id": 34716,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35700": {
+        "Id": 35700,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35701": {
+        "Id": 35701,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35702": {
+        "Id": 35702,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35703": {
+        "Id": 35703,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35704": {
+        "Id": 35704,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35705": {
+        "Id": 35705,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Fire_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Fire_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35706": {
+        "Id": 35706,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35707": {
+        "Id": 35707,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35708": {
+        "Id": 35708,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35709": {
+        "Id": 35709,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Thunder_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35710": {
+        "Id": 35710,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35711": {
+        "Id": 35711,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35712": {
+        "Id": 35712,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35713": {
+        "Id": 35713,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35714": {
+        "Id": 35714,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Ice_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Ice_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35715": {
+        "Id": 35715,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35716": {
+        "Id": 35716,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "35800": {
+        "Id": 35800,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon_WindFlower",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon_WindFlower",
+        "LevelEntityConfig": "Level_WindFlora_Dungeon",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40001": {
+        "Id": 40001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40002": {
+        "Id": 40002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40003": {
+        "Id": 40003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_UCDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40004": {
+        "Id": 40004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_KaeyaTutorialMission02",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40005": {
+        "Id": 40005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40006": {
+        "Id": 40006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40007": {
+        "Id": 40007,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40008": {
+        "Id": 40008,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40009": {
+        "Id": 40009,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_AmborTutorialMission01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40010": {
+        "Id": 40010,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_AmborTutorialMission01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AmborTutorialMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40012": {
+        "Id": 40012,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40013": {
+        "Id": 40013,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_AmborTutorialMission01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_AmborTutorialMission01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40014": {
+        "Id": 40014,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40015": {
+        "Id": 40015,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Kettle01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Kettle01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40016": {
+        "Id": 40016,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Cloud01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Cloud01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40017": {
+        "Id": 40017,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Cloud01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40018": {
+        "Id": 40018,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Kettle01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40019": {
+        "Id": 40019,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Cloud01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Cloud01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40020": {
+        "Id": 40020,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_Cloud01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Cloud01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40021": {
+        "Id": 40021,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Challenge_Thunder01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40022": {
+        "Id": 40022,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Wind",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40023": {
+        "Id": 40023,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40024": {
+        "Id": 40024,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Rock",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Rock",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40025": {
+        "Id": 40025,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Wind",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40026": {
+        "Id": 40026,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40027": {
+        "Id": 40027,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Wind",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40028": {
+        "Id": 40028,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40029": {
+        "Id": 40029,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss01_Rock",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Rock",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40030": {
+        "Id": 40030,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40031": {
+        "Id": 40031,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40032": {
+        "Id": 40032,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40033": {
+        "Id": 40033,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40034": {
+        "Id": 40034,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40035": {
+        "Id": 40035,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40036": {
+        "Id": 40036,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_LisaTutorialMission03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_LisaTutorialMission",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40037": {
+        "Id": 40037,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40038": {
+        "Id": 40038,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Universe_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40039": {
+        "Id": 40039,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40040": {
+        "Id": 40040,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40041": {
+        "Id": 40041,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss02_Water",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40042": {
+        "Id": 40042,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss02_Water",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40043": {
+        "Id": 40043,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss02_Water",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40046": {
+        "Id": 40046,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Water_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Element_Water_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40100": {
+        "Id": 40100,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Fire",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40101": {
+        "Id": 40101,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Fire",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40102": {
+        "Id": 40102,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Fire",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40103": {
+        "Id": 40103,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Fire",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40104": {
+        "Id": 40104,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Fire",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40105": {
+        "Id": 40105,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Fire",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40200": {
+        "Id": 40200,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Ice",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Ice",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40201": {
+        "Id": 40201,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Ice",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Ice",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40202": {
+        "Id": 40202,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Ice",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Ice",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40203": {
+        "Id": 40203,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Ice",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Ice",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40300": {
+        "Id": 40300,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Water",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40301": {
+        "Id": 40301,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Water",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40302": {
+        "Id": 40302,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Water",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40303": {
+        "Id": 40303,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Water",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40400": {
+        "Id": 40400,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40401": {
+        "Id": 40401,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40402": {
+        "Id": 40402,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40403": {
+        "Id": 40403,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40404": {
+        "Id": 40404,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Snow",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40405": {
+        "Id": 40405,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40406": {
+        "Id": 40406,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40407": {
+        "Id": 40407,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Thunder",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Thunder",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40408": {
+        "Id": 40408,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Snow",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40409": {
+        "Id": 40409,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Snow",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40410": {
+        "Id": 40410,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Snow",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Snow",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40500": {
+        "Id": 40500,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40501": {
+        "Id": 40501,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40502": {
+        "Id": 40502,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40503": {
+        "Id": 40503,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40504": {
+        "Id": 40504,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40505": {
+        "Id": 40505,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40506": {
+        "Id": 40506,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40507": {
+        "Id": 40507,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40508": {
+        "Id": 40508,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40509": {
+        "Id": 40509,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40510": {
+        "Id": 40510,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40511": {
+        "Id": 40511,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40512": {
+        "Id": 40512,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40513": {
+        "Id": 40513,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40514": {
+        "Id": 40514,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40515": {
+        "Id": 40515,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40516": {
+        "Id": 40516,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40517": {
+        "Id": 40517,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40600": {
+        "Id": 40600,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40601": {
+        "Id": 40601,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Morning",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Morning",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40602": {
+        "Id": 40602,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40603": {
+        "Id": 40603,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40604": {
+        "Id": 40604,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40605": {
+        "Id": 40605,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40606": {
+        "Id": 40606,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40607": {
+        "Id": 40607,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40608": {
+        "Id": 40608,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40609": {
+        "Id": 40609,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40610": {
+        "Id": 40610,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40611": {
+        "Id": 40611,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40612": {
+        "Id": 40612,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Dusk",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Dusk",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40613": {
+        "Id": 40613,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40614": {
+        "Id": 40614,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Night",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Night",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40615": {
+        "Id": 40615,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Water",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon02_Water",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40616": {
+        "Id": 40616,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Daily_Water",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "40700": {
+        "Id": 40700,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Rock",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Rock",
+        "LevelEntityConfig": "TestLevel_Element_Evn_Rock",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40701": {
+        "Id": 40701,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Rock",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Rock",
+        "LevelEntityConfig": "TestLevel_Element_Evn_Rock",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40702": {
+        "Id": 40702,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Rock",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Rock",
+        "LevelEntityConfig": "TestLevel_Element_Evn_Rock",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "40703": {
+        "Id": 40703,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Rock",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_CycleDungeon01_Rock",
+        "LevelEntityConfig": "TestLevel_Element_Evn_Rock",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41000": {
+        "Id": 41000,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41001": {
+        "Id": 41001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41002": {
+        "Id": 41002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41003": {
+        "Id": 41003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41004": {
+        "Id": 41004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41005": {
+        "Id": 41005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41006": {
+        "Id": 41006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41007": {
+        "Id": 41007,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41008": {
+        "Id": 41008,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41009": {
+        "Id": 41009,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41010": {
+        "Id": 41010,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41011": {
+        "Id": 41011,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41012": {
+        "Id": 41012,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41013": {
+        "Id": 41013,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41014": {
+        "Id": 41014,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41015": {
+        "Id": 41015,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41016": {
+        "Id": 41016,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41017": {
+        "Id": 41017,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41018": {
+        "Id": 41018,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41019": {
+        "Id": 41019,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41020": {
+        "Id": 41020,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41021": {
+        "Id": 41021,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41022": {
+        "Id": 41022,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41023": {
+        "Id": 41023,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41024": {
+        "Id": 41024,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41025": {
+        "Id": 41025,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41026": {
+        "Id": 41026,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41027": {
+        "Id": 41027,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41028": {
+        "Id": 41028,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41029": {
+        "Id": 41029,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41030": {
+        "Id": 41030,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41031": {
+        "Id": 41031,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41032": {
+        "Id": 41032,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41033": {
+        "Id": 41033,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "41034": {
+        "Id": 41034,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Night_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42001": {
+        "Id": 42001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42002": {
+        "Id": 42002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active02",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42003": {
+        "Id": 42003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active07",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42004": {
+        "Id": 42004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active06",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42005": {
+        "Id": 42005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active05",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42006": {
+        "Id": 42006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42007": {
+        "Id": 42007,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active04",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42008": {
+        "Id": 42008,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active07",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42009": {
+        "Id": 42009,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active02",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42010": {
+        "Id": 42010,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42011": {
+        "Id": 42011,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active05",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42012": {
+        "Id": 42012,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active04",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42013": {
+        "Id": 42013,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active07",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "42014": {
+        "Id": 42014,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active03",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_PFDungeon02_Active01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "43001": {
+        "Id": 43001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "43002": {
+        "Id": 43002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "43003": {
+        "Id": 43003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "43004": {
+        "Id": 43004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "43005": {
+        "Id": 43005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "43006": {
+        "Id": 43006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44001": {
+        "Id": 44001,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44002": {
+        "Id": 44002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44003": {
+        "Id": 44003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "PlotLevel_XiangLingLevel_Xyd",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44004": {
+        "Id": 44004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44005": {
+        "Id": 44005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Moon_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44006": {
+        "Id": 44006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Element_Thunder_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "44007": {
+        "Id": 44007,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Universe_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "正式"
+    },
+    "50002": {
+        "Id": 50002,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_Cold_LYX",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "TestLevel_Cold",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50003": {
+        "Id": 50003,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_Battle_CLX",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50004": {
+        "Id": 50004,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PowerCharge_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50005": {
+        "Id": 50005,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ElementGameplay_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50006": {
+        "Id": 50006,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_KaeyaTutorialMission02",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50007": {
+        "Id": 50007,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PowerCharge_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_ClimbTest1",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50008": {
+        "Id": 50008,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Function_BlackBox_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50009": {
+        "Id": 50009,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevelGameplay_CX",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50010": {
+        "Id": 50010,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevelGameplay_LSA",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50011": {
+        "Id": 50011,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_Explode_Test",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50012": {
+        "Id": 50012,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Ice",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_Swril_Test",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50013": {
+        "Id": 50013,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon01_Fire",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "Level_Melt_Test",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50014": {
+        "Id": 50014,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Monster_StrategyTest_LTJ",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50015": {
+        "Id": 50015,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "LevelTestRooms",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50016": {
+        "Id": 50016,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CharactersPattern_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50017": {
+        "Id": 50017,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Night_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50018": {
+        "Id": 50018,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_Protect_MC",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50019": {
+        "Id": 50019,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_Protect_MC",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "TestLevel_Element_Evn_Rock",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50020": {
+        "Id": 50020,
+        "Type": "SCENE_WORLD",
+        "ScriptData": "ClimbTest1",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50021": {
+        "Id": 50021,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "LevelTest_TestTest_WG",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50022": {
+        "Id": 50022,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_PFDungeon01_ZHT",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50023": {
+        "Id": 50023,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50024": {
+        "Id": 50024,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Dusk_01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "LevelEntity_TowerBuff_ElementReactionHurt_Melt",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50025": {
+        "Id": 50025,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50026": {
+        "Id": 50026,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50027": {
+        "Id": 50027,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon02_Normal",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50028": {
+        "Id": 50028,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_CycleFire_YQT",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50029": {
+        "Id": 50029,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_TdGameplay_Test",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50030": {
+        "Id": 50030,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50031": {
+        "Id": 50031,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_DragonBoss",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50032": {
+        "Id": 50032,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active03",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50033": {
+        "Id": 50033,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active04",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50034": {
+        "Id": 50034,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_PFDungeon02_Active05",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50041": {
+        "Id": 50041,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_SZ_LX",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50042": {
+        "Id": 50042,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_MD_YQT",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50043": {
+        "Id": 50043,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_MD_YQT",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50044": {
+        "Id": 50044,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "TestLevel_SZ_LX",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50045": {
+        "Id": 50045,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon_WindFlower",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50046": {
+        "Id": 50046,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Challenge_Thunder01",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50047": {
+        "Id": 50047,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon_WindFlower",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50048": {
+        "Id": 50048,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon_WindFlower",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50049": {
+        "Id": 50049,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_CycleDungeon_WindFlower",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50050": {
+        "Id": 50050,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_Morning_01",
+        "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Tower_Morning_01",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50051": {
+        "Id": 50051,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_FCdungeon_MistTrial",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50052": {
+        "Id": 50052,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_Tower_01_Open",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    },
+    "50054": {
+        "Id": 50054,
+        "Type": "SCENE_DUNGEON",
+        "ScriptData": "Level_ActivityBoss02_Water",
+        "OverrideDefaultProfile": "",
+        "LevelEntityConfig": "",
+        "SpecifiedAvatarList": [],
+        "Comment": "测试"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Default": {
+        "Type": "Default",
+        "HitLevel": "Mute"
+    },
+    "LV0": {
+        "Type": "LV0",
+        "HitLevel": "Mute"
+    },
+    "LV1": {
+        "Type": "LV1",
+        "HitLevel": "Shake"
+    },
+    "LV2": {
+        "Type": "LV2",
+        "HitLevel": "Light",
+        "HitImpulseX": 200.0
+    },
+    "LV3": {
+        "Type": "LV3",
+        "HitLevel": "Heavy",
+        "HitImpulseX": 200.0
+    },
+    "LV4": {
+        "Type": "LV4",
+        "HitLevel": "Heavy",
+        "HitImpulseX": 800.0
+    },
+    "LV5": {
+        "Type": "LV5",
+        "HitLevel": "Air",
+        "HitImpulseX": 480.0,
+        "HitImpulseY": 600.0
+    },
+    "LV6": {
+        "Type": "LV6",
+        "HitLevel": "Air",
+        "HitImpulseX": 655.0,
+        "HitImpulseY": 800.0
+    },
+    "LV7": {
+        "Type": "LV7",
+        "HitLevel": "Air",
+        "HitImpulseY": 800.0
+    },
+    "LV8": {
+        "Type": "LV8",
+        "HitLevel": "Air",
+        "HitImpulseX": 795.0,
+        "HitImpulseY": 900.0
+    },
+    "LV9": {
+        "Type": "LV9",
+        "HitLevel": "Air",
+        "HitImpulseX": 1200.0,
+        "HitImpulseY": 600.0
+    }
+}

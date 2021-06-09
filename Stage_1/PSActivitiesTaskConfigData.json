@@ -1,0 +1,65 @@
+{
+    "1": {
+        "ActivityID": 1,
+        "TaskNameTextMapHash": 4123016973,
+        "AvailableByDefault": true,
+        "ID": 1,
+        "ObjectID": "1.5.0"
+    },
+    "2": {
+        "ActivityID": 1,
+        "TaskNameTextMapHash": 3761040189,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 2,
+        "ObjectID": "1.5.0"
+    },
+    "3": {
+        "ActivityID": 1,
+        "TaskNameTextMapHash": 1941639781,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 3,
+        "ObjectID": "1.5.0"
+    },
+    "4": {
+        "ActivityID": 2,
+        "TaskNameTextMapHash": 3832365885,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 4,
+        "ObjectID": "1.5.0"
+    },
+    "5": {
+        "ActivityID": 2,
+        "TaskNameTextMapHash": 3848168861,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 5,
+        "ObjectID": "1.5.0"
+    },
+    "6": {
+        "ActivityID": 2,
+        "TaskNameTextMapHash": 2837333837,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 6,
+        "ObjectID": "1.5.0"
+    },
+    "7": {
+        "ActivityID": 2,
+        "TaskNameTextMapHash": 1511167597,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 7,
+        "ObjectID": "1.5.0"
+    },
+    "8": {
+        "ActivityID": 3,
+        "TaskNameTextMapHash": 3687366901,
+        "AvailableByDefault": true,
+        "Hidden": true,
+        "ID": 8,
+        "ObjectID": "1.6.0"
+    }
+}

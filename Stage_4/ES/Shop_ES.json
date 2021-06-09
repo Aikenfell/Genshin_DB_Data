@@ -1,0 +1,5799 @@
+{
+    "SHOP_TYPE_VIRTUAL_SHOP": {
+        "101001": {
+            "Name": "Resina original",
+            "Count": 1,
+            "Limit": "Null"
+        }
+    },
+    "SHOP_TYPE_CITY": {
+        "201001": {
+            "Name": "Pedacito de \u00e1gata agnidus",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Insignia Anemo": 10
+            }
+        },
+        "201002": {
+            "Name": "Pedacito de lazurita varunada",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Insignia Anemo": 10
+            }
+        },
+        "201003": {
+            "Name": "Pedacito de turquesa vayuda",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Insignia Anemo": 10
+            }
+        },
+        "201004": {
+            "Name": "Pedacito de jade shivada",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Insignia Anemo": 10
+            }
+        },
+        "201005": {
+            "Name": "Pedacito de topacio prithiva",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Insignia Anemo": 10
+            }
+        },
+        "201006": {
+            "Name": "Pedacito de amatista vajrada",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Insignia Anemo": 10
+            }
+        },
+        "201007": {
+            "Name": "Fragmento de azulejo de Decarabian",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Insignia Anemo": 4
+            }
+        },
+        "201008": {
+            "Name": "Diente de leche de lobo boreal",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Insignia Anemo": 4
+            }
+        },
+        "201009": {
+            "Name": "Grilletes de Diente de Le\u00f3n",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Insignia Anemo": 4
+            }
+        },
+        "201010": {
+            "Name": "Recuerdo de los Cuatro Vientos",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Insignia Anemo": 225
+            }
+        },
+        "201011": {
+            "Name": "Prototipo de espada del Norte",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Insignia Anemo": 225
+            }
+        },
+        "201012": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": 60,
+            "Cost": {
+                "Insignia Anemo": 1
+            }
+        },
+        "201013": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": "Null",
+            "Cost": {
+                "Insignia Anemo": 2
+            }
+        }
+    },
+    "SHOP_TYPE_BLACKSMITH": {
+        "202001": {
+            "Name": "Espada Plateada",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202002": {
+            "Name": "Espada del Mercenario",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202003": {
+            "Name": "Punta de Hierro",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202004": {
+            "Name": "Grimorio de Bolsillo",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202005": {
+            "Name": "Arco del Cazador Estacional",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        }
+    },
+    "SHOP_TYPE_GROCERY": {
+        "203001": {
+            "Name": "Sal",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 60
+            }
+        },
+        "203002": {
+            "Name": "Pimienta",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "203003": {
+            "Name": "Cebolla",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "203004": {
+            "Name": "Leche",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "203005": {
+            "Name": "Tomate",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "203006": {
+            "Name": "Repollo",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "203007": {
+            "Name": "Papa",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "203008": {
+            "Name": "Trigo",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        }
+    },
+    "SHOP_TYPE_FOOD": {
+        "204001": {
+            "Name": "Huevo frito de Teyvat",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 200
+            }
+        },
+        "204002": {
+            "Name": "Tostada del pescador",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1025
+            }
+        },
+        "204003": {
+            "Name": "Brocheta de champi\u00f1ones y pollo",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "204004": {
+            "Name": "Harina",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "204005": {
+            "Name": "Crema batida",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "204006": {
+            "Name": "Carne de ave ahumada",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 900
+            }
+        },
+        "204007": {
+            "Name": "Mantequilla",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 270
+            }
+        },
+        "204008": {
+            "Name": "Jam\u00f3n",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 630
+            }
+        },
+        "204009": {
+            "Name": "Az\u00facar",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "204010": {
+            "Name": "Huevas de cangrejo",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1125
+            }
+        },
+        "204011": {
+            "Name": "Mermelada",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1475
+            }
+        },
+        "204012": {
+            "Name": "Queso",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 420
+            }
+        },
+        "204013": {
+            "Name": "Tocino",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 720
+            }
+        },
+        "204014": {
+            "Name": "Salchicha",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 840
+            }
+        },
+        "204015": {
+            "Name": "Receta: Panqueques",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "204016": {
+            "Name": "Receta: Pasta a la bolo\u00f1esa",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "204017": {
+            "Name": "Receta: Guisado de temporada",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "204018": {
+            "Name": "Receta: Sopa de marisco",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "204019": {
+            "Name": "Receta: Matsutakes salteados",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "204020": {
+            "Name": "Receta: Torre de Ludi",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "204021": {
+            "Name": "Receta: Gelatina de menta",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1250
+            }
+        },
+        "204022": {
+            "Name": "Receta: C\u00f3ctel de camarones sobre papas fritas",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Flora": {
+        "205001": {
+            "Name": "Flor dulce",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 200
+            }
+        },
+        "205002": {
+            "Name": "Margarita voladora",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "205003": {
+            "Name": "Cecilia",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "205004": {
+            "Name": "Lucetta",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "205005": {
+            "Name": "Lirio cala",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Charles": {
+        "206001": {
+            "Name": "Jugo de gancho de lobo",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "206002": {
+            "Name": "Bebida de bayas y menta",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "206003": {
+            "Name": "Sidra de manzana",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Shiliu": {
+        "207001": {
+            "Name": "C\u00e1liz Dorado del Aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207002": {
+            "Name": "Pluma del Aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207003": {
+            "Name": "Bandana del Aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207004": {
+            "Name": "Flor del Aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207005": {
+            "Name": "Reloj de Bolsillo del Aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Schulz": {
+        "208001": {
+            "Name": "Hoja Desafilada",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208002": {
+            "Name": "Gran Espada del Guerrero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208003": {
+            "Name": "Lanza del Principiante",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208004": {
+            "Name": "Apuntes del Aprendiz",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208005": {
+            "Name": "Arco del Cazador",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Brook": {
+        "209001": {
+            "Name": "Filete a la barbacoa",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 530
+            }
+        },
+        "209002": {
+            "Name": "Brocheta de champi\u00f1ones y pollo",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "209003": {
+            "Name": "Pollo ahumado del Norte",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1850
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Hopkins": {
+        "210001": {
+            "Name": "Agua bendita",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Draff": {
+        "211001": {
+            "Name": "Carne cruda",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "211002": {
+            "Name": "Carne de ave",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "211003": {
+            "Name": "Huevo de p\u00e1jaro",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 200
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Chloris": {
+        "212001": {
+            "Name": "Flor dorada",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 280
+            }
+        },
+        "212002": {
+            "Name": "Menta",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "212003": {
+            "Name": "Gancho de lobo",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "212004": {
+            "Name": "Valbaya",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "212005": {
+            "Name": "Seta filanemo",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Goth": {
+        "1051001": {
+            "Name": "Se\u00f1al de madera seca",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 25000
+            }
+        },
+        "1051002": {
+            "Name": "Tienda de campa\u00f1a antirrayos",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1051003": {
+            "Name": "Tienda sencilla individual",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1051004": {
+            "Name": "Campamento del aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_SOUVENIR": {
+        "301001": {
+            "Name": "Pedacito de \u00e1gata agnidus",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Insignia Geo": 10
+            }
+        },
+        "301002": {
+            "Name": "Pedacito de lazurita varunada",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Insignia Geo": 10
+            }
+        },
+        "301003": {
+            "Name": "Pedacito de turquesa vayuda",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Insignia Geo": 10
+            }
+        },
+        "301004": {
+            "Name": "Pedacito de jade shivada",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Insignia Geo": 10
+            }
+        },
+        "301005": {
+            "Name": "Pedacito de topacio prithiva",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Insignia Geo": 10
+            }
+        },
+        "301006": {
+            "Name": "Pedacito de amatista vajrada",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Insignia Geo": 10
+            }
+        },
+        "301007": {
+            "Name": "Arena brillante de Guyun",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Insignia Geo": 4
+            }
+        },
+        "301008": {
+            "Name": "Perdigones de plomo",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Insignia Geo": 4
+            }
+        },
+        "301009": {
+            "Name": "Grano de siderita oscura",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Insignia Geo": 4
+            }
+        },
+        "301010": {
+            "Name": "Recuerdo de cristales inamovibles",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Insignia Geo": 225
+            }
+        },
+        "301011": {
+            "Name": "Prototipo de arco del Norte",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Insignia Geo": 225
+            }
+        },
+        "301012": {
+            "Name": "Prototipo de mandoble del Norte",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Insignia Geo": 225
+            }
+        },
+        "301013": {
+            "Name": "Prototipo de catalizador del Norte",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Insignia Geo": 225
+            }
+        },
+        "301014": {
+            "Name": "Prototipo de lanza del Norte",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Insignia Geo": 225
+            }
+        },
+        "301015": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": 120,
+            "Cost": {
+                "Insignia Geo": 1
+            }
+        },
+        "301016": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": "Null",
+            "Cost": {
+                "Insignia Geo": 2
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_GROCERY": {
+        "302001": {
+            "Name": "Sal",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 60
+            }
+        },
+        "302002": {
+            "Name": "Pimienta",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "302003": {
+            "Name": "Cebolla",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "302004": {
+            "Name": "Leche",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302005": {
+            "Name": "Tomate",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302006": {
+            "Name": "Repollo",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302007": {
+            "Name": "Papa",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302008": {
+            "Name": "Trigo",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302009": {
+            "Name": "Arroz",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302010": {
+            "Name": "Camar\u00f3n",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302011": {
+            "Name": "Tofu",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302012": {
+            "Name": "Almendra",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_RESTAURANT": {
+        "303001": {
+            "Name": "Huevo frito de Teyvat",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 200
+            }
+        },
+        "303002": {
+            "Name": "Tostada del pescador",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1025
+            }
+        },
+        "303003": {
+            "Name": "Brocheta de champi\u00f1ones y pollo",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "303004": {
+            "Name": "Harina",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "303005": {
+            "Name": "Az\u00facar",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "303006": {
+            "Name": "Salchicha",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 840
+            }
+        },
+        "303007": {
+            "Name": "Receta: Pez tigre a la parrilla",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1250
+            }
+        },
+        "303008": {
+            "Name": "Receta: Pollo al chile Jueyun",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303009": {
+            "Name": "Receta: Camarones de cristal",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303010": {
+            "Name": "Receta: Estofado de perca de lomo negro",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303011": {
+            "Name": "Receta: Pescado mandar\u00edn agridulce",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303012": {
+            "Name": "Receta: \u00a1Ven por ello!",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303013": {
+            "Name": "Receta: Tiras de tres sabores",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303014": {
+            "Name": "Receta: Paz universal",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303015": {
+            "Name": "Pescado",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "303016": {
+            "Name": "Cangrejo",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "303017": {
+            "Name": "Jam\u00f3n",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 630
+            }
+        },
+        "303018": {
+            "Name": "Brote de bamb\u00fa",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "303019": {
+            "Name": "Cabeza de loto",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "303020": {
+            "Name": "Matsutake",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "303021": {
+            "Name": "Champi\u00f1\u00f3n",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 180
+            }
+        },
+        "303022": {
+            "Name": "Zanahoria",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 260
+            }
+        },
+        "303023": {
+            "Name": "R\u00e1bano",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 350
+            }
+        },
+        "303024": {
+            "Name": "Chile de Jueyun",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "303025": {
+            "Name": "Receta: Ensalada de menta",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303026": {
+            "Name": "Receta: Rollitos de carne y menta",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303027": {
+            "Name": "Receta: Tofu con huevas de cangrejo",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303028": {
+            "Name": "Receta: Bolitas de harina de arroz",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1250
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Licai": {
+        "304001": {
+            "Name": "Receta: Delicias del Puerto de Piedra",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "304002": {
+            "Name": "Delicias del Puerto de Piedra",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1925
+            }
+        },
+        "304003": {
+            "Name": "Fideos con delicias de monta\u00f1a",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 2150
+            }
+        },
+        "304004": {
+            "Name": "Carne estilo Eje Celestial",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 12000
+            }
+        },
+        "304005": {
+            "Name": "Receta: Carne curada con matsutake",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "304006": {
+            "Name": "Carne curada con matsutake",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 7275
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Yueshu": {
+        "305001": {
+            "Name": "Receta: Rollitos de luna llena",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "305002": {
+            "Name": "Alb\u00f3ndigas de camar\u00f3n dorado",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 5700
+            }
+        },
+        "305003": {
+            "Name": "Rollitos de luna llena",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 5775
+            }
+        },
+        "305004": {
+            "Name": "Cangrejo dorado",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 12200
+            }
+        },
+        "305005": {
+            "Name": "Receta: Tallarines fritos con pescado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "305006": {
+            "Name": "Tallarines fritos con pescado",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1375
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Gui": {
+        "306001": {
+            "Name": "Receta: Sopa de loto y huevo",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "306002": {
+            "Name": "Flor chingxin",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "306003": {
+            "Name": "Cola de caballo",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "306004": {
+            "Name": "Cabeza de loto",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "306005": {
+            "Name": "Pistilo de flor de neblina",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "306006": {
+            "Name": "Pistilo de flor llameante",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "306007": {
+            "Name": "Campanita de cristal",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Gao": {
+        "307001": {
+            "Name": "Pescado",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "307002": {
+            "Name": "Pescado",
+            "Count": 3,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Sun": {
+        "308001": {
+            "Name": "Pescado",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "308002": {
+            "Name": "Cangrejo",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "308003": {
+            "Name": "Camar\u00f3n",
+            "Count": 1,
+            "Limit": 50,
+            "Cost": {
+                "Mora": 150
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Qiming": {
+        "309001": {
+            "Name": "Manzana",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 200
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhangshun": {
+        "310001": {
+            "Name": "C\u00e1liz del Afortunado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310002": {
+            "Name": "Pluma de \u00c1guila del Afortunado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310003": {
+            "Name": "Tiara de Plata del Afortunado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310004": {
+            "Name": "Tr\u00e9bol de Cuatro Hojas del Afortunado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310005": {
+            "Name": "Reloj de Arena del Afortunado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Chen": {
+        "311001": {
+            "Name": "Pez tigre a la parrilla delicioso",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 380
+            }
+        },
+        "311002": {
+            "Name": "Carne frita",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 900
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_ErNiang": {
+        "312001": {
+            "Name": "Chop suey de Zhongyuan delicioso",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 6600
+            }
+        },
+        "312002": {
+            "Name": "Carne de Mora",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 430
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Shitou": {
+        "313001": {
+            "Name": "Pedazo de hierro",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "313002": {
+            "Name": "Pedazo de hierro blanco",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 400
+            }
+        },
+        "313003": {
+            "Name": "Jade noctilucoso",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Jifang": {
+        "314001": {
+            "Name": "El bosque de bamb\u00fa a la luz de la luna (II)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314002": {
+            "Name": "El bosque de bamb\u00fa a la luz de la luna (III)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314003": {
+            "Name": "Rex Incognito (IV)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314004": {
+            "Name": "La leyenda de los mares: Marea baja",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314005": {
+            "Name": "Registros de Jueyun: El Palacio Submarino",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314006": {
+            "Name": "La leyenda de la espada solitaria (IV)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314007": {
+            "Name": "La leyenda de la alabarda fragmentada (I)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314008": {
+            "Name": "La leyenda de la alabarda fragmentada (IV)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314009": {
+            "Name": "La leyenda de la alabarda fragmentada (V)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314010": {
+            "Name": "Sue\u00f1os rotos: Zafiro",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314011": {
+            "Name": "Registros de Jueyun: Seelies",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314012": {
+            "Name": "Costumbres de Liyue: Flores de seda",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314013": {
+            "Name": "La pulsera de perlas (II)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314014": {
+            "Name": "La pulsera de perlas (III)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314015": {
+            "Name": "Registros de Jueyun: Los Chilin",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314016": {
+            "Name": "Registros de Jueyun: El jade exiliado",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhu": {
+        "315001": {
+            "Name": "Taz\u00f3n de t\u00e9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "315002": {
+            "Name": "Carne de Mora",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 430
+            }
+        },
+        "315003": {
+            "Name": "Carne frita",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 900
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Bai": {
+        "316001": {
+            "Name": "Receta: Fideos con delicias de monta\u00f1a",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "316002": {
+            "Name": "Receta: Salteado de Chingts\u00e9",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "316003": {
+            "Name": "Tofu",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "316004": {
+            "Name": "Almendra",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "316005": {
+            "Name": "Flor de seda",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "316006": {
+            "Name": "Lirio de cristal",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "316007": {
+            "Name": "Receta: Guoba de Jueyun",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "316008": {
+            "Name": "Salteado de Chingts\u00e9",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 6150
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Kai": {
+        "317001": {
+            "Name": "Taz\u00f3n de t\u00e9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Linglang": {
+        "318001": {
+            "Name": "Frasco de Medicinas de la M\u00e9dica Itinerante",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318002": {
+            "Name": "Pluma del B\u00faho de la M\u00e9dica Itinerante",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318003": {
+            "Name": "Pa\u00f1uelo de la M\u00e9dica Itinerante",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318004": {
+            "Name": "Loto de Plata de la M\u00e9dica Itinerante",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318005": {
+            "Name": "Reloj de Bolsillo de la M\u00e9dica Itinerante",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_VerrGoldet": {
+        "319001": {
+            "Name": "Tofu de almendras",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1550
+            }
+        },
+        "319002": {
+            "Name": "Rollos de carne con matsutake",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1775
+            }
+        },
+        "319003": {
+            "Name": "Brocheta de champi\u00f1ones y pollo",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "319004": {
+            "Name": "Receta: Sopa de brotes de bamb\u00fa",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "319005": {
+            "Name": "Matsutake",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "319006": {
+            "Name": "Mantequilla",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 270
+            }
+        },
+        "319007": {
+            "Name": "Salchicha",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 840
+            }
+        },
+        "319008": {
+            "Name": "Flor de seda",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "319009": {
+            "Name": "Campanita de cristal",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "319010": {
+            "Name": "Pollo al chile Jueyun",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1925
+            }
+        },
+        "319011": {
+            "Name": "Fideos con delicias de monta\u00f1a",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 2150
+            }
+        },
+        "319012": {
+            "Name": "Receta: Abul\u00f3n vegetariano",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "319013": {
+            "Name": "Receta: Salteado de camarones",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhou": {
+        "320001": {
+            "Name": "Taz\u00f3n de t\u00e9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_TASK_Ekaterina": {
+        "321001": {
+            "Name": "Mora",
+            "Count": 1,
+            "Limit": 50000,
+            "Cost": {
+                "Un gran saco de Moras": 1
+            }
+        }
+    },
+    "SHOP_TYPE_TASK_Tartaglia": {
+        "322001": {
+            "Name": "Mora",
+            "Count": 1,
+            "Limit": 35000,
+            "Cost": {
+                "Bolsa de Moras de Nobile y Teucer": 1
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Harris": {
+        "323001": {
+            "Name": "Sopa vegetariana de r\u00e1bano",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 530
+            }
+        },
+        "323002": {
+            "Name": "Filete a la barbacoa",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 790
+            }
+        },
+        "323003": {
+            "Name": "Estofado de gemas",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1775
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Yinian": {
+        "1042001": {
+            "Name": "Pez tigre a la parrilla del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 20,
+            "Cost": {
+                "Mora": 380
+            }
+        },
+        "1042002": {
+            "Name": "Alb\u00f3ndigas de r\u00e1bano fritas del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 2025
+            }
+        },
+        "1042003": {
+            "Name": "Sopa de loto y huevo del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 1550
+            }
+        },
+        "1042004": {
+            "Name": "Estofado de gemas del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 1775
+            }
+        },
+        "1042005": {
+            "Name": "Fideos con delicias de monta\u00f1a del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 2150
+            }
+        },
+        "1042006": {
+            "Name": "\u00a1Ven por ello! del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 6225
+            }
+        },
+        "1042007": {
+            "Name": "Tiras de tres sabores del Rito de la Linterna",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 7050
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Changshun": {
+        "1045001": {
+            "Name": "Papa",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "1045002": {
+            "Name": "Az\u00facar",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "1045003": {
+            "Name": "Queso",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 420
+            }
+        },
+        "1045004": {
+            "Name": "Cor lapis",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "1045005": {
+            "Name": "Electrocristal",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Bolai": {
+        "1046001": {
+            "Name": "Manzana",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "1046002": {
+            "Name": "Solsettia",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 170
+            }
+        },
+        "1046003": {
+            "Name": "Pescado",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "1046004": {
+            "Name": "Caracola estelar",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_MasterLu": {
+        "1050001": {
+            "Name": "La carga del aventurero",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1050002": {
+            "Name": "Aventurero solitario y cauteloso",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1050003": {
+            "Name": "Conversaci\u00f3n entre madera y piedra",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        }
+    },
+    "SHOP_TYPE_PAIMON": {
+        "Purchase With Primogems": {
+            "102001": {
+                "Name": "Destino entrelazado",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Protogema": 160
+                }
+            },
+            "102002": {
+                "Name": "Encuentro del destino",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Protogema": 160
+                }
+            }
+        },
+        "Starglitter Exchange": {
+            "102003": {
+                "Name": "Destino entrelazado",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 5
+                }
+            },
+            "102004": {
+                "Name": "Encuentro del destino",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 5
+                }
+            },
+            "102005": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 34
+                }
+            },
+            "102006": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 34
+                }
+            },
+            "102007": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102008": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102009": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102010": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102011": {
+                "Name": "Error de datos del juego",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102013": {
+                "Name": "Cuerno con cristal negro",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102015": {
+                "Name": "Brotes de l\u00edneas ley",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102016": {
+                "Name": "Caldera del caos",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102017": {
+                "Name": "Estambre de hierba brumosa",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102018": {
+                "Name": "Daga larga del inspector",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102019": {
+                "Name": "Fragmento de hueso fosilizado",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102020": {
+                "Name": "Esencia de Slime",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102021": {
+                "Name": "M\u00e1scara amenazante",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102022": {
+                "Name": "Pergamino maldito",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102023": {
+                "Name": "Flecha veterana",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102024": {
+                "Name": "Insignia del oficial",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102025": {
+                "Name": "Insignia de cuervo dorada",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102026": {
+                "Name": "N\u00e9ctar energ\u00e9tico",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 2
+                }
+            },
+            "102027": {
+                "Name": "Razor",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 34
+                }
+            },
+            "102028": {
+                "Name": "Amber",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 34
+                }
+            },
+            "102029": {
+                "Name": "Espada Real Larga",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102030": {
+                "Name": "Gran Espada Real",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102031": {
+                "Name": "Lanza del Pe\u00f1asco Oscuro",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102032": {
+                "Name": "Grimorio Real",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            },
+            "102033": {
+                "Name": "Arco Real",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Brillo estelar sin due\u00f1o": 24
+                }
+            }
+        },
+        "Stardust Exchange": {
+            "102501": {
+                "Name": "Destino entrelazado",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 75
+                }
+            },
+            "102502": {
+                "Name": "Encuentro del destino",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 75
+                }
+            },
+            "102503": {
+                "Name": "Experiencia del aventurero",
+                "Count": 3,
+                "Limit": 100,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 8
+                }
+            },
+            "102504": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102505": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 10
+                }
+            },
+            "102506": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": "Null",
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 20
+                }
+            },
+            "102507": {
+                "Name": "Cuerno de bronce negro",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 15
+                }
+            },
+            "102509": {
+                "Name": "Hojas secas de l\u00edneas ley",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 15
+                }
+            },
+            "102510": {
+                "Name": "Circuito del caos",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 15
+                }
+            },
+            "102511": {
+                "Name": "Hierba brumosa",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 15
+                }
+            },
+            "102512": {
+                "Name": "Daga del agente",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 15
+                }
+            },
+            "102513": {
+                "Name": "Fragmento de hueso s\u00f3lido",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 15
+                }
+            },
+            "102514": {
+                "Name": "Babas de Slime",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102515": {
+                "Name": "M\u00e1scara sucia",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102516": {
+                "Name": "Pergamino hechizado",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102517": {
+                "Name": "Flecha afilada",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102518": {
+                "Name": "Insignia del sargento",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102519": {
+                "Name": "Insignia de cuervo plateada",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102520": {
+                "Name": "N\u00e9ctar brillante",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102521": {
+                "Name": "Cuerno pesado",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102523": {
+                "Name": "Rama seca de l\u00edneas ley",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102524": {
+                "Name": "Dispositivo del caos",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102525": {
+                "Name": "Polen de neblina",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102526": {
+                "Name": "Daga de cacer\u00eda",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102527": {
+                "Name": "Fragmento de hueso fr\u00e1gil",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102528": {
+                "Name": "Condensado de Slime",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102529": {
+                "Name": "M\u00e1scara da\u00f1ada",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102530": {
+                "Name": "Pergamino gu\u00eda",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102531": {
+                "Name": "Flecha robusta",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102532": {
+                "Name": "Insignia del recluta",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102533": {
+                "Name": "Insignia de cuervo de bronce",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102534": {
+                "Name": "N\u00e9ctar de Megaflora",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            },
+            "102535": {
+                "Name": "Polvo de azoth",
+                "Count": 10,
+                "Limit": 100,
+                "Cost": {
+                    "Polvo estelar sin due\u00f1o": 5
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_PACKAGE": {
+        "103010": {
+            "Name": "Paquete de suministros de principiante",
+            "Count": 1,
+            "Limit": 1
+        },
+        "103011": {
+            "Name": "Paquete de suministros de viaje",
+            "Count": 1,
+            "Limit": 1
+        },
+        "103012": {
+            "Name": "Paquete de apoyo al aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103013": {
+            "Name": "Paquete de minerales del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103014": {
+            "Name": "Paquete especial de apoyo al aventurero",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103018": {
+            "Name": "Paquete de refuerzo del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103019": {
+            "Name": "Paquete instructivo del aventurero",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103020": {
+            "Name": "Paquete de refuerzo del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103021": {
+            "Name": "Paquete instructivo del aventurero",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103022": {
+            "Name": "Paquete gigante de minerales del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103023": {
+            "Name": "Paquete instructivo del aventurero",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103024": {
+            "Name": "Paquete gigante de minerales del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103025": {
+            "Name": "Paquete especial de suministros del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103026": {
+            "Name": "Paquete instructivo del aventurero",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103027": {
+            "Name": "Paquete gigante de minerales del aventurero",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103028": {
+            "Name": "Paquete instructivo del aventurero",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103029": {
+            "Name": "Paquete gigante de minerales del aventurero",
+            "Count": 1,
+            "Limit": 5
+        }
+    },
+    "1052": {
+        "106001": {
+            "Name": "Sue\u00f1o de la brisa marina",
+            "Count": 1,
+            "Limit": 1
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_ASTER": {
+        "0": {
+            "1002001": {
+                "Name": "Fragmento de \u00e1gata agnidus",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 12
+                }
+            },
+            "1002002": {
+                "Name": "Fragmento de lazurita varunada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 12
+                }
+            },
+            "1002003": {
+                "Name": "Fragmento de amatista vajrada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 12
+                }
+            },
+            "1002004": {
+                "Name": "Fragmento de turquesa vayuda",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 12
+                }
+            },
+            "1002005": {
+                "Name": "Fragmento de jade shivada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 12
+                }
+            },
+            "1002006": {
+                "Name": "Fragmento de topacio prithiva",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 12
+                }
+            },
+            "1002007": {
+                "Name": "Experiencia del aventurero",
+                "Count": 1,
+                "Limit": 150,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 1
+                }
+            },
+            "1002008": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 150,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 4
+                }
+            },
+            "1002009": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 250,
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 4
+                }
+            },
+            "1002010": {
+                "Name": "Mora",
+                "Count": 500,
+                "Limit": "Null",
+                "Cost": {
+                    "Energ\u00eda c\u00f3smica": 1
+                }
+            }
+        },
+        "1": {
+            "1002011": {
+                "Name": "Gu\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Esencia c\u00f3smica": 4
+                }
+            },
+            "1002012": {
+                "Name": "Filosof\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Esencia c\u00f3smica": 12
+                }
+            },
+            "1002013": {
+                "Name": "Gu\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Esencia c\u00f3smica": 4
+                }
+            },
+            "1002014": {
+                "Name": "Filosof\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Esencia c\u00f3smica": 12
+                }
+            },
+            "1002015": {
+                "Name": "Gu\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Esencia c\u00f3smica": 4
+                }
+            },
+            "1002016": {
+                "Name": "Filosof\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Esencia c\u00f3smica": 12
+                }
+            },
+            "1002017": {
+                "Name": "Gu\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Esencia c\u00f3smica": 4
+                }
+            },
+            "1002018": {
+                "Name": "Filosof\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Esencia c\u00f3smica": 12
+                }
+            },
+            "1002019": {
+                "Name": "Gu\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Esencia c\u00f3smica": 4
+                }
+            },
+            "1002020": {
+                "Name": "Filosof\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Esencia c\u00f3smica": 12
+                }
+            },
+            "1002021": {
+                "Name": "Gu\u00eda del oro",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Esencia c\u00f3smica": 4
+                }
+            },
+            "1002022": {
+                "Name": "Filosof\u00eda del oro",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Esencia c\u00f3smica": 12
+                }
+            },
+            "1002023": {
+                "Name": "Corona de la sabidur\u00eda",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Esencia c\u00f3smica": 110
+                }
+            },
+            "1002024": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 100,
+                "Cost": {
+                    "Esencia c\u00f3smica": 1
+                }
+            },
+            "1002025": {
+                "Name": "Mineral de refinamiento fino",
+                "Count": 3,
+                "Limit": "Null",
+                "Cost": {
+                    "Esencia c\u00f3smica": 2
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_DRAGON_SPINE": {
+        "0": {
+            "1004101": {
+                "Name": "M\u00e9dula ponzo\u00f1osa",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Esencia brillante": 600
+                }
+            },
+            "1004102": {
+                "Name": "Cadena de Diente de Le\u00f3n",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Esencia brillante": 25
+                }
+            },
+            "1004103": {
+                "Name": "Escombro de la ciudad de Decarabian",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Esencia brillante": 25
+                }
+            },
+            "1004104": {
+                "Name": "Diente roto de lobo boreal",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Esencia brillante": 25
+                }
+            },
+            "1004105": {
+                "Name": "Piedra reluciente de Guyun",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Esencia brillante": 25
+                }
+            },
+            "1004106": {
+                "Name": "Perdigones de mercurio",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Esencia brillante": 25
+                }
+            },
+            "1004107": {
+                "Name": "L\u00e1mina de siderita oscura",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Esencia brillante": 25
+                }
+            },
+            "1004108": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Esencia brillante": 20
+                }
+            },
+            "1004109": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "Esencia brillante": 10
+                }
+            },
+            "1004110": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Esencia brillante": 20
+                }
+            }
+        },
+        "1": {
+            "1004201": {
+                "Name": "M\u00e9dula ponzo\u00f1osa",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Esencia c\u00e1lida": 600
+                }
+            },
+            "1004202": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Esencia c\u00e1lida": 20
+                }
+            },
+            "1004203": {
+                "Name": "Experiencia del aventurero",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Esencia c\u00e1lida": 5
+                }
+            },
+            "1004204": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 120,
+                "Cost": {
+                    "Esencia c\u00e1lida": 10
+                }
+            },
+            "1004205": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Esencia c\u00e1lida": 20
+                }
+            }
+        },
+        "2": {
+            "1004301": {
+                "Name": "M\u00e9dula ponzo\u00f1osa",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Esencia milagrosa": 400
+                }
+            },
+            "1004302": {
+                "Name": "Corona de la sabidur\u00eda",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Esencia milagrosa": 600
+                }
+            },
+            "1004303": {
+                "Name": "Gu\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Esencia milagrosa": 20
+                }
+            },
+            "1004304": {
+                "Name": "Gu\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Esencia milagrosa": 20
+                }
+            },
+            "1004305": {
+                "Name": "Gu\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Esencia milagrosa": 20
+                }
+            },
+            "1004306": {
+                "Name": "Gu\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Esencia milagrosa": 20
+                }
+            },
+            "1004307": {
+                "Name": "Gu\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Esencia milagrosa": 20
+                }
+            },
+            "1004308": {
+                "Name": "Gu\u00eda del oro",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Esencia milagrosa": 20
+                }
+            },
+            "1004309": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Esencia milagrosa": 12
+                }
+            },
+            "1004310": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Esencia milagrosa": 12
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_TREASURE_MAP": {
+        "1003101": {
+            "Name": "Protogema",
+            "Count": 100,
+            "Limit": 3,
+            "Cost": {
+                "Tael": 80
+            }
+        },
+        "1003102": {
+            "Name": "Ingenio del h\u00e9roe",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Tael": 8
+            }
+        },
+        "1003103": {
+            "Name": "Mineral de refinamiento m\u00edstico",
+            "Count": 1,
+            "Limit": 20,
+            "Cost": {
+                "Tael": 4
+            }
+        },
+        "1003104": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 20,
+            "Cost": {
+                "Tael": 8
+            }
+        },
+        "1003106": {
+            "Name": "Miniseelie roc\u00edo",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Tael": 280
+            }
+        },
+        "1003107": {
+            "Name": "Miniseelie rubor",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Tael": 280
+            }
+        },
+        "1003108": {
+            "Name": "Miniseelie c\u00farcuma",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Tael": 280
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_SEA_LAMP": {
+        "0": {
+            "1005101": {
+                "Name": "Fragmento de \u00e1gata agnidus",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 60
+                }
+            },
+            "1005102": {
+                "Name": "Fragmento de lazurita varunada",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 60
+                }
+            },
+            "1005103": {
+                "Name": "Fragmento de amatista vajrada",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 60
+                }
+            },
+            "1005104": {
+                "Name": "Fragmento de turquesa vayuda",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 60
+                }
+            },
+            "1005105": {
+                "Name": "Fragmento de jade shivada",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 60
+                }
+            },
+            "1005106": {
+                "Name": "Fragmento de topacio prithiva",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 60
+                }
+            },
+            "1005107": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 20
+                }
+            },
+            "1005108": {
+                "Name": "Polvo de azoth",
+                "Count": 10,
+                "Limit": 20,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 10
+                }
+            },
+            "1005109": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 20,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 20
+                }
+            }
+        },
+        "1": {
+            "1005201": {
+                "Name": "Corona de la sabidur\u00eda",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 1000
+                }
+            },
+            "1005202": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 20
+                }
+            },
+            "1005203": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 30,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 10
+                }
+            },
+            "1005204": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 40,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 20
+                }
+            }
+        },
+        "2": {
+            "1005301": {
+                "Name": "Celebraci\u00f3n - Luces diurnas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 1000
+                }
+            },
+            "1005302": {
+                "Name": "Filosof\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 120
+                }
+            },
+            "1005303": {
+                "Name": "Gu\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 40
+                }
+            },
+            "1005304": {
+                "Name": "Filosof\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 120
+                }
+            },
+            "1005305": {
+                "Name": "Gu\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 40
+                }
+            },
+            "1005306": {
+                "Name": "Filosof\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 120
+                }
+            },
+            "1005307": {
+                "Name": "Gu\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 40
+                }
+            },
+            "1005308": {
+                "Name": "Filosof\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 120
+                }
+            },
+            "1005309": {
+                "Name": "Gu\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 40
+                }
+            },
+            "1005310": {
+                "Name": "Filosof\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 120
+                }
+            },
+            "1005311": {
+                "Name": "Gu\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 40
+                }
+            },
+            "1005312": {
+                "Name": "Filosof\u00eda del oro",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 120
+                }
+            },
+            "1005313": {
+                "Name": "Gu\u00eda del oro",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Talism\u00e1n de la paz": 40
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_FLEUR_FAIR": {
+        "0": {
+            "1044101": {
+                "Name": "Corona de la sabidur\u00eda",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Cup\u00f3n del festival": 400
+                }
+            },
+            "1044102": {
+                "Name": "Gu\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n del festival": 20
+                }
+            },
+            "1044103": {
+                "Name": "Filosof\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Cup\u00f3n del festival": 60
+                }
+            },
+            "1044104": {
+                "Name": "Gu\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n del festival": 20
+                }
+            },
+            "1044105": {
+                "Name": "Filosof\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Cup\u00f3n del festival": 60
+                }
+            },
+            "1044106": {
+                "Name": "Gu\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n del festival": 20
+                }
+            },
+            "1044107": {
+                "Name": "Filosof\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Cup\u00f3n del festival": 60
+                }
+            },
+            "1044108": {
+                "Name": "Gu\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n del festival": 20
+                }
+            },
+            "1044109": {
+                "Name": "Filosof\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Cup\u00f3n del festival": 60
+                }
+            },
+            "1044110": {
+                "Name": "Gu\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n del festival": 20
+                }
+            },
+            "1044111": {
+                "Name": "Filosof\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Cup\u00f3n del festival": 60
+                }
+            },
+            "1044112": {
+                "Name": "Gu\u00eda del oro",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n del festival": 20
+                }
+            },
+            "1044113": {
+                "Name": "Filosof\u00eda del oro",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Cup\u00f3n del festival": 60
+                }
+            },
+            "1044114": {
+                "Name": "Globo conmemorativo del festival",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Cup\u00f3n del festival": 280
+                }
+            },
+            "1044115": {
+                "Name": "Lira de la brisa",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Cup\u00f3n del festival": 280
+                }
+            }
+        },
+        "1": {
+            "1044201": {
+                "Name": "Oda a las Flores de Viento",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 700
+                }
+            },
+            "1044202": {
+                "Name": "Viento visible",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 500
+                }
+            },
+            "1044203": {
+                "Name": "Cadena de Diente de Le\u00f3n",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 15
+                }
+            },
+            "1044204": {
+                "Name": "Escombro de la ciudad de Decarabian",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 15
+                }
+            },
+            "1044205": {
+                "Name": "Diente roto de lobo boreal",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 15
+                }
+            },
+            "1044206": {
+                "Name": "Piedra reluciente de Guyun",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 15
+                }
+            },
+            "1044207": {
+                "Name": "Perdigones de mercurio",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 15
+                }
+            },
+            "1044208": {
+                "Name": "L\u00e1mina de siderita oscura",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 15
+                }
+            },
+            "1044209": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 30,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 10
+                }
+            },
+            "1044210": {
+                "Name": "Polvo de azoth",
+                "Count": 6,
+                "Limit": 20,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 3
+                }
+            },
+            "1044211": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 5
+                }
+            },
+            "1044212": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Cup\u00f3n peculiar": 10
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB": {
+        "15001101": {
+            "Name": "Protogema",
+            "Count": 60,
+            "Limit": 5,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001102": {
+            "Name": "Corona de la sabidur\u00eda",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Datos del fruto": 1000
+            }
+        },
+        "15001103": {
+            "Name": "Gu\u00eda de la libertad",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 40
+            }
+        },
+        "15001104": {
+            "Name": "Filosof\u00eda de la libertad",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001105": {
+            "Name": "Gu\u00eda de la resistencia",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 40
+            }
+        },
+        "15001106": {
+            "Name": "Filosof\u00eda de la resistencia",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001107": {
+            "Name": "Gu\u00eda de la poes\u00eda",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 40
+            }
+        },
+        "15001108": {
+            "Name": "Filosof\u00eda de la poes\u00eda",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001109": {
+            "Name": "Gu\u00eda de la prosperidad",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 40
+            }
+        },
+        "15001110": {
+            "Name": "Filosof\u00eda de la prosperidad",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001111": {
+            "Name": "Gu\u00eda del esfuerzo",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 40
+            }
+        },
+        "15001112": {
+            "Name": "Filosof\u00eda del esfuerzo",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001113": {
+            "Name": "Gu\u00eda del oro",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 40
+            }
+        },
+        "15001114": {
+            "Name": "Filosof\u00eda del oro",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Datos del fruto": 120
+            }
+        },
+        "15001115": {
+            "Name": "Fragmento de \u00e1gata agnidus",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 60
+            }
+        },
+        "15001116": {
+            "Name": "Fragmento de lazurita varunada",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 60
+            }
+        },
+        "15001117": {
+            "Name": "Fragmento de amatista vajrada",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 60
+            }
+        },
+        "15001118": {
+            "Name": "Fragmento de turquesa vayuda",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 60
+            }
+        },
+        "15001119": {
+            "Name": "Fragmento de jade shivada",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 60
+            }
+        },
+        "15001120": {
+            "Name": "Fragmento de topacio prithiva",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Datos del fruto": 60
+            }
+        },
+        "15001121": {
+            "Name": "Ingenio del h\u00e9roe",
+            "Count": 1,
+            "Limit": 30,
+            "Cost": {
+                "Datos del fruto": 20
+            }
+        },
+        "15001122": {
+            "Name": "Mineral de refinamiento m\u00edstico",
+            "Count": 1,
+            "Limit": 75,
+            "Cost": {
+                "Datos del fruto": 10
+            }
+        },
+        "15001123": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 50,
+            "Cost": {
+                "Datos del fruto": 20
+            }
+        },
+        "15001124": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 50,
+            "Cost": {
+                "Datos del fruto": 30
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_SUMMER_TIME": {
+        "0": {
+            "16001101": {
+                "Name": "Corona de la sabidur\u00eda",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Caracola a la deriva": 500
+                }
+            },
+            "16001102": {
+                "Name": "Cofre de prototipos del Norte",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Caracola a la deriva": 500
+                }
+            },
+            "16001103": {
+                "Name": "Gu\u00eda estival en el bosque",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Caracola a la deriva": 100
+                }
+            },
+            "16001104": {
+                "Name": "Correo estival en el bosque",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Caracola a la deriva": 100
+                }
+            },
+            "16001105": {
+                "Name": "Verano esplendoroso",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Caracola a la deriva": 200
+                }
+            },
+            "16001106": {
+                "Name": "Filosof\u00eda de la libertad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Caracola a la deriva": 50
+                }
+            },
+            "16001107": {
+                "Name": "Filosof\u00eda de la resistencia",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Caracola a la deriva": 50
+                }
+            },
+            "16001108": {
+                "Name": "Filosof\u00eda de la poes\u00eda",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Caracola a la deriva": 50
+                }
+            },
+            "16001109": {
+                "Name": "Filosof\u00eda de la prosperidad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Caracola a la deriva": 50
+                }
+            },
+            "16001110": {
+                "Name": "Filosof\u00eda del esfuerzo",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Caracola a la deriva": 50
+                }
+            },
+            "16001111": {
+                "Name": "Filosof\u00eda del oro",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Caracola a la deriva": 50
+                }
+            }
+        },
+        "1": {
+            "16001201": {
+                "Name": "Cuentos de Dodoco",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Miniharpastum": 800
+                }
+            },
+            "16001202": {
+                "Name": "Retazos de inocencia",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Miniharpastum": 500
+                }
+            },
+            "16001203": {
+                "Name": "Saludo emplumado",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Miniharpastum": 200
+                }
+            },
+            "16001204": {
+                "Name": "Monedas del oc\u00e9ano",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Miniharpastum": 200
+                }
+            },
+            "16001205": {
+                "Name": "El repertorio de la bruja",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Miniharpastum": 200
+                }
+            },
+            "16001206": {
+                "Name": "Cadena de Diente de Le\u00f3n",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            },
+            "16001207": {
+                "Name": "Escombro de la ciudad de Decarabian",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            },
+            "16001208": {
+                "Name": "Diente roto de lobo boreal",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            },
+            "16001209": {
+                "Name": "Piedra reluciente de Guyun",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            },
+            "16001210": {
+                "Name": "Perdigones de mercurio",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            },
+            "16001211": {
+                "Name": "L\u00e1mina de siderita oscura",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            },
+            "16001212": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 100,
+                "Cost": {
+                    "Miniharpastum": 5
+                }
+            },
+            "16001213": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 24,
+                "Cost": {
+                    "Miniharpastum": 10
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING": {
+        "16002001": {
+            "Name": "Protogema",
+            "Count": 60,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 200
+            }
+        },
+        "16002002": {
+            "Name": "Celebraci\u00f3n - Bombabum",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Engranaje misterioso": 1500
+            }
+        },
+        "16002003": {
+            "Name": "Gu\u00eda de la libertad",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 50
+            }
+        },
+        "16002004": {
+            "Name": "Gu\u00eda de la resistencia",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 50
+            }
+        },
+        "16002005": {
+            "Name": "Gu\u00eda de la poes\u00eda",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 50
+            }
+        },
+        "16002006": {
+            "Name": "Gu\u00eda de la prosperidad",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 50
+            }
+        },
+        "16002007": {
+            "Name": "Gu\u00eda del esfuerzo",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 50
+            }
+        },
+        "16002008": {
+            "Name": "Gu\u00eda del oro",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Engranaje misterioso": 50
+            }
+        },
+        "16002009": {
+            "Name": "Ingenio del h\u00e9roe",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Engranaje misterioso": 25
+            }
+        },
+        "16002010": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 16,
+            "Cost": {
+                "Engranaje misterioso": 25
+            }
+        }
+    },
+    "SHOP_TYPE_HOME": {
+        "1": {
+            "213101": {
+                "Name": "Tela",
+                "Count": 5,
+                "Limit": 50,
+                "Cost": {
+                    "Intramora": 10
+                }
+            },
+            "213102": {
+                "Name": "Resina ef\u00edmera",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 1200
+                }
+            },
+            "213103": {
+                "Name": "Ingenio del h\u00e9roe",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Intramora": 120
+                }
+            },
+            "213104": {
+                "Name": "Mineral de refinamiento m\u00edstico",
+                "Count": 1,
+                "Limit": 40,
+                "Cost": {
+                    "Intramora": 60
+                }
+            },
+            "213105": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 20,
+                "Cost": {
+                    "Intramora": 120
+                }
+            },
+            "213106": {
+                "Name": "Esencia bendita",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Intramora": 360
+                }
+            },
+            "213107": {
+                "Name": "Ung\u00fcento bendito",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Intramora": 90
+                }
+            }
+        },
+        "2": {
+            "213201": {
+                "Name": "Frasco de velocidad ad\u00e9ptica",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Intramora": 10
+                }
+            },
+            "213202": {
+                "Name": "Alacena de cedro fragante",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 60
+                }
+            },
+            "213203": {
+                "Name": "Arbusto con flores",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213204": {
+                "Name": "Arbusto corriente",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213205": {
+                "Name": "Hojas del camuflaje",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213206": {
+                "Name": "Fuente esmeralda",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213207": {
+                "Name": "\u00c1rbol de la calidez",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213208": {
+                "Name": "Percha del cristal\u00f3ptero",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213209": {
+                "Name": "Hojas fragantes del sur",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213210": {
+                "Name": "Arbusto emplumado",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213211": {
+                "Name": "Color del viento",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213212": {
+                "Name": "Cocotero gancho plateado",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213213": {
+                "Name": "Cocotero de arena blanca",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213214": {
+                "Name": "Arce rojo de Tianheng: Hojas escarlata",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213215": {
+                "Name": "\u00c1rbol nudoso retorcido",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213216": {
+                "Name": "Avellano con hojas amarillas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213217": {
+                "Name": "Rocaoculta",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213218": {
+                "Name": "Rocaserena",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213219": {
+                "Name": "Roca imperial",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213220": {
+                "Name": "Roca cenicienta",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213221": {
+                "Name": "Roca del sastre",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213222": {
+                "Name": "Roca de musgo moteada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213223": {
+                "Name": "Estratorroca",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213224": {
+                "Name": "Roca de caminos",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213225": {
+                "Name": "Roca asombrosamente normal",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213226": {
+                "Name": "Liquid\u00e1mbar adulto",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213227": {
+                "Name": "Liquid\u00e1mbar joven",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213228": {
+                "Name": "Abedul alto",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213229": {
+                "Name": "Abedul joven",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213230": {
+                "Name": "\u00c1rbol nudoso de hojas doradas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213231": {
+                "Name": "\u00c1rbol nudoso de hojas verdes",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213232": {
+                "Name": "\u00c1rbol nudoso de hojas amarillas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213233": {
+                "Name": "\u00c1rbol espada de hojas amarillas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213234": {
+                "Name": "\u00c1rbol espada de hojas doradas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213235": {
+                "Name": "\u00c1rbol espada de hojas verdes",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213236": {
+                "Name": "Bamb\u00fa garza de Chingts\u00e9",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213237": {
+                "Name": "Bamb\u00fa de las nubes de Chingts\u00e9",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213238": {
+                "Name": "Bamb\u00fa de jade helado de Chingts\u00e9",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213239": {
+                "Name": "Paisaje verdoso",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213240": {
+                "Name": "Paisaje amarillento",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213241": {
+                "Name": "Paisaje oto\u00f1al",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213242": {
+                "Name": "Roca brilloluna",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213243": {
+                "Name": "Roca arrebol",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213244": {
+                "Name": "Roca chamuscada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213245": {
+                "Name": "Roca del repiqueteo dorado",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213246": {
+                "Name": "Protorroca dorada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213247": {
+                "Name": "Roca del solsticio de verano",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213248": {
+                "Name": "Rocas en formaci\u00f3n",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213249": {
+                "Name": "Roca pu\u00f1ofr\u00e1gil",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213250": {
+                "Name": "Roca umbral de la Sima",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213251": {
+                "Name": "Roca sedienta",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213252": {
+                "Name": "\u00c1rbol del tesoro de hojas doradas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213253": {
+                "Name": "\u00c1rbol del tesoro de papel",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213254": {
+                "Name": "\u00c1rbol del tesoro podrido",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213255": {
+                "Name": "\u00c1rbol del tesoro de hojas verdes",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213256": {
+                "Name": "\u00c1rbol del humo exuberante",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213257": {
+                "Name": "\u00c1rbol del humo frondoso",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213258": {
+                "Name": "Cinabarita exuberante",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213259": {
+                "Name": "Cinabarita frondosa",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213260": {
+                "Name": "Planta alas de mariposa exuberante",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213261": {
+                "Name": "Planta alas de mariposa frondosa",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213262": {
+                "Name": "Planta cascada",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213263": {
+                "Name": "Planta de brotes verdes",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213264": {
+                "Name": "Planta parasol viridiana",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213265": {
+                "Name": "Matorrales gemelos de brotes verdes",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213266": {
+                "Name": "Jazm\u00edn gemelo",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 40
+                }
+            },
+            "213267": {
+                "Name": "Arbusto c\u00f3modo verdoso",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213268": {
+                "Name": "Arbusto del cazador sigiloso",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213269": {
+                "Name": "Arbusto protector de presas",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213270": {
+                "Name": "Planta del fest\u00edn",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213271": {
+                "Name": "Planta camarera",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213272": {
+                "Name": "\u00c1mbar del Adeptus: Una vista impresionante",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 120
+                }
+            },
+            "213273": {
+                "Name": "\u00c1mbar del Adeptus: Cuidado, intrusos",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Intramora": 120
+                }
+            }
+        },
+        "3": {
+            "213601": {
+                "Name": "Mesa redonda de pino para varios comensales",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213602": {
+                "Name": "Letrero de restaurante de madera",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213603": {
+                "Name": "Silla de comedor de pino",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213606": {
+                "Name": "Espada ligera desgastada",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213607": {
+                "Name": "Tabl\u00f3n de registro colgado",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213609": {
+                "Name": "Caba\u00f1a de paja",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213610": {
+                "Name": "Puesto de paja",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213611": {
+                "Name": "Cobertizo de paja",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213612": {
+                "Name": "Armario de pino sin puertas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213613": {
+                "Name": "Mesa larga de pino",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213614": {
+                "Name": "Estanter\u00eda de abeto",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213615": {
+                "Name": "Estanter\u00eda para armas de abeto",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213616": {
+                "Name": "Cajas de abeto desordenadas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213617": {
+                "Name": "Barriles de abeto ordenados",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213618": {
+                "Name": "Carro de mercanc\u00edas sencillo",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213619": {
+                "Name": "Fardo de heno pesado",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213620": {
+                "Name": "Saco de almacenamiento: A prueba de plagas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213621": {
+                "Name": "Pozo antiguo",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213622": {
+                "Name": "Valla de bamb\u00fa desgastada",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213623": {
+                "Name": "Banco liso de madera",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213624": {
+                "Name": "Banco liso de piedra",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213625": {
+                "Name": "Pared de madera con alero de jade",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213626": {
+                "Name": "Arco mural de madera oscura",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213627": {
+                "Name": "Suelo tradicional de cedro fragante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213628": {
+                "Name": "Baldosa de colores ajedrezada",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213629": {
+                "Name": "Techo ajedrezado de cedro fragante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213630": {
+                "Name": "Techo oscuro ajedrezado",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213631": {
+                "Name": "L\u00e1mpara de velas con dos pisos",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213632": {
+                "Name": "Linterna octogonal: D\u00eda de suerte",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213633": {
+                "Name": "Linterna hexagonal: Amabilidad y armon\u00eda",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213634": {
+                "Name": "Fiesta de las calabazas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213635": {
+                "Name": "Mesa de oficina de los Caballeros de Favonius",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213636": {
+                "Name": "Mesa de reuniones de los Caballeros de Favonius",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213637": {
+                "Name": "Mesa larga con mantel en forma de rombo",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213638": {
+                "Name": "Mesa roja redonda de cedro fragante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213639": {
+                "Name": "Chimenea de piedra del norte",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213640": {
+                "Name": "Tarde de cielo azul",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213641": {
+                "Name": "Determinaci\u00f3n inquebrantable",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213642": {
+                "Name": "Taburete rojo redondo de pino",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213644": {
+                "Name": "L\u00e1mpara port\u00e1til inapagable",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213645": {
+                "Name": "Tocador resistente de abedul",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213646": {
+                "Name": "Alfombra de Mondstadt: Ardor carmes\u00ed",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213647": {
+                "Name": "Alfombra de Mondstadt: B\u00fasqueda incansable",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213648": {
+                "Name": "Estandarte de batalla",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213649": {
+                "Name": "Estandarte de esp\u00edritu puro",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213650": {
+                "Name": "Pila ordenada de libros",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213651": {
+                "Name": "El cansancio del erudito",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213652": {
+                "Name": "Protocolo de la correspondencia",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213653": {
+                "Name": "Adorno de reloj de arena exquisito",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213654": {
+                "Name": "Arreglo floral: Tranquilidad celeste",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213655": {
+                "Name": "Maceta: Brisa cristalina",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213656": {
+                "Name": "Maceta de flores: Fachada perfumada",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213657": {
+                "Name": "Equipamiento para alquimia: Entre el agua y el fuego",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213658": {
+                "Name": "Componente para alquimia: El peso del polvo",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213659": {
+                "Name": "Maceta: Copa verde",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213660": {
+                "Name": "Candelabro dorado de tres brazos",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213661": {
+                "Name": "Cama baja suave como la brisa",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213662": {
+                "Name": "Cama sue\u00f1os de nubes",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213663": {
+                "Name": "Ropero grande de abedul",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213664": {
+                "Name": "Mesita de noche con dos cajones de abedul",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213665": {
+                "Name": "Mesita de noche de avellano con motivos dorados",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213666": {
+                "Name": "Ropero de avellano con motivos dorados",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213667": {
+                "Name": "L\u00e1mpara caracola",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213668": {
+                "Name": "Puesto de ventas pr\u00f3spero",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213669": {
+                "Name": "Puesto de fruta a precio de ganga",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213670": {
+                "Name": "Sala de hornos abierta",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213671": {
+                "Name": "Carro de fruta con muchos productos",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213672": {
+                "Name": "Casa rural con buhardilla",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213673": {
+                "Name": "Puerta comercial de piedra (norte)",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213674": {
+                "Name": "Cobertizo para frutas y verduras",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213675": {
+                "Name": "Casa de Liyue: Retiro solitario",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213676": {
+                "Name": "Mesa de forja pesada de abeto",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213677": {
+                "Name": "Molino de piedra grande",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213678": {
+                "Name": "Estanter\u00eda para armas de madera noble",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213679": {
+                "Name": "Pozo de piedra resistente",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213680": {
+                "Name": "Jarra de vino con cesta de bamb\u00fa: Esperando a la luna",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213681": {
+                "Name": "Maceta: Verdor abundante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213682": {
+                "Name": "Puesto de frutas y verduras: Cosecha abundante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213683": {
+                "Name": "Mostrador de tienda de vinos: Mil copas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213684": {
+                "Name": "Pal\u00e9 de dos niveles resistente a las olas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213685": {
+                "Name": "Espantap\u00e1jaros con ropa roja y sombrero",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213686": {
+                "Name": "Precauci\u00f3n del vendedor de fruta y verdura",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213687": {
+                "Name": "Cansancio del vendedor de fruta y verdura",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213688": {
+                "Name": "Valla de madera de Hilichurls",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213689": {
+                "Name": "Valla con t\u00f3tem de Hilichurls",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213690": {
+                "Name": "Diana para tiro con arco de Hilichurls",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213691": {
+                "Name": "Caldero con cuernos de Hilichurls",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213692": {
+                "Name": "Mesa de t\u00e9 de bamb\u00fa exterior",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213693": {
+                "Name": "Macizo floral con dep\u00f3sito de agua",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213694": {
+                "Name": "Vid exuberante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213695": {
+                "Name": "Farola de hierro con adornos",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213696": {
+                "Name": "Linterna repeledemonios: Luz por todas partes",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213697": {
+                "Name": "Linterna de cuatro lados: Amistades lejanas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213698": {
+                "Name": "L\u00e1mpara de sombras: Trazos y pinceladas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213699": {
+                "Name": "Sof\u00e1 c\u00f3modo para sala de estar",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213700": {
+                "Name": "Estanter\u00eda econ\u00f3mica de liquid\u00e1mbar",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213701": {
+                "Name": "Tesoro del archivero",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213702": {
+                "Name": "Puerta principal de patio de abedul",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213703": {
+                "Name": "Extremo de valla de patio con adornos",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213704": {
+                "Name": "Valla perimetral con adornos",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213705": {
+                "Name": "Ala de mansi\u00f3n: Alba y ocaso",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213706": {
+                "Name": "Pabell\u00f3n: Contemplaci\u00f3n de estrellas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213707": {
+                "Name": "Corredor decorado: Paseo silvano",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213708": {
+                "Name": "Muro de patio: Primavera y oto\u00f1o",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213709": {
+                "Name": "Esquina de muro: Recoveco fragante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213710": {
+                "Name": "Muro de patio: Joyas alineadas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213711": {
+                "Name": "Muro de patio: Paz en el camino",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213712": {
+                "Name": "Entrada principal: Acceso a las nubes",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213713": {
+                "Name": "Muro decorado: Sauces y flores",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213714": {
+                "Name": "Cubo de madera resistente",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213715": {
+                "Name": "Cubo para transportar tierra",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213716": {
+                "Name": "Vid joven",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213717": {
+                "Name": "Valla simple de madera",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213718": {
+                "Name": "Valla a medio terminar",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213719": {
+                "Name": "Pilar de madera",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213720": {
+                "Name": "Caseta de obra temporal",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213721": {
+                "Name": "Fardo de le\u00f1a",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 80
+                }
+            },
+            "213722": {
+                "Name": "Caja de madera de abeto resistente al agua",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213723": {
+                "Name": "Puesto de t\u00e9 rural",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213724": {
+                "Name": "Tesoro secreto del aventurero",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213725": {
+                "Name": "Estanque en forma de c\u00e1liz",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213726": {
+                "Name": "Juego de t\u00e9 de porcelana blanca: Autenticidad y calidad",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 160
+                }
+            },
+            "213727": {
+                "Name": "Contemplaci\u00f3n po\u00e9tica",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213728": {
+                "Name": "Viento susurrante",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213729": {
+                "Name": "Estudio Feiyun",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213730": {
+                "Name": "Pabell\u00f3n de los sue\u00f1os",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213731": {
+                "Name": "Instituto de las artes secretas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213732": {
+                "Name": "Le\u00f1a y ahumados",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213733": {
+                "Name": "Forja de espadas",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213734": {
+                "Name": "Villa buc\u00f3lica",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213735": {
+                "Name": "Parque con flores y p\u00e1jaros",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213736": {
+                "Name": "Delicias callejeras",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213737": {
+                "Name": "Prosperidad y bullicio",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213738": {
+                "Name": "Residencia entre nubes",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213739": {
+                "Name": "C\u00e1nticos de cazadores",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213740": {
+                "Name": "Viaje hacia las estrellas y el abismo",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            },
+            "213741": {
+                "Name": "Huerto del Amanecer",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Intramora": 240
+                }
+            }
+        }
+    }
+}

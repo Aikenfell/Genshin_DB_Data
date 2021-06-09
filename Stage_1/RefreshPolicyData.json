@@ -1,0 +1,95 @@
+{
+    "1": {
+        "Id": 1,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "86400"
+    },
+    "1000": {
+        "Id": 1000,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "43200"
+    },
+    "1001": {
+        "Id": 1001,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "43200"
+    },
+    "1002": {
+        "Id": 1002,
+        "Type": "REFRESH_DAILY",
+        "Time": "14400"
+    },
+    "1003": {
+        "Id": 1003,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "300"
+    },
+    "1004": {
+        "Id": 1004,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "1800"
+    },
+    "1100": {
+        "Id": 1100,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "300"
+    },
+    "99999": {
+        "Id": 99999,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "60"
+    },
+    "101000": {
+        "Id": 101000,
+        "Type": "REFRESH_DAILY",
+        "Time": "14400"
+    },
+    "800001": {
+        "Id": 800001,
+        "Type": "REFRESH_WEEKlY",
+        "Time": "14400;360000"
+    },
+    "999900": {
+        "Id": 999900,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "86400"
+    },
+    "999920": {
+        "Id": 999920,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "172800"
+    },
+    "999921": {
+        "Id": 999921,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "172800"
+    },
+    "999930": {
+        "Id": 999930,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "86400"
+    },
+    "999931": {
+        "Id": 999931,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "172800"
+    },
+    "999932": {
+        "Id": 999932,
+        "Type": "REFRESH_INTERVAL",
+        "Time": "259200"
+    },
+    "999933": {
+        "Id": 999933,
+        "Type": "REFRESH_WEEKlY",
+        "Time": "100800"
+    },
+    "999998": {
+        "Id": 999998,
+        "Time": ""
+    },
+    "999999": {
+        "Id": 999999,
+        "Time": ""
+    }
+}

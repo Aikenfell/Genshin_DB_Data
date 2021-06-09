@@ -1,0 +1,14 @@
+{
+    "1": {
+        "IndexId": 1,
+        "Level": 50,
+        "FreeRewardIdList": [
+            1001050
+        ],
+        "PaidRewardIdList": [
+            1001150,
+            1010150
+        ],
+        "ShowUp": true
+    }
+}

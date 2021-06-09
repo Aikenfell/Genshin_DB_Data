@@ -1,0 +1,27 @@
+{
+    "ElementBurning": {
+        "StateName": "ElementBurning"
+    },
+    "ElementWet": {
+        "StateName": "ElementWet"
+    },
+    "ElementGrassGrowing": {
+        "StateName": "ElementGrassGrowing"
+    },
+    "ElementFrozen": {
+        "StateName": "ElementFrozen",
+        "StateType": "BUFF_CONTROL",
+        "Rank": 1
+    },
+    "Paralyze": {
+        "StateName": "Paralyze",
+        "StateType": "BUFF_CONTROL",
+        "Rank": 2
+    },
+    "LockHP": {
+        "StateName": "LockHP"
+    },
+    "ElementShock": {
+        "StateName": "ElementShock"
+    }
+}

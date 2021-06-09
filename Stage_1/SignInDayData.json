@@ -1,0 +1,258 @@
+{
+    "1": {
+        "ConfigId": 1,
+        "DayCount": 3,
+        "PeriodId": 3,
+        "RewardItemList": [
+            {
+                "ItemId": 202,
+                "Count": 2,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "2": {
+        "ConfigId": 2,
+        "DayCount": 3,
+        "PeriodId": 3,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 1,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "1001": {
+        "ConfigId": 1001,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 224,
+                "Count": 2,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "1002": {
+        "ConfigId": 1002,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 300,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10001": {
+        "ConfigId": 10001,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 224,
+                "Count": 2,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10002": {
+        "ConfigId": 10002,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 200,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10003": {
+        "ConfigId": 10003,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 200,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10004": {
+        "ConfigId": 10004,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 200,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10005": {
+        "ConfigId": 10005,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 300,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10006": {
+        "ConfigId": 10006,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 300,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10007": {
+        "ConfigId": 10007,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 500,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10008": {
+        "ConfigId": 10008,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 100,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10009": {
+        "ConfigId": 10009,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 150,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10010": {
+        "ConfigId": 10010,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 200,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10011": {
+        "ConfigId": 10011,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 223,
+                "Count": 5,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    "10012": {
+        "ConfigId": 10012,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 200,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    }
+}

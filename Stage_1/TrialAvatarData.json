@@ -1,0 +1,755 @@
+{
+    "1": {
+        "TrialAvatarId": 1,
+        "TrialAvatarParamList": [
+            10000021,
+            5
+        ],
+        "TrialWeaponParamList": [
+            15201,
+            5
+        ],
+        "DontShowPushTips": true
+    },
+    "2": {
+        "TrialAvatarId": 2,
+        "TrialAvatarParamList": [
+            10000015,
+            5
+        ],
+        "TrialWeaponParamList": [
+            11201,
+            5
+        ],
+        "DontShowPushTips": true
+    },
+    "3": {
+        "TrialAvatarId": 3,
+        "TrialAvatarParamList": [
+            10000006,
+            5
+        ],
+        "TrialWeaponParamList": [
+            14201,
+            5
+        ],
+        "DontShowPushTips": true
+    },
+    "4": {
+        "TrialAvatarId": 4,
+        "TrialAvatarParamList": [
+            10000016,
+            23
+        ],
+        "TrialWeaponParamList": [
+            12401,
+            23
+        ],
+        "DontShowPushTips": true
+    },
+    "5": {
+        "TrialAvatarId": 5,
+        "TrialAvatarParamList": [
+            10000022,
+            26
+        ],
+        "TrialWeaponParamList": [
+            15501,
+            26
+        ],
+        "DontShowPushTips": true
+    },
+    "6": {
+        "TrialAvatarId": 6,
+        "TrialAvatarParamList": [
+            10000015,
+            10
+        ],
+        "TrialWeaponParamList": [
+            11301,
+            10
+        ],
+        "DontShowPushTips": true
+    },
+    "7": {
+        "TrialAvatarId": 7,
+        "TrialAvatarParamList": [
+            10000003,
+            30
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            30
+        ],
+        "DontShowPushTips": true
+    },
+    "8": {
+        "TrialAvatarId": 8,
+        "TrialAvatarParamList": [
+            10000021,
+            15
+        ],
+        "TrialWeaponParamList": [
+            15301,
+            15
+        ],
+        "DontShowPushTips": true
+    },
+    "9": {
+        "TrialAvatarId": 9,
+        "TrialAvatarParamList": [
+            10000020,
+            26
+        ],
+        "TrialWeaponParamList": [
+            12401,
+            26
+        ],
+        "DontShowPushTips": true
+    },
+    "10": {
+        "TrialAvatarId": 10,
+        "TrialAvatarParamList": [
+            10000006,
+            19
+        ],
+        "TrialWeaponParamList": [
+            14301,
+            19
+        ],
+        "DontShowPushTips": true
+    },
+    "11": {
+        "TrialAvatarId": 11,
+        "TrialAvatarParamList": [
+            10000016,
+            18
+        ],
+        "TrialWeaponParamList": [
+            12401,
+            18
+        ],
+        "DontShowPushTips": true
+    },
+    "12": {
+        "TrialAvatarId": 12,
+        "TrialAvatarParamList": [
+            10000025,
+            26
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            26
+        ],
+        "DontShowPushTips": true
+    },
+    "13": {
+        "TrialAvatarId": 13,
+        "TrialAvatarParamList": [
+            10000023,
+            16
+        ],
+        "TrialWeaponParamList": [
+            13301,
+            16
+        ],
+        "DontShowPushTips": true
+    },
+    "14": {
+        "TrialAvatarId": 14,
+        "TrialAvatarParamList": [
+            10000029,
+            30
+        ],
+        "TrialWeaponParamList": [
+            14502,
+            30
+        ],
+        "DontShowPushTips": true
+    },
+    "15": {
+        "TrialAvatarId": 15,
+        "TrialAvatarParamList": [
+            10000026,
+            28
+        ],
+        "TrialWeaponParamList": [
+            13505,
+            28
+        ],
+        "DontShowPushTips": true
+    },
+    "16": {
+        "TrialAvatarId": 16,
+        "TrialAvatarParamList": [
+            10000026,
+            26
+        ],
+        "TrialWeaponParamList": [
+            13505,
+            26
+        ],
+        "DontShowPushTips": true
+    },
+    "17": {
+        "TrialAvatarId": 17,
+        "TrialAvatarParamList": [
+            10000030,
+            35
+        ],
+        "TrialWeaponParamList": [
+            13504,
+            35
+        ],
+        "DontShowPushTips": true
+    },
+    "18": {
+        "TrialAvatarId": 18,
+        "TrialAvatarParamList": [
+            10000022,
+            28
+        ],
+        "TrialWeaponParamList": [
+            15501,
+            28
+        ],
+        "DontShowPushTips": true
+    },
+    "19": {
+        "TrialAvatarId": 19,
+        "TrialAvatarParamList": [
+            10000041,
+            30
+        ],
+        "TrialWeaponParamList": [
+            14501,
+            30
+        ],
+        "DontShowPushTips": true
+    },
+    "20": {
+        "TrialAvatarId": 20,
+        "TrialAvatarParamList": [
+            10000035,
+            35
+        ],
+        "TrialWeaponParamList": [
+            11501,
+            35
+        ],
+        "DontShowPushTips": true
+    },
+    "21": {
+        "TrialAvatarId": 21,
+        "TrialAvatarParamList": [
+            10000033,
+            35
+        ],
+        "TrialWeaponParamList": [
+            15501,
+            35
+        ],
+        "DontShowPushTips": true
+    },
+    "22": {
+        "TrialAvatarId": 22,
+        "TrialAvatarParamList": [
+            10000041,
+            26
+        ],
+        "TrialWeaponParamList": [
+            14501,
+            26
+        ],
+        "DontShowPushTips": true
+    },
+    "23": {
+        "TrialAvatarId": 23,
+        "TrialAvatarParamList": [
+            10000037,
+            35
+        ],
+        "TrialWeaponParamList": [
+            15502,
+            35
+        ],
+        "DontShowPushTips": true
+    },
+    "24": {
+        "TrialAvatarId": 24,
+        "TrialAvatarParamList": [
+            10000046,
+            35
+        ],
+        "TrialWeaponParamList": [
+            13501,
+            35
+        ],
+        "DontShowPushTips": true
+    },
+    "25": {
+        "TrialAvatarId": 25,
+        "TrialAvatarParamList": [
+            10000051,
+            30
+        ],
+        "TrialWeaponParamList": [
+            12503,
+            30
+        ],
+        "DontShowPushTips": true
+    },
+    "26": {
+        "TrialAvatarId": 26,
+        "TrialAvatarParamList": [
+            10000030,
+            35
+        ],
+        "TrialWeaponParamList": [
+            13504,
+            35
+        ],
+        "DontShowPushTips": true
+    },
+    "500": {
+        "TrialAvatarId": 500,
+        "TrialAvatarParamList": [
+            10000034,
+            26
+        ],
+        "TrialWeaponParamList": [
+            12401,
+            26
+        ],
+        "DontShowPushTips": true
+    },
+    "1003": {
+        "TrialAvatarId": 1003,
+        "TrialAvatarParamList": [
+            10000003,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            80
+        ]
+    },
+    "1004": {
+        "TrialAvatarId": 1004,
+        "TrialAvatarParamList": [
+            10000006,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14401,
+            80
+        ]
+    },
+    "1014": {
+        "TrialAvatarId": 1014,
+        "TrialAvatarParamList": [
+            10000014,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14401,
+            80
+        ]
+    },
+    "1015": {
+        "TrialAvatarId": 1015,
+        "TrialAvatarParamList": [
+            10000015,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            80
+        ]
+    },
+    "1016": {
+        "TrialAvatarId": 1016,
+        "TrialAvatarParamList": [
+            10000016,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12401,
+            80
+        ]
+    },
+    "1020": {
+        "TrialAvatarId": 1020,
+        "TrialAvatarParamList": [
+            10000020,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12411,
+            80
+        ]
+    },
+    "1021": {
+        "TrialAvatarId": 1021,
+        "TrialAvatarParamList": [
+            10000021,
+            80
+        ],
+        "TrialWeaponParamList": [
+            15406,
+            80
+        ]
+    },
+    "1022": {
+        "TrialAvatarId": 1022,
+        "TrialAvatarParamList": [
+            10000022,
+            80
+        ],
+        "TrialWeaponParamList": [
+            15503,
+            80
+        ]
+    },
+    "1023": {
+        "TrialAvatarId": 1023,
+        "TrialAvatarParamList": [
+            10000023,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13401,
+            80
+        ]
+    },
+    "1024": {
+        "TrialAvatarId": 1024,
+        "TrialAvatarParamList": [
+            10000024,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12404,
+            80
+        ]
+    },
+    "1025": {
+        "TrialAvatarId": 1025,
+        "TrialAvatarParamList": [
+            10000025,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            80
+        ]
+    },
+    "1026": {
+        "TrialAvatarId": 1026,
+        "TrialAvatarParamList": [
+            10000026,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13505,
+            80
+        ]
+    },
+    "1027": {
+        "TrialAvatarId": 1027,
+        "TrialAvatarParamList": [
+            10000027,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14401,
+            80
+        ]
+    },
+    "1029": {
+        "TrialAvatarId": 1029,
+        "TrialAvatarParamList": [
+            10000029,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14502,
+            80
+        ]
+    },
+    "1030": {
+        "TrialAvatarId": 1030,
+        "TrialAvatarParamList": [
+            10000030,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13501,
+            80
+        ]
+    },
+    "1031": {
+        "TrialAvatarId": 1031,
+        "TrialAvatarParamList": [
+            10000031,
+            80
+        ],
+        "TrialWeaponParamList": [
+            15401,
+            80
+        ]
+    },
+    "1032": {
+        "TrialAvatarId": 1032,
+        "TrialAvatarParamList": [
+            10000032,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            80
+        ]
+    },
+    "1033": {
+        "TrialAvatarId": 1033,
+        "TrialAvatarParamList": [
+            10000033,
+            80
+        ],
+        "TrialWeaponParamList": [
+            15501,
+            80
+        ]
+    },
+    "1034": {
+        "TrialAvatarId": 1034,
+        "TrialAvatarParamList": [
+            10000034,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12407,
+            80
+        ]
+    },
+    "1035": {
+        "TrialAvatarId": 1035,
+        "TrialAvatarParamList": [
+            10000035,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11401,
+            80
+        ]
+    },
+    "1036": {
+        "TrialAvatarId": 1036,
+        "TrialAvatarParamList": [
+            10000036,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12404,
+            80
+        ]
+    },
+    "1037": {
+        "TrialAvatarId": 1037,
+        "TrialAvatarParamList": [
+            10000037,
+            80
+        ],
+        "TrialWeaponParamList": [
+            15502,
+            80
+        ]
+    },
+    "1038": {
+        "TrialAvatarId": 1038,
+        "TrialAvatarParamList": [
+            10000038,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11413,
+            80
+        ]
+    },
+    "1039": {
+        "TrialAvatarId": 1039,
+        "TrialAvatarParamList": [
+            10000039,
+            80
+        ],
+        "TrialWeaponParamList": [
+            15401,
+            80
+        ]
+    },
+    "1041": {
+        "TrialAvatarId": 1041,
+        "TrialAvatarParamList": [
+            10000041,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14401,
+            80
+        ]
+    },
+    "1042": {
+        "TrialAvatarId": 1042,
+        "TrialAvatarParamList": [
+            10000042,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11405,
+            80
+        ]
+    },
+    "1043": {
+        "TrialAvatarId": 1043,
+        "TrialAvatarParamList": [
+            10000043,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14401,
+            80
+        ]
+    },
+    "1044": {
+        "TrialAvatarId": 1044,
+        "TrialAvatarParamList": [
+            10000044,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12407,
+            80
+        ]
+    },
+    "1045": {
+        "TrialAvatarId": 1045,
+        "TrialAvatarParamList": [
+            10000045,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13409,
+            80
+        ]
+    },
+    "1046": {
+        "TrialAvatarId": 1046,
+        "TrialAvatarParamList": [
+            10000046,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13501,
+            80
+        ]
+    },
+    "1048": {
+        "TrialAvatarId": 1048,
+        "TrialAvatarParamList": [
+            10000048,
+            80
+        ],
+        "TrialWeaponParamList": [
+            14502,
+            80
+        ]
+    },
+    "1049": {
+        "TrialAvatarId": 1049,
+        "TrialAvatarParamList": [
+            10000051,
+            80
+        ],
+        "TrialWeaponParamList": [
+            12503,
+            80
+        ]
+    },
+    "1050": {
+        "TrialAvatarId": 1050,
+        "TrialAvatarParamList": [
+            10000047,
+            80
+        ],
+        "TrialWeaponParamList": [
+            11503,
+            80
+        ]
+    },
+    "5000": {
+        "TrialAvatarId": 5000,
+        "TrialAvatarParamList": [
+            10000015,
+            20
+        ],
+        "TrialWeaponParamList": [
+            11301,
+            20
+        ]
+    },
+    "5001": {
+        "TrialAvatarId": 5001,
+        "TrialAvatarParamList": [
+            10000006,
+            20
+        ],
+        "TrialWeaponParamList": [
+            14301,
+            20
+        ]
+    },
+    "5002": {
+        "TrialAvatarId": 5002,
+        "TrialAvatarParamList": [
+            10000023,
+            20
+        ],
+        "TrialWeaponParamList": [
+            13301,
+            20
+        ]
+    },
+    "5003": {
+        "TrialAvatarId": 5003,
+        "TrialAvatarParamList": [
+            10000014,
+            20
+        ],
+        "TrialWeaponParamList": [
+            14301,
+            20
+        ]
+    },
+    "5004": {
+        "TrialAvatarId": 5004,
+        "TrialAvatarParamList": [
+            10000027,
+            20
+        ],
+        "TrialWeaponParamList": [
+            14301,
+            20
+        ]
+    },
+    "5005": {
+        "TrialAvatarId": 5005,
+        "TrialAvatarParamList": [
+            10000043,
+            20
+        ],
+        "TrialWeaponParamList": [
+            14301,
+            20
+        ]
+    }
+}

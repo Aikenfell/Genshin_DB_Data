@@ -1,0 +1,42 @@
+{
+    "1": {
+        "Times": 1,
+        "PunishTime": 60
+    },
+    "2": {
+        "Times": 2,
+        "PunishTime": 180
+    },
+    "3": {
+        "Times": 3,
+        "PunishTime": 1800
+    },
+    "4": {
+        "Times": 4,
+        "PunishTime": 1800
+    },
+    "5": {
+        "Times": 5,
+        "PunishTime": 1800
+    },
+    "6": {
+        "Times": 6,
+        "PunishTime": 3600
+    },
+    "7": {
+        "Times": 7,
+        "PunishTime": 3600
+    },
+    "8": {
+        "Times": 8,
+        "PunishTime": 3600
+    },
+    "9": {
+        "Times": 9,
+        "PunishTime": 3600
+    },
+    "10": {
+        "Times": 10,
+        "PunishTime": 86400
+    }
+}

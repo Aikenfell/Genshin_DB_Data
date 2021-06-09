@@ -1,0 +1,258 @@
+{
+    "1": {
+        "Id": 1,
+        "Path": "TEST/TEST_Chest_CutSence"
+    },
+    "2": {
+        "Id": 2,
+        "Path": "TEST/TEST_GoddessLvUp_CutSence"
+    },
+    "3": {
+        "Id": 3,
+        "Path": "Scene_CutScene/Cs_Scene_GoddessUpgrade_01"
+    },
+    "4": {
+        "Id": 4,
+        "Path": "Scene_CutScene/Cs_Scene_DungeonGate_01"
+    },
+    "5": {
+        "Id": 5,
+        "Path": "Scene_CutScene/Cs_Scene_DungeonGate_02"
+    },
+    "6": {
+        "Id": 6,
+        "Path": "Scene_CutScene/Cs_Scene_GoddessActive"
+    },
+    "7": {
+        "Id": 7,
+        "Path": "Scene_CutScene/Cs_Scene_GoddessUpgradeDefault"
+    },
+    "8": {
+        "Id": 8,
+        "Path": "Scene_CutScene/Cs_Scene_DragonNestSealGate"
+    },
+    "9": {
+        "Id": 9,
+        "Path": "Scene_CutScene/Cs_MDAQ501_SwordBreak01"
+    },
+    "200201": {
+        "Id": 200201,
+        "Path": "Scene_CutScene/Cs_MDAQ071_DvalinCombat2"
+    },
+    "10": {
+        "Id": 10,
+        "Path": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen01"
+    },
+    "11": {
+        "Id": 11,
+        "Path": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen02"
+    },
+    "12": {
+        "Id": 12,
+        "Path": "Scene_CutScene/Cs_MDAQ501_DvalinSealOpen03"
+    },
+    "13": {
+        "Id": 13,
+        "Path": "Scene_CutScene/Cs_RecyclableDungeon_GetReward"
+    },
+    "14": {
+        "Id": 14,
+        "Path": "Scene_CutScene/Cs_Scene_GoddessUpgradeDefault_SFX"
+    },
+    "15": {
+        "Id": 15,
+        "Path": "Scene_CutScene/Cs_Scene_Goddess_Chord_Wind"
+    },
+    "16": {
+        "Id": 16,
+        "Path": "Scene_CutScene/Cs_Scene_Goddess_Chord_Rock"
+    },
+    "17": {
+        "Id": 17,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTreeUpgradeDefault"
+    },
+    "18": {
+        "Id": 18,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTreeLvUp1"
+    },
+    "19": {
+        "Id": 19,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTree_1To2"
+    },
+    "20": {
+        "Id": 20,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTreeLvUp2"
+    },
+    "21": {
+        "Id": 21,
+        "Path": "Scene_CutScene/Cs_Scene_AncientBloodTree_2To3"
+    },
+    "22": {
+        "Id": 22,
+        "Path": "Scene_CutScene/Cs_Scene_DungeonGate_03"
+    },
+    "23": {
+        "Id": 23,
+        "Path": "Scene_CutScene/Cs_Scene_DungeonGate_04"
+    },
+    "9999": {
+        "Id": 9999,
+        "Path": "Scene_CutScene/Cs_Common_BlackScreen_Convert"
+    },
+    "2101401": {
+        "Id": 2101401,
+        "Path": "Scene_CutScene/Cs_LYIQ21014_LiYueShow"
+    },
+    "133104440": {
+        "Id": 133104440,
+        "Path": "Scene_CutScene/Cs_Scene_LY_TripleCampSeals"
+    },
+    "133104488": {
+        "Id": 133104488,
+        "Path": "Scene_CutScene/Cs_Scene_LY_CalcifPoolDungeonUnlock"
+    },
+    "133104585": {
+        "Id": 133104585,
+        "Path": "Scene_CutScene/Cs_Scene_LY_TripleCampSeals_Unlocked"
+    },
+    "133103334": {
+        "Id": 133103334,
+        "Path": "Scene_CutScene/Cs_Scene_LY_StoneNiddlesRiseField"
+    },
+    "300801601": {
+        "Id": 300801601,
+        "Path": "Scene_CutScene/Cs_WQ70141_CelestiaClusterBigFocus"
+    },
+    "310301001": {
+        "Id": 310301001,
+        "Path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_01"
+    },
+    "310301002": {
+        "Id": 310301002,
+        "Path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_02"
+    },
+    "310301003": {
+        "Id": 310301003,
+        "Path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_03"
+    },
+    "310301004": {
+        "Id": 310301004,
+        "Path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_04"
+    },
+    "310301005": {
+        "Id": 310301005,
+        "Path": "Scene_CutScene/Cs_Scene_LY_GuShiTaiPuzzle_05"
+    },
+    "310301501": {
+        "Id": 310301501,
+        "Path": "Scene_CutScene/Cs_Scene_JueYunJianTempleUnlock"
+    },
+    "310301502": {
+        "Id": 310301502,
+        "Path": "Scene_CutScene/Cs_Scene_JueYunJianTempleUnlock_Bottom"
+    },
+    "310624801": {
+        "Id": 310624801,
+        "Path": "Scene_CutScene/Cs_Scene_LY_DunYuLingPuzzle"
+    },
+    "310405301": {
+        "Id": 310405301,
+        "Path": "Scene_CutScene/Cs_LYIQ21004_TheLostTreasure"
+    },
+    "310405302": {
+        "Id": 310405302,
+        "Path": "Scene_CutScene/Cs_LYIQ21004_TheLostTreasure_Contact"
+    },
+    "310462101": {
+        "Id": 310462101,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_01"
+    },
+    "310462102": {
+        "Id": 310462102,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_02"
+    },
+    "310462103": {
+        "Id": 310462103,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_03"
+    },
+    "310462104": {
+        "Id": 310462104,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_04"
+    },
+    "310462105": {
+        "Id": 310462105,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_05"
+    },
+    "310462106": {
+        "Id": 310462106,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_06"
+    },
+    "310462107": {
+        "Id": 310462107,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_07"
+    },
+    "310462108": {
+        "Id": 310462108,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_08"
+    },
+    "310462109": {
+        "Id": 310462109,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillars_09"
+    },
+    "310462110": {
+        "Id": 310462110,
+        "Path": "Scene_CutScene/Cs_Scene_LY_NinePillarsGate"
+    },
+    "310631301": {
+        "Id": 310631301,
+        "Path": "Scene_CutScene/Cs_Scene_LY_QinXuPuPuzzle"
+    },
+    "310270701": {
+        "Id": 310270701,
+        "Path": "Scene_CutScene/Cs_Scene_Scenery_LiYue_01"
+    },
+    "220101001": {
+        "Id": 220101001,
+        "Path": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Convert"
+    },
+    "220101002": {
+        "Id": 220101002,
+        "Path": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Empty_Fade_In"
+    },
+    "220101003": {
+        "Id": 220101003,
+        "Path": "Scene_CutScene/Cs_LYAQ301_GongZiBoss_Loop_Convert"
+    },
+    "300805201": {
+        "Id": 300805201,
+        "Path": "Scene_CutScene/Cs_Scene_LJXS_Prison_01"
+    },
+    "3008523": {
+        "Id": 3008523,
+        "Path": "Scene_CutScene/Cs_Scene_WallPaintChamber"
+    },
+    "341301601": {
+        "Id": 341301601,
+        "Path": "Scene_CutScene/Cs_Scene_ExpendArea_TestLevelCutscene"
+    },
+    "111001": {
+        "Id": 111001,
+        "Path": "Scene_CutScene/Cs_Scene_LYLQ11113_HiddenDoor"
+    },
+    "531001": {
+        "Id": 531001,
+        "Path": "Scene_CutScene/Cs_Scene_FluerFair_DungeonGate"
+    },
+    "531002": {
+        "Id": 531002,
+        "Path": "Scene_CutScene/Cs_Scene_Activity_DungeonGate"
+    },
+    "144001002": {
+        "Id": 144001002,
+        "Path": "Scene_CutScene/Cs_Scene_AlicegramophoneCoverDestroyed"
+    },
+    "144001011": {
+        "Id": 144001011,
+        "Path": "Scene_CutScene/Cs_Scene_PopoIslandPuzzle"
+    }
+}

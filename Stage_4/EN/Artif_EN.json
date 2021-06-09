@@ -1,0 +1,1420 @@
+{
+    "Resolution of Sojourner": {
+        "Bonuses": [
+            [
+                "2",
+                "ATK +18%."
+            ],
+            [
+                "4",
+                "Increases Charged Attack CRIT Rate by 30%."
+            ]
+        ],
+        "SID": "10001",
+        "Set Pieces": {
+            "Flower": [
+                "Heart of Comradeship",
+                "A small cerulean flower with somebody's ribbon pinned to the stem.",
+                "\nThe traveler from a distant land pinned this flower close to his chest.\n\nThe traveler left a life of great privilege to pursue a wandering, unburdened life.\nIn a foreign land, by a clear lake of sweet waters, he met a frowning maiden.\n\n\"A traveler from afar? ...Huh. Not like it matters.\"\n\"You're a musician? Well then, pray do not insult me with empty praises or song.\"\n\"Just remember me as I am.\"\n\"As one about to be offered up as a sacrifice for the 'festival.'\"\n\nThe traveler who had abandoned his homeland pinned this flower close to his chest.\nHe wished to remind himself to love no one, and become attached to nothing.\nYet he would remember that maiden as he had promised, and walk into the fire for her sake...\n",
+                "10001_Fl"
+            ],
+            "Feather": [
+                "Feather of Homecoming",
+                "A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon.",
+                "\nHope was ripped to shreds by ruthless might, and promises of reunion disappeared like fleeting shadows.\nThe wandering traveler had once against lost a place to call home.\n\nThe condescending evil stole his love's joy,\nAnd the endless conflict ground down his irreverent soul.\nThose gentle, playful rhythms of revelry,\nNow turned to sharp, icy clangs.\n\nFor his comrades, for his best friend, for the tables around which none would again share wine.\nFor freedom, for life, and for revenge against the evil that had taken her smile.\nThus resolved, the traveler plucked his last string, and fired his final arrow.\n\nAs he grew accustomed to life in this foreign land, he gazed up at the azure sky.\nAh, so the sky here was the same as the one back in his homeland...\n",
+                "10001_Fe"
+            ],
+            "Timepiece": [
+                "Sundial of the Sojourner",
+                "A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky.",
+                "\nThe traveler pursued both fate and the inexorable passage of time.\nThe troupe that resisted the aristocracy \u2014 and their end \u2014 could be seen the eternal flow of time.\n\nIn the course of a long journey, even the most well-made watch might cease to work.\nThe only unfailing marker of time was the passage of the sun and moon.\nSo to chase formless time, the traveler could only pursue light itself.\n\nThe great halls of the nobility, and the rebellious troupe with no room to lay their heads.\nBoth were churned just the same by the flow of time, and both like fleeting dreams raced towards the same destruction.\n\nUnder the moonless night sky, the dark shadows drew upon the outlander's tired face.\n\"The songs are spent like arrows few, to the choir the curtain calls.\"\n\"Shall I ever see you smile anew, when the tower in the city square falls?\"",
+                "10001_Ti"
+            ],
+            "Goblet": [
+                "Goblet of the Sojourner",
+                "A plain porcelain goblet that was once brimming with joyous brews.",
+                "\nA lyre has 4 strings.\nThe days he spent with his comrades in the \"troupe\" were probably the happiest in his life of wandering.\nAt first, it was just a chance meeting with the conductor \u2014 but for the invisible strings of fate.\nFirst came the girl who used a flute as a sword, and then that fellow Kreuzlied \u2014 one by one, the traveler met them all.\n\nIn the joyous tavern, the lyrist introduced a maiden he had met by chance to his comrades amidst the singing and dancing.\nThe drunken traveler strummed the strings and sang in a loud voice.\n\nWith them by his side, he would never have to travel alone again...\nPerhaps it would be alright to walk with them till journey's end.",
+                "10001_Go"
+            ],
+            "Headpiece": [
+                "Crown of Parting",
+                "A reed coronet that emanates the spring breeze.",
+                "\nThe departing traveler would take this crown of willow branches as a final memento.\nWith it, he would remember his lover, now departed like a dandelion on the breeze.\n\nThe traveler was the wandering lyrist, and that maiden in the country of wine was a prisoner of the nobility.\nFor reasons he knew not himself, his lyre-song revealed his true heart.\n\n\"What would move me, you ask? ...Well, it would be your smile.\"\n\"I've never known you to smile, after all. Not even once.\"\n\"I will break the chains that bind you.\"\n\"When that time comes, would you let me see you smile?\"\n\n\"Yes, and thank you. It would be wonderful indeed if you could do that.\"\nPretty words, but who could trust them, coming from a singer?",
+                "10001_He"
+            ]
+        }
+    },
+    "Brave Heart": {
+        "Bonuses": [
+            [
+                "2",
+                "ATK +18%."
+            ],
+            [
+                "4",
+                "Increases DMG by 30% against opponents with more than 50% HP."
+            ]
+        ],
+        "SID": "10002",
+        "Set Pieces": {
+            "Flower": [
+                "Medal of the Brave",
+                "A simple flower brooch that is a keepsake from someone's first adventure.",
+                "\nThe little hero slipped out of doors by night, and with his friend rushed headlong into the wolves' forest.\nWith his slingshot he chased boars, and with sturdy branches he would battle imaginary monsters.\nFollowing the shining Seelie deep into the woods, he discovered a treasure that had laid buried for a thousand years.\n\nThat treasure was a small yellow flower.\n\nWhen the tired hero returned to his childhood bedroom, and flipped through the proof of his first adventures,\nHe discovered to his surprise that the long-hidden flower had yet to wilt.\nYet in this it was alone, for everything else had changed with the passing of years.\n",
+                "10002_Fl"
+            ],
+            "Feather": [
+                "Prospect of the Brave",
+                "A shimmering feather from a songbird that brings a nudge of courage to its wearer.",
+                "\nTo comfort his crybaby of a companion, the young hero gave his friend a bird's feather.\nThis was proof of their shared adventure, of the treasure they found together, and was meant to embolden his comrade.\n\nMuch later, one of them was named a \"lion,\"\nAnd became a crownless king at the head of many knights.\nThe other became a \"wolf,\"\nSupporting his friend from the shadows, and running affairs of state.\n\nIn those turbulent times, the two defended their home and each other like sword and dagger.\nBut this was a story from long ago.\nSo many were lost during the cataclysm.\n",
+                "10002_Fe"
+            ],
+            "Timepiece": [
+                "Fortitude of the Brave",
+                "A dated miniature hourglass that serves no practical purpose. It seems as elusive as time itself.",
+                "\nWhen the black curses poured forth, and the roots of disaster infested the earth,\nThe knights, on expedition in a foreign land, would face the horror head on, their formation steely as the northern glaciers.\n\nThe steel of their greatswords flashed brightly, and the dark ichor fell like poisoned rain.\n\nAt last the hero returned home, but this time, without his old friend.\nSo much had changed, save for the hourglass that childhood companion had gifted him.\n",
+                "10002_Ti"
+            ],
+            "Goblet": [
+                "Outset of the Brave",
+                "A crude wooden vessel filled only with memories.",
+                "\nThe young hero's first battle ended, and for the first time he tasted the sweet wine of victory.\nThat day, deep of the vine he drank together with his closest friend \u2014 supportive, joyful, and blissfully ignorant.\n\nMany years later, when the cataclysm came, he led the knights to fight for his homeland.\nOn the eve of battle, he advised his childhood friend and long-time deputy to come drink with him.\n\n\"If you do not return, I will not mourn you.\"\n\"Nay, I will toast you, and drink in your honor, just as we do today.\"\n",
+                "10002_Go"
+            ],
+            "Headpiece": [
+                "Crown of the Brave",
+                "A rough-and-ready laurel wreath that seems as precious as a king's golden crown.",
+                "\nThe little hero entered the deep, mysterious forest, and henceforth walked the path of resistance.\nHis best playmate played the role of the champion knight of the aristocracy.\n\n\"Like a lion I stride the battlefield, like she did a thousand years before.\"\n\"Songs I will inspire with my sword, to give to generations to come.\"\n\nTheir toy greatswords and tree branches clashed in their fierce duel\u2014\nTill at last the hero won the day, and seized the aristocrats' crowns from their heads.\n\nMany years later, this wreath of flowers, though crudely made,\nWould seem more precious still than the power a master of knights held...",
+                "10002_He"
+            ]
+        }
+    },
+    "Defender's Will": {
+        "Bonuses": [
+            [
+                "2",
+                "DEF +30%"
+            ],
+            [
+                "4",
+                "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%."
+            ]
+        ],
+        "SID": "10003",
+        "Set Pieces": {
+            "Flower": [
+                "Guardian's Flower",
+                "An iris that was cherished by the guardian. Unfortunately, the chance never came for it to be given to whom the guardian loved.",
+                "\nOnly that maiden's clear voice,\nCould cause the guardian's brow to come unbound.\n\nTheir time together was short.\nAt last, the knight's blood would run dry,\nAs would her tears and her songs.\n",
+                "10003_Fl"
+            ],
+            "Feather": [
+                "Guardian's Sigil",
+                "A feather-shaped brooch that symbolizes someone\u2019s yearning to defend others like a shield.",
+                "\nThe shield-crest engraved upon this quill glitters in the pale moonlight.\nLong ago, this light would strike fear into the hearts of evildoers and thieves.\n\nThe guardian had a very precious knightly title.\nBut at night, he would disguise his crest and face beneath a mantle.\nThus, he could shake off his restraints and do that which needed to be done\u2014\n\u2014Yet could not be done by an upright knight in good standing.\n",
+                "10003_Fe"
+            ],
+            "Timepiece": [
+                "Guardian's Clock",
+                "A small timekeeping gadget. On moonless nights, it was the only way its former owner could know the time.",
+                "\nThe ticking of the clock's hands, the candlelight, and the reams of case notes,\nThe shadows by moonlight, the blade and black mantle,\nThese were the constant companions of the lonesome guardian.\nBut no matter how far he went, there was never enough time.\nHis superior, carefree and proud, often laughed at his curtness, his unsmiling face, his aversion to fun.\n\nBut the guardian was not one to look back on the past \u2014 only to the present and future.\nOnly by reaving every last trace of evil, no matter the means,\nCould he ensure that this land that his friend and superior loved could have a future without fear.\n\nOnly when he gazed on that maiden in the square,\nCould he think upon things he had no time for.\n\nOnly then could he think about his own future...",
+                "10003_Ti"
+            ],
+            "Goblet": [
+                "Guardian's Vessel",
+                "A metal vessel that can be filled with a drink to dispel the loneliness of the long watch.",
+                "\nAn exceedingly ordinary old wine canteen.\nIf one had to point out something special about it,\nIt would be that it never once contained a drop of alcohol.\n\n\"Come on, you have to try a little wine sometime.\"\nThe guardian's longtime friend and superior joked.\n\"Quit knitting those eyebrows together, have a little wine and song!\"\n\"I mean, that's how we have the courage to face tomorrow.\"\n",
+                "10003_Go"
+            ],
+            "Headpiece": [
+                "Guardian's Band",
+                "A fabric band dyed indigo by the darkness of night. Can also double as a bandage in the event of an emergency.",
+                "\nAlways have a backup plan\u2014\nHe wore this headband to remind himself of that axiom.\nIn an emergency, it could also serve as a tourniquet.\n\nBy this creed he taught his swordsmanship to the knights under his friend's command.\nBy this credo he also mentored a white knight who loved justice above all else.\nIn its name he nipped many seedlings that might have blossomed into evil in the bud.\n\nAs long as he was sufficiently prepared,\nEven if one day, he should be unable to defend this land,\nOr protect his friend, or that maiden who loved to sing...",
+                "10003_He"
+            ]
+        }
+    },
+    "Tiny Miracle": {
+        "Bonuses": [
+            [
+                "2",
+                "All Elemental RES increased by 20%."
+            ],
+            [
+                "4",
+                "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+            ]
+        ],
+        "SID": "10004",
+        "Set Pieces": {
+            "Flower": [
+                "Tiny Miracle's Flower",
+                "A flower that grew from a rock, breaking through the stone as it strove to reach the light.",
+                "\nA little blue flower that sprouted between the cracks of an old tombstone.\nThe carvings on the tombstone are a legacy of death, yet what sprouted from its cracks was the miracle of life.\n",
+                "10004_Fl"
+            ],
+            "Feather": [
+                "Tiny Miracle's Feather",
+                "A feather from a bird of prey that flies almost too fast for the human eye to detect.",
+                "\nPlucked from a falcon that was as fast as the wind. The mere existence of such a bird is a miracle.\nIt was gifted with clear vision and sharp claws.\nWith its broad wings, its gliding speed was unparalleled.\n",
+                "10004_Fe"
+            ],
+            "Timepiece": [
+                "Tiny Miracle's Hourglass",
+                "Just an ordinary, everyday hourglass. Turn it upside down and sure enough, the dry sand starts trickling down like water.",
+                "\nIt is often said that one may achieve victory by striving, but receive a miracle only by waiting.\nBut is it not a miracle that fine sand was once a hard rock?\nIs it not too a miracle that we met each other?\n",
+                "10004_Ti"
+            ],
+            "Goblet": [
+                "Tiny Miracle's Goblet",
+                "A cup commonly used for fortune-telling. It can also hold water, of course.",
+                "\nA clear goblet glittering with starlight.\nIn the past it was used to tell fortunes,\nFor the water it held was believed to reflect the Starry Sea.\n",
+                "10004_Go"
+            ],
+            "Headpiece": [
+                "Tiny Miracle's Earrings",
+                "A cheap accessory that is actually made from ancient meteoric ore.",
+                "\nAn inexpensive pair of earrings made from metal that shines like the stars.\nWhat the sellers don't know is that the shine of these earrings comes from the fallen stars of ancient times.\n",
+                "10004_He"
+            ]
+        }
+    },
+    "Berserker": {
+        "Bonuses": [
+            [
+                "2",
+                "CRIT Rate +12%"
+            ],
+            [
+                "4",
+                "When HP is below 70%, CRIT Rate increases by an additional 24%."
+            ]
+        ],
+        "SID": "10005",
+        "Set Pieces": {
+            "Flower": [
+                "Berserker's Rose",
+                "An exquisite flower that has been dyed red. It represents the qualities of the Berserker.",
+                "\nIn the days before the berserker descended into madness, he would sometimes pause in the rose garden for a moment to himself.\nHe had never had a family, nor had he a lover, or a friend.\nWhen he was not on the battlefield, he would come here to tend to the fragile flowers in the garden with all his heart,\nas if the crimson flowers buried in the thorns were the only warmth he could cling to.\n",
+                "10005_Fl"
+            ],
+            "Feather": [
+                "Berserker's Indigo Feather",
+                "An indigo feather from a legendary raven, part of which has been dyed crimson red.",
+                "\nThe once-sane berserker's homeland fell victim to the raging war between gods and mortals.\nThe rose garden burst into flames and birds of omen fed on the flesh of his countrymen.\nReborn in flames, vengeance and bloodlust took over the warrior's mind, turning him into a berserker.\nBlack feathers, scattered on the battlefield, were painted red by his rage as he took his revenge.\n",
+                "10005_Fe"
+            ],
+            "Timepiece": [
+                "Berserker's Timepiece",
+                "An instrument with an eternal flow that continues mercilessly within, reminding the Berserker of the limited time he has left \u2014 both on the battlefield as well as in the world.",
+                "\nThe end inevitably comes for all, even the seemingly invincible berserker.\nAs the blood on his hands finally dried up, the berserker's footsteps began to falter.\nHis life was destined to end the moment he met his last challenger on the battlefield.\nOn the battlefield where blood flowed like rivers, his hourglass was painted red by the setting sun.\n",
+                "10005_Ti"
+            ],
+            "Goblet": [
+                "Berserker's Bone Goblet",
+                "A goblet made from the bone of an unknown beast. It was taken as a trophy after some deadly encounter.",
+                "\nThe bloodthirsty berserker ravaged the lands, fighting humans and monsters alike, and even challenged the gods.\nIn a barren and lifeless land, he encountered a giant monster.\nHis iron mask could not conceal his rage, and so an endless fight ensued.\nHours, days, and years passed. The monster was finally defeated.\nThe berserker sucked out the marrow of the monster's broken horn. This was how the victor drank to his success.\n",
+                "10005_Go"
+            ],
+            "Headpiece": [
+                "Berserker's Battle Mask",
+                "A hideous iron mask that has been left half-shattered from vicious battles.",
+                "\nBathed in the flames that devoured his homeland, the berserker's face was no longer recognizable.\nThe iron mask became joined with his flesh, permanently branding his face with a heartless countenance.\nThen, in a fierce battle, his horrifying mask was split into two by his opponent.\nThe cracks of the mask tore apart the flesh that had long stuck to it.\nBut neither pain nor blood could stop the berserker's unfaltering footsteps.\nThe berserker kept roaring until the fresh blood covered the black clots hardened on his face.\n",
+                "10005_He"
+            ]
+        }
+    },
+    "Martial Artist": {
+        "Bonuses": [
+            [
+                "2",
+                "Increases Normal Attack and Charged Attack DMG by 15%."
+            ],
+            [
+                "4",
+                "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+            ]
+        ],
+        "SID": "10006",
+        "Set Pieces": {
+            "Flower": [
+                "Martial Artist's Red Flower",
+                "This particular kind of red flower was the only thing that could alleviate the Martial Artist's pain.",
+                "\nEver since being recognized by the master, the martial artist had been practicing every day for years.\nThe path of pursuing martial arts is long and harsh, and injuries are inevitable.\nAs instructed, he plucked a small crimson flower in the forest.\nAlthough his proud battle scars will never fully heal, at least the pain can be alleviated.\n",
+                "10006_Fl"
+            ],
+            "Feather": [
+                "Martial Artist's Feather Accessory",
+                "A common bird feather. Experts use it to practice strength control, while rookies use it to make fans.",
+                "\nA feather plucked from a bird soaring in the sky by a skillful martial artist.\nThe essence of martial arts is not necessarily about the power of attacks.\nAgility and nimbleness honed over years of training are just as prideworthy for a martial artist.\nThe martial artist will wear the feather on his chest as proof of his unparalleled skills.\n",
+                "10006_Fe"
+            ],
+            "Timepiece": [
+                "Martial Artist's Water Hourglass",
+                "A tool to keep track of time in endurance training. It is more accurate and reliable than a regular hourglass.",
+                "\nAn hourglass that uses the flow of water to measure the passage of time. The martial artist would have it with him at all times.\nWhen he was training under the waterfall or practicing a single leg stance on the stake,\nhe endured all the pain and suffering alone.\nThis time piece recorded every second of it in silence.\n",
+                "10006_Ti"
+            ],
+            "Goblet": [
+                "Martial Artist's Wine Cup",
+                "A rather exquisite wine cup used in pre-combat rituals.",
+                "\nBefore proudly stepping into the arena, a parting ritual with a glass of fine wine is essential for martial artists.\nEach of them faced with a worthy opponent, two martial artists will raise their glasses to one another.\nThey then step into the arena with a calm and collected composure to face their opponent with the utmost respect.\nThis is the true meaning of the toast, which comes before the fight takes place. It does not serve to glorify victory or cast shame on defeat.\n",
+                "10006_Go"
+            ],
+            "Headpiece": [
+                "Martial Artist's Bandana",
+                "The first lesson as an apprentice: Vigor, Strength, Will. These words are written on the bandana so you'll never forget them.",
+                "\nA bright-red bandana that belonged to a martial artist. The color has now faded.\nIt serves as proof that the bearer practiced martial arts at a young age. It also represents the high ambition the young martial artist once had.\nBefore the first crack of dawn, the young martial artist was already training in the forest.\nMany years later, the martial artist is now an instructor. Though youth may be a thing of his past, he remains just as alert and diligent as when he was young.\n",
+                "10006_He"
+            ]
+        }
+    },
+    "Instructor": {
+        "Bonuses": [
+            [
+                "2",
+                "Increases Elemental Mastery by 80."
+            ],
+            [
+                "4",
+                "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s."
+            ]
+        ],
+        "SID": "10007",
+        "Set Pieces": {
+            "Flower": [
+                "Instructor's Brooch",
+                "Whenever the instructor wore this brooch, it meant there would be no training sessions that day.",
+                "\nEvery student in the school knew that the strict instructor was a serious soldier.\nBut every week, there would always be a day or two when the instructor would wear this yellow flower brooch on his chest.\nThe smile on the instructor's face would always bring the students a sense of relief.\nFor when the instructor wore the yellow flower brooch, it meant that they could take a day off and go home.\nOnce his boisterous students had finally gone, the instructor would visit a silent graveyard.\nThere, after a moment of silence, he would pay his respects to the familiar names carved on the tombstones.\n",
+                "10007_Fl"
+            ],
+            "Feather": [
+                "Instructor's Feather Accessory",
+                "Any instructor who has mastered the art of de-escalation knows to keep this accessory firmly in their grasp at all times.",
+                "\nThe strict instructor once sharpened his own combat skills on the merciless battlefield.\nWhat he teaches the students goes beyond self-defense techniques to apply in battle.\nMoreso than attacking and defending, what he imparts to them is the skill of surviving on the front line even in the face of insurmountable odds.\nEvery move and technique he demonstrates pays homage to the veterans of wars gone by.\nFor it was their sacrifices that helped him become who he is today.\n",
+                "10007_Fe"
+            ],
+            "Timepiece": [
+                "Instructor's Pocket Watch",
+                "A stopwatch used not for general timekeeping but to measure the duration of a training session.",
+                "\nA pocket watch treasured by the instructor. It is not, however, military-issue gear from the instructor's school.\nBack when the instructor was still a soldier, this pocket watch was used to coordinate charges against the enemy.\nIt marked victories and defeats, and counted the final hours of the soldiers.\nFor the students, it represented the hardships they endured on the long path towards becoming a real soldier.\n",
+                "10007_Ti"
+            ],
+            "Goblet": [
+                "Instructor's Tea Cup",
+                "It may seem like an ordinary tea cup to most. But to students, it is the symbol of the instructor's authority.",
+                "\nEvery military school student knows that the so-called \"free training time\" could not have anything less to do with freedom.\nThe instructor sits back and watches while the students train rigorously in the field.\nA cup of black tea with a little too much sugar in it marks a typical afternoon for the instructor.\nThis peaceful time is a privilege of the instructor, and the embodiment of his authority.\n",
+                "10007_Go"
+            ],
+            "Headpiece": [
+                "Instructor's Cap",
+                "A standard-issue honorary instructor's cap, only granted to those who turn down a promotion.",
+                "\n\"I don't have the talent to command an army as its general,\nNor am I qualified for anything beyond being a soldier.\nAll I can do is to be a strict instructor to these children,\nSo that they might survive on the battlefield a bit longer.\"\n",
+                "10007_He"
+            ]
+        }
+    },
+    "Gambler": {
+        "Bonuses": [
+            [
+                "2",
+                "Increases Elemental Skill DMG by 20%."
+            ],
+            [
+                "4",
+                "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."
+            ]
+        ],
+        "SID": "10008",
+        "Set Pieces": {
+            "Flower": [
+                "Gambler's Brooch",
+                "A big, luxurious flower that can hide a loaded dice.",
+                "\nGamblers like to flaunt their wealth, although their money can disappear overnight.\nShe would wear this huge, exotic flower ornament on her ears. It certainly catches the eye.\nBut what they would not see is the trick dice carefully hidden within the flower.\nThe gambler would only sneak this dice out of the brooch in an urgent situation.\nSwapping in this dice under the vigilant eyes of the guests was how she turned the table around.\n",
+                "10008_Fl"
+            ],
+            "Feather": [
+                "Gambler's Feather Accessory",
+                "The tail feather of a large bird. Perfect for discretely concealing a trump card.",
+                "\nThis colorful feather served to decorate a gambler's hat. Its flamboyance disgusts true aristocrats.\nBut what the aristocrats do not see is the delicate mechanism hidden beneath the surface.\nWhen the time comes, the gambler subtly swaps in a hidden, game-changing card.\nUpon seeing this card, the disdain and condescension on the aristocrats' faces would instantly give way to sheer shock.\n",
+                "10008_Fe"
+            ],
+            "Timepiece": [
+                "Gambler's Pocket Watch",
+                "A shattered pocket watch that once took a lethal hit for its owner.",
+                "\nPerfect timing is necessary for the gambler's trick to work.\nThat's why she always had this golden pocket watch in her breast pocket.\nIn countless games, there was always that crucial moment when her sensitive perception of time saved her.\n",
+                "10008_Ti"
+            ],
+            "Goblet": [
+                "Gambler's Dice Cup",
+                "This vessel was specially made for a single purpose. It has absolutely no secret compartments built into it.",
+                "\nEvery gambler is superstitious to some degree. Many are very fond of custom-made dice cups, for instance.\nThis was her custom-made dice cup. Despite what one might expect, there was nothing dishonest about it. It had no hidden mechanisms.\nFate only decides half of one's dice rolls. The other half are decided by oneself.\nAnd yet, she never rolled the dice away from the gambling table.\n",
+                "10008_Go"
+            ],
+            "Headpiece": [
+                "Gambler's Earrings",
+                "A pair of blue earrings that, when worn, calm the mind and encourage a rational assessment of risks.",
+                "\nThese ostentatious earrings are the perfect representation of the gambler's transient wealth.\nThe glimmer of the gem is just as soothing as the sky and the lake.\nThe earrings would be coated with a mildly sedative substance to keep the gambler calm in the game.\nIn games where one gambles with life and death, remaining calm and composed is the key to winning.\n",
+                "10008_He"
+            ]
+        }
+    },
+    "The Exile": {
+        "Bonuses": [
+            [
+                "2",
+                "Energy Recharge +20%"
+            ],
+            [
+                "4",
+                "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+            ]
+        ],
+        "SID": "10009",
+        "Set Pieces": {
+            "Flower": [
+                "Exile's Flower",
+                "A withered flower worn on the shirt. Its former owner insisted on wearing it even in exile, so it must mean something.",
+                "\nIt all happened before the exiled aristocrat was involved in the family feud.\nThis flower bloomed before the first blood was shed.\nHaving witnessed the cruelty of humanity, the exile left his kindness and gentleness in the past.\nBut this faded flower and the innocent smile he once had will always be his treasure.\n",
+                "10009_Fl"
+            ],
+            "Feather": [
+                "Exile's Feather",
+                "Not an actual accessory per se. Just a random bird feather that was found somewhere in the wilderness by the exile.",
+                "\nThrough plains and forests, the exile traveled alone in the wild.\nThrough thick layers of dark clouds, an azure feather fell on his shoulder.\nThe feather came from a panicked bird escaping from the falcon, just like the exile.\nThe feather represents the spirit of a nestless, free bird, just like the exile.\n",
+                "10009_Fe"
+            ],
+            "Timepiece": [
+                "Exile's Pocket Watch",
+                "Even after the crystal watch face was shattered and the hands lost, its former owner kept it until the end.",
+                "\nThe aristocrat acquired this pocket watch back in his youth.\nThis delicate timepiece recorded every moment of his childhood.\nBut tragedy brought his carefree days to an abrupt end.\nThe aristocrat was forced into a long and lonesome exile.\n",
+                "10009_Ti"
+            ],
+            "Goblet": [
+                "Exile's Goblet",
+                "A dull goblet made of a heavy metal. It was once inlaid with gemstones, but they have since been stripped off.",
+                "\nThis silver goblet is a family heirloom of an exiled aristocrat. The exterior was once inlaid with a gem engraved with his family crest.\nBut after the exile had brought shame to his family, he carved out the symbol of which he was once proud.\nAs a result, this cup is broken and can no longer hold liquid.\nBut the exile still carries it with him until the end of his journey.\n",
+                "10009_Go"
+            ],
+            "Headpiece": [
+                "Exile's Circlet",
+                "A prestigious circlet. However, the royal insignia has been scratched out, and it is no longer the symbol of distinguished status that it once was.",
+                "\nAs a child, the exile lived in a noble house. His childhood was carefree, and his playground was a palace built with silver.\nIn the times of old, the circlet of his father was a symbol of gentility and nobility.\nHowever, years later, a family feud painted the collapsing palace blood-red.\nThe circlet became the evidence of the exile's crime and has been with the exile ever since.\n",
+                "10009_He"
+            ]
+        }
+    },
+    "Adventurer": {
+        "Bonuses": [
+            [
+                "2",
+                "Max HP increased by 1000."
+            ],
+            [
+                "4",
+                "Opening a chest regenerates 30% Max HP over 5s."
+            ]
+        ],
+        "SID": "10010",
+        "Set Pieces": {
+            "Flower": [
+                "Adventurer's Flower",
+                "A resilient flower that survived the harsh environment of an ancient city. It is now proudly worn like a medal.",
+                "\nThe ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.\nMoved by the sight of life sprouting in defiance of a lifeless land, he almost forgot about the treasures buried deep in the ruin.\nAfter pausing to ponder it for a while, the adventurer plucked the flower, wore it as a brooch, and ventured forth into the darkness.\n",
+                "10010_Fl"
+            ],
+            "Feather": [
+                "Adventurer's Tail Feather",
+                "The feather of an exotic bird rarely seen on this continent.",
+                "\nAn adventurer once traveled through a forest in search of rare beasts never seen before.\nAs he tore his way recklessly through the foliage, the adventurer tripped on a tree root.\nWhen he regained consciousness, he saw a girl so beautiful that he was willing to give up the adventurer's life to be with her.\nHer appearance was surreal, with a cluster of feathers adorning her hair.\n",
+                "10010_Fe"
+            ],
+            "Timepiece": [
+                "Adventurer's Pocket Watch",
+                "It's easy to lose track of time when you're adventuring where the sun doesn't shine, whether that's the depths of the abyss or the ruins of a lost city.",
+                "\nA pocket watch that once belonged to an adventurer. It was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the Adventurers' Guild.\nThe adventurer spent most of his days in darkness. The rhythmic sound of its moving hands was the only proof he had of the passage of time.\nLong after he had grown accustomed to a normal life, having given up the adventurer lifestyle he once loved so dearly, \nthis forgotten pocket watch still sat quietly in the cabinet, waiting for its next adventure.\n",
+                "10010_Ti"
+            ],
+            "Goblet": [
+                "Adventurer's Golden Goblet",
+                "The spoils of one of an adventurer's many expeditions. Though a little damaged, it is still an excellent find.",
+                "\nAn old, golden goblet that the adventurer used to drink water. It is said that he found it in an old ruin.\nThe exterior is engraved with ancient symbols and inlaid with a faded gemstone.\nEventually, the adventurer bid farewell to the nomadic lifestyle.\nThis old, golden goblet was traded in for new, shiny Mora.\n",
+                "10010_Go"
+            ],
+            "Headpiece": [
+                "Adventurer's Bandana",
+                "A cloth garment worn at the forehead. Though soaked in sweat and covered in dust, it still beams with an adventurer's pride.",
+                "\nThere is nothing special about this green bandana, save that the fabric is rather robust and highly absorbent.\nJust like the bandana, its wearer was an unexceptional, ordinary person.\nBut countless secrets lie hidden in the stars high up above and the abyss deep down below.\nAll of these things are awaiting discovery by mere mortals.\n",
+                "10010_He"
+            ]
+        }
+    },
+    "Lucky Dog": {
+        "Bonuses": [
+            [
+                "2",
+                "DEF increased by 100."
+            ],
+            [
+                "4",
+                "Picking up Mora restores 300 HP."
+            ]
+        ],
+        "SID": "10011",
+        "Set Pieces": {
+            "Flower": [
+                "Lucky Dog's Clover",
+                "A four-leaf clover that grows in the wild. It was picked because it is said to bring good luck.",
+                "\nOne who is favored by fortune tends to experience at least their fair share of miracles.\nThe legendary four-leaf clover, for instance, is a precious find that brings luck to its bearer.\nOnce, while playing in the field, the carefree young boy known as Lucky Dog happened across just such a clover.\nDelighted, he plucked it from the ground and put it in his pocket.\nNo-one knows whether it was the clover which brought him his good fortune, or the other way around.\n",
+                "10011_Fl"
+            ],
+            "Feather": [
+                "Lucky Dog's Eagle Feather",
+                "A monster once cornered an adventurer, but was then picked off by a hunting eagle... That eagle dropped this feather, which now carries some of the adventurer's good luck.",
+                "\nWhen fortune has your back, even the most ferocious monster has to yield.\nStrolling in the forest, the boy known as Lucky Dog had no idea that a monster was lurking nearby, having singled him out as its prey.\nThe boy became distracted by some colorful mushrooms, and the monster pounced. He leaped out and landed on the poisonous mushrooms, stomping them flat.\nThis was going to be an easy hunt, the monster thought \u2014 until a feather from the eagle circling above fell quietly onto its back.\n",
+                "10011_Fe"
+            ],
+            "Timepiece": [
+                "Lucky Dog's Hourglass",
+                "A broken hourglass from which all the sand has escaped. But it's fine, because the passage of time means nothing to someone without a single worry in the whole world.",
+                "\nEven time itself could not leave a wrinkle on the face of the happy-go-lucky boy known as Lucky Dog.\nLucky Dog had no family, let alone children of his own.\nBut in the course of his life of good fortune, he considered all he met as his friends and family.\nAs his life was nearing its end, he saw an hourglass with sand flowing down, as if counting down his remaining time.\nHe simply chuckled, took a slingshot, and shattered the hourglass.\n",
+                "10011_Ti"
+            ],
+            "Goblet": [
+                "Lucky Dog's Goblet",
+                "An exquisite metallic vessel that was once used to knock out a thief.",
+                "\nOnce there was a child favored by fortune from the day he was born. Try as they might, even the most vicious bandits could not lay a finger on him. He became known as Lucky Dog.\nThe child grew up, and one day in the throes of adulthood he found himself stumbling drunk along the back alley behind the tavern.\nUnder the starless sky, a vicious bandit prepared to rob Lucky Dog, taking advantage of his compromised state.\nBut just as the bandit was about to strike, a flying goblet hit him square on the forehead, knocking him out cold.\nNaturally, this makes Lucky Dog one of very few people known to have benefited, rather than suffered, from being in the vicinity of a tavern brawl.\n",
+                "10011_Go"
+            ],
+            "Headpiece": [
+                "Lucky Dog's Silver Circlet",
+                "Its former owner once fell into a cave and found the treasure trove of an exiled royal. This is a souvenir from that incident.",
+                "\nOne who is favored by fortune can even find priceless treasures in the most deadly of traps.\nWhile wandering around some ruins, the boy known as Lucky Dog accidentally fell into a deep pit.\nHe landed safely on a pile of dust. It turned out to be a mattress that over the years had gradually broken down, eventually turning to dust.\nJust like that, Lucky Dog discovered a treasure trove left by the old aristocrats. This circlet came to epitomize his luck.\n",
+                "10011_He"
+            ]
+        }
+    },
+    "Scholar": {
+        "Bonuses": [
+            [
+                "2",
+                "Energy Recharge +20%"
+            ],
+            [
+                "4",
+                "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s."
+            ]
+        ],
+        "SID": "10012",
+        "Set Pieces": {
+            "Flower": [
+                "Scholar's Bookmark",
+                "A dried flower used as a bookmark. It has absorbed the scent from the pages.",
+                "\nFlowers were a rare sight for the scholar who lived in her ivory tower, buried under piles of books.\nA young man, who admired the scholar, once gave her this exotic flower in the hope of bringing some life to the dull and lonely days she spent in her study.\nThe scholar accepted the gift gratefully and made a flower bookmark with it.\nEver since then, there has always been a splash of vivid color hidden somewhere in the pages of the dull piles of books.\n",
+                "10012_Fl"
+            ],
+            "Feather": [
+                "Scholar's Quill Pen",
+                "A bird's feather that serves as a quill pen. The tip has long been stained black.",
+                "\nThe scholar's quill pen is made from the feather of an exotic bird.\nAfter an enormous amount of writing, the feather has been stained black.\nIn all her years, the scholar never thought of changing her stained quill pen for a new one.\nJust as an old soldier feels most at ease with his own weapon, the scholar needed her familiar quill pen.\n",
+                "10012_Fe"
+            ],
+            "Timepiece": [
+                "Scholar's Clock",
+                "A small desktop clock, whose former owner was a scholar sat in a windowless room buried in books. This was probably the only reference they had to the time of day.",
+                "\nA delicate clock placed carefully on the scholar's desk.\nSpending days and nights in her study, the scholar lost all sense of time.\nThis exquisite clock served as a beacon guiding the scholar in her relentless pursuit of knowledge.\nThe time the scholar spent would prove to be fruitful. Knowledge would find its way to her.\n",
+                "10012_Ti"
+            ],
+            "Goblet": [
+                "Scholar's Ink Cup",
+                "Originally designed to hold drinking water, this cup was stained black after a scholar used it to wash their paint brushes.",
+                "\nA delicate tea cup that belonged to a scholar. This treasured cup is made of light porcelain and gilded with gold stripes.\nThe dainty cup was in stark contrast with the messy room in which it was found, but seemed to suggest that the scholar was from a well-to-do family.\nNot caring about the beauty and purpose of the tea cup, the scholar in her ivory tower dipped her quill pen in it.\nShe only saw it as a convenient ware to wash the tip. Now covered in ink stains, the cup has long since lost its former elegance.\n",
+                "10012_Go"
+            ],
+            "Headpiece": [
+                "Scholar's Lens",
+                "This corrective lens helped restore the vision of one whose eyes were damaged from intensive studying.",
+                "\nThe pursuit of knowledge is a risky gamble. Even after devoting one's entire life to it, it may prove to have been futile.\nThe scholar spent half of her lifetime in endless research, taking notes and making calculations.\nHaving failed to find the answers she was looking for, she once hesitated and questioned her career choice, thus wasting further time.\nHer once sharp eyesight had also been damaged by intensive reading.\nAll this, and the answers she sought were still beyond her reach.\n",
+                "10012_He"
+            ]
+        }
+    },
+    "Traveling Doctor": {
+        "Bonuses": [
+            [
+                "2",
+                "Increases incoming healing by 20%."
+            ],
+            [
+                "4",
+                "Using Elemental Burst restores 20% HP."
+            ]
+        ],
+        "SID": "10013",
+        "Set Pieces": {
+            "Flower": [
+                "Traveling Doctor's Silver Lotus",
+                "A precious medicinal ingredient that has lost all medicinal value after years in storage.",
+                "\nThe doctor traveled across the land in search of rare herbs, with the zeal of an adventurer.\nOn a steep cliff between slippery rocks, she found this silver lotus.\nThe lotus was never made into medicine, but its scent gave her the strength to go on from that day forward.\n",
+                "10013_Fl"
+            ],
+            "Feather": [
+                "Traveling Doctor's Owl Feather",
+                "The durable feather of an owl. Emblematic of nocturnal supremacy, it gave some encouragement to the Traveling Doctor when venturing out to visit patients late at night.",
+                "\nEven the pitch-black night could not stand between the traveling doctor and her patients.\nDanger lurks in every corner at night. Those who venture out must be as vigilant as the owl.\nBut unlike the owl, the endless nights without rest eventually took their toll on the traveling doctor, and she fell ill.\n",
+                "10013_Fe"
+            ],
+            "Timepiece": [
+                "Traveling Doctor's Pocket Watch",
+                "A precise instrument used for keeping time. For a doctor, every second counts.",
+                "\nWhen treating a dying patient, every second counts.\nThe accuracy of this watch had helped the traveling doctor turn the tide numerous times.\nBut as she lay alone on the sickbed in her final days, all she could do was savor its sound, each tick standing for one of the precious moments of life she had left.\nWhat used to be a tool to save lives now sang a final elegy for its owner.\n",
+                "10013_Ti"
+            ],
+            "Goblet": [
+                "Traveling Doctor's Medicine Pot",
+                "This pot used to carry concentrated and extremely potent concoctions. It is now empty, but still gives off a strong smell of medicine.",
+                "\nThe medicine has long dried up, but its bitter smell still lingers in this pot.\nWith that bitter medicine, the traveling doctor saved countless lives.\nAnd when she fell seriously ill, no-one was there for her except for the medicine pot on the furnace.\n",
+                "10013_Go"
+            ],
+            "Headpiece": [
+                "Traveling Doctor's Handkerchief",
+                "Used to tie back the doctor's hair when treating patients. Can also be used as a sling for sprains and broken arms in emergencies.",
+                "\nBack when the traveling doctor roamed from place to place, her days were busy and she hurried between appointments.\nCome sun or rain, nothing could keep her from her work.\nThis handkerchief not only protected her messy hair, it also served as a bandage.\nIt saw her through all her hardships and became her most loyal partner on her journey.\n",
+                "10013_He"
+            ]
+        }
+    },
+    "Blizzard Strayer": {
+        "Bonuses": [
+            [
+                "2",
+                "Cryo DMG Bonus +15%"
+            ],
+            [
+                "4",
+                "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."
+            ]
+        ],
+        "SID": "14001",
+        "Set Pieces": {
+            "Flower": [
+                "Snowswept Memory",
+                "A long-extinct flower, covered in beads of frost, that once grew on the glaciers. There was a time when even the proudest and most arrogant warriors bowed before it.",
+                "\nThis is a flower of ever-frost, plucked by a pair of gentle hands.\nIt must have given a certain someone the strength to see winter as a warm embrace.\n\n\"This fourth fresco is prepared for you. Your likeness will forever remain on this wall.\"\n\"For the sake of that fresco, and for everyone's sake, I will wait for you, and pray for your return...\"\n\nThe maiden stood before a blank wall, and smiling, she pinned a small flower to the hero's breast.\nThat was an elegant and unruffled fellow, who would never bat an eyelid, not even in the face of death itself.\n\nThe heroism of the Icebreaker was forgotten, buried in the storms of the North.\nSince then, the snow has melted \u2014 but this flower has not withered.\n",
+                "14001_Fl"
+            ],
+            "Feather": [
+                "Icebreaker's Resolve",
+                "A feather that exudes a chilly aura. One can almost feel the turbulent winds that brought it here, wailing over snow-covered plains and between frosty peaks.",
+                "\nA feather of a bird of prey that did not originally belong in the winter chill. It is cold to the touch.\nAnd when you do touch it, it is as if you can hear cries in the snowstorm, unbowed but bereft of hope.\n\nWith no nest or shelter, the bird faced the storms proudly.\nThis feather has been assailed with coalescing ice and snow, leaving it coated in pearls of frost.\n\nIt once came from a falcon in flight and was plucked violently from that bird by the frigid winds.\nIt drifted a while in the air before the weight of the frost dragged it back down to the ground.\n\n\"I believe that the lively birds will follow you, and return to the gardens of the summer palace, now green once more.\"\n\"Those who have been chased away by the chilling tide, and those children who have lost their homes, they will return with you to the home of their dreams.\"\n\nThe hero, bearing such great burdens on his back, halted in the whipping snow, struggling to discern the color of that feather.\nSealed in ice, that feather's color faded every step of the way \u2014 just like the hero's task.\n",
+                "14001_Fe"
+            ],
+            "Timepiece": [
+                "Frozen Homeland's Demise",
+                "A timepiece from a nation of old that waited for their warriors' return. What flows inside is not sand, but bits of ice that never melt.",
+                "\nAn ancient hourglass with fine powdered snow flowing in it.\nEven the coldest winter cannot freeze the flow of time.\n\n\"The cold that descends from the sky can freeze time itself.\"\nThis myth was widely believed throughout the entombed mountain city.\n\nAs the hero reached the top of the wall of wind and ice, the night was descending and the snowstorm was howling.\nNeither sun- nor moon-light could pierce this white wind easily.\nEven the bleakest storm cannot freeze the river of time,\n\nThat will not wilt even if buried deep below the snow.\nAnd even the most formidable hero will one day be forgotten.\n",
+                "14001_Ti"
+            ],
+            "Goblet": [
+                "Frost-Weaved Dignity",
+                "A cup carved out of ice that is as chilly and biting as winter. Its former master would drink an unfreezable liquor from it.",
+                "\nFor the outlander who once searched for hope in midwinter on another's behalf,\nEven the glass he drank from was carved out of ice.\n\nDrinking bitter wine in this glass would feel like swallowing icicles that stung every inch of one's throat.\nOrdinary people would struggle to enjoy this sensation \u2014 but the reticent hero relished it.\n\nHe was a warrior as silent as the ice itself, blocking the frigid winds that descended from the stars with his body.\nBut not content with merely being protected, the maiden who painted left the man she admired these last instructions:\n\n\"If fear or despair, both of which are within our nature, should crush you, or cause you to never return, then...\"\n\"...Then please, live on. Do not accompany us unto our doom \u2014 to languish forgotten in the snow.\"\n\nTaking another swig of bitter wine to steel himself for the journey, he turned away from the maiden's wet eyes,\nAnd he would set out on an unending pursuit, towards the land of snow and profundity.\n",
+                "14001_Go"
+            ],
+            "Headpiece": [
+                "Broken Rime's Echo",
+                "The crown of an ancient hero who dreamt of conquering the cold. It is proof of its former master's bravery in facing the bone-chilling cold of winter.",
+                "\nThe hero set out on his journey, bearing the tiny hopes that the entombed city still had for salvation.\nDonning his winter crown, he marched purposefully away, disappearing into the boundless snowstorm.\n\nBearing his agreement with the mountain city, bearing their clear-eyed gazes, the hero never once feared the unknown beyond the icy curtain.\nThe once-lush mountainside and the blessings that now no longer fell from the skies \u2014 these were the hero's motivation to carry on no matter what.\n\n\"Past the ice-sealed door, walking down the corridors to the depths,\"\n\"He will break off a branch of silver-white, and bring hope to the snowy land.\"\n\nThe maiden sang these songs to comfort her people, and she nursed her memories of him.\nShe believed that he would return to her, with genial springtime and unshakeable hope in his train.\n\nBut in the end, the hero who stepped out into the snow would not return in time.\nHe would stand accused of flight by hateful words long ground to dust amid the snowstorms...\n",
+                "14001_He"
+            ]
+        }
+    },
+    "Thundersoother": {
+        "Bonuses": [
+            [
+                "2",
+                "Electro RES increased by 40%."
+            ],
+            [
+                "4",
+                "Increases DMG against opponents affected by Electro by 35%."
+            ]
+        ],
+        "SID": "14002",
+        "Set Pieces": {
+            "Flower": [
+                "Thundersoother's Heart",
+                "A flower that blooms even amidst ferocious thunder and lightning. To this day, it still grants courage to travelers in thunderstorms.",
+                "\nA purple flower plucked in a thunderstorm.\nWhoever wears it will no longer fear the thunder and lightning.\n\nThis flower blossoms only in thunderstorms, and never withers despite the constant rain.\nThis is the Flower of Thunder. Kneeling before it, the Thundersoother plucked it with reverence.\n\nThe Thundersoother wore this flower on his chest at all times as he fearlessly faced the thunder and lightning.\nEven when fighting the fierce Beast of Thunder, his resolve never wavered.\nTo the Thundersoother, wearing this purple flower may have been merely an act of whimsy,\nbut to travelers, the flower was the source of the unfaltering resolve that conquered the thunder.\n",
+                "14002_Fl"
+            ],
+            "Feather": [
+                "Thundersoother's Plume",
+                "The feather of a predatory bird that soars through lightning storms. It was said to have been adopted as an insignia by the legendary hero who pacified thunder and lightning.",
+                "\nAn insignia made in the shape of the plume of a falcon that soared through the storms.\nIts wearer can almost feel the booming of thunder and the heat of a volcano.\n\nFearing neither the thunder nor the volcano,\nthe falcon left its plume in the burnt woods.\nThe Thundersoother fashioned an amethyst insignia in the plume's likeness.\nThe purple insignia shimmered with light under the gaze of enemies.\nOn this small object lightning glittered,\nas if to foreshadow the downfall of the Beast of Thunder.\n\nLike the falcon, the Thundersoother conquered both thunder and flames,\nand eventually beheaded the Beast of Thunder.\n",
+                "14002_Fe"
+            ],
+            "Timepiece": [
+                "Hour of Soothing Thunder",
+                "A timepiece kept by the hero who conquered thunder and lightning. The tiny shards of Electro crystal within flow back and forth with the passing of time.",
+                "\nAn hourglass the Thundersoother once used. Flowing within it is not sand, but tiny Electro shards.\nThe shards shatter and flow down as time passes, then merge together at the bottom of the hourglass.\n\nThe Thundersoother who defeated the Beast of Thunder crafted this hourglass from amethyst.\nThe passage of time is just like lightning. It bursts through the sky and is gone in a flash.\nEven the Thundersoother could not conquer the flash of time.\n\nWithin this hourglass, even thunder and lightning have to obey the never-changing law of time.\nIn the hourglass, the shards shatter and merge countless times while time silently flashes by.\nObserving this taught the Thundersoother about the cycle of life and death. Empowered with this knowledge, he was able to defeat the beast.\n",
+                "14002_Ti"
+            ],
+            "Goblet": [
+                "Thundersoother's Goblet",
+                "The wine goblet from which the Thundersoother, who defeated the Beast of Thunder, once drank violet lightning.",
+                "\nA goblet that once belonged to the Thundersoother.\nPerhaps its former owner once used it to drink the thunder.\n\nMighty as he was, the Thundersoother was a mere mortal with human feelings.\nRage and ecstasy would come and go in a flash, just like the pounding thunder.\nThis goblet witnessed not only the feats of the Thundersoother, but also his sorrow and laughter.\n\nFrom this goblet was drunk the wine used in the sacrificial slaying of the Thundersoother's family.\nFrom this goblet came the courage that helped the Thundersoother venture forth into the beast's cave.\nFrom this goblet came the sole source of companionship for the Thundersoother, who spent his final days in solitude.\n",
+                "14002_Go"
+            ],
+            "Headpiece": [
+                "Thundersoother's Diadem",
+                "The crown given to the Thundersoother for defeating the Beast of Thunder that had been wreaking havoc upon the land.",
+                "\nA very ancient diadem.\nIt shines with the light of the pacified lightning.\n\nThe ferocious Beast of Thunder\nonce enslaved people with its mighty lightning.\nBut its lightning existed only in a flash,\nand like the lightning, its mightiness soon disappeared.\n\nThe Thundersoother defeated the beast in a lightning storm.\nHe claimed this diadem as his trophy.\nBut the past can never be fully pacified.\n",
+                "14002_He"
+            ]
+        }
+    },
+    "Lavawalker": {
+        "Bonuses": [
+            [
+                "2",
+                "Pyro RES increased by 40%."
+            ],
+            [
+                "4",
+                "Increases DMG against opponents affected by Pyro by 35%."
+            ]
+        ],
+        "SID": "14003",
+        "Set Pieces": {
+            "Flower": [
+                "Lavawalker's Resolution",
+                "A flower that blooms amidst burning flames. It is said that long ago, a sage once wore it as he walked into a sea of fire.",
+                "\nA flower that only blooms in the burning flames.\nThe searing pain it causes will make the wearer stronger.\n\nThe fiery-red flower shines like shimmering agate.\nThis flaming flower was once a brooch worn by the Lavawalker.\n\nIn the Lavawalker's final days, he said to his people:\n\"This is the flower that blooms in flames. Until the day that the fires turn me into ashes,\nYou shall see the glowing embers of this flower shining through the dark smoke.\"\n\nThe people followed the flower's flickering light to the edge of the Mare Jivari.\nThere they found the blooming flowers \u2014 but the Lavawalker was nowhere to be seen.\n",
+                "14003_Fl"
+            ],
+            "Feather": [
+                "Lavawalker's Salvation",
+                "The feather of a proud phoenix. You can almost hear the sound of its wings flapping in the scorching flames.",
+                "\nA feather plucked by the Lavawalker from a bird that sings amid the flames.\nThe wearer can almost hear the sound of the bird's wings flapping in the blaze.\n\nLegend has it that there exists a kind of solitary bird that sings in the blazing flames.\nPeople worshiped it as a totem while kings saw it as a sign of nobility.\n\nDonning this feather, the Lavawalker retreated from the outside world.\nAlone he came and alone he went, leaving no trace behind.\nSince then, people often hear cries coming from the Mare Jivari.\nNo-one knows if they are the song of the bird or the sighs of the Lavawalker.\n",
+                "14003_Fe"
+            ],
+            "Timepiece": [
+                "Lavawalker's Torment",
+                "Burning sand flows within this hourglass. Despite the intense heat, the sand leave no mark upon the vessel that houses it.",
+                "\nWhat flows within this hourglass is not regular sand, but burning sand.\nLike this burning sand, time flows forward, leaving no trace of its own existence.\n\nThe story of the Lavawalker continued even after he had traveled across the Mare Jivari.\nIt is said that he spent another one hundred years living as a hermit.\nBut this short retreat brought little relief from his burning torment.\n\nDuring his time as a secluded sage, the Lavawalker could not bear the eternal scorch. He crafted this hourglass to mark the passing of time.\nAs the flames blazed, burning sand flowed endlessly through the hourglass day after day.\n\nSadly, though the Lavawalker did not fear the scorching flames of the Mare Jivari, he could not quench the torturing flames of time.\nThe anguish of being left alone without the disciples and family he held so dear burned away at his soul more than any flames could ever scorch his flesh.\n",
+                "14003_Ti"
+            ],
+            "Goblet": [
+                "Lavawalker's Epiphany",
+                "A legendary goblet that can withstand extremely high temperatures. It still retains a degree of warmth even though it is now empty.",
+                "\nA goblet that once contained lava. Now empty, it still has a slight hint of warmth.\nThis goblet once belonged to a sage known as the Lavawalker. Wisdom flowed from within.\n\nThe Lavawalker would toy with the goblet. Even in the blazing heat, it remained intact.\nLegend has it that the Lavawalker would drink lava from this goblet as if it were a glass of fine wine.\nBut while fine wine evaporates in high heat, the wisdom of the sage could withstand a trial by fire.\n\nTo the Lavawalker, fine wine was merely a catalyst in the process of producing ingenuity.\nAided by alcohol, even the slightest spark can combust into a brilliant idea.\n\nThe goblet was a silent witness to the forging of wisdom amidst the flames.\nThe moment before the Lavawalker set off on his final journey was when the goblet was filled with the most pride.\n",
+                "14003_Go"
+            ],
+            "Headpiece": [
+                "Lavawalker's Wisdom",
+                "The circlet of a sage who traversed a sea of fire. It once shone brightly from their ancient silhouette as they stood strong amidst the flames.",
+                "\nAn ancient circlet that once belonged to the Lavawalker \u2014 a sage who wandered in the Mare Jivari.\nUpon close examination, one can almost see his figure standing strong amidst the fiery flames.\n\nThe wandering sage of the Mare Jivari known as the Lavawalker crafted this circlet from crimson agate to resist the intense heat of the flames.\nThe circlet was built with wisdom and tenacity. It sparked fear and jealousy among peers and seniors alike.\n\n\"How dare the Lavawalker challenge the flames of the Mare Jivari! Such blasphemy has not been seen in hundreds of years!\nThe flaming sea will surely devour this arrogant young man and the sky will blow his ashes into the void.\"\n\nIn his jealousy, the teacher demanded that his student step into the flaming sea wearing the circlet.\nIn a state of calmness, the Lavawalker strolled onto the lava and gradually disappeared into the horizon.\n",
+                "14003_He"
+            ]
+        }
+    },
+    "Maiden Beloved": {
+        "Bonuses": [
+            [
+                "2",
+                "Character Healing Effectiveness +15%"
+            ],
+            [
+                "4",
+                "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+            ]
+        ],
+        "SID": "14004",
+        "Set Pieces": {
+            "Flower": [
+                "Maiden's Distant Love",
+                "A fragrant flower that will bloom for all eternity and never wither.",
+                "\nThe maiden's flower. Fresh and elegant just like its original owner.\nThe books say that this species of flower has long been extinct.\n\nJust like that passage the maiden had read countless times in books:\n\"The damsel in distress was saved by the white knight in shining armor.\"\n\"And they exchanged flowers as blessings to one another.\"\n\nThough a maiden's heart is said to change with the seasons, just like a flower,\nThis flower remained constant.\nFor her heart had stopped in that moment long ago:\nThe moment that she met the knight.\n",
+                "14004_Fl"
+            ],
+            "Feather": [
+                "Maiden's Heart-stricken Infatuation",
+                "A feathered accessory that carries the longing for a certain someone, like a migratory bird on the wind.",
+                "\nAn old but delicate feathered ornament.\nAfter many years, it is now covered in layers of dust.\n\nFor the maiden, time stopped still the day she met the knight.\nNothing mattered to her anymore, not even love and youth.\nShe sought him constantly, wandering far like a lost bird without a nest to cling to.\n\n\"May my love reach the knight,\" she prayed.\nMeanwhile, the knight dedicated himself to the pursuit of chivalry.\nIn a distant land where ancient empires crumbled,\nWould the knight see the scenery she dreamt of?\n",
+                "14004_Fe"
+            ],
+            "Timepiece": [
+                "Maiden's Passing Youth",
+                "The hands of time will never come to an end, but the same cannot not be said for those cherished years of the young maiden's life when she was doted upon.",
+                "\nA delicate timepiece.\nIt stood as a testament to the inevitable passage of time, indifferent to its owner's feeling.\n\nThe maiden's time would one day come to an end.\nBut her waiting would not.\nThe short hand seemed to be constantly chasing after the long hand.\nMuch like the incessant longing that filled the maiden's heart and mind.\n\nYears after the event, she still remembered the knight she met that day.\nThe white knight that came to her. The white knight she had been waiting for ever since.\n",
+                "14004_Ti"
+            ],
+            "Goblet": [
+                "Maiden's Fleeting Leisure",
+                "A vessel made with sweet black tea in mind rather than bitter liquor.",
+                "\nThe maiden's most cherished teaware.\nIt was once filled with elegant black tea.\n\nIndulging herself in pastries and tea,\nShe cared not one bit about the mundane world. This was her privilege as a maiden.\n\n\"This flower shall be my medal. That is all I need.\"\nThe knight said to her on the day they met.\n\"But, my heart is already\u2014\"\nNot finishing her confession was her privilege,\nbut also the chains of courtliness the maiden had to bear.\n",
+                "14004_Go"
+            ],
+            "Headpiece": [
+                "Maiden's Fading Beauty",
+                "A meticulously well-maintained woman's hat that keeps wrinkles safely out of sight.",
+                "\nEven when surrounded by flowers from her courters, \nThe maiden never removed her hat to get a better look at them.\nTheir names and faces were not worth remembering.\n\nFor years, at the end of every day,\nthe maiden would brush off the dust on her hat.\nBut the passage of time showed in her face, too \u2014 and unlike the dust, it could never be brushed off.\n\nAs time passed, fewer and fewer courters visited her with flowers.\nWhat did it matter? For her, time had already stopped long ago on that fateful day.\n",
+                "14004_He"
+            ]
+        }
+    },
+    "Gladiator's Finale": {
+        "Bonuses": [
+            [
+                "2",
+                "ATK +18%."
+            ],
+            [
+                "4",
+                "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+            ]
+        ],
+        "SID": "15001",
+        "Set Pieces": {
+            "Flower": [
+                "Gladiator's Nostalgia",
+                "No-one knows why the legendary gladiator wore this flower on his chest. It was the brutal warrior's only weakness.",
+                "\nAn ordinary flower picked gently by the gladiator's master.\nHe made a brooch with it and pinned it on the gladiator's chest. It came to symbolize his gentler side.\n\nBefore the gladiator became a living legend, he once strolled with his young master in the garden.\nThe master picked a flower and gave it to the silent slave.\n\"Not all gifts are given out of benevolence. Sometimes they are nothing more than acts of whimsy.\"\nOne day in the far-off future, the gladiator's sly master would say these words to him.\n\nThe invincible gladiator finally fell at the foreign girl's feet.\nAt that moment, he recalled a dream he had had many years ago.\n\"Such beautiful flowers. I wonder when I'll be able to begin my own journey to see them.\"\n\"I'd like to see how beautiful the wild flowers are.\"\n",
+                "15001_Fl"
+            ],
+            "Feather": [
+                "Gladiator's Destiny",
+                "A feather of dreams that soars free like an eagle. At the end of the gladiator's legendary life, this parting gift was left upon his chest by a bird that knew true freedom.",
+                "\nThe end had finally come for the triumphant gladiator.\nThe young challenger paid her final homage to the gladiator.\n\nWhen the vanity of victory and desire for freedom dissipated into the air like the morning fog,\nand when the light of dawn finally shone on the arena through layers of blood-soaked clouds, the gladiator saw a flying bird.\n\nOne battle away from being free, the gladiator was defeated by an anonymous girl.\nCries and howls burst out in the crowd like pounding thunder, but the victor refused to humiliate her opponent by execution.\nShe refused to plunge her sword into the opponent's throat and end his life like that of a slave.\n\nThe gladiator's healing wounds were covered with invisible feathers.\nHe eventually set off on a journey, finally as free as a bird.\nHis destination was the place where flowers bloom and birds soar.\n",
+                "15001_Fe"
+            ],
+            "Timepiece": [
+                "Gladiator's Longing",
+                "A timepiece that recorded the gladiator's days in the bloodstained Colosseum. To him, it counted down the days on his long road to freedom.",
+                "\nThe gladiator crafted this hourglass himself. He would flip the hourglass before each battle.\nWhen the hourglass stopped flipping, the gladiator had long since died in a pool of his own blood.\n\nThe gladiator would put this hourglass aside before entering the arena.\nWhen the fight had ended and the crowd started to cheer for him, the sand in the hourglass was still flowing.\n\nIn the gladiator's final fight, he faced a young girl.\nIn her eyes, he saw both the timidity of a young girl and the ferocity of a young lioness.\nFrom his steps, the girl saw the unbreakable shackles of age that the gladiator wore.\nIt was a fight like the old gladiator had not had in years. Fierce, yet satisfying.\nBut the fight ended in a flash. The sword plunged into the gladiator's heart, and the sand in his hourglass crawled to a stop.\n",
+                "15001_Ti"
+            ],
+            "Goblet": [
+                "Gladiator's Intoxication",
+                "The golden cup a champion gladiator drank from in ancient times. It brimmed with his glory for years until the fateful day of his fall.",
+                "\nA lavish goblet made of gold. It was a gift from the champion gladiator's master.\nFrom this goblet the champion gladiator drank, be it fine wine or the blood of the defeated.\n\nAnother victory for the gladiator. Covered in wounds, he dedicated the victory to his master.\nMore intoxicating and pain numbing than the fine wine was the victory, honor, and applause from the crowd. \n\nThe master allowed him to join the feast and presented him with this goblet.\nIt was an exquisite goblet, made specially for him. A symbol of how much his master cared.\nBut the golden chains of vanity had bound the gladiator and the poisonous snake of desire had strangled him.\nBy pausing to wait for the wine of victory, the gladiator missed his chance to seize a fleeting chance at freedom.\n",
+                "15001_Go"
+            ],
+            "Headpiece": [
+                "Gladiator's Triumphus",
+                "The helmet of a legendary gladiator from ancient times, who would proudly stretch out his bloodied arms to welcome the thunderous applause of his audience.",
+                "\nA helmet of the gladiator adorned with feathers.\nTo zealous spectators, this helmet was the symbol of invincibility.\n\nThe legendary gladiator had fought numerous battles. None had ever stood a chance of survival before his sword, be they human or monster.\nOn each triumphant day, the champion gladiator would walk through the gate to a hero's welcome from the adoring crowd.\n\nOnly in moments of victory could the slave have a taste of what it felt like to be a master. But the cost of this vain aspiration was for the faint glow of freedom to be shrouded by darkness.\nOn the day of his triumph, the gladiator finally caught a glimpse of the world outside his cell. He was a step closer to freedom.\n\nBut only when his helmet fell down on the arena floor did he and the spectators alike realize that it was all just a farce.\nThe offering of his petty life made no difference. He would always be a worthless slave in the eyes of his master.\n",
+                "15001_He"
+            ]
+        }
+    },
+    "Viridescent Venerer": {
+        "Bonuses": [
+            [
+                "2",
+                "Anemo DMG Bonus +15%"
+            ],
+            [
+                "4",
+                "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+            ]
+        ],
+        "SID": "15002",
+        "Set Pieces": {
+            "Flower": [
+                "In Remembrance of Viridescent Fields",
+                "A wild flower that was once a ubiquitous sight in its homeland. It was picked by a hunter who wore it on their chest.",
+                "\nA white wild flower that used to cover the earth.\nIt has not withered one bit, and still gives off an exquisite fragrance.\n\nIn the days when wildlife still roamed the earth and monsters had not yet appeared,\nthe Viridescent Venerer would use this flower to conceal her human scent.\nThus it was said that to seek the silent and gentle Viridescent Venerer,\none simply need to close one's eyes and walk barefoot through the forest, following the subtle fragrance of wild flowers.\nOnly those who could tread as softly as a hunter could avoid making the leaves crackle underfoot, alerting the queen of hunters to their presence.\n\nIt was also said that the one who eventually found the hunter was a boy.\nAt that time, disaster had just befallen the ancient kingdom and misery was spreading across the land.\n",
+                "15002_Fl"
+            ],
+            "Feather": [
+                "Viridescent Arrow Feather",
+                "The fletching of an arrow that once pierced right through its prey, but somehow still remains spotless.",
+                "\nA glossy and shining feather of a falcon. It once served as a fine fletching on one of the Viridescent Venerer's arrows.\n\nIn the past, when the Viridescent Venerer's arrow hit its target,\nshe would come down and stroke the fur of her prey gently until its life force returned to nature in peace.\nFor she knew that one day, she too would embark on a journey to the place where the souls of her prey rested.\n\nThe Viridescent Venerer believed that at the end of her life, she would wake up from reality,\nand be reunited with the departed at an endless hunting ground.\n\nBut she also believed that the moment her arrow pierced through the monster that had killed the boy,\nthat endless hunting ground at the end of her life was gone from her grasp.\nFor she killed that mutated monster not for the sake of survival,\nbut out of vengeance and suffering.\n",
+                "15002_Fe"
+            ],
+            "Timepiece": [
+                "Viridescent Venerer's Determination",
+                "A wondrous instrument that a hunter once wore. It forever points towards their prey.",
+                "\nA delicate device used for wayfinding.\n\nLegend has it that when the Viridescent Venerer walked barefoot on the fields,\nthe grass beneath her feet would tell her what the birds in the trees could see,\nand the mud she trod on would tell her what the roots in the earth could hear.\n\nBut it is said that ever since disaster struck, the grass and trees never spoke again.\nFor the God of the Woods had died in the disaster.\n\nSince then, she relied on this device for direction when hunting.\nAt the request of a boy she encountered, she ceased hunting birds and beasts.\nInstead, she made the monsters that brought destruction and suffering her prey.\n",
+                "15002_Ti"
+            ],
+            "Goblet": [
+                "Viridescent Venerer's Vessel",
+                "A water pouch used by the Viridescent Venerer. Its capacity is much greater than one would expect.",
+                "\nA very robust and leakproof vessel.\nA legendary hunter known as the Viridescent Venerer once used it to collect whispers by the campfire.\n\nOne night, the Viridescent Venerer picked up the scent of other human beings.\nAs a hunter, she feared neither wolf packs nor monsters.\nWhat she feared far more than this was joining the chatter by the campfire.\nFor she had long forgotten how to speak human language.\n\nEven after rejoining the humans and accepting her place as Viridescent Venerer, no-one ever heard her say a single word.\nSimilarly, no-one ever saw her leave a single trace behind.\n\nThe Viridescent Venerer collected the laughter she heard that night and stored it in her vessel.\nFor many years, she would listen back to the voices in the vessel whenever she felt lonely.\n",
+                "15002_Go"
+            ],
+            "Headpiece": [
+                "Viridescent Venerer's Diadem",
+                "A proud crown that once belonged to the Viridescent Venerer. It is as lush and green as the breezes of the wild.",
+                "\nA hunter's hat without any blood stains.\nIn folklore, it belonged to the uncrowned queen of hunters \u2014 the Viridescent Venerer.\n\n\"Never become the foe of the earth and the forest.\" This was the hunters' rule.\nInstead, a hunter should become a silent part of nature.\nIt is said that a bird once built its nest in this hat.\n\nNone could ever bestow a crown upon the queen of hunters,\nsince the only one superior to her was nature itself.\n\nIn the crisis that soon followed, her hunter's hat became\na frightful sight for monsters to behold.\n",
+                "15002_He"
+            ]
+        }
+    },
+    "Wanderer's Troupe": {
+        "Bonuses": [
+            [
+                "2",
+                "Increases Elemental Mastery by 80."
+            ],
+            [
+                "4",
+                "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+            ]
+        ],
+        "SID": "15003",
+        "Set Pieces": {
+            "Flower": [
+                "Troupe's Dawnlight",
+                "A small flower-shaped insignia. If you listen carefully, you can almost hear a flute playing and voices singing.",
+                "\nA small flower-shaped insignia. There seems to be music coming from it.\n\nAmong the members of the troupe was a charismatic swordswoman.\nBeautiful as the light on water, elegant as the chirping lark.\nHer every slash hummed a tune of the wind.\n\nThe end of each song and dance was like the sun after the rain.\nDust has since settled, and both the stage and life itself feel emptier for the absence of her music.\n\nBoth her music and her sword were as lethal as they were beautiful.\nThis was in keeping with the troupe's performances, which were intended for two very different audiences.\nFor the audience of foes, the music drifted far beyond the stage.\n",
+                "15003_Fl"
+            ],
+            "Feather": [
+                "Bard's Arrow Feather",
+                "An azure arrow fletching that has neither faded nor splintered with the passage of time. The sound of running water seems to linger around it.",
+                "\nAn azure arrow fletching that has survived the test of time.\nThe fletching seems to produce a tune as the arrow flies through air.\n\nThe harpist of the troupe was also a skilled archer.\nLegend has it that he could lure the birds in the sky with his harp and then shoot them down with his arrows.\nIt is said that he never looked at the sky while he was playing the harp to lure the birds.\nSome believed the reason was his harpist's arrogance, while his companion said it was his hunter's mercy.\n\nThe ill-fated birds became the fletching of the harpist's arrows,\nand the sound of the harp became the birds' elegy.\n",
+                "15003_Fe"
+            ],
+            "Timepiece": [
+                "Concert's Final Hour",
+                "An hourglass used to keep time during a band performance. It once made a crisp sound, but their performance has since ended.",
+                "\nThe troupe's hourglass, which is also a harp.\nThe tune becomes deeper with the passage of time.\n\nWhen the performance was coming to an end, the troupe would play this harp.\nAs time passed, the tune of the harp became deeper.\nThe sound of the harp dying down marked the end of the show.\n\nEverything has an end, and the troupe was no exception.\nOne by one, each member of the troupe met their fate and their instruments were buried deep in the dust.\nAs the harp fell silent, the final sound heard from the musical troupe was the faint trickle of sand as it slid down the hourglass one final time.\n",
+                "15003_Ti"
+            ],
+            "Goblet": [
+                "Wanderer's String-Kettle",
+                "An ancient, strangely-shaped canteen. The interior is fitted with harp strings, which play a wondrous tune as the water flows out.",
+                "\nA strangely-shaped kettle that plays a wondrous tune as the water flows out.\nThere was always music in the life of a Troupe member, even when drinking water.\n\nAn ancient tale tells of a wandering troupe that roamed the land.\nFor flutes they had swords, and for harps they had bows. They performed not only for friends, but also for foes.\nThey traveled through the desert and set foot in the blazing Mare Jivari.\n\nThe tune of the harp echoing in the kettle was a reminder for them.\n\"Along with the boundless tunes we walk.\"\n\"Wherever there is music, there is us.\"\n",
+                "15003_Go"
+            ],
+            "Headpiece": [
+                "Conductor's Top Hat",
+                "A top hat that has managed to retain its radiance despite braving the elements for time untold. An ancient tune still resonates within.",
+                "\nA beautiful top hat untouched by time.\nListening closely, one can almost hear an ancient tune echoing inside the hat.\n\nThousands of years ago, a troupe wandered through the lands.\nThe troupe owned not a single shred of sheet music. What they saw was what they sung, and what they heard was what they played.\nAs time passed, the troupe gradually realized the vastness of the world.\n\n\"There are so many things in the world for us to sing of.\"\n\nThe members then turned the notes into words and recorded their journey in a book.\nThis book, The Widsith as they called it, was still held tightly in the conductor's hands even after his death.\n",
+                "15003_He"
+            ]
+        }
+    },
+    "Glacier and Snowfield": {
+        "Bonuses": [
+            [
+                "2",
+                "Cryo DMG Bonus +15%"
+            ],
+            [
+                "4",
+                "Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s."
+            ]
+        ],
+        "SID": "15004",
+        "Set Pieces": {
+            "Flower": [
+                "Heart of Frost",
+                "A flower that has been frozen in time from the moment it was picked. The knight kept it as a memento forever after.",
+                "\nThis flower once bloomed in a foreign land, but its colors faded after it became encased in ice.\nIt was frozen when picked, serving as an eternal memento for the Knight of Boreas.\n\nThe Knight of Boreas had a heart of firm iron and a body hardened like the glaciers of the North.\nWolves befriended him and the North Wind accompanied him.\n\nYet few knew he belonged not to the heartless snowscape of the North.\nHis true home was filled with never-withering flowers and never-frozen rivers.\nBut he left his homeland. For he had a ranger's boundless spirit, which conflicted with the sages' narrow idealism.\nThe flower he picked became his loyal companion through countless winters.\n\n",
+                "15004_Fl"
+            ],
+            "Feather": [
+                "Plume of Snow",
+                "A bird feather that was picked up by the knight who walked with the North Wind in the snow. It still awaits the day when it will thaw.",
+                "\nThe feather of a bird that had never experienced the brisk winter is now frozen in ice.\nThe memory of the knight this feather carries will eventually fade, just as the ice will thaw.\n\nThe knight wandered along with the North Wind.\nAs feared as he was respected, he became known as the Knight of Boreas.\n\nWhen the Knight of Boreas noticed the whispered complaints of the people, he would set off on another journey.\nPerhaps the day would come when the winter ended. Sometimes, the Knight of Boreas mused aloud to the North Wind:\n\"A day may come when\u2014\"\nBut the moment he spoke, his words would be frozen by the howling wind.\n\n\"...when I can be in the land of spring, where flowers cover the earth and birds migrate homeward.\"\nWalking with the North Wind, the Knight of Boreas had always been waiting for the spring buried deep in his memory.\nSmiling wryly as he inspected the frozen feather, he wondered if the bird it came from shared his fate: lost in transit, with nowhere to call home.\n",
+                "15004_Fe"
+            ],
+            "Timepiece": [
+                "Glacial Sand",
+                "A timepiece once used by the knight who walked with the North Wind. A never-ending snowstorm rages within.",
+                "\nAn hourglass of ice.\nEternal winds, not sands, flow inside.\n\nThe Knight of Boreas walked with the North Wind, his armor covered in frost.\nOn his endless journey, the cold winters were gifts scattered around the land.\n\nSolidified frost obstructed his movements in combat amidst storms.\nWhen the Knight of Boreas rested, hopes of brief respite were dashed as he saw the ice on his armor only grew thicker while stationary.\nThe knight had long forgotten his days as a wanderer.\nThe eternal icy winds had long since frozen time.\n\n",
+                "15004_Ti"
+            ],
+            "Goblet": [
+                "Goblet of Aquilo",
+                "A goblet of eonothem left behind by the knight who walked with the North Wind. The chill of the bitter winter frost still lingers within.",
+                "\nA ritual goblet forged of ice.\nIt holds not wine, but the hollering wind.\n\nThe howling wind of the North was like a ferocious wolf pursuing the knight along his path.\nA normal traveler would have been devoured by the frosty wind.\n\nBut he was not a normal traveler.\nIn the storm, the knight raised the goblet filled with frosty wind and proposed a toast to his howling travel partner.\nTogether they drank, the bitter wind serving as their wine. The knight and the North Wind became friends.",
+                "15004_Go"
+            ],
+            "Headpiece": [
+                "Crown of Glacier",
+                "The crown worn by the knight who walked with the North Wind. It was forged using winter ice and silver.",
+                "\nA crown made of ice and silver,\noblivious to the spring of the North.\n\nAlong with the North Wind, the Knight of Boreas traveled through raging storms.\nThe Knight of Boreas fought with monsters on the icy plains of the North.\n\nHe traveled alone now, for the unrelenting blizzard had buried every last one of his companions in the snow.\nThe merciless wind itself had become his one faithful travel companion.\nThe hearts of those who look into the abyss shall be engulfed by the abyss,\nand the souls of those who fall into the glaciers shall become trapped in the glaciers.\n",
+                "15004_He"
+            ]
+        }
+    },
+    "Thundering Fury": {
+        "Bonuses": [
+            [
+                "2",
+                "Electro DMG Bonus +15%"
+            ],
+            [
+                "4",
+                "Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s."
+            ]
+        ],
+        "SID": "15005",
+        "Set Pieces": {
+            "Flower": [
+                "Thunderbird's Mercy",
+                "A lightning-infused flower, somehow spared the fate of being trodden underfoot or reduced to ash by the furious purple fire, making it the sole survivor on the day of disaster.",
+                "\nA purple wild flower that survived in the volcanic ash.\nIt witnessed the total decimation of the ancient tribe.\n\nWith an innocent's blood, the shaman summoned the Thunderbird.\nThey made their offerings, waiting for the Thunderbird to reveal and the oracles.\nHowever, what descended with the Thunderbird, was the lightning of destruction.\n\nFor the transgression against the young lad who sang to it, the sentence was total obliteration.\nThe Thunderbird showed its true nature, wiping the tribe from the face of the earth.\n\n\n",
+                "15005_Fl"
+            ],
+            "Feather": [
+                "Survivor of Catastrophe",
+                "A lightning-charged feather that still flickers with the wrath of the Thunderbird's cruel retribution.",
+                "\nThe lost feather of the Thunderbird enchanted in purple lightning.\nIt serves as the last witness of the destruction of the tribe.\n\nThe ancient tribe held the Thunderbird as its protector. But it rained down thunder upon the tribe.\nOn one gloomy night, it shared a pure friendship with the lad.\nOnce it departed, the lad picked up the feather it dropped.\n\n\"I shall sing you another tune,\nWhen you come again with thunder and rain.\"\n\nDriven to madness by the remorse of a promise unkept,\nThe Thunderbird left the mountain in cinders.\nIt was hunted down years after, slain as a monster.\n\nYears passed, the burned land revitalized.\nThe lightning-feather was left buried in the vegetation.\nThe story of the Thunderbird and the young lad all but perished with the tribe.\n\n",
+                "15005_Fe"
+            ],
+            "Timepiece": [
+                "Hourglass of Thunder",
+                "The hourglass used to foretell the coming of the Thunderbird by the tribe that worshiped it. It has fallen into eternal silence now that the tribe is no more.",
+                "\nA luxurious hourglass belonging to the ancient tribe that worshiped the Thunderbird.\nAs the tribe faded away, so did the hourglass.\n\nA luxurious hourglass, made with amethyst and amber gold, that belonged to a shaman.\nThe hourglass would serve its purpose for the festival held in the Thunderbird's honor.\n\nIn the last festival the tribe held, the frenzied Thunderbird blew away the bloodstained altar.\nThe countdown to the arrival of the protector became the countdown to the tribe's destruction.\nThe Thunderbird decimated the tribe to avenge the one who sang to it.\n\nUnbeknownst to the Thunderbird, the lad himself considered his sacrifice as an offering.\nAll for the good of the tribe, for the blessings of the Thunderbird.\n\n\n",
+                "15005_Ti"
+            ],
+            "Goblet": [
+                "Omen of Thunderstorm",
+                "A ceremonial cup that holds the blood of the innocent. It is brimming with the thundering fury of the prayers that echo within.",
+                "\nA ritual goblet used by the shamans of an ancient tribe.\nIt held the blood to be offered to the Thunderbird.\n\nIn the seasons when the Thunderbird flew amidst the stormy mountains, a young lad sang without fear.\nAttracted to his voice, the prideful Thunderbird landed by his side.\n\n\"Curious tunes, tiny human. Afraid not of thunder and storms?\n\"They said I can bring peace to thunder and storms.\"\n\nThe young lad paused and answered.\nThe Thunderbird cried but kept its silence.\nFor his was an enchanting song.\n\nIt was the first and last meeting between the Thunderbird and the young boy.\nFor the next he saw of the boy was when his blood filled the golden goblet on the sacrificial altar.\n",
+                "15005_Go"
+            ],
+            "Headpiece": [
+                "Thunder Summoner's Crown",
+                "A crown once worn by an ancient shaman who worshiped the Thunderbird. The capricious beast remained unmoved by the shaman's devotion.",
+                "\nIn the ancient tribe that worshiped the Thunderbird,\nelder shamans worn this crown.\n\nThe Thunderbird soared through the thunderstorms, raining down purple thunder and rain.\nAncient tribes feared its powers and thanked it for its blessings.\nShamans were chosen to offer blood sacrifices to it for protection and forgiveness.\n\nThe Thunderbird was still a monster that cared not for the worship of mankind.\nThey knew it not, and regarded the unpredictable actions of the Thunderbird as divine revelations.\nYet thunder was its breath, as were the fates of men.\nFrom the sky, men were no different from animals.\n\nUntil one day a song pierced through the roaring thunderstorm.\nThe song ripped through the clouds, and bestowed upon it, light.\n\n",
+                "15005_He"
+            ]
+        }
+    },
+    "Crimson Witch of Flames": {
+        "Bonuses": [
+            [
+                "2",
+                "Pyro DMG Bonus +15%"
+            ],
+            [
+                "4",
+                "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+            ]
+        ],
+        "SID": "15006",
+        "Set Pieces": {
+            "Flower": [
+                "Witch's Flower of Blaze",
+                "A flower touched by the witch who once dreamt of burning away all the demons in the world. The anonymous flames affectionately caress the hands of those who touch it.",
+                "\nA common species of flower.\nIt is curiously capable of resisting the Crimson Witch's flames.\n\nA crisis centuries ago dashed all hope of the maiden seeing the future promised to her.\nThose dear to her, her past days, and her bright future. All gone.\n\nFrom the ashes, the Crimson Witch of Flame was born, and she burned away her pain with fire.\nYet this flower stayed resilient, soft, and moist.\nPerhaps both painful and beautiful memories were two sides of the same coin.",
+                "15006_Fl"
+            ],
+            "Feather": [
+                "Witch's Ever-Burning Plume",
+                "A bird feather touched by the witch who once dreamt of burning away all the demons in the world. Its eternal flame burns hot.",
+                "\nA forever-burning bird feather.\nThe fire shall burn for all eternity.\n\nScorched earth followed in her wake, for she chose a path of hellfire.\nThough her fires only touched monsters and demons,\nPeople still cowered behind closed windows and try to drive her. But none of that mattered to her.\n\nNew hopes were birthed from the fires of old pains.\nShe needed not comforting nor sympathy.\nChirping by her side, the birds gave her all the understanding she needed.\n",
+                "15006_Fe"
+            ],
+            "Timepiece": [
+                "Witch's End Time",
+                "A timepiece worn by the witch who dreamt of burning away all the demons in the world. The years the witch dedicated to the flames flow within.",
+                "\nA small vessel containing a high-temperature liquid.\nIt is said to be the molten souls of evil spirits.\n\nA special Hydro timepiece given to the Crimson Witch before calamity struck. Back then she was still a maiden, and had not yet embarked on her journey.\nOne cycle was the time required to finish her study at the Academia.\nBy the time the countdown ended and she returned to her hometown, its previous owner had become a casualty of the crisis.\n\nHer maiden years were over. The Crimson Witch of Flame was born, and with her the era of destruction.\nThe timepiece bore witness to the days of monsters and the pain they caused, until all were burned away.\n",
+                "15006_Ti"
+            ],
+            "Goblet": [
+                "Witch's Heart Flames",
+                "A flame-spitting urn left behind by the Crimson Witch of Flames, who once dreamt of burning away all the demons in the world. The fire in the urn burns eternally, as did its former master.",
+                "\nA clear bottle containing liquid fire.\nThe techniques involved in making liquid fire have since been lost.\n\nThe Crimson Witch of Flame walked upon the earth, burning monsters into cinders.\nRumor told of how she sacrificed her mortal body to become the embodiment of liquid fire herself.\n\nStill, love and longing once dwelt in her maiden heart.\nUntil fires burned away that beautiful and fragile part.\nThus, she became the witch that historians were loath to remember.\n",
+                "15006_Go"
+            ],
+            "Headpiece": [
+                "Witch's Scorching Hat",
+                "A hat once worn by the witch who dreamt of burning away all of the demons in the world. The large brim blocked her sight.",
+                "\nA traditional witch's pointed hat with a large brim.\nIt grants a witch the reverence and fear which she commands.\n\nTo the Crimson Witch of Flame, this large hat shielded her from surrounding distractions.\nIt was how she was able to hone her Pyro skills when she was still an apprentice.\n\nIn combat, she needed not pay attention to monsters disintegrating in flames.\nNor did she need to look at her own burnt face in the water's reflection.\nAnd so the Crimson Witch continued to burn, blind to the extent of her devastation.\n",
+                "15006_He"
+            ]
+        }
+    },
+    "Noblesse Oblige": {
+        "Bonuses": [
+            [
+                "2",
+                "Elemental Burst DMG +20%"
+            ],
+            [
+                "4",
+                "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."
+            ]
+        ],
+        "SID": "15007",
+        "Set Pieces": {
+            "Flower": [
+                "Royal Flora",
+                "A satin flower with a glossy finish, fit for an elegant gathering. It still looks as distinguished as it did on the day it was cast aside.",
+                "\nA blue lily made of silky satin\nthat once served as a noblewoman's headdress.\n\nA noble who once ruled over Mondstadt left it behind.\nIn that legendary age, the nobles were examples for the people.\nThey guided their subjects with their conduct and wisdom.\nThey were the true representation of the people of Mondstadt.\nThey were noble not only in lineage,\nbut also in their commitment to virtues and principles.\n\nThe longevity of the nobles was cut short by their endless self-indulgence.\nOstentation gave way to devolution.\n",
+                "15007_Fl"
+            ],
+            "Feather": [
+                "Royal Plume",
+                "A feathered hat accessory worn by the old aristocrats of Mondstadt on hunts. It still stands proudly as if no time has passed.",
+                "\nThe feather of a falcon proudly perched on top of an old noble's hat.\nHunting with the common folk and sharing the spoils with them was an old tradition.\n\nCommonplace were the hunts, a hobby of the ruling class of Mondstadt.\nThe festivities were shared with their servants and the common folk,\nAs a sign of the benevolence of the nobles.\nAll the people were eager participants in the festivities.\n\nHunts soon lost their meaning.\nThe nobles took everything as their own, presuming it their right.\nProudly the feather still stood, yet faded was its color in the people's eyes.\n",
+                "15007_Fe"
+            ],
+            "Timepiece": [
+                "Royal Pocket Watch",
+                "A pocket watch that once belonged to the old aristocrats of Mondstadt. Passed down from generation to generation, it has witnessed many years of history.",
+                "\nAn exquisite pocket watch made of sapphire.\nIt remains functional even after all these years.\n\nThe pocket watch of a noble who once ruled over Mondstadt. The time it tells is still accurate.\nPunctuality is a virtue, and this pocket watch helped the nobles stay on a virtuous path.\nIt was more for self-discipline than a tool to influence the common folk.\nAt daybreak, a worthy noble must be more vigilant than his people.\nAt night, he should be more thoughtful and restless than they.\n\nOver the years, the once-strict schedule was overturned by their indolent descendants.\nTheir timepieces grew more extravagant, but lost their virtuous function.\n",
+                "15007_Ti"
+            ],
+            "Goblet": [
+                "Royal Silver Urn",
+                "An ornamental urn that once belonged to the old aristocrats of Mondstadt. Mournful winds seem to echo within its empty interior.",
+                "\nAn ornamental urn made of sapphire, bearing the silver insignia of a noble house.\nIt is exquisite and elegant, a testament to the aesthetics of the ancient nobles of Mondstadt.\n\nA noble who once ruled over Mondstadt left it behind.\nHowever, the extravagant treasures that once lay inside are now gone.\nThese luxuries were symbols of the noble's stature,\nas well as the confidence, pride, and prosperity of the people of Mondstadt.\n\nThen, the nobles fell prey to power.\nThey took and they spent without regard for the people.\nLuxurious accessories became vanity items.\n",
+                "15007_Go"
+            ],
+            "Headpiece": [
+                "Royal Masque",
+                "A masquerade mask worn by the old aristocrats of Mondstadt. Its hollow eyes are fixated on the golden days of the past.",
+                "\nA silver mask inlaid with gold and gems and engraved with delicate patterns.\nDelicately made, it showcases the elegance and customs of the old nobles.\n\nThe first nobles who rose up to rule Mondstadt began as heroes of humble origins.\nThese great chieftains and elegant princes as well as beautiful princesses and noblemen\nonce welcomed the people to their banquets and feasts.\nIn those days long past, the nobles shared their wisdom and elegance generously.\n\nIn that golden age, the nobles shared with the people their knowledge and profits.\nBut the later nobles were seduced by power. Their banquets were exclusively for their own pleasure.\n",
+                "15007_He"
+            ]
+        }
+    },
+    "Bloodstained Chivalry": {
+        "Bonuses": [
+            [
+                "2",
+                "Physical DMG +25%"
+            ],
+            [
+                "4",
+                "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+            ]
+        ],
+        "SID": "15008",
+        "Set Pieces": {
+            "Flower": [
+                "Bloodstained Flower of Iron",
+                "A dried flower stained black with blood and now as hard as steel. Probably some sort of a memento for its former master.",
+                "\nA common white flower given to the knight by a rescued damsel.\nIt is dried and hardened by the blood from all his bloodshed.\n\nThanking him for his valor, the damsel offered a reward.\nHe turned down all she gave, save for a pure white flower.\n\n\"For a knight, chivalry is its own reward.\"\n\"This flower shall be my medal. That is all I need.\"\n\nHe wore the flower upon his heart.\nLike his armor, it was stained as black as a winter's night.\nLike his heart, it was hardened like a tempered blade.\n",
+                "15008_Fl"
+            ],
+            "Feather": [
+                "Bloodstained Black Plume",
+                "A raven feather pinned to a knight's cape. Countless bloodstains have dyed it pitch black.",
+                "\nOne of the countless raven feathers stuck to the Bloodstained Knight.\nFor where there is blood, ravens shall follow.\n\nIn the end the Bloodstained Knight could no longer tell\nwhether the blood that stained him was his own or that of his enemies.\n\nEventually, on his long journey filled with bloodshed, he came to a realization:\nHis path of so-called chivalry had turned him from the white knight he used to be into the monster he had now become.\nHis only followers were the ravens drawn to the bloodshed he left in his wake.\n",
+                "15008_Fe"
+            ],
+            "Timepiece": [
+                "Bloodstained Final Hour",
+                "A timepiece once used by a knight. The liquid inside has dried up, rendering it useless.",
+                "\nDeep in the abyss, where celestial bodies cast no light,\nthe Bloodstained Knight kept this timepiece, though time had lost all meaning.\n\nAt an end was the Bloodstained Knight's story,\nfor he realized there was no place for him on this earth.\nHe ventured into the fallen ancient kingdom, and died in battle in the monsters' lair.\nAt the bottom of the world, he learned the origin of the monsters that destroyed the ancient kingdom.\n\n\"The ancient kingdom was wrongfully cursed,\"\n\"Turning its inhabitants into monsters.\"\n\"The code of chivalry tolerates not such injustice.\"\n\"If Abyss be thy name, I pledge to you my loyalty.\"\n",
+                "15008_Ti"
+            ],
+            "Goblet": [
+                "Bloodstained Chevalier's Goblet",
+                "The dark metallic vessel owned by the Bloodstained Knight. Its exterior has been stained as black as the night by smoke and coagulated blood.",
+                "\nOriginally an exquisite silver goblet with gold engravings depicting the feats of a chivalrous knight.\nBut blood and smoke have stained the cup beyond recognition.\n\nCovered in blood, the knight who slayed demons returned from the scourged battlefield,\nOnly to find that those awaiting his rescue were nowhere to be found among the burning, collapsed houses.\n\nDefeated, the Bloodstained Knight took the smoke-blackened goblet,\nand vowed to rid the world of monsters, of poverty and of evil.\n",
+                "15008_Go"
+            ],
+            "Headpiece": [
+                "Bloodstained Iron Mask",
+                "The iron mask the knight used to conceal their identity. Many have speculated about the face behind the mask.",
+                "\nA luxurious platinum mask that once belonged to a knight of noble birth.\nThe dark stains of dry blood are now a permanent part of its appearance.\n\nAs the Bloodstained Knight reached out to help a person in need after slaying the monster,\nThe way she cowered in fear made the knight realize:\nHe was now a monster himself.\nTainted by the blood and cruelty of his drawn-out war.\n\n\"Shield me from the eyes\"\n\"Of those I vowed to protect.\"\n\"And shield them from the horrors I am bound to effect.\"\n",
+                "15008_He"
+            ]
+        }
+    },
+    "Prayers for Illumination": {
+        "Bonuses": [
+            [
+                "1",
+                "Affected by Pyro for 40% less time."
+            ]
+        ],
+        "SID": "15009",
+        "Set Pieces": {
+            "Headpiece": [
+                "Tiara of Flame",
+                "A tiara worn by those tasked with offering sacrifices in ancient times. After being subjected to the dancing sacrificial flames year in and year out, it possesses remarkable resistance.",
+                "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThe envoys of the gods walked among benighted humanity then. The eternal ice had just begun to thaw, and the first fires were still new.\n\nIt was a time of great prosperity, when all was left in the hands of such heavenly revelations.\nThe envoys of heaven said that the world would soon enter a new and brighter age.\nThis was predestined, that future immutable.\n\nBut would a day come when such wonderful times might come to an end?\n\nTo this question the envoys gave no answer. So, the people chose from among them a chief priest,\nAnd adorning his head with a crown of white branches, they sent him out into the deep places of the world,\nTo antediluvian ruins and long-buried altars of sacrifice, to seek answers and enlightenment...\n",
+                "15009_He"
+            ]
+        }
+    },
+    "Prayers for Destiny": {
+        "Bonuses": [
+            [
+                "1",
+                "Affected by Hydro for 40% less time."
+            ]
+        ],
+        "SID": "15010",
+        "Set Pieces": {
+            "Headpiece": [
+                "Tiara of Torrents",
+                "A tiara worn by those tasked with offering sacrifices in ancient times. Because it was submerged in water year in and year out, it possesses remarkable resistance.",
+                "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the ancient flames were extinguished amidst the first falling rains.\n\nIt was a prosperous time, a period of bountiful harvest.\nThen the earth was blessed and ruled by heaven, and the elemental flows were smooth and well-ordered.\nA hundred years of bounty were written in the stars, and none could change this divine law.\n\nBut what of the time after, a hundred, a thousand years from now? Would they have famine where they had plenty, poverty where once were riches?\nWould their altars and palaces become one with the soil, with only that silver-white tree for company?\n\nThe heavenly envoys, who ever spoke what they knew, were silent. So to understand this doom,\nThe chief priest, head crowned with white branches, would delve into the deep places of the world...\n",
+                "15010_He"
+            ]
+        }
+    },
+    "Prayers for Wisdom": {
+        "Bonuses": [
+            [
+                "1",
+                "Affected by Electro for 40% less time."
+            ]
+        ],
+        "SID": "15011",
+        "Set Pieces": {
+            "Headpiece": [
+                "Tiara of Thunder",
+                "A tiara worn by those tasked with offering sacrifices in ancient times. Because it harkened to the call of thunder year in and year out, it possesses remarkable resistance.",
+                "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the waters ran dry as thunder first pierced the skies.\n\nPeople enjoyed untold wisdom, and that wisdom was their boon.\nTheir prosperity brought pride and ambition, and the mind to question.\n\nSo they questioned the heavens' authority, and schemed to enter the garden of gods.\nAnd though they had promised to the people divine love, prosperity and wisdom, the envoys of heaven were angry.\nFor to question eternity was forbidden,\nFor earth to challenge sky, inexpiable.\n\nSo the chief priest who wore the white-branched crown went forth to appease the divine envoys,\nAnd into the deep places he went, seeking the hidden wisdom of the silver tree in the ancient capitol...\n",
+                "15011_He"
+            ]
+        }
+    },
+    "Prayers to Springtime": {
+        "Bonuses": [
+            [
+                "1",
+                "Affected by Cryo for 40% less time."
+            ]
+        ],
+        "SID": "15013",
+        "Set Pieces": {
+            "Headpiece": [
+                "Tiara of Frost",
+                "A tiara worn by those tasked with offering sacrifices in ancient times. Because it once weathered years of the icy cold, it possesses remarkable resistance.",
+                "\nThey say that,\nThe line of chief priests have always seen this same sight as their days draw to an end:\nA mountain of crowns in a secret place, beneath a withered tree\u2014\n\u2014each one hiding a lifetime of secrets kept.\nEach retiring chief priest offers up their crown of flawless white branches to this world.\nEvery mighty and ancient city, and every austere place of sacrifice must one day return to profundity in the earth.\n\nAll prosperity must someday end.\nBut this does not mean that nothing is eternal.\n\nAt the end of a cycle, the earth shall be renewed. Thus eternity is cyclical.\nThe search for truth is a product of prosperity, and not the seed that plants it.\n\nThey say that,\nOnce upon a time, the people of the land could hear revelations from Celestia directly.\nThe envoys of the gods walked among benighted humanity then. In those days, life was weak, and the earth was blanketed in unending ice.\n",
+                "15013_He"
+            ]
+        }
+    },
+    "Archaic Petra": {
+        "Bonuses": [
+            [
+                "2",
+                "Gain a 15% Geo DMG Bonus."
+            ],
+            [
+                "4",
+                "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+            ]
+        ],
+        "SID": "15014",
+        "Set Pieces": {
+            "Flower": [
+                "Flower of Creviced Cliff",
+                "A flower born of the minerals and rocks of cliffside cracks. The way its petals blow in the wind makes it seem alive.",
+                "\nA flower that bloomed in a cliff's impregnable cleft.\nIt is an exquisite life shaped by the essence of Geo.\n\nThere is a folk saying that goes thus:\nIn times of yore, someone told the Lord of Geo that there was no life to be found in barren stone.\nThus did the Lord of Geo command flowers of purest gold to burst forth from the face of an uneven rock.\n\nPerhaps the Geo Archon did once work such a great wonder,\nOr perhaps this is but one of the many tales that shroud this ancient world.\nBut the prosperous harbor that grew out of the lifeless mountains,\nAnd that braves the raging waves of the Sea of Clouds\u2014\nPerhaps that was the brilliant flower, after all.",
+                "15014_Fl"
+            ],
+            "Feather": [
+                "Feather of Jagged Peaks",
+                "A hard feather from a large seacliff hawk. The basalt tip of the feather sometimes glistens with a cool dew.",
+                "\nA feather left behind by the giant wings that flattened the mountains.\nThough it has long turned moss-green, this feather remains sharp as a naked blade.\n\nThey say that in ancient times, when the world was in turmoil, Rex Lapis plucked mountains and turned them into huge birds of prey.\nThese birds were carved out of rock and jade, and they soared above the ground once they had taken shape.\nSpiraling toward the heavens, they pierced through the clouds and flattened many stone peaks therein.\n\nThey say that these rock kites spread their wings and dived towards the ocean,\nAnd they fell from the sky like comets,\nRight into the heart of the sea, and the monsters within...\n\nAnd they say that the pillars of stone that jut out from the ocean continue to attract birds to this day.",
+                "15014_Fe"
+            ],
+            "Timepiece": [
+                "Sundial of Enduring Jade",
+                "A sundial carved from a single, large piece of jade. Its lined with a pattern that silently records the passage of time.",
+                "\nA sundial made using regal jade.\nIt silently pursues both time and tide.\n\nEven rocks that have stood firm for time immemorial will eventually disintegrate over time, crumbling into dust and gravel.\n\nLegend has it that the Lord of Geo once made the glittering stars of the earth into devices for telling time, all the better to teach the ancient humans about the value of every moment.\nOver the passage of time, this sundial came to be the prized possession of a young person who was still then a scholar in training.\n\n\"When I was young, I dreamed of studying the classics and going to Sumeru to attain the greatest wisdom.\"\n\"Yet when gaining this dial, I played with and examined it for many long days, and could not find in it a single flaw.\"\n\"Thus I changed tacks and sought a master craftsman to learn a new trade, and thereby challenge the creator of this divine tool.\"\n",
+                "15014_Ti"
+            ],
+            "Goblet": [
+                "Goblet of Chiseled Crag",
+                "A resplendent yet dignified wine goblet, once filled to the brim in an era long gone.",
+                "\nA vessel for wine carved from immovable rock.\nIt is said to be filled with the ambrosia of sovereigns.\n\nIt behooves basalt to be impregnable, and crystal to shine in its translucence.\nGoing incognito amongst mortals should be likewise, exquisite in its enjoyments.\n\nFolk legend holds that in order to drink wine,\nRex Lapis brought forth bedrock,\nAnd carved jade and lovely stone into a wine vessel for himself.\n\nSome even say that there were once seven such vessels.",
+                "15014_Go"
+            ],
+            "Headpiece": [
+                "Mask of Solitude Basalt",
+                "A solemn mask exquisitely carved from basalt. Its hollow eyes stare ahead expressionless and cold.",
+                "\nIt is said that during the years when gods contended against one another, Rex Lapis' aspect was that of boundless slaughter.\nIn those god-eat-god battles, one could never have ascribed gentleness to him.\n\nHe knew right from wrong, and never missed his mark: in those days of tumult, he would show no mercy, even to friends-turned-foes.\nRex Lapis' stone-cold expression never once changed throughout that storied age.\n\nThey say that only when the dust settled did he lay down that unmovable visage.\nBut it had been necessary, for he had donned it to fulfill a contract.",
+                "15014_He"
+            ]
+        }
+    },
+    "Retracing Bolide": {
+        "Bonuses": [
+            [
+                "2",
+                "Increases Shield Strength by 35%."
+            ],
+            [
+                "4",
+                "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+            ]
+        ],
+        "SID": "15015",
+        "Set Pieces": {
+            "Flower": [
+                "Summer Night's Bloom",
+                "A man-made flower in eternal bloom. Who knows if there truly is life in there?",
+                "\nA summer festival flower that blooms forever,\nThat will not wilt even if buried deep below the snow.That will not wilt even if buried deep below the snow.\n\nSome may label it an imitation, an false life,\nFor life lies in change, pain and growth,\nIn meetings, and also in partings.\n\nBut the memories of meeting her,\nOf watching the fireworks bloom in the sky like fresh flowers together,\nThe memories of that foxy-eyed woman who eventually disappeared without a trace...\nThat unwithering flower is the final thing to remember her by.\n\nIn the end, the difference comes down to the fact that for some,\nLife is as eternal as this undying summer bloom,\nBut for most, it is as transient as smoke.\n",
+                "15015_Fl"
+            ],
+            "Feather": [
+                "Summer Night's Finale",
+                "A well-crafted wooden dart. It will only stop once it has reached its destination.",
+                "\nAn intricately-made throwing dart. It is a common sight during the summer festival.\nIn the ghost stories of Inazuma,\nThere is a tale about a meeting between the human and inhuman...\n\nTo celebrate my wife's pregnancy, I went to the shrine to give a votive offering.\nBut for reasons unknown, I went up the mountain with these objects.\nThe water balloon from when I seven, the fox mask from when I was seventeen,\nAnd a flower that would not wilt in ten or even a hundred years.\n\nWhy did I expect to meet her again?\nNo matchmaker introduced myself and my wife, and we were always short on money,\nAnd it took some time for us to produce an heir,\nBut our days were still filled with happiness, were they not?\n\nBut still I detoured on that mountain road to the place where I'd seen the fireworks with her.\nPulling the bushes apart, I thought I saw her dressed in white, sitting upon that rock.\nBut when I came forward and looked, it was just a fox sunbathing.\nIt leaped up at the sound of snapping branches, and fled into the woods,\nAnd like the spots of light that poke between leaves moved by the breeze, it was gone in a flash.\nAll that was left was an old wooden throwing dart.",
+                "15015_Fe"
+            ],
+            "Timepiece": [
+                "Summer Night's Moment",
+                "A pocketwatch that has stopped at a certain point in time.",
+                "\nA small, ornate pocket watch.\nThe watch seems to have stopped at a certain time of day.\nIn the ghost stories of Inazuma,\nThis has something to do with an encounter with something inhuman...\n\nOn the night of the summer festival, as I walked the path to the shrine with the girl I admired,\nI heard, only barely, the sound of a lost child's cries.\nIn that moment of distraction, I fell, spraining my ankle and breaking that pocket watch.\n\nWhile she ran to look for some ointment,\nI tried to make way for the people passing through,\nAnd sat down on a rock by the wayside to rest.\nThe beautiful mask-wearing woman sat down beside me.\n\"There are few who know about this spot.\"\n\"But it's the best place to watch the fireworks, you know?\"\n\nIt should have been a dream.\nWe hadn't met in ten years,\nAnd she had aged not a single day in those years, and yet...\n\n\"You've grown so much. Looks like we should pass on the game of fusen.\"\n\"I've brought wine, though. Let's watch the fireworks together. What do you say?\"\n",
+                "15015_Ti"
+            ],
+            "Goblet": [
+                "Summer Night's Waterballoon",
+                "Water balloons can be seen everywhere during the summer festival, but none are as finely-wrought as this one.",
+                "\nA beautiful water balloon filled with water.\nIn the ghost stories of Inazuma,\nThis is a memento from a chance meeting with something inhuman...\n\nDuring the summer festival, I was separated from my parents.\nIt was but a moment, but I had wanted to look at the water balloons,\nAnd let go my hand that had gripped on to my father's sleeve.\nBefore we knew it, the tide of people escorting the divine palanquin had washed us apart.\n\nI cried by the torii gates along the road to the shrine,\nAnd I counted the feet of the people ascending the mountain.\nI do not know when it happened,\nBut a beautiful lady with fox-like eyes had come to my side, and taken my hand.\n\n\"How preposterous, to leave such an adorable child here.\"\n\"So, how about it? Would you like to see the fireworks, throw some darts, and play fusen with me?\"\n",
+                "15015_Go"
+            ],
+            "Headpiece": [
+                "Summer Night's Mask",
+                "A popular mask cast in the image of a deity, as described in the legends.",
+                "\nThe mask of one indwelt by a deity.\nA mask that has been cast in the image of some legendary deity.\n\nPeople will often take on the guise of the fox of legend,\nCovering their faces with masks based on her divine visage,\nPerhaps wishing that they might gain her ability of transformation.\n\nIn Inazuma's legends, everything has a spirit.\n...But even so,\nIt is likely that most such beings would have long fled,\nDriven into the forests by the suppression of the Shogun.\n\nBut many people still believe in these divine foxes and the ability to be indwelt by them...\nThey believe that thousands of years of age may confer power upon animals.\nAs such, they also believe in what this fox mask represents.\n\nA note has been left on the back of this mask, written in a lovely hand.\n\"I'm sorry, I departed under the cover of the fireworks.\"\n\"We will most likely never meet again. Take care of yourself.\"\n",
+                "15015_He"
+            ]
+        }
+    },
+    "Heart of Depth": {
+        "Bonuses": [
+            [
+                "2",
+                "Hydro DMG Bonus +15%"
+            ],
+            [
+                "4",
+                "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."
+            ]
+        ],
+        "SID": "15016",
+        "Set Pieces": {
+            "Flower": [
+                "Gilded Corsage",
+                "A mantle brooch that has lost its luster. The gold plating that once adorned it was ground away by the wind and the waves long ago.",
+                "\nA corsage whose coloration has been blistered away by the sea-salt wind.\nEven a man who wanders the ocean waves,\nHas items and memories that he prizes.\n\nThe great warship raised its anchor and headed out to sea, and the Chief Mate once more left harbor with the Skipper.\nFor the Skipper's absurd pursuit, and for his own faded memories,\nThe Chief Mate hummed a crappy shanty of his own composing, forming a chorus with the whales and the waves.\n\n\"The scoundrel who gave up his family name and the witch who hunted him (never) reached the sea!\"\n\"The wise step-brother who could not be an heir became head at last (or did he?)\"\n\n\"Words that cannot be sung... Have I also forsaken the truth for illusions?\"\n\"Having lost it all, and given it all up, and then sinking beneath the waves...\"\n\"...Maybe this isn't the worst of endings, after all. Hahahahaha!\"\n",
+                "15016_Fl"
+            ],
+            "Feather": [
+                "Gust of Nostalgia",
+                "A feather carried over by whimpering sea winds and crimson waves. The passage of time has changed its shape and color.",
+                "\nA red feather is an ill omen, perhaps even a portent of death.\nIt washed ashore one day together with the corpse of a great sea creature.\n\nThe cynical Chief Mate was no native of Liyue. Rather, he came from a gray land ruled by an aristocracy.\nAll said that he, too, was once such a noble, but that he must have disgraced his house and been turned out as a result.\nThat was but baseless hearsay, however, for when he first came to the harbor, he carried naught but a slim sword,\nAnd a small sapphire-blue feather pinned to his mantle.\n\nLater, the wanderer would throw in with the Skipper and set out to sea, contending with great waves and sea creatures alike.\nThat once azure-blue feather would also be stained red by blood and by the salt of the great ocean.\n\nIn his last moment,\nHe clearly recalled those days now drowned in drink.\nLike treasure in the sand brought to light by the lapping waves...",
+                "15016_Fe"
+            ],
+            "Timepiece": [
+                "Copper Compass",
+                "An ancient bronze compass. Its needle points towards some ever-distant shore, to a non-existent harbor.",
+                "\nA bronze compass used by a seaman.\nIn an ever-tumultuous life of wandering,\nIt points toward the direction where its owner's heart lies.\n\nThe rough Skipper once used this compass to guide his huge ship,\nNavigating treacherous ocean paths and conquering huge whirlpools.\nIt also guided the one whose deep hatred hid behind an uninhibited laugh,\nAnd who, lost and despondent, sought death and burning drink...\n\n\"I believe you all sing that the thief could not avoid the gallows in the end, eh?\"\n\"As long as you have a place to belong to, even ending up in the belly of a fish would be alright\u2014\"\n\"Hey now, didn't you sign a contract with this ship when you came aboard?\"\n\"That memory didn't get washed down with the wine, did it?\"\n\"Good, then \u2014 after all, it is time to fulfill your contract.\"\n\n\"Is that so? ...Well, alright. It doesn't matter anymore, anyway...\"\n",
+                "15016_Ti"
+            ],
+            "Goblet": [
+                "Goblet of Thundering Deep",
+                "A faded wine cup that was unintentionally dredged up from the sea. Its dull exterior tells of the days it has spent beneath the waves.",
+                "\nA faded, but finely-crafted wine cup,\nGround down by the sands in the sea's depths.\n\nThe exquisite cup fell from the Chief Mate's hand, raising tiny ripples as it hit the ocean surface.\nWhat did it see amid the schools of fish in the dying light?\nWhat had he encountered amidst the silent alleys, before the bars of the flower-inlaid windows of a secret tryst?\nDown and down the dark gold cup sank, into the dreams of the sea monster, and into the dreams of the Chief Mate...\n\n\"Someday, I will return the favor for this mark of humiliation that you left upon me.\"\nThe moonlight illuminated sapphire eyes and that striking scar.\nIn his memory, her countenance grew brighter, beautiful, cold and proud,\nBut he had forgotten what he had said then, and grew suddenly despondent as a result.\n\n\"Come to think of it, how many times have I forgotten the past...\"\n\n\"Ha, does it matter how you retell the past?\"\n\"All deaths are in vain. There is no saving that which has already sunk.\"\n",
+                "15016_Go"
+            ],
+            "Headpiece": [
+                "Wine-Stained Tricorne",
+                "An ancient, wine-stained sea hat that still reeks of alcohol even now.",
+                "\nA tricorne hat thick with the smell of alcohol.\nIts shape and design symbolize the position of its owner.\n\nThe hard-drinking Chief Mate was lost in a drunken reverie from morning till night, and was rarely ever sober.\nHe reeked of alcohol all over, mumbling often of tattered memories.\nThe jovial Skipper did not reprimand him, however, and indeed kept giving him important responsibilities.\n\n\"Well, we are both people without a thing to our names, eh? Hahahaha!\"\n\n\"The wine-sodden sea hat was thrust by a storm into the sky, and then carried away on the roiling waves.\"\n\"Those fated to lose their homelands engage in battles bereft of hope and want.\"\n\"That which they lost to the sea of memory, they sought to reclaim from the deep.\"\n\n\"The wind and waves are correct. We have found it.\"\n\"That giant creature that haunts and gnaws at me even in my dreams...\"\n\"The time for vengeance has arrived. We set sail!\"\n",
+                "15016_He"
+            ]
+        }
+    },
+    "Tenacity of the Millelith": {
+        "Bonuses": [
+            [
+                "2",
+                "HP increased by 20%."
+            ],
+            [
+                "4",
+                "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+            ]
+        ],
+        "SID": "15017",
+        "Set Pieces": {
+            "Flower": [
+                "Flower of Accolades",
+                "A flower made from gold leaf. It represents the glories and honors attained by its wearer.",
+                "\nIn an age when solemn songs were sung from the clifftops, a meteorite once fell into the Chasm.\nOut of the depths of the boundless night sky above, the iron meteorite plummeted to the ground, turning the earth to powdered glaze on impact.\n\nThough human life is fleeting, Rex Lapis personally ordered the Millelith to rush to the defense of the mines.\nAs the Abyss flooded forth, the Millelith escorted countless civilians to safety.\nMiners tell tales of a small number of troops from the rearguard, who remained in the Chasm.\nTogether with the nameless yaksha, they fought courageously until they, too, made the ultimate sacrifice among the jagged rocks.\n\nIn time, the names of both mortals and adepti alike were forgotten. In time, even the mountains and rivers change form.\nYet there will never come a time when their honorable deeds shall be forgotten. Like this gold-leafed flower, they will shine on forever.\n500 years on, the harbor city remains as steadfastly peaceful today as the day the disaster was quelled.\nAnd still, the troops wear this golden flower with pride, in honor of the sacrifice made by their forebears.\n",
+                "15017_Fl"
+            ],
+            "Feather": [
+                "Ceremonial War-Plume",
+                "A falcon feather worn on ceremonial occasions. It displays the dignity and resolve of Liyue Harbor to the outside world.",
+                "\nAs a mark of military service, the Millelith use the feathers of high-altitude birds of prey to adorn their uniforms.\nThese tail feathers are only worn on ceremonial occasions. They boost the morale of the citizenry and fill visiting outlanders with a sense of awe.\n\nIt is said that in its inception, this ceremonial custom was inspired by the nameless yaksha.\nIn the heat of battle, when the yaksha was engaged in fierce combat with the Abyss, some of its plumage was stripped away. The feathers that fell to the ground were seen as a symbol of hope.\nIn the end, the brave yaksha and fearless citizenry would sink into an exhausted slumber in the dark lair of the enemy.\nRex Lapis was moved by their sacrifice and observed a prolonged vow of silence among the low murmuring of the mountain stone.\nThe people claim that the nameless yaksha that defended The Chasm was not, in fact, under the command of Rex Lapis.\nInstead, they believe that it was an act of redemption from a longstanding sin... a price paid for cowardice and dereliction of duty.\n\nWhatever the truth of the matter, the yaksha that had once soared through celestial heights had now returned to a free existence amongst the clouds.\nAs for the soldiers, trapped in eternal slumber in the depths of The Chasm... their legend continues to evolve with the flow of time.",
+                "15017_Fe"
+            ],
+            "Timepiece": [
+                "Orichalceous Time-Dial",
+                "A simple device for telling time. This was once standard-issue for the Millelith during times of war.",
+                "\nA hardy timepiece powered by sunlight and moonlight, capable of capturing rays of light even on the darkest of days.\nWhen Liyue was threatened by a pitch-black malice, this time-dial helped the soldiers to remember the warmth of the sun.\n\nIn the course of fighting side-by-side with the yaksha, these mortal soldiers could not escape being contaminated by karma, or harmed during the slaughtering.\nTo avoid being consumed by the darkness of constant killing, the Millelith soldiers used this timepiece to silently mark the passage of time during each battle.\nThey fixed a unified marching pace and schedule so that one squadron of mortal soldiers would take the battlefield as the one before them retreated.\nThis cycle of advance and retreat continued all the way to the depths of the Chasm, where yaksha and valiant soldiers both fell.\n\n100 years later, this timepiece was unearthed by a miner. Its bronze surface sparkled in the bright starlight.\nUrban legends tell of a collector of curios wearing black robes, who roamed the market streets one day, buying up Orichalceous Time-Dials and paying a generous sum for each one.\nSome sellers queried him, curious to know what his reasons were, but he deftly deflected all their questions with an array of excuses and other verbal tricks.\nAs for what this individual's true motive was, perhaps only the unyielding forward march of time can finally deliver a satisfying explanation.\n",
+                "15017_Ti"
+            ],
+            "Goblet": [
+                "Noble's Pledging Vessel",
+                "A golden cup used by the Millelith to take their oaths. Still bears the lovely scent of wine.",
+                "\nWhen the Millelith was first founded, Liyue was still a savage and dangerous place.\nThe elders of towns, villages, and tribes would pledge oaths of allegiance with a golden cup.\nAs a show of loyalty to Rex Lapis and duty to their countrymen,\nThey selected valiant soldiers from all regions. These soldiers became known as the Millelith.\n\nThey would go on to take up arms with a yaksha in battle, fighting from the rearguard. They too drank from that golden cup.\nIt was a final toast to the benevolent and majestic Lord of Geo. With their gaze fixed ahead of them, they stormed into the abyss.\nHundreds of years later, a conceited adventurer retrieved the cup from the depths of The Chasm and washed away the imperfections.\nMiraculously, the cup remained whole and untarnished by the passage of time. The pitch-dark of that subterranean realm had failed to remove its radiance.\n\nYet more centuries passed. Eventually, the people of Liyue would tell tales of an era of catastrophe and a nameless yaksha,\nTales of how heroes from disparate heritages and different lands united under a single banner against the Abyss...\nInevitably, the tale would touch upon the cup, and how the blood of those that went before remained clear and spotless as the day it was spilled.\n",
+                "15017_Go"
+            ],
+            "Headpiece": [
+                "General's Ancient Helm",
+                "A splendorous helmet from ages past. Clean the dust away and it will look brand-new once more.",
+                "\nThe commander who fought together with the nameless yaksha fell in the line of duty,\nAs did the handful of his compatriots who fought alongside him.\nTo ensure that the afflicted civilians could safely escape, and to maintain their honor in the eyes of the Lord of Geo,\nThe helmet-clad troops of the front line took the lead, pointing their spears towards the Abyss and charging into battle.\n\nDisaster arrived in the land of glaze, and a horde of ancient foes came surging forth.\nAt the order of Rex Lapis, the yaksha fought a bloody battle against the warped creations of the Abyss.\nThe fight went on until the last drop of blood had soaked into the battlefield and all that was impure had been cleansed.\nAs the tide of the Abyss receded, the glaze sands shone gloriously once more,\n\nBut when the gloom that had filled the skies above The Chasm had finally dissipated, the yaksha disappeared without a trace.\nAs for the general and his men who left their helmets on the battlefield, they rest there in peace forevermore.\n",
+                "15017_He"
+            ]
+        }
+    },
+    "Pale Flame": {
+        "Bonuses": [
+            [
+                "2",
+                "Physical DMG is increased by 25%."
+            ],
+            [
+                "4",
+                "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
+            ]
+        ],
+        "SID": "15018",
+        "Set Pieces": {
+            "Flower": [
+                "Stainless Bloom",
+                "A hard, blue artificial flower. Its petals shall never wither, nor shall its colors fade.",
+                "\n\"You astound me. You have but a human body, and yet you carry such a power within you.\"\n\"You claim that you have no tears left to cry, no blood left to shed, but surely this is because you have filled yourself with fire...\"\n\"Though your body has long been covered in scars, fierce flames are all that now may flow, like molten iron, from your eyes and your wounds.\"\n\"But we appear to have gotten off-topic. I followed the trail of smoke and tracked you down because I wish to strike a deal with you...\"\n\"Let the flames that now devour you be extinguished by the grace of Her Majesty. What say you?\"\n\nThe first Fatuus gave power to a young woman in whom the flame of life had all but died,\nAnd in her wild imagination, she saw the line that lay between the corrupt past and a stainless future...\n\n\"I understand. Then, let glacial ice take the place of my erased past and extinguish these undying flames.\"\n\"Let the darkness of corruption, the pain of the world, and the humans, beasts, and the sin they carry all be purified by silent ice.\"\n\nBut despite this, a pure white flame continued to burn within her heart...\n\n\"We share the same goal, you, your Tsaritsa, and I.\"\n\"Cleanse the sources of distortion in this world: short-sighted, ignorant gods and the darkness and corruption of the Abyss.\"\n\"Good. I will do whatever it takes to become an effective instrument in the advancement of our common cause.\"\n\"For even if I dress in pure white from head to toe, the ashes of the dead that have long left their stain on every inch of my being can never be cleansed.\"\n",
+                "15018_Fl"
+            ],
+            "Feather": [
+                "Wise Doctor's Pinion",
+                "An ominous pinion with edges of unsurpassed keenness. Perhaps it represents an unnaturally uninhibited nature.",
+                "\n\"A human is nothing more than a machine of a certain level of complexity.\"\nThus declared the youth from his lectern in the seedbed of wisdom.\nIf one were to disassemble a part of this machine and make enhancements to it,\nIts performance could be greatly amplified.\nWith or without a Vision, and irrespective of their physique or combat skills,\n\"Enhanced humans\" would surely display strength far beyond the average.\n\nDespite the risk of being denounced as a heretic and permanently cast from the circle of the wise,\nThe youth candidly jotted down these thoughts in the margins of his research notes:\nI. As anticipated, no research breakthroughs are possible, given the working style of the Academia.\nII. Nevertheless, being expelled would be a loss. One needs an environment conducive to research.\n\nFollowing a trail of rumors of heresy, the first of the Fatui tracked him down...\n\n\"Merely an enhanced human? If your great nation can furnish me with sufficient resources and ample time, I could even manufacture that which you would call a god. What say you?\"\nIn the desert that shone bright like liquid gold, he inquired of the Snezhnayan diplomat:\n\"Will you treat me like the Academia did? Will you call me a monster, a madman?\"\n\"Or will you treat me as my hometown did, and chase me away with pitchforks and clubs...?\"\n\nHowever...\n\"Good. Then, we are now in partnership.\"\n\"As for the matter of your title \u2014 what do you say to this...\"\nTaken completely by surprise by the sheer irony of the title he was given, the young man burst into hysterical laughter.",
+                "15018_Fe"
+            ],
+            "Timepiece": [
+                "Moment of Cessation",
+                "A pocket watch with a cover that cannot be opened. Yet it ticks and tocks away, following the inexorable flow of time.",
+                "\nMoney is the lifeblood of the world, and the pathways along which it flows are the world's arteries.\nThen, the center of the world is a heart made of gold.\n\nHe was not one of the favored, and could only pursue worldly power.\nBut though money ought to mean nothing to the gods,\nThey held it firmly within their grasp nonetheless, along with the countless other forms of power that they wielded.\n\nPerhaps he lusted for money because he had once been destitute,\nOr perhaps the fact that the gods had never looked upon him with favor ignited a burning desire for resistance inside him...\n\n\"The people of the land from which these coins hail revere contracts above all else.\"\n\"In the name of money, I shall respect the contract between us...\"\n\"We shall, by whatever means necessary, become the heart that pumps money around the world.\"\n\"And, when the moment comes, that heart shall cease beating by our will alone.\"\n",
+                "15018_Ti"
+            ],
+            "Goblet": [
+                "Surpassing Cup",
+                "An intricately-made cup. Its appearance betrays nothing of its age to an observer.",
+                "\nHe was born with a face fairer than any other,\nDestined to a long life and a hollow will.\n\nHe was a transcendent being, divinely created, but he was cast aside like worthless dross.\nYet, due to an error that cannot be known, he roused himself from slumber,\nAnd began to wander the mortal realm.\n\nBefore the Fatui found him, he had drifted for countless years\nAnd in that time, this is what his experience had taught him:\n\n\"I am a 'human' who surpasses all others.\"\n\"Even the gods daren't meddle in my fate.\"\n\"Neither mortal nor god, nor fate itself, is qualified to be my judge.\"\n\"I am free to choose how I wish to spend the remainder of my days.\"\n\n\"Since these mask-wearing people are so fun to be around...\"\n\"I think I'll become one of them.\"\n",
+                "15018_Go"
+            ],
+            "Headpiece": [
+                "Mocking Mask",
+                "A mask that covers the face, hiding one's expression from others.",
+                "\nSince the stain of my compatriots' blood cannot be cleansed, I shall become The Jester, who laughs in the face of fate.\nSince my level of learning could not compare with the sages, I failed to earn the favor of the previous ruler.\nSo too did I fail to stop them from tearing away the veil of sin, ushering in a tide of divine wrath, destruction, and foolishness...\nThen I shall become instead a fool, a Fatuus, and devote myself to Her Majesty, who understands my pain...\n\nMy name is Pierro, The Jester. Please listen to the words I have to say:\n\nProud Fatui comrades, I know your hearts harbor both the fires of rage and the cold of eternal winter.\nEach one of us has borne witness to the absurd callousness of the foundational principles of this world.\nSo, let us don our masks in mockery of the world as we go forth and rewrite the rules of destiny.\n",
+                "15018_He"
+            ]
+        }
+    }
+}

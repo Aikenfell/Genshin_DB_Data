@@ -1,0 +1,447 @@
+{
+    "10001": {
+        "Id": 10001,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_HP",
+        "AffixName": "Reliquary_Main_Affix_TOUGH"
+    },
+    "10002": {
+        "Id": 10002,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_STRONG",
+        "Weight": 1334
+    },
+    "10003": {
+        "Id": 10003,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_ATTACK",
+        "AffixName": "Reliquary_Main_Affix_RUTHLESS"
+    },
+    "10004": {
+        "Id": 10004,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_FATAL",
+        "Weight": 1333
+    },
+    "10005": {
+        "Id": 10005,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_DEFENSE",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10006": {
+        "Id": 10006,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_EMINENCE",
+        "Weight": 1333
+    },
+    "10007": {
+        "Id": 10007,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "AffixName": "Reliquary_Main_Affix_EXULTATION",
+        "Weight": 500
+    },
+    "10008": {
+        "Id": 10008,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "AffixName": "Reliquary_Main_Affix_WISDOM",
+        "Weight": 500
+    },
+    "10009": {
+        "Id": 10009,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_FIRE_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10010": {
+        "Id": 10010,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_ELEC_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10011": {
+        "Id": 10011,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_ICE_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10012": {
+        "Id": 10012,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_WATER_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10013": {
+        "Id": 10013,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_WIND_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10014": {
+        "Id": 10014,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_ROCK_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "10015": {
+        "Id": 10015,
+        "PropDepotId": 1000,
+        "PropType": "FIGHT_PROP_GRASS_SUB_HURT",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "12001": {
+        "Id": 12001,
+        "PropDepotId": 2000,
+        "PropType": "FIGHT_PROP_ATTACK",
+        "AffixName": "Reliquary_Main_Affix_RUTHLESS",
+        "Weight": 1000
+    },
+    "13001": {
+        "Id": 13001,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_HP",
+        "AffixName": "Reliquary_Main_Affix_TOUGH"
+    },
+    "13002": {
+        "Id": 13002,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_STRONG",
+        "Weight": 1100
+    },
+    "13003": {
+        "Id": 13003,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_ATTACK",
+        "AffixName": "Reliquary_Main_Affix_RUTHLESS"
+    },
+    "13004": {
+        "Id": 13004,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_FATAL",
+        "Weight": 1100
+    },
+    "13005": {
+        "Id": 13005,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_DEFENSE",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "13006": {
+        "Id": 13006,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_EMINENCE",
+        "Weight": 1100
+    },
+    "13007": {
+        "Id": 13007,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_CRITICAL",
+        "AffixName": "Reliquary_Main_Affix_CRUEL",
+        "Weight": 500
+    },
+    "13008": {
+        "Id": 13008,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_CRITICAL_HURT",
+        "AffixName": "Reliquary_Main_Affix_FIERCE",
+        "Weight": 500
+    },
+    "13009": {
+        "Id": 13009,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_HEAL_ADD",
+        "AffixName": "Reliquary_Main_Affix_HOLINESS",
+        "Weight": 500
+    },
+    "13010": {
+        "Id": 13010,
+        "PropDepotId": 3000,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "AffixName": "Reliquary_Main_Affix_WISDOM",
+        "Weight": 200
+    },
+    "14001": {
+        "Id": 14001,
+        "PropDepotId": 4000,
+        "PropType": "FIGHT_PROP_HP",
+        "AffixName": "Reliquary_Main_Affix_TOUGH",
+        "Weight": 1000
+    },
+    "15001": {
+        "Id": 15001,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_HP",
+        "AffixName": "Reliquary_Main_Affix_TOUGH"
+    },
+    "15002": {
+        "Id": 15002,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_STRONG",
+        "Weight": 850
+    },
+    "15003": {
+        "Id": 15003,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_ATTACK",
+        "AffixName": "Reliquary_Main_Affix_RUTHLESS"
+    },
+    "15004": {
+        "Id": 15004,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_FATAL",
+        "Weight": 850
+    },
+    "15005": {
+        "Id": 15005,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_DEFENSE",
+        "AffixName": "Reliquary_Main_Affix_GLORY"
+    },
+    "15006": {
+        "Id": 15006,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_EMINENCE",
+        "Weight": 800
+    },
+    "15007": {
+        "Id": 15007,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "AffixName": "Reliquary_Main_Affix_WISDOM",
+        "Weight": 100
+    },
+    "15008": {
+        "Id": 15008,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_FIRE_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "15009": {
+        "Id": 15009,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_ELEC_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "15010": {
+        "Id": 15010,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_ICE_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "15011": {
+        "Id": 15011,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_WATER_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "15012": {
+        "Id": 15012,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_WIND_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "15013": {
+        "Id": 15013,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_ROCK_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "15014": {
+        "Id": 15014,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_GRASS_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION"
+    },
+    "15015": {
+        "Id": 15015,
+        "PropDepotId": 5000,
+        "PropType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 200
+    },
+    "10990": {
+        "Id": 10990,
+        "PropDepotId": 1099,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_FATAL",
+        "Weight": 999
+    },
+    "10980": {
+        "Id": 10980,
+        "PropDepotId": 1098,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_STRONG",
+        "Weight": 999
+    },
+    "10970": {
+        "Id": 10970,
+        "PropDepotId": 1097,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_EMINENCE",
+        "Weight": 999
+    },
+    "10960": {
+        "Id": 10960,
+        "PropDepotId": 1096,
+        "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "AffixName": "Reliquary_Main_Affix_EXULTATION",
+        "Weight": 999
+    },
+    "10950": {
+        "Id": 10950,
+        "PropDepotId": 1095,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "AffixName": "Reliquary_Main_Affix_WISDOM",
+        "Weight": 999
+    },
+    "30990": {
+        "Id": 30990,
+        "PropDepotId": 3099,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_FATAL",
+        "Weight": 999
+    },
+    "30980": {
+        "Id": 30980,
+        "PropDepotId": 3098,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_STRONG",
+        "Weight": 999
+    },
+    "30970": {
+        "Id": 30970,
+        "PropDepotId": 3097,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_EMINENCE",
+        "Weight": 999
+    },
+    "30960": {
+        "Id": 30960,
+        "PropDepotId": 3096,
+        "PropType": "FIGHT_PROP_CRITICAL",
+        "AffixName": "Reliquary_Main_Affix_CRUEL",
+        "Weight": 999
+    },
+    "30950": {
+        "Id": 30950,
+        "PropDepotId": 3095,
+        "PropType": "FIGHT_PROP_CRITICAL_HURT",
+        "AffixName": "Reliquary_Main_Affix_FIERCE",
+        "Weight": 999
+    },
+    "30940": {
+        "Id": 30940,
+        "PropDepotId": 3094,
+        "PropType": "FIGHT_PROP_HEAL_ADD",
+        "AffixName": "Reliquary_Main_Affix_HOLINESS",
+        "Weight": 999
+    },
+    "30930": {
+        "Id": 30930,
+        "PropDepotId": 3093,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "AffixName": "Reliquary_Main_Affix_WISDOM",
+        "Weight": 999
+    },
+    "50990": {
+        "Id": 50990,
+        "PropDepotId": 5099,
+        "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_FATAL",
+        "Weight": 999
+    },
+    "50980": {
+        "Id": 50980,
+        "PropDepotId": 5098,
+        "PropType": "FIGHT_PROP_HP_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_STRONG",
+        "Weight": 999
+    },
+    "50970": {
+        "Id": 50970,
+        "PropDepotId": 5097,
+        "PropType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "AffixName": "Reliquary_Main_Affix_EMINENCE",
+        "Weight": 999
+    },
+    "50960": {
+        "Id": 50960,
+        "PropDepotId": 5096,
+        "PropType": "FIGHT_PROP_FIRE_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50950": {
+        "Id": 50950,
+        "PropDepotId": 5095,
+        "PropType": "FIGHT_PROP_ELEC_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50940": {
+        "Id": 50940,
+        "PropDepotId": 5094,
+        "PropType": "FIGHT_PROP_ICE_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50930": {
+        "Id": 50930,
+        "PropDepotId": 5093,
+        "PropType": "FIGHT_PROP_WATER_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50920": {
+        "Id": 50920,
+        "PropDepotId": 5092,
+        "PropType": "FIGHT_PROP_WIND_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50910": {
+        "Id": 50910,
+        "PropDepotId": 5091,
+        "PropType": "FIGHT_PROP_ROCK_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50900": {
+        "Id": 50900,
+        "PropDepotId": 5090,
+        "PropType": "FIGHT_PROP_GRASS_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50890": {
+        "Id": 50890,
+        "PropDepotId": 5089,
+        "PropType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+        "AffixName": "Reliquary_Main_Affix_CONCENTRATION",
+        "Weight": 999
+    },
+    "50880": {
+        "Id": 50880,
+        "PropDepotId": 5088,
+        "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "AffixName": "Reliquary_Main_Affix_WISDOM",
+        "Weight": 999
+    }
+}

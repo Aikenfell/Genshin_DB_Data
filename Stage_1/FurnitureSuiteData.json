@@ -1,0 +1,654 @@
+{
+    "3463086408": {
+        "SuiteID": 3463086408,
+        "JsonName": "Home_Suite_Camp_01",
+        "SuiteNameTextMapHash": 1843362898,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Camp_01"
+    },
+    "3162362208": {
+        "SuiteID": 3162362208,
+        "JsonName": "Home_Suite_Exterior_03",
+        "SuiteNameTextMapHash": 1146281754,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_03"
+    },
+    "1468093384": {
+        "SuiteID": 1468093384,
+        "JsonName": "Home_Suite_Exterior_08",
+        "SuiteNameTextMapHash": 2830689802,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_08"
+    },
+    "2490415584": {
+        "SuiteID": 2490415584,
+        "JsonName": "Home_Suite_Interior_Liyue_Bedroom_01",
+        "SuiteNameTextMapHash": 458906242,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Bedroom_01"
+    },
+    "3515236560": {
+        "SuiteID": 3515236560,
+        "JsonName": "Home_Suite_Interior_Liyue_Diningroom_01",
+        "SuiteNameTextMapHash": 2851359402,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Diningroom_01"
+    },
+    "1240942944": {
+        "SuiteID": 1240942944,
+        "JsonName": "Home_Suite_Exterior_12",
+        "SuiteNameTextMapHash": 2106922,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_12"
+    },
+    "3367314000": {
+        "SuiteID": 3367314000,
+        "JsonName": "Home_Suite_Interior_Liyue_Diningroom_02",
+        "SuiteNameTextMapHash": 3767531090,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Diningroom_02"
+    },
+    "2775417216": {
+        "SuiteID": 2775417216,
+        "JsonName": "Home_Suite_Interior_Liyue_Kitchen_01",
+        "SuiteNameTextMapHash": 1321354570,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Kitchen_01"
+    },
+    "914689760": {
+        "SuiteID": 914689760,
+        "JsonName": "Home_Suite_Interior_Liyue_Livingroom_01",
+        "SuiteNameTextMapHash": 3233880186,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Livingroom_01"
+    },
+    "2418512872": {
+        "SuiteID": 2418512872,
+        "JsonName": "Home_Suite_Interior_Liyue_Study_01",
+        "SuiteNameTextMapHash": 749116938,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Study_01"
+    },
+    "3306481024": {
+        "SuiteID": 3306481024,
+        "JsonName": "Home_Suite_Interior_Mond_Bedroom_01",
+        "SuiteNameTextMapHash": 3798465610,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Bedroom_01"
+    },
+    "3540865088": {
+        "SuiteID": 3540865088,
+        "JsonName": "Home_Suite_Interior_Mond_Diningroom_01",
+        "SuiteNameTextMapHash": 2909268938,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Diningroom_01"
+    },
+    "3677318208": {
+        "SuiteID": 3677318208,
+        "JsonName": "Home_Suite_Interior_Mond_Diningroom_02",
+        "SuiteNameTextMapHash": 1384007594,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Diningroom_02"
+    },
+    "1709318008": {
+        "SuiteID": 1709318008,
+        "JsonName": "Home_Suite_Interior_Mond_Kitchen_01",
+        "SuiteNameTextMapHash": 2515685266,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Kitchen_01"
+    },
+    "755897648": {
+        "SuiteID": 755897648,
+        "JsonName": "Home_Suite_Interior_Mond_Livingroom_01",
+        "SuiteNameTextMapHash": 1938380906,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Livingroom_01"
+    },
+    "2762578704": {
+        "SuiteID": 2762578704,
+        "JsonName": "Home_Suite_Interior_Mond_Study_01",
+        "SuiteNameTextMapHash": 1375350274,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            671,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Study_01"
+    },
+    "1776694736": {
+        "SuiteID": 1776694736,
+        "JsonName": "Home_Suite_Liyue_Folkhouse_01",
+        "SuiteNameTextMapHash": 1054541666,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Liyue_Folkhouse_01"
+    },
+    "1246809648": {
+        "SuiteID": 1246809648,
+        "JsonName": "Home_Suite_Mond_Folkhouse_01",
+        "SuiteNameTextMapHash": 4105063002,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Mond_Folkhouse_01"
+    },
+    "3696911184": {
+        "SuiteID": 3696911184,
+        "JsonName": "Home_Suite_Props_01",
+        "SuiteNameTextMapHash": 3955997706,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_01"
+    },
+    "1646794264": {
+        "SuiteID": 1646794264,
+        "JsonName": "Home_Suite_Props_02",
+        "SuiteNameTextMapHash": 2256267522,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_02"
+    },
+    "750803736": {
+        "SuiteID": 750803736,
+        "JsonName": "Home_Suite_Props_03",
+        "SuiteNameTextMapHash": 3221462570,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_03"
+    },
+    "290649664": {
+        "SuiteID": 290649664,
+        "JsonName": "Home_Suite_Props_04",
+        "SuiteNameTextMapHash": 1729468786,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_04"
+    },
+    "1040670656": {
+        "SuiteID": 1040670656,
+        "JsonName": "Home_Suite_Props_05",
+        "SuiteNameTextMapHash": 715902034,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_05"
+    },
+    "3904100912": {
+        "SuiteID": 3904100912,
+        "JsonName": "Home_Suite_Props_06",
+        "SuiteNameTextMapHash": 1417850394,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_06"
+    },
+    "3354555328": {
+        "SuiteID": 3354555328,
+        "JsonName": "Home_Suite_Props_07",
+        "SuiteNameTextMapHash": 1338335706,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_07"
+    },
+    "2400083392": {
+        "SuiteID": 2400083392,
+        "JsonName": "Home_Suite_Props_08",
+        "SuiteNameTextMapHash": 2751991778,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Props_08"
+    },
+    "915508920": {
+        "SuiteID": 915508920,
+        "JsonName": "Home_Suite_Wild_01",
+        "SuiteNameTextMapHash": 2722706834,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Wild_01"
+    },
+    "4037126568": {
+        "SuiteID": 4037126568,
+        "JsonName": "Home_Suite_Wild_02",
+        "SuiteNameTextMapHash": 2653271090,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Wild_02"
+    },
+    "2099763640": {
+        "SuiteID": 2099763640,
+        "JsonName": "Home_Suite_Wild_03",
+        "SuiteNameTextMapHash": 2238911858,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Wild_03"
+    },
+    "375177560": {
+        "SuiteID": 375177560,
+        "JsonName": "Home_Suite_Wild_05",
+        "SuiteNameTextMapHash": 3958273594,
+        "FavoriteNpcExcelIdVec": [],
+        "MapIcon": "",
+        "FurnType": [
+            771,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Wild_05"
+    },
+    "1536217968": {
+        "SuiteID": 1536217968,
+        "JsonName": "Home_Suite_Wild_05",
+        "SuiteNameTextMapHash": 3852092194,
+        "FavoriteNpcExcelIdVec": [
+            10000003,
+            10000020
+        ],
+        "MapIcon": "",
+        "FurnType": [
+            0,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Wild_05"
+    },
+    "3887432560": {
+        "SuiteID": 3887432560,
+        "JsonName": "Home_Suite_Wild_05",
+        "SuiteNameTextMapHash": 518938410,
+        "FavoriteNpcExcelIdVec": [
+            10000003,
+            10000020,
+            10000043,
+            10000044,
+            10000045
+        ],
+        "MapIcon": "",
+        "FurnType": [
+            0,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Wild_05"
+    },
+    "3191370808": {
+        "SuiteID": 3191370808,
+        "JsonName": "Home_Suite_Interior_Mond_Room_of_Recollection",
+        "SuiteNameTextMapHash": 1533841658,
+        "FavoriteNpcExcelIdVec": [
+            10000003,
+            10000006,
+            10000031,
+            10000041,
+            10000051
+        ],
+        "MapIcon": 0.30000001192092896,
+        "FurnType": [
+            672,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Room_Of_Recollection"
+    },
+    "327979704": {
+        "SuiteID": 327979704,
+        "JsonName": "Home_Suite_Interior_Mond_Room_of_Whispers",
+        "SuiteNameTextMapHash": 1215465386,
+        "FavoriteNpcExcelIdVec": [
+            10000014,
+            10000051,
+            10000034
+        ],
+        "MapIcon": 0.30000001192092896,
+        "FurnType": [
+            672,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Mond_Room_Of_Whispers"
+    },
+    "1918892928": {
+        "SuiteID": 1918892928,
+        "JsonName": "Home_Suite_Interior_Liyue_Room_of_Clouds",
+        "SuiteNameTextMapHash": 4215822922,
+        "FavoriteNpcExcelIdVec": [
+            10000025,
+            10000030,
+            10000027
+        ],
+        "MapIcon": 0.30000001192092896,
+        "FurnType": [
+            672,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Room_Of_Clouds"
+    },
+    "1868417336": {
+        "SuiteID": 1868417336,
+        "JsonName": "Home_Suite_Interior_Liyue_Room_of_Dreams",
+        "SuiteNameTextMapHash": 1530502722,
+        "FavoriteNpcExcelIdVec": [
+            10000046,
+            10000048,
+            10000037,
+            10000042,
+            10000036
+        ],
+        "MapIcon": 0.30000001192092896,
+        "FurnType": [
+            672,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Liyue_Room_Of_Dreams"
+    },
+    "681595632": {
+        "SuiteID": 681595632,
+        "JsonName": "Home_Suite_Interior_Common_Arcane_Laboratory",
+        "SuiteNameTextMapHash": 1471988114,
+        "FavoriteNpcExcelIdVec": [
+            10000029,
+            10000043,
+            10000038,
+            10000006
+        ],
+        "MapIcon": 0.30000001192092896,
+        "FurnType": [
+            672,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Common_Arcane_Laboratory"
+    },
+    "1888997072": {
+        "SuiteID": 1888997072,
+        "JsonName": "Home_Suite_Interior_Common_Scented_Kitchen",
+        "SuiteNameTextMapHash": 6616922,
+        "FavoriteNpcExcelIdVec": [
+            10000033,
+            10000041,
+            10000026,
+            10000023,
+            10000020
+        ],
+        "MapIcon": 0.30000001192092896,
+        "FurnType": [
+            672,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Interior_Common_Scented_Kitchen"
+    },
+    "3780605480": {
+        "SuiteID": 3780605480,
+        "JsonName": "Home_Suite_Exterior_Common_Blacksmith_Shop",
+        "SuiteNameTextMapHash": 2842511714,
+        "FavoriteNpcExcelIdVec": [
+            10000034,
+            10000032,
+            10000016,
+            10000039
+        ],
+        "MapIcon": 0.5,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Common_Blacksmith_Shop"
+    },
+    "2486353328": {
+        "SuiteID": 2486353328,
+        "JsonName": "Home_Suite_Exterior_Mond_Pastoral_Village",
+        "SuiteNameTextMapHash": 1486392186,
+        "FavoriteNpcExcelIdVec": [
+            10000039,
+            10000021,
+            10000020
+        ],
+        "MapIcon": 0.5,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Mond_Pastoral_Village"
+    },
+    "3953998576": {
+        "SuiteID": 3953998576,
+        "JsonName": "Home_Suite_Exterior_Mond_Floral_Garden",
+        "SuiteNameTextMapHash": 1581560834,
+        "FavoriteNpcExcelIdVec": [
+            10000022,
+            10000045,
+            10000014,
+            10000003,
+            10000015
+        ],
+        "MapIcon": 0.6000000238418579,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Mond_Floral_Garden"
+    },
+    "3204710648": {
+        "SuiteID": 3204710648,
+        "JsonName": "Home_Suite_Exterior_Liyue_All_Delicacy",
+        "SuiteNameTextMapHash": 2696428114,
+        "FavoriteNpcExcelIdVec": [
+            10000024,
+            10000023,
+            10000037,
+            10000044,
+            10000033
+        ],
+        "MapIcon": 0.4000000059604645,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Liyue_All_Delicacy"
+    },
+    "1737131192": {
+        "SuiteID": 1737131192,
+        "JsonName": "Home_Suite_Exterior_Liyue_Shopping_Street",
+        "SuiteNameTextMapHash": 4267659626,
+        "FavoriteNpcExcelIdVec": [
+            10000027,
+            10000042,
+            10000048,
+            10000025,
+            10000030
+        ],
+        "MapIcon": 0.4000000059604645,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Liyue_Shopping_Street"
+    },
+    "3884593840": {
+        "SuiteID": 3884593840,
+        "JsonName": "Home_Suite_Exterior_Liyue_Qingce_Village",
+        "SuiteNameTextMapHash": 535839330,
+        "FavoriteNpcExcelIdVec": [
+            10000044,
+            10000026,
+            10000046,
+            10000035
+        ],
+        "MapIcon": 0.4000000059604645,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Liyue_Qingce_Village"
+    },
+    "4132105304": {
+        "SuiteID": 4132105304,
+        "JsonName": "Home_Suite_Exterior_Common_Domu_Camp",
+        "SuiteNameTextMapHash": 1387997314,
+        "FavoriteNpcExcelIdVec": [
+            10000021,
+            10000043,
+            10000029,
+            10000024
+        ],
+        "MapIcon": 0.6000000238418579,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Common_Domu_Camp"
+    },
+    "2807885832": {
+        "SuiteID": 2807885832,
+        "JsonName": "Home_Suite_Exterior_Common_Journey_of_abyss",
+        "SuiteNameTextMapHash": 3239092562,
+        "FavoriteNpcExcelIdVec": [
+            10000032,
+            10000035,
+            10000036,
+            10000031,
+            10000038
+        ],
+        "MapIcon": 0.5,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Common_Journey_Of_Abyss"
+    },
+    "2416587472": {
+        "SuiteID": 2416587472,
+        "JsonName": "Home_Suite_Exterior_Common_Dawn_Orchard",
+        "SuiteNameTextMapHash": 756619754,
+        "FavoriteNpcExcelIdVec": [
+            10000016,
+            10000015,
+            10000022,
+            10000045
+        ],
+        "MapIcon": 0.4000000059604645,
+        "FurnType": [
+            772,
+            0
+        ],
+        "ItemIcon": "UI_Home_Suite_Exterior_Common_Dawn_Orchard"
+    }
+}

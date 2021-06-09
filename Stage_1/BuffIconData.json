@@ -1,0 +1,427 @@
+{
+    "10001": {
+        "BuffID": 10001,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 1001
+    },
+    "10002": {
+        "BuffID": 10002,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 1002
+    },
+    "10003": {
+        "BuffID": 10003,
+        "Icon": "UI_Buff_Speed",
+        "MutexType": 1003
+    },
+    "10004": {
+        "BuffID": 10004,
+        "Icon": "UI_Buff_Revive",
+        "MutexType": 1004
+    },
+    "10005": {
+        "BuffID": 10005,
+        "Icon": "UI_Buff_Special",
+        "MutexType": 1005
+    },
+    "10006": {
+        "BuffID": 10006,
+        "Icon": "UI_Buff_Item_Recovery_HpAdd",
+        "MutexType": 1006
+    },
+    "10007": {
+        "BuffID": 10007,
+        "Icon": "UI_Buff_Special",
+        "MutexType": 1007
+    },
+    "10011": {
+        "BuffID": 10011,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 1001
+    },
+    "10021": {
+        "BuffID": 10021,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 1002
+    },
+    "10031": {
+        "BuffID": 10031,
+        "Icon": "UI_Buff_Speed",
+        "MutexType": 1003
+    },
+    "30001": {
+        "BuffID": 30001,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30002": {
+        "BuffID": 30002,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30003": {
+        "BuffID": 30003,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30004": {
+        "BuffID": 30004,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30005": {
+        "BuffID": 30005,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30006": {
+        "BuffID": 30006,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30007": {
+        "BuffID": 30007,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30008": {
+        "BuffID": 30008,
+        "Icon": "",
+        "MutexType": 3001
+    },
+    "30009": {
+        "BuffID": 30009,
+        "Icon": "",
+        "MutexType": 3001
+    },
+    "30010": {
+        "BuffID": 30010,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30011": {
+        "BuffID": 30011,
+        "Icon": "",
+        "MutexType": 3002
+    },
+    "30012": {
+        "BuffID": 30012,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30013": {
+        "BuffID": 30013,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30014": {
+        "BuffID": 30014,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30015": {
+        "BuffID": 30015,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30016": {
+        "BuffID": 30016,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30017": {
+        "BuffID": 30017,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30018": {
+        "BuffID": 30018,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30019": {
+        "BuffID": 30019,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30020": {
+        "BuffID": 30020,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30021": {
+        "BuffID": 30021,
+        "Icon": "UI_Buff_Special",
+        "MutexType": 3003
+    },
+    "30022": {
+        "BuffID": 30022,
+        "Icon": "",
+        "MutexType": 3002
+    },
+    "30023": {
+        "BuffID": 30023,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30024": {
+        "BuffID": 30024,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30025": {
+        "BuffID": 30025,
+        "Icon": "UI_Buff_Special",
+        "MutexType": 3003
+    },
+    "30026": {
+        "BuffID": 30026,
+        "Icon": "UI_Buff_Special",
+        "MutexType": 3003
+    },
+    "30027": {
+        "BuffID": 30027,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30028": {
+        "BuffID": 30028,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30029": {
+        "BuffID": 30029,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30030": {
+        "BuffID": 30030,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30031": {
+        "BuffID": 30031,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30032": {
+        "BuffID": 30032,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30033": {
+        "BuffID": 30033,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30034": {
+        "BuffID": 30034,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30035": {
+        "BuffID": 30035,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30036": {
+        "BuffID": 30036,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "30037": {
+        "BuffID": 30037,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30038": {
+        "BuffID": 30038,
+        "Icon": "UI_Buff_Special",
+        "MutexType": 3003
+    },
+    "30039": {
+        "BuffID": 30039,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30040": {
+        "BuffID": 30040,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30041": {
+        "BuffID": 30041,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30042": {
+        "BuffID": 30042,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30043": {
+        "BuffID": 30043,
+        "Icon": "UI_Buff_Def",
+        "MutexType": 3002
+    },
+    "30044": {
+        "BuffID": 30044,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "30045": {
+        "BuffID": 30045,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "35001": {
+        "BuffID": 35001,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "35002": {
+        "BuffID": 35002,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "35003": {
+        "BuffID": 35003,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "35004": {
+        "BuffID": 35004,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35005": {
+        "BuffID": 35005,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35006": {
+        "BuffID": 35006,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35007": {
+        "BuffID": 35007,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35008": {
+        "BuffID": 35008,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35009": {
+        "BuffID": 35009,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35010": {
+        "BuffID": 35010,
+        "Icon": "UI_Buff_Atk",
+        "MutexType": 3001
+    },
+    "35011": {
+        "BuffID": 35011,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35012": {
+        "BuffID": 35012,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35013": {
+        "BuffID": 35013,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35014": {
+        "BuffID": 35014,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "35015": {
+        "BuffID": 35015,
+        "Icon": "",
+        "MutexType": 3003
+    },
+    "50001": {
+        "BuffID": 50001,
+        "Icon": "UI_Buff_Item_Atk",
+        "MutexType": 5001
+    },
+    "50002": {
+        "BuffID": 50002,
+        "Icon": "UI_Buff_Item_Def",
+        "MutexType": 5002
+    },
+    "50003": {
+        "BuffID": 50003,
+        "Icon": "UI_Buff_Item_Special",
+        "MutexType": 5003
+    },
+    "50004": {
+        "BuffID": 50004,
+        "Icon": "UI_Buff_Item_Mixture",
+        "MutexType": 5004
+    },
+    "50005": {
+        "BuffID": 50005,
+        "Icon": "UI_Buff_Item_Climate_Heat",
+        "MutexType": 5005
+    },
+    "60001": {
+        "BuffID": 60001,
+        "Icon": "UI_DeBuff_Attack",
+        "MutexType": 6001
+    },
+    "60002": {
+        "BuffID": 60002,
+        "Icon": "UI_DeBuff_Def",
+        "MutexType": 6002
+    },
+    "60003": {
+        "BuffID": 60003,
+        "Icon": "UI_DeBuff_Speed",
+        "MutexType": 6003
+    },
+    "60011": {
+        "BuffID": 60011,
+        "Icon": "UI_DeBuff_Atk",
+        "MutexType": 6001
+    },
+    "60012": {
+        "BuffID": 60012,
+        "Icon": "UI_DeBuff_Def",
+        "MutexType": 6002
+    },
+    "60013": {
+        "BuffID": 60013,
+        "Icon": "UI_DeBuff_Speed",
+        "MutexType": 6003
+    },
+    "90001": {
+        "BuffID": 90001,
+        "Icon": "UI_DeBuff_Energy",
+        "MutexType": 9001
+    },
+    "90002": {
+        "BuffID": 90002,
+        "Icon": "UI_DeBuff_Hp",
+        "MutexType": 9002
+    },
+    "90003": {
+        "BuffID": 90003,
+        "Icon": "UI_DeBuff_Consume",
+        "MutexType": 9003
+    },
+    "90004": {
+        "BuffID": 90004,
+        "Icon": "UI_DeBuff_CDTime",
+        "MutexType": 9004
+    }
+}

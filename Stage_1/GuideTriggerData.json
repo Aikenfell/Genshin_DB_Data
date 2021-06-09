@@ -1,0 +1,182 @@
+{
+    "GuideWeaponChange": {
+        "GuideName": "GuideWeaponChange",
+        "Type": "GET_NEW_ITEM",
+        "OpenState": "OPEN_STATE_WEAPON_CHANGE_GUIDE"
+    },
+    "GuideAvatarUpgrade": {
+        "GuideName": "GuideAvatarUpgrade",
+        "Type": "GET_NEW_ITEM",
+        "OpenState": "OPEN_STATE_PLAYER_LVUP_GUIDE"
+    },
+    "GuideRelic": {
+        "GuideName": "GuideRelic",
+        "Type": "GET_NEW_ITEM",
+        "OpenState": "OPEN_STATE_GUIDE_RELIC"
+    },
+    "GuideWeaponUpgrade": {
+        "GuideName": "GuideWeaponUpgrade",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_WEAPON_PROMOTE_GUIDE"
+    },
+    "GuideTalent": {
+        "GuideName": "GuideTalent",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_TALENT"
+    },
+    "GuideRelicPromote": {
+        "GuideName": "GuideRelicPromote",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_RELIC_PROM"
+    },
+    "GuideGacha": {
+        "GuideName": "GuideGacha",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_GACHA"
+    },
+    "GuideTeam": {
+        "GuideName": "GuideTeam",
+        "Type": "HAS_AVATAR_NUM",
+        "Param1": 5
+    },
+    "GuideAvatarPromote": {
+        "GuideName": "GuideAvatarPromote",
+        "Type": "ANY_AVATAR_LEVEL",
+        "Param1": 20
+    },
+    "GuideBag": {
+        "GuideName": "GuideBag",
+        "Type": "GET_NEW_ITEM",
+        "OpenState": "OPEN_STATE_GUIDE_BAG"
+    },
+    "GuideMultiplayer": {
+        "GuideName": "GuideMultiplayer",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_MULTIPLAYER"
+    },
+    "GuideDungeonReward": {
+        "GuideName": "GuideDungeonReward",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_DUNGEONREWARD"
+    },
+    "GuidePersonalLine": {
+        "GuideName": "GuidePersonalLine",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_PERSONAL_LINE"
+    },
+    "GuideAppearance": {
+        "GuideName": "GuideAppearance",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_APPEARANCE"
+    },
+    "GuidePersonalLineKey": {
+        "GuideName": "GuidePersonalLineKey",
+        "Type": "PERSONALLINE_KEY",
+        "OpenState": "OPEN_STATE_GUIDE_PERSONAL_LINE_KEY"
+    },
+    "GuideProcess": {
+        "GuideName": "GuideProcess",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_PROCESS"
+    },
+    "GuideWidget": {
+        "GuideName": "GuideWidget",
+        "Type": "GET_NEW_ITEM",
+        "OpenState": "OPEN_STATE_GUIDE_WIDGET"
+    },
+    "GuideExitMultiplayer": {
+        "GuideName": "GuideExitMultiplayer",
+        "Type": "WORLDPLAYER_UPDATE",
+        "OpenState": "OPEN_STATE_GUIDE_EXITMULTIPLAYER"
+    },
+    "GuideColdClimateEntry": {
+        "GuideName": "GuideColdClimateEntry",
+        "Type": "CLIMATE_TYPE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_COLDCLIMATE"
+    },
+    "GuideTheatreMachanicusBuildios": {
+        "GuideName": "GuideTheatreMachanicusBuildios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD"
+    },
+    "GuideTheatreMachanicusRebuildios": {
+        "GuideName": "GuideTheatreMachanicusRebuildios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_REBUILD"
+    },
+    "GuideTheatreMachanicusCardios": {
+        "GuideName": "GuideTheatreMachanicusCardios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CARD"
+    },
+    "GuideTheatreMachanicusMissionCheck": {
+        "GuideName": "GuideTheatreMachanicusMissionCheck",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MISSION_CHECK"
+    },
+    "GuideTheatreMachanicusBuildSelect": {
+        "GuideName": "GuideTheatreMachanicusBuildSelect",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD_SELECT"
+    },
+    "GuideTheatreMachanicusChallegeStart": {
+        "GuideName": "GuideTheatreMachanicusChallegeStart",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CHALLENGE_START"
+    },
+    "GuideTheatreMachanicusMonsterios": {
+        "GuideName": "GuideTheatreMachanicusMonsterios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MONSTER"
+    },
+    "GuideSynthesisConvert": {
+        "GuideName": "GuideSynthesisConvert",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_CONVERT"
+    },
+    "GuideTheatreMachanicusMultiplayerios": {
+        "GuideName": "GuideTheatreMachanicusMultiplayerios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER"
+    },
+    "GuideCoopTask": {
+        "GuideName": "GuideCoopTask",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_COOP_TASK"
+    },
+    "GuideAdeptiAbode": {
+        "GuideName": "GuideAdeptiAbode",
+        "Type": "GET_NEW_ITEM",
+        "OpenState": "OPEN_STATE_GUIDE_HOMEWORLD_ADEPTIABODE"
+    },
+    "GuideChannellerSlabEquip": {
+        "GuideName": "GuideChannellerSlabEquip",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_EQUIP"
+    },
+    "GuideChannellerSlabMpSolution": {
+        "GuideName": "GuideChannellerSlabMpSolution",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_MP_SOLUTION"
+    },
+    "GuideChannellerSlabPower": {
+        "GuideName": "GuideChannellerSlabPower",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_POWER"
+    },
+    "GuideHideandSeekSkill": {
+        "GuideName": "GuideHideandSeekSkill",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_HIDEANDSEEK_SKILL"
+    },
+    "GuideHomeMapList": {
+        "GuideName": "GuideHomeMapList",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_HOMEWORLD_MAPLIST"
+    },
+    "GuideRelicResolve": {
+        "GuideName": "GuideRelicResolve",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_RELICRESOLVE"
+    }
+}

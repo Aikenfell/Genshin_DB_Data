@@ -1,0 +1,196 @@
+{
+    "1": {
+        "ConfigID": 1,
+        "SceneID": 2001,
+        "AreaID": 1,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "800,316,190,160",
+        "MaxComfort": 999999999
+    },
+    "2": {
+        "ConfigID": 2,
+        "SceneID": 2001,
+        "AreaID": 2,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "715,342,347,70",
+        "MaxComfort": 999999999
+    },
+    "3": {
+        "ConfigID": 3,
+        "SceneID": 2001,
+        "AreaID": 3,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "454,439,555,70",
+        "MaxComfort": 999999999
+    },
+    "4": {
+        "ConfigID": 4,
+        "SceneID": 2001,
+        "AreaID": 4,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "150,525,800,70",
+        "MaxComfort": 999999999
+    },
+    "5": {
+        "ConfigID": 5,
+        "SceneID": 2002,
+        "AreaID": 1,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "332,396,701,0",
+        "MaxComfort": 999999999
+    },
+    "6": {
+        "ConfigID": 6,
+        "SceneID": 2002,
+        "AreaID": 2,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "376,411,572,-200",
+        "MaxComfort": 999999999
+    },
+    "7": {
+        "ConfigID": 7,
+        "SceneID": 2002,
+        "AreaID": 3,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "565,443,544,-266",
+        "MaxComfort": 999999999
+    },
+    "8": {
+        "ConfigID": 8,
+        "SceneID": 2002,
+        "AreaID": 4,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "540,460,475,-86",
+        "MaxComfort": 999999999
+    },
+    "9": {
+        "ConfigID": 9,
+        "SceneID": 2003,
+        "AreaID": 1,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "555,228,600,-60",
+        "MaxComfort": 999999999
+    },
+    "10": {
+        "ConfigID": 10,
+        "SceneID": 2003,
+        "AreaID": 2,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "266,201,487,60",
+        "MaxComfort": 999999999
+    },
+    "11": {
+        "ConfigID": 11,
+        "SceneID": 2003,
+        "AreaID": 3,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "732,209,647,100",
+        "MaxComfort": 999999999
+    },
+    "12": {
+        "ConfigID": 12,
+        "SceneID": 2003,
+        "AreaID": 4,
+        "AreaType": "ExteriorArea",
+        "NameTextMapHash": "736,200,405,135",
+        "MaxComfort": 999999999
+    },
+    "13": {
+        "ConfigID": 13,
+        "SceneID": 2201,
+        "AreaID": 1,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "14": {
+        "ConfigID": 14,
+        "SceneID": 2201,
+        "AreaID": 2,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "15": {
+        "ConfigID": 15,
+        "SceneID": 2201,
+        "AreaID": 3,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "16": {
+        "ConfigID": 16,
+        "SceneID": 2201,
+        "AreaID": 4,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "17": {
+        "ConfigID": 17,
+        "SceneID": 2201,
+        "AreaID": 5,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "18": {
+        "ConfigID": 18,
+        "SceneID": 2201,
+        "AreaID": 6,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "19": {
+        "ConfigID": 19,
+        "SceneID": 2201,
+        "AreaID": 7,
+        "NameTextMapHash": "-11,2.48,1.25,45",
+        "MaxComfort": 999999999
+    },
+    "20": {
+        "ConfigID": 20,
+        "SceneID": 2202,
+        "AreaID": 1,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    },
+    "21": {
+        "ConfigID": 21,
+        "SceneID": 2202,
+        "AreaID": 2,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    },
+    "22": {
+        "ConfigID": 22,
+        "SceneID": 2202,
+        "AreaID": 3,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    },
+    "23": {
+        "ConfigID": 23,
+        "SceneID": 2202,
+        "AreaID": 4,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    },
+    "24": {
+        "ConfigID": 24,
+        "SceneID": 2202,
+        "AreaID": 5,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    },
+    "25": {
+        "ConfigID": 25,
+        "SceneID": 2202,
+        "AreaID": 6,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    },
+    "26": {
+        "ConfigID": 26,
+        "SceneID": 2202,
+        "AreaID": 7,
+        "NameTextMapHash": "-6.57,3.47,14,135",
+        "MaxComfort": 999999999
+    }
+}

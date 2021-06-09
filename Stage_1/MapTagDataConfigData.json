@@ -1,0 +1,34 @@
+{
+    "1": {
+        "Id": 1,
+        "NameTextMapHash": 3473997204,
+        "Icon": "UI_MarkSwitch_Bigworld",
+        "UnlockByDefault": true,
+        "SceneIdList": [
+            3
+        ]
+    },
+    "2": {
+        "Id": 2,
+        "Type": "HomeWorld",
+        "NameTextMapHash": 3071628724,
+        "Icon": "UI_MarkSwitch_Homeworld",
+        "UnlockByDefault": true,
+        "SceneIdList": [
+            2001,
+            2002,
+            2003
+        ]
+    },
+    "3": {
+        "Id": 3,
+        "Type": "Islands",
+        "NameTextMapHash": 2157852924,
+        "Icon": -335.3139953613281,
+        "UnlockByDefault": true,
+        "SceneIdList": [
+            4
+        ],
+        "HideBeforeUnlock": -655.7260131835938
+    }
+}

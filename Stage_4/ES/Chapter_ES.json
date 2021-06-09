@@ -1,0 +1,3613 @@
+{
+    "Null": {
+        "Contains": [
+            [
+                "347",
+                ""
+            ],
+            [
+                "348",
+                ""
+            ],
+            [
+                "349",
+                ""
+            ],
+            [
+                "350",
+                ""
+            ],
+            [
+                "362",
+                ""
+            ],
+            [
+                "310",
+                "Reclutamiento de nuevos compa\u00f1eros"
+            ],
+            [
+                "385",
+                ""
+            ],
+            [
+                "303",
+                ""
+            ],
+            [
+                "318",
+                "Otro tipo de poder elemental"
+            ],
+            [
+                "407",
+                "Juego de Liyue"
+            ],
+            [
+                "408",
+                "Parkour en los Pontones"
+            ],
+            [
+                "409",
+                "Canastas de Slime"
+            ],
+            [
+                "416",
+                "Dientes en Hu\u00edda"
+            ],
+            [
+                "418",
+                "Rompe el sello del Cementerio de Espadas"
+            ],
+            [
+                "419",
+                "Rompe el sello de la Tribu del Eclipse"
+            ],
+            [
+                "420",
+                "Rompe el sello de la Tribu de los Dormilones"
+            ],
+            [
+                "421",
+                ""
+            ],
+            [
+                "422",
+                "Rompe el sello de la Tribu de los Carn\u00edvoros"
+            ],
+            [
+                "423",
+                "Encuentra al hada que falta"
+            ],
+            [
+                "424",
+                ""
+            ],
+            [
+                "425",
+                "Misi\u00f3n de Prueba de Vuelo"
+            ],
+            [
+                "426",
+                "La Pista de Paimon al sentarse"
+            ],
+            [
+                "428",
+                "Abismo de Amber"
+            ],
+            [
+                "429",
+                "Batalla contra los Slimes"
+            ],
+            [
+                "467",
+                "Secretos culinarios"
+            ],
+            [
+                "468",
+                "Jabal\u00edes, \u00a1al ataque!"
+            ],
+            [
+                "469",
+                "La bendici\u00f3n de Los Siete"
+            ],
+            [
+                "470",
+                "Un sabor tra\u00eddo por el viento"
+            ],
+            [
+                "471",
+                ""
+            ],
+            [
+                "500",
+                ""
+            ],
+            [
+                "501",
+                ""
+            ],
+            [
+                "502",
+                ""
+            ],
+            [
+                "503",
+                ""
+            ],
+            [
+                "504",
+                ""
+            ],
+            [
+                "990",
+                ""
+            ],
+            [
+                "991",
+                ""
+            ],
+            [
+                "992",
+                ""
+            ],
+            [
+                "993",
+                ""
+            ],
+            [
+                "994",
+                ""
+            ],
+            [
+                "995",
+                ""
+            ],
+            [
+                "996",
+                ""
+            ],
+            [
+                "997",
+                ""
+            ],
+            [
+                "998",
+                ""
+            ],
+            [
+                "999",
+                ""
+            ],
+            [
+                "1005",
+                ""
+            ],
+            [
+                "1006",
+                ""
+            ],
+            [
+                "1007",
+                ""
+            ],
+            [
+                "1017",
+                ""
+            ],
+            [
+                "1026",
+                ""
+            ],
+            [
+                "10300",
+                "(Prueba) Caja Blanca de Historia de B\u00e1rbara"
+            ],
+            [
+                "11006",
+                "(Obsoleto)"
+            ],
+            [
+                "11007",
+                "(Obsoleto)"
+            ],
+            [
+                "20000",
+                "Desaf\u00edo contrarreloj de la Aldea Chingts\u00e9"
+            ],
+            [
+                "20001",
+                "\u00bfCamino bloqueado?"
+            ],
+            [
+                "20005",
+                "Llave perdida"
+            ],
+            [
+                "20006",
+                "Entrega de comida"
+            ],
+            [
+                "20007",
+                "Reparaciones urgentes"
+            ],
+            [
+                "20008",
+                "Un problema pegajoso"
+            ],
+            [
+                "20009",
+                "Intercambio de idiomas"
+            ],
+            [
+                "20010",
+                "Intercambio de idiomas"
+            ],
+            [
+                "20016",
+                "Entrega de comida"
+            ],
+            [
+                "20011",
+                "\u00bfCamino bloqueado?"
+            ],
+            [
+                "20012",
+                "\u00bfCamino bloqueado?"
+            ],
+            [
+                "20013",
+                "\u00bfCamino bloqueado?"
+            ],
+            [
+                "20015",
+                "Intercambio de idiomas"
+            ],
+            [
+                "20017",
+                "Reparaciones urgentes"
+            ],
+            [
+                "20018",
+                "Reparaciones urgentes"
+            ],
+            [
+                "20019",
+                "Llave perdida"
+            ],
+            [
+                "20023",
+                "Presunci\u00f3n de inocencia"
+            ],
+            [
+                "20025",
+                "Llave perdida"
+            ],
+            [
+                "20026",
+                "Entrega de comida"
+            ],
+            [
+                "20027",
+                "Un problema pegajoso"
+            ],
+            [
+                "20028",
+                "Un problema pegajoso"
+            ],
+            [
+                "20035",
+                "Llave perdida"
+            ],
+            [
+                "20036",
+                "Lo que el viento se llev\u00f3"
+            ],
+            [
+                "20037",
+                "Un amor inalcanzable"
+            ],
+            [
+                "20038",
+                "Agradecimiento a los dioses"
+            ],
+            [
+                "20039",
+                "Tutorial de alquimia de Timaeus"
+            ],
+            [
+                "20040",
+                "Una nueva tormenta se avecina"
+            ],
+            [
+                "20041",
+                "\u00a1La aventura requiere de valor!"
+            ],
+            [
+                "20042",
+                "Se\u00f1or Albert, \u00a1espere un momento!"
+            ],
+            [
+                "20043",
+                "\u00a1Michelle nunca se detiene!"
+            ],
+            [
+                "20044",
+                "Ellin, la aspirante a Caballera"
+            ],
+            [
+                "20047",
+                "Paso a paso"
+            ],
+            [
+                "20048",
+                "Paloma, pato y ni\u00f1o"
+            ],
+            [
+                "20049",
+                "Un poco de alcohol no hace da\u00f1o..."
+            ],
+            [
+                "20050",
+                "Ellin, la aspirante a Caballera"
+            ],
+            [
+                "20051",
+                "Vinos de Mondstadt"
+            ],
+            [
+                "20053",
+                "Ellin, la aspirante a Caballera"
+            ],
+            [
+                "20054",
+                "Guy desapercibido"
+            ],
+            [
+                "20058",
+                "\u00a1Corre, Nora!"
+            ],
+            [
+                "20059",
+                "Cuantos m\u00e1s tesoros, mejor"
+            ],
+            [
+                "20060",
+                "Lo que un padre puede hacer"
+            ],
+            [
+                "20061",
+                "Palomas extraviadas"
+            ],
+            [
+                "20062",
+                "Los l\u00edmites de un aventurero"
+            ],
+            [
+                "20063",
+                "El mejor p\u00fablico de Mondstadt"
+            ],
+            [
+                "20064",
+                "Los l\u00edmites de un aventurero"
+            ],
+            [
+                "20065",
+                "Ellin, la aspirante a Caballera"
+            ],
+            [
+                "20066",
+                "Ellin, la aspirante a Caballera"
+            ],
+            [
+                "20102",
+                "La carta de un ni\u00f1o"
+            ],
+            [
+                "20103",
+                "Intercambio po\u00e9tico"
+            ],
+            [
+                "22000",
+                "\u00a1Piratas en Liyue!"
+            ],
+            [
+                "22001",
+                "\u00a1Piratas en Liyue!"
+            ],
+            [
+                "22002",
+                "\u00a1Piratas en Liyue!"
+            ],
+            [
+                "22003",
+                "El Sonriente Yanxiao ya no sonr\u00ede"
+            ],
+            [
+                "22004",
+                "La solitaria pesca de Jiangxue"
+            ],
+            [
+                "22005",
+                "Reliquias abandonadas"
+            ],
+            [
+                "22006",
+                "Reliquias abandonadas"
+            ],
+            [
+                "22007",
+                "Reliquias abandonadas"
+            ],
+            [
+                "22008",
+                "Un trago amargo"
+            ],
+            [
+                "22100",
+                "La posada en el pantano"
+            ],
+            [
+                "22101",
+                "La posada en el pantano"
+            ],
+            [
+                "22102",
+                "La posada en el pantano"
+            ],
+            [
+                "22103",
+                "Hu\u00e9spedes de tierras lejanas"
+            ],
+            [
+                "22104",
+                "Hu\u00e9spedes de tierras lejanas"
+            ],
+            [
+                "22105",
+                "Hu\u00e9spedes de tierras lejanas"
+            ],
+            [
+                "22106",
+                "Un barco, dos barcos, tres barcos..."
+            ],
+            [
+                "22107",
+                "Buen augurio"
+            ],
+            [
+                "22108",
+                "\u00bfA d\u00f3nde fue la Cuchilla Oculta?"
+            ],
+            [
+                "22109",
+                "\u00bfA d\u00f3nde fue la Cuchilla Oculta?"
+            ],
+            [
+                "22110",
+                "\u00bfA d\u00f3nde fue la Cuchilla Oculta?"
+            ],
+            [
+                "22111",
+                "El aventurero avanza al horizonte"
+            ],
+            [
+                "22112",
+                "La escalera a la Posada Wangshu"
+            ],
+            [
+                "22113",
+                "La escalera a la Posada Wangshu"
+            ],
+            [
+                "22115",
+                "Viejos amigos"
+            ],
+            [
+                "22116",
+                "\u00a1Qu\u00e9 novela!"
+            ],
+            [
+                "22117",
+                "Una visita a Jueyun"
+            ],
+            [
+                "22300",
+                "Geodiario de viajes"
+            ],
+            [
+                "22301",
+                "Momento de suspense"
+            ],
+            [
+                "22302",
+                "\u00a1Qu\u00e9 novela!"
+            ],
+            [
+                "22303",
+                "El sabor del vino"
+            ],
+            [
+                "22304",
+                "El tesoro del marinero"
+            ],
+            [
+                "22305",
+                "Un diamante en bruto"
+            ],
+            [
+                "22306",
+                "El tesoro del marinero"
+            ],
+            [
+                "22307",
+                "El tesoro del marinero"
+            ],
+            [
+                "20030",
+                "Bienvenid{Fa}{Mo} al Gremio de Aventureros"
+            ],
+            [
+                "20031",
+                "Cada d\u00eda una nueva aventura"
+            ],
+            [
+                "20032",
+                ""
+            ],
+            [
+                "20500",
+                ""
+            ],
+            [
+                "20501",
+                "\u00c1rbol antiguo del Dominio"
+            ],
+            [
+                "20502",
+                "Ca\u00f1\u00f3n del Olvido"
+            ],
+            [
+                "20503",
+                "Una buena preparaci\u00f3n es primordial"
+            ],
+            [
+                "20504",
+                "Coleccionista de insignias Anemo"
+            ],
+            [
+                "20505",
+                "El atareado Gremio de Aventureros"
+            ],
+            [
+                "20506",
+                "Sabidur\u00eda de civilizaciones antiguas"
+            ],
+            [
+                "20507",
+                ""
+            ],
+            [
+                "20508",
+                ""
+            ],
+            [
+                "20509",
+                ""
+            ],
+            [
+                "20510",
+                ""
+            ],
+            [
+                "20100",
+                ""
+            ],
+            [
+                "21001",
+                "Diario de exploraci\u00f3n de un mar de nubes"
+            ],
+            [
+                "21002",
+                "(Prueba) El drag\u00f3n de piedra de Liyue"
+            ],
+            [
+                "21003",
+                "Un trabajo para m\u00e1s de uno"
+            ],
+            [
+                "21004",
+                "El tesoro de la Llanura Guili"
+            ],
+            [
+                "21005",
+                "Desaf\u00edo contrarreloj de la Posada Wangshu"
+            ],
+            [
+                "21007",
+                "Un \u00e1rbol solitario, sin un bosque propio..."
+            ],
+            [
+                "21008",
+                "Tres llamas iluminan el camino"
+            ],
+            [
+                "21009",
+                "Los viejos gustos nunca mueren"
+            ],
+            [
+                "21010",
+                "Cambio de clima en la Costa de Yaoguang"
+            ],
+            [
+                "21011",
+                "(Prueba) Recuperar la botella a la deriva"
+            ],
+            [
+                "21012",
+                "Barriendo las escaleras"
+            ],
+            [
+                "21013",
+                "Un nido de Hilichurl de madera"
+            ],
+            [
+                "21014",
+                "(Prueba) C\u00e1mara de la entrada de Liyue"
+            ],
+            [
+                "21015",
+                "El libro extraviado en el bosque"
+            ],
+            [
+                "21016",
+                "Desaf\u00edo contrarreloj de las Cascadas"
+            ],
+            [
+                "21017",
+                "Desaf\u00edo contrarreloj de la Costa de Yaoguang"
+            ],
+            [
+                "21018",
+                "El juego del escondite"
+            ],
+            [
+                "21019",
+                "El tesoro escondido de Chingts\u00e9"
+            ],
+            [
+                "21020",
+                "Lo valioso hay que cuidarlo"
+            ],
+            [
+                "21021",
+                "El Chi de anta\u00f1o"
+            ],
+            [
+                "21022",
+                "El tesoro de la Llanura Guili"
+            ],
+            [
+                "21023",
+                "Medidas provisionales"
+            ],
+            [
+                "21024",
+                "Un negocio jugoso"
+            ],
+            [
+                "21025",
+                "El deseo del Yaksha"
+            ],
+            [
+                "70005",
+                ""
+            ],
+            [
+                "25000",
+                "Desbloqueado 1 - Oculto"
+            ],
+            [
+                "25001",
+                "Ascensi\u00f3n de Rango de Aventura - 1"
+            ],
+            [
+                "25002",
+                "Desbloqueado 2 - Oculto"
+            ],
+            [
+                "25003",
+                "Ascensi\u00f3n de Rango de Aventura - 2"
+            ],
+            [
+                "25004",
+                "Desbloqueado 3 - Oculto"
+            ],
+            [
+                "25005",
+                "Ascensi\u00f3n de Rango de Aventura - 2"
+            ],
+            [
+                "25006",
+                "Desbloqueado 4 - Oculto"
+            ],
+            [
+                "25007",
+                "Ascensi\u00f3n de Rango de Aventura - 2"
+            ],
+            [
+                "25008",
+                "Desbloqueado 5 - Oculto"
+            ],
+            [
+                "25009",
+                "Ascensi\u00f3n de Rango de Aventura - 3"
+            ],
+            [
+                "25010",
+                "Desbloqueado 6- Oculto"
+            ],
+            [
+                "25011",
+                "Ascensi\u00f3n de Rango de Aventura - 4"
+            ],
+            [
+                "25012",
+                "Desbloqueado 7 - Oculto"
+            ],
+            [
+                "25013",
+                "Ascensi\u00f3n de Rango de Aventura - 7"
+            ],
+            [
+                "71001",
+                "Un barco lleno de tesoros"
+            ],
+            [
+                "71002",
+                "Una carta inesperada que asciende a los cielos"
+            ],
+            [
+                "71004",
+                ""
+            ],
+            [
+                "71555",
+                "Y el tesoro es para..."
+            ],
+            [
+                "71009",
+                ""
+            ],
+            [
+                "40911",
+                "\u00bfUn gran paso para la alquimia?"
+            ],
+            [
+                "800",
+                ""
+            ],
+            [
+                "11008",
+                "Tetera, dulce tetera (I)"
+            ],
+            [
+                "19046",
+                ""
+            ],
+            [
+                "19070",
+                ""
+            ],
+            [
+                "19088",
+                ""
+            ],
+            [
+                "19089",
+                ""
+            ],
+            [
+                "20068",
+                "\u00a1Lo siento, Timmie!"
+            ],
+            [
+                "20069",
+                "Aprovecha que est\u00e1n frescas"
+            ],
+            [
+                "20070",
+                "La frescura de las flores"
+            ],
+            [
+                "20071",
+                "La frescura de las flores"
+            ],
+            [
+                "20072",
+                "La frescura de las flores"
+            ],
+            [
+                "20073",
+                "Suministros de emergencia"
+            ],
+            [
+                "20104",
+                "Hora de limpiar el vi\u00f1edo (II)"
+            ],
+            [
+                "20511",
+                "Medicina milagrosa"
+            ],
+            [
+                "20512",
+                "Medicina milagrosa"
+            ],
+            [
+                "20513",
+                "Medicina milagrosa"
+            ],
+            [
+                "20514",
+                "Recuper\u00e1ndose de la enfermedad"
+            ],
+            [
+                "20515",
+                "Recuper\u00e1ndose de la enfermedad"
+            ],
+            [
+                "20516",
+                "Recuper\u00e1ndose de la enfermedad"
+            ],
+            [
+                "20517",
+                "Una grata sorpresa"
+            ],
+            [
+                "20518",
+                "El encargo de \u201cese se\u00f1or\u201d"
+            ],
+            [
+                "20519",
+                "El encargo de \u201cese se\u00f1or\u201d"
+            ],
+            [
+                "20520",
+                "A medio congelar"
+            ],
+            [
+                "20521",
+                "Aprovecha que est\u00e1 caliente"
+            ],
+            [
+                "20600",
+                "Una historia invernal"
+            ],
+            [
+                "20601",
+                "\u00bfUn obsequio de los cielos?"
+            ],
+            [
+                "20602",
+                "\u00a1No hay tiempo que perder!"
+            ],
+            [
+                "20603",
+                "Lo pasado, pasado est\u00e1"
+            ],
+            [
+                "20700",
+                "\u00a1Lo prometido es deuda!"
+            ],
+            [
+                "20701",
+                "Cliente frecuente"
+            ],
+            [
+                "20702",
+                "Cuestionario sobre el \u00abManual de los Caballeros\u00bb"
+            ],
+            [
+                "20703",
+                "Hojas en el viento"
+            ],
+            [
+                "20704",
+                ""
+            ],
+            [
+                "20740",
+                "Flora y las flores flotantes"
+            ],
+            [
+                "20741",
+                "El Arconte Anemo y Mondstadt"
+            ],
+            [
+                "20742",
+                ""
+            ],
+            [
+                "20743",
+                "Un problema con el viento"
+            ],
+            [
+                "20744",
+                ""
+            ],
+            [
+                "22009",
+                "Recuperar lo robado"
+            ],
+            [
+                "22114",
+                "Un supuesto \u201ctrabajo\u201d"
+            ],
+            [
+                "22200",
+                "Un est\u00f3mago sin fondo"
+            ],
+            [
+                "22500",
+                "Cosas de adultos"
+            ],
+            [
+                "22501",
+                "La esencia de la poes\u00eda"
+            ],
+            [
+                "22701",
+                "El gorri\u00f3n estudia la espada"
+            ],
+            [
+                "31001",
+                ""
+            ],
+            [
+                "40000",
+                "La arena mec\u00e1nica de Liyue"
+            ],
+            [
+                "41001",
+                ""
+            ],
+            [
+                "41115",
+                ""
+            ],
+            [
+                "41120",
+                "Objetos ca\u00eddos del cielo"
+            ],
+            [
+                "41121",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41122",
+                "Cada persona con su deber"
+            ],
+            [
+                "41123",
+                "Medidas urgentes"
+            ],
+            [
+                "41124",
+                "El plan de \u201cese se\u00f1or\u201d"
+            ],
+            [
+                "41125",
+                "\u00a1Meteoritos y aventuras!"
+            ],
+            [
+                "41126",
+                "Una carta dif\u00edcil de enviar"
+            ],
+            [
+                "41127",
+                "Una p\u00e9rdida misteriosa"
+            ],
+            [
+                "41130",
+                "El asedio de Chingts\u00e9"
+            ],
+            [
+                "41131",
+                "Un sinf\u00edn de oportunidades"
+            ],
+            [
+                "41135",
+                "Pensamientos llevados por el viento"
+            ],
+            [
+                "41141",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41142",
+                "Wanmin para llevar"
+            ],
+            [
+                "41143",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41144",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41145",
+                "Wanmin para llevar"
+            ],
+            [
+                "41146",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41147",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41148",
+                "Wanmin para llevar"
+            ],
+            [
+                "41149",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41150",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41151",
+                "Wanmin para llevar"
+            ],
+            [
+                "41152",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41153",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41154",
+                "Wanmin para llevar"
+            ],
+            [
+                "41155",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41156",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41157",
+                "Wanmin para llevar"
+            ],
+            [
+                "41158",
+                "El Buen Cazador Express"
+            ],
+            [
+                "41159",
+                "Posada Wangshu a domicilio"
+            ],
+            [
+                "41160",
+                "Wanmin para llevar"
+            ],
+            [
+                "41170",
+                "\u00a1Abre tus alas!"
+            ],
+            [
+                "41215",
+                ""
+            ],
+            [
+                "41316",
+                ""
+            ],
+            [
+                "41317",
+                ""
+            ],
+            [
+                "41331",
+                "Las linternas de Chingts\u00e9"
+            ],
+            [
+                "41332",
+                "\u00a1Clientes satisfechos!"
+            ],
+            [
+                "41333",
+                "Fierro y Ziwei, cuando est\u00e1n lado a lado..."
+            ],
+            [
+                "41334",
+                "\u00bfUn gran negocio durante el Rito de la Linterna?"
+            ],
+            [
+                "41335",
+                "Poemas y pinturas del Rito de la Linterna: parte I"
+            ],
+            [
+                "41336",
+                "La determinaci\u00f3n de Linling"
+            ],
+            [
+                "41337",
+                "Linternas del pasado, Guhua del presente"
+            ],
+            [
+                "41338",
+                "Mi primera aventura"
+            ],
+            [
+                "41340",
+                "Los peque\u00f1os problemas del festival"
+            ],
+            [
+                "41341",
+                "Un peque\u00f1o deseo para una peque\u00f1a linterna"
+            ],
+            [
+                "41342",
+                "Llave inglesa y martillo"
+            ],
+            [
+                "41343",
+                "Personas de Mondstadt en Liyue"
+            ],
+            [
+                "41401",
+                "Daguerrotipo especial"
+            ],
+            [
+                "41402",
+                "La imagen perfecta"
+            ],
+            [
+                "41421",
+                "Los cauces de la vida (I)"
+            ],
+            [
+                "41422",
+                "Los cauces de la vida (II)"
+            ],
+            [
+                "70000",
+                "Investigaci\u00f3n sobre la flor de viento"
+            ],
+            [
+                "70001",
+                "Discordia en el festival"
+            ],
+            [
+                "70003",
+                "Lugares dif\u00edciles de alcanzar"
+            ],
+            [
+                "70006",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70007",
+                "\u00a1Silencio en la biblioteca!"
+            ],
+            [
+                "70008",
+                "Sabor a viento"
+            ],
+            [
+                "70009",
+                "Flores de viento y copos de nieve"
+            ],
+            [
+                "70010",
+                "Flores y aventureros"
+            ],
+            [
+                "70011",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70012",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70013",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70014",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70015",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70016",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70017",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70018",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70019",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70020",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70021",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70022",
+                "Justicia Hilichurl"
+            ],
+            [
+                "70023",
+                "Intercambio rec\u00edproco"
+            ],
+            [
+                "70024",
+                "Mimi tomo"
+            ],
+            [
+                "70025",
+                "El Hilichurl desaparecido"
+            ],
+            [
+                "70101",
+                ""
+            ],
+            [
+                "70102",
+                "El diente ponzo\u00f1oso"
+            ],
+            [
+                "70103",
+                ""
+            ],
+            [
+                "70104",
+                "Investigaci\u00f3n alpina"
+            ],
+            [
+                "70106",
+                "Ah, \u00a1carne fresca!"
+            ],
+            [
+                "70107",
+                "Aviso: bajas temperaturas"
+            ],
+            [
+                "70108",
+                "Continuaci\u00f3n de la investigaci\u00f3n alpina"
+            ],
+            [
+                "70109",
+                ""
+            ],
+            [
+                "70110",
+                ""
+            ],
+            [
+                "70121",
+                "Un reino bajo la nieve"
+            ],
+            [
+                "70123",
+                "Perdido en la monta\u00f1a"
+            ],
+            [
+                "70124",
+                ""
+            ],
+            [
+                "70125",
+                ""
+            ],
+            [
+                "70126",
+                ""
+            ],
+            [
+                "70127",
+                ""
+            ],
+            [
+                "70128",
+                ""
+            ],
+            [
+                "70141",
+                "En la monta\u00f1a"
+            ],
+            [
+                "70142",
+                ""
+            ],
+            [
+                "70143",
+                "Cuando el rastro se enfr\u00eda"
+            ],
+            [
+                "70144",
+                "Ola de fr\u00edo"
+            ],
+            [
+                "70145",
+                ""
+            ],
+            [
+                "70650",
+                "La caballera de Mondstadt"
+            ],
+            [
+                "70651",
+                "El arte de la miner\u00eda"
+            ],
+            [
+                "70652",
+                "El arte de buscar tesoros"
+            ],
+            [
+                "70653",
+                "Invasi\u00f3n de Dragartos"
+            ],
+            [
+                "70654",
+                "Flores en el viento"
+            ],
+            [
+                "70655",
+                "El llamado del valle"
+            ],
+            [
+                "70656",
+                "Jard\u00edn peculiar"
+            ],
+            [
+                "70657",
+                "Tiro al blanco"
+            ],
+            [
+                "70658",
+                "Baladas del viento"
+            ],
+            [
+                "70659",
+                "Un juego cl\u00e1sico"
+            ],
+            [
+                "70700",
+                "T\u00e9 especial de Helen"
+            ],
+            [
+                "70701",
+                "La petici\u00f3n de Glory"
+            ],
+            [
+                "70702",
+                "Materiales de vino para Connor"
+            ],
+            [
+                "70703",
+                "Materiales de vino para Connor"
+            ],
+            [
+                "70704",
+                "Materiales de vino para Connor"
+            ],
+            [
+                "70705",
+                "Materiales de vino para Connor"
+            ],
+            [
+                "70706",
+                "La petici\u00f3n de Timmie"
+            ],
+            [
+                "70707",
+                "Las flores de Alfred"
+            ],
+            [
+                "70708",
+                "Las flores de Alfred"
+            ],
+            [
+                "70709",
+                "El varonil camino del Varonil Jack"
+            ],
+            [
+                "70710",
+                "El varonil camino del Varonil Jack"
+            ],
+            [
+                "70711",
+                "El varonil camino del Varonil Jack"
+            ],
+            [
+                "70712",
+                "Investigaci\u00f3n bot\u00e1nica de Chloris"
+            ],
+            [
+                "70713",
+                "Brook, la amante de la carne"
+            ],
+            [
+                "70714",
+                "Brook, la amante de la carne"
+            ],
+            [
+                "70800",
+                "Delicias del viento"
+            ],
+            [
+                "70801",
+                "Cuestionario sobre el \u00abManual de los Caballeros\u00bb"
+            ],
+            [
+                "70810",
+                "Intercambio equivalente"
+            ],
+            [
+                "70811",
+                ""
+            ],
+            [
+                "70812",
+                "Estragos tras la tormenta"
+            ],
+            [
+                "70813",
+                "\u00a1Al ladr\u00f3n!"
+            ],
+            [
+                "70814",
+                "\u00bfQu\u00e9 hacen los aventureros?"
+            ],
+            [
+                "70815",
+                "Voluntad de piedra"
+            ],
+            [
+                "70816",
+                "Solo ante el peligro"
+            ],
+            [
+                "70821",
+                "El tesoro tras la tormenta"
+            ],
+            [
+                "70822",
+                "Un tranquilo d\u00eda en Liyue"
+            ],
+            [
+                "70823",
+                "Un problema con la Forja"
+            ],
+            [
+                "70824",
+                "Limpiando el Vi\u00f1edo"
+            ],
+            [
+                "70825",
+                "Trabajando despu\u00e9s de la tormenta"
+            ],
+            [
+                "70901",
+                ""
+            ],
+            [
+                "70902",
+                ""
+            ],
+            [
+                "70903",
+                ""
+            ],
+            [
+                "70904",
+                ""
+            ],
+            [
+                "70905",
+                ""
+            ],
+            [
+                "70906",
+                ""
+            ],
+            [
+                "70907",
+                ""
+            ],
+            [
+                "70908",
+                ""
+            ],
+            [
+                "70909",
+                ""
+            ],
+            [
+                "70910",
+                ""
+            ],
+            [
+                "70911",
+                ""
+            ],
+            [
+                "70912",
+                ""
+            ],
+            [
+                "70913",
+                ""
+            ],
+            [
+                "70914",
+                ""
+            ],
+            [
+                "70915",
+                ""
+            ],
+            [
+                "70916",
+                ""
+            ],
+            [
+                "70917",
+                ""
+            ],
+            [
+                "70918",
+                ""
+            ],
+            [
+                "70919",
+                ""
+            ],
+            [
+                "70920",
+                ""
+            ],
+            [
+                "70921",
+                ""
+            ],
+            [
+                "70922",
+                ""
+            ],
+            [
+                "70923",
+                ""
+            ],
+            [
+                "70924",
+                ""
+            ],
+            [
+                "70925",
+                ""
+            ],
+            [
+                "70926",
+                ""
+            ],
+            [
+                "70927",
+                ""
+            ],
+            [
+                "70928",
+                ""
+            ],
+            [
+                "70929",
+                ""
+            ],
+            [
+                "70930",
+                ""
+            ],
+            [
+                "70931",
+                ""
+            ],
+            [
+                "70932",
+                ""
+            ],
+            [
+                "70933",
+                ""
+            ],
+            [
+                "70934",
+                ""
+            ],
+            [
+                "70935",
+                ""
+            ],
+            [
+                "70936",
+                ""
+            ],
+            [
+                "70937",
+                ""
+            ],
+            [
+                "70938",
+                ""
+            ],
+            [
+                "70939",
+                ""
+            ],
+            [
+                "70940",
+                ""
+            ],
+            [
+                "70941",
+                ""
+            ],
+            [
+                "70942",
+                ""
+            ],
+            [
+                "71005",
+                "Los nueve pilares de la paz"
+            ],
+            [
+                "71006",
+                "El paisaje del Estanque Luhua"
+            ],
+            [
+                "71007",
+                ""
+            ],
+            [
+                "71008",
+                "\u00bfJugamos?"
+            ],
+            [
+                "71010",
+                ""
+            ],
+            [
+                "71011",
+                "Rastros en Tianchiu"
+            ],
+            [
+                "71012",
+                "El tiempo y el viento"
+            ],
+            [
+                "71013",
+                ""
+            ],
+            [
+                "71014",
+                "La perla del oc\u00e9ano"
+            ],
+            [
+                "71015",
+                ""
+            ],
+            [
+                "71016",
+                ""
+            ],
+            [
+                "71017",
+                ""
+            ],
+            [
+                "71018",
+                "El solitario barco de Guyun"
+            ],
+            [
+                "71019",
+                ""
+            ],
+            [
+                "71020",
+                "Sobrecarga de trabajo"
+            ],
+            [
+                "71021",
+                ""
+            ],
+            [
+                "71022",
+                "Una antigua ciudad majestuosa"
+            ],
+            [
+                "71031",
+                ""
+            ],
+            [
+                "71650",
+                "Los asuntos del Ministerio de Asuntos Civiles"
+            ],
+            [
+                "71651",
+                "Dragartos que hibernan, misterio que permanece"
+            ],
+            [
+                "71652",
+                "Un hombre consternado"
+            ],
+            [
+                "71653",
+                "Reencuentro con el hombre consternado"
+            ],
+            [
+                "71654",
+                "Tetera, dulce tetera (II)"
+            ],
+            [
+                "71655",
+                "Los chismes de la tetera"
+            ],
+            [
+                "71700",
+                "\u00a1Changchang quiere una guirnalda!"
+            ],
+            [
+                "71701",
+                "Hierbas medicinales para el Herborista Gui"
+            ],
+            [
+                "71702",
+                "Hierbas medicinales para el Herborista Gui"
+            ],
+            [
+                "71703",
+                "Hierbas medicinales para el Herborista Gui"
+            ],
+            [
+                "71704",
+                "Hierbas medicinales para el Herborista Gui"
+            ],
+            [
+                "71705",
+                "Ingredientes para el Sonriente Yanxiao"
+            ],
+            [
+                "71706",
+                "Ingredientes para el Sonriente Yanxiao"
+            ],
+            [
+                "71707",
+                "Ingredientes para el Sonriente Yanxiao"
+            ],
+            [
+                "71708",
+                "Pedazos de hierro para Hanfeng"
+            ],
+            [
+                "71709",
+                "Nostalgia gastron\u00f3mica de Geri"
+            ],
+            [
+                "71710",
+                "Nostalgia gastron\u00f3mica de Geri"
+            ],
+            [
+                "71711",
+                "Nostalgia gastron\u00f3mica de Geri"
+            ],
+            [
+                "71712",
+                "Nostalgia gastron\u00f3mica de Geri"
+            ],
+            [
+                "71713",
+                "Pedazos de hierro para el Maestro Zhang"
+            ],
+            [
+                "71714",
+                "Dulces para Yi Zhu"
+            ],
+            [
+                "71800",
+                ""
+            ],
+            [
+                "71801",
+                ""
+            ],
+            [
+                "71802",
+                "Una ofrenda para los Adeptus"
+            ],
+            [
+                "71803",
+                "Los asuntos del Gremio de Aventureros"
+            ],
+            [
+                "71804",
+                "Procedimientos indispensables"
+            ],
+            [
+                "71805",
+                "Libros que valen su peso en Mora"
+            ],
+            [
+                "71806",
+                ""
+            ],
+            [
+                "71807",
+                "Changchang y su amiguito"
+            ],
+            [
+                "71808",
+                "El enigma de la Monta\u00f1a Nantianmen"
+            ],
+            [
+                "71809",
+                "Un poema para la ciudad"
+            ],
+            [
+                "71810",
+                "La investigaci\u00f3n interminable"
+            ],
+            [
+                "71811",
+                "\u00bfNos tomamos una foto?"
+            ],
+            [
+                "71812",
+                "Tras los tesoros de Tianchiu"
+            ],
+            [
+                "71813",
+                "\u00bfEl retorno de la C\u00e1mara de Jade?"
+            ],
+            [
+                "71814",
+                "Tesoros acu\u00e1ticos"
+            ],
+            [
+                "71815",
+                "Visitantes de la Aldea Chingts\u00e9"
+            ],
+            [
+                "71816",
+                "La linterna de la escolta"
+            ],
+            [
+                "71817",
+                "La bulliciosa cocina de Yanxiao"
+            ],
+            [
+                "71818",
+                "\u00bfPor qui\u00e9n brilla esta linterna?"
+            ],
+            [
+                "71819",
+                "Asuntos urbanos"
+            ],
+            [
+                "71820",
+                "De vuelta a Wangshu"
+            ],
+            [
+                "71821",
+                "Donde la luz se desvanece"
+            ],
+            [
+                "71822",
+                "La erudita y la leyenda"
+            ],
+            [
+                "71823",
+                "Velando por los aldeanos"
+            ],
+            [
+                "71824",
+                "Una antigua promesa en tiempos festivos"
+            ],
+            [
+                "71825",
+                ""
+            ],
+            [
+                "71826",
+                ""
+            ],
+            [
+                "71827",
+                ""
+            ],
+            [
+                "71828",
+                ""
+            ],
+            [
+                "71829",
+                "Un plato de fuera de este mundo"
+            ],
+            [
+                "71901",
+                ""
+            ],
+            [
+                "71902",
+                ""
+            ],
+            [
+                "71903",
+                ""
+            ],
+            [
+                "71904",
+                ""
+            ],
+            [
+                "71905",
+                ""
+            ],
+            [
+                "71906",
+                ""
+            ],
+            [
+                "71907",
+                ""
+            ],
+            [
+                "71909",
+                ""
+            ],
+            [
+                "71910",
+                ""
+            ],
+            [
+                "71911",
+                ""
+            ],
+            [
+                "71912",
+                ""
+            ],
+            [
+                "71913",
+                ""
+            ],
+            [
+                "71914",
+                ""
+            ],
+            [
+                "71915",
+                ""
+            ],
+            [
+                "71916",
+                ""
+            ],
+            [
+                "71917",
+                ""
+            ],
+            [
+                "71918",
+                ""
+            ],
+            [
+                "71919",
+                ""
+            ],
+            [
+                "71920",
+                ""
+            ],
+            [
+                "71921",
+                ""
+            ],
+            [
+                "71922",
+                ""
+            ],
+            [
+                "71923",
+                ""
+            ],
+            [
+                "71924",
+                ""
+            ],
+            [
+                "71925",
+                ""
+            ],
+            [
+                "71926",
+                ""
+            ],
+            [
+                "71927",
+                ""
+            ],
+            [
+                "71928",
+                ""
+            ],
+            [
+                "71929",
+                ""
+            ],
+            [
+                "71930",
+                ""
+            ],
+            [
+                "71931",
+                ""
+            ],
+            [
+                "71932",
+                ""
+            ],
+            [
+                "71933",
+                ""
+            ],
+            [
+                "71934",
+                ""
+            ],
+            [
+                "71935",
+                ""
+            ],
+            [
+                "71936",
+                ""
+            ],
+            [
+                "71937",
+                ""
+            ],
+            [
+                "71938",
+                ""
+            ],
+            [
+                "71939",
+                ""
+            ],
+            [
+                "71940",
+                ""
+            ],
+            [
+                "71941",
+                ""
+            ],
+            [
+                "71942",
+                ""
+            ],
+            [
+                "71943",
+                ""
+            ],
+            [
+                "71944",
+                ""
+            ],
+            [
+                "71945",
+                ""
+            ],
+            [
+                "71946",
+                ""
+            ],
+            [
+                "71947",
+                ""
+            ],
+            [
+                "71948",
+                ""
+            ],
+            [
+                "71949",
+                ""
+            ],
+            [
+                "71950",
+                ""
+            ],
+            [
+                "71951",
+                ""
+            ],
+            [
+                "71952",
+                ""
+            ],
+            [
+                "71953",
+                ""
+            ],
+            [
+                "79000",
+                "El sonido del mar"
+            ],
+            [
+                "79001",
+                "El largo camino a casa"
+            ],
+            [
+                "79002",
+                "\u00bfA qui\u00e9n obedece la tempestad?"
+            ],
+            [
+                "79003",
+                "Desde el exterior"
+            ],
+            [
+                "79004",
+                "Al otro lado de la isla y el mar"
+            ],
+            [
+                "79005",
+                "El viaje de la niebla y el viento"
+            ],
+            [
+                "79006",
+                ""
+            ],
+            [
+                "79007",
+                "Guerra explosiva"
+            ],
+            [
+                "79008",
+                "Obsequio estival"
+            ],
+            [
+                "79009",
+                ""
+            ],
+            [
+                "79010",
+                ""
+            ],
+            [
+                "79011",
+                ""
+            ],
+            [
+                "79014",
+                ""
+            ],
+            [
+                "79015",
+                ""
+            ],
+            [
+                "79016",
+                ""
+            ],
+            [
+                "79017",
+                ""
+            ],
+            [
+                "90001",
+                "Prueba de editor de misiones"
+            ]
+        ]
+    },
+    "1001": {
+        "Contains": [
+            [
+                "351",
+                "Camino del errante"
+            ],
+            [
+                "352",
+                "Vista panor\u00e1mica"
+            ],
+            [
+                "353",
+                "Poder inesperado"
+            ],
+            [
+                "361",
+                ""
+            ],
+            [
+                "355",
+                "Encuentro en el bosque"
+            ],
+            [
+                "354",
+                "El caballero del viento"
+            ],
+            [
+                "360",
+                "Navegar en la brisa"
+            ],
+            [
+                "356",
+                "Capital de la Libertad"
+            ],
+            [
+                "357",
+                "Tormenta de drag\u00f3n"
+            ],
+            [
+                "358",
+                "Caballeros de Favonius"
+            ],
+            [
+                "359",
+                ""
+            ],
+            [
+                "306",
+                "Vientos del pasado"
+            ],
+            [
+                "307",
+                "Curso intensivo"
+            ],
+            [
+                "308",
+                "Chispas entre las p\u00e1ginas"
+            ],
+            [
+                "309",
+                ""
+            ],
+            [
+                "311",
+                ""
+            ],
+            [
+                "312",
+                ""
+            ],
+            [
+                "363",
+                ""
+            ]
+        ],
+        "Name": "Pr\u00f3logo: acto I - El forastero que atrap\u00f3 el viento"
+    },
+    "1002": {
+        "Contains": [
+            [
+                "370",
+                "Una sombra sobre Mondstadt"
+            ],
+            [
+                "371",
+                "Encuentro inesperado"
+            ],
+            [
+                "372",
+                "La persona de verde"
+            ],
+            [
+                "373",
+                "Que el viento te gu\u00ede"
+            ],
+            [
+                "374",
+                "El plan de Venti"
+            ],
+            [
+                "375",
+                "El nuevo plan de Venti"
+            ],
+            [
+                "376",
+                "Un escape apresurado"
+            ],
+            [
+                "377",
+                "Detr\u00e1s de escena"
+            ],
+            [
+                "20101",
+                "Persiguiendo sombras"
+            ],
+            [
+                "379",
+                "Estado de Der Himmel, la Lira Sagrada"
+            ],
+            [
+                "380",
+                "L\u00e1grimas derramadas"
+            ],
+            [
+                "381",
+                "L\u00e1grimas ocultas"
+            ],
+            [
+                "382",
+                "L\u00e1grimas robadas"
+            ],
+            [
+                "383",
+                "L\u00e1grimas de cristal"
+            ],
+            [
+                "384",
+                "Un segundo encuentro"
+            ]
+        ],
+        "Name": "Pr\u00f3logo: acto II - Por un ma\u00f1ana sin l\u00e1grimas"
+    },
+    "1003": {
+        "Contains": [
+            [
+                "397",
+                "Mago del Abismo"
+            ],
+            [
+                "388",
+                "Obst\u00e1culos"
+            ],
+            [
+                "389",
+                "Una guarida desierta"
+            ],
+            [
+                "390",
+                "Ceremonia de luz"
+            ],
+            [
+                "393",
+                "Preludio de la tormenta"
+            ],
+            [
+                "394",
+                "Para la sombra \u00edndigo"
+            ],
+            [
+                "398",
+                "Ep\u00edlogo: La calma despu\u00e9s de la tormenta"
+            ],
+            [
+                "399",
+                ""
+            ],
+            [
+                "400",
+                ""
+            ],
+            [
+                "396",
+                "Ep\u00edlogo del ep\u00edlogo"
+            ]
+        ],
+        "Name": "Pr\u00f3logo: acto III - Canci\u00f3n del drag\u00f3n y la libertad"
+    },
+    "2005": {
+        "Contains": [
+            [
+                "451",
+                "Territorio de lobos"
+            ],
+            [
+                "452",
+                "\u00a1Otro d\u00eda como Caballera Exploradora!"
+            ],
+            [
+                "453",
+                "\u00bfArrasado por lobos?"
+            ],
+            [
+                "454",
+                "Lupical, una cuesti\u00f3n del destino"
+            ]
+        ],
+        "Name": "Lupus minor: acto I - El significado de Lupical"
+    },
+    "2001": {
+        "Contains": [
+            [
+                "461",
+                "Los problemas de Kaeya"
+            ],
+            [
+                "462",
+                "El misterio de las ruinas de Arcadia"
+            ],
+            [
+                "463",
+                "La ganancia de Kaeya"
+            ]
+        ],
+        "Name": "Pavo ocellus: acto I - El tesoro pirata"
+    },
+    "2002": {
+        "Contains": [
+            [
+                "464",
+                "La leyenda del H\u00e9roe Oscuro"
+            ],
+            [
+                "465",
+                "La crisis del H\u00e9roe Oscuro"
+            ],
+            [
+                "466",
+                "La coartada del H\u00e9roe Oscuro"
+            ],
+            [
+                "491",
+                ""
+            ]
+        ],
+        "Name": "Noctua: acto I - La coartada del H\u00e9roe Oscuro"
+    },
+    "2003": {
+        "Contains": [
+            [
+                "481",
+                "Desliz\u00e1ndose en el viento"
+            ],
+            [
+                "480",
+                "Permiso para volar"
+            ],
+            [
+                "482",
+                "Entrenamiento de deslizamiento en Levantaviento"
+            ],
+            [
+                "427",
+                "Un planeador en la ciudad de Mondstadt"
+            ],
+            [
+                "484",
+                "Le llaman \u201cAve Rapaz\u201d"
+            ],
+            [
+                "485",
+                "El estilo de los exploradores"
+            ]
+        ],
+        "Name": "Lepus minor: acto I - Viento, coraje y alas"
+    },
+    "2006": {
+        "Contains": [
+            [
+                "486",
+                "Cuando sopla el viento del oeste"
+            ],
+            [
+                "487",
+                "La intranquilidad de Margaret"
+            ],
+            [
+                "488",
+                "El apuro de Charles"
+            ],
+            [
+                "489",
+                "La preocupaci\u00f3n de Sara"
+            ],
+            [
+                "490",
+                "El d\u00eda libre de una Gran Maestra"
+            ],
+            [
+                "492",
+                ""
+            ]
+        ],
+        "Name": "Leo Menor: acto I - El d\u00eda libre de una Gran Maestra"
+    },
+    "1101": {
+        "Contains": [
+            [
+                "1000",
+                "Rito del Descenso"
+            ],
+            [
+                "1001",
+                "Control absoluto del \u00e1rea"
+            ],
+            [
+                "1002",
+                "Cambio inesperado"
+            ],
+            [
+                "1003",
+                "Posada Wangshu"
+            ],
+            [
+                "1004",
+                ""
+            ],
+            [
+                "1008",
+                "Moldeador de Monta\u00f1as"
+            ],
+            [
+                "1009",
+                "Preservadora de Nubes"
+            ],
+            [
+                "1018",
+                "Polvo eres y en polvo te convertir\u00e1s"
+            ]
+        ],
+        "Name": "Cap\u00edtulo I: acto I - La tierra entre los monolitos"
+    },
+    "1102": {
+        "Contains": [
+            [
+                "1010",
+                "El Camino"
+            ],
+            [
+                "1011",
+                "El dedo y la Luna"
+            ],
+            [
+                "1012",
+                "Fragancias rituales"
+            ],
+            [
+                "1014",
+                "El mundo en una tetera"
+            ],
+            [
+                "1013",
+                "El mercado"
+            ],
+            [
+                "1015",
+                "Guizhong"
+            ],
+            [
+                "1016",
+                "Reuni\u00f3n"
+            ]
+        ],
+        "Name": "Cap\u00edtulo I: acto II - Adi\u00f3s, amo perfeccionado"
+    },
+    "1103": {
+        "Contains": [
+            [
+                "1020",
+                "El palacio flotante"
+            ],
+            [
+                "1021",
+                "El Equilibrio"
+            ],
+            [
+                "1022",
+                "La fragancia de la soledad"
+            ],
+            [
+                "1023",
+                "Choque de intereses"
+            ],
+            [
+                "1024",
+                "Giro inesperado"
+            ],
+            [
+                "1025",
+                "El Rito del Ascenso"
+            ]
+        ],
+        "Name": "Cap\u00edtulo I: acto III - Una nueva estrella en ascenso"
+    },
+    "2004": {
+        "Contains": [
+            [
+                "10100",
+                "Un trabajo problem\u00e1tico"
+            ],
+            [
+                "10101",
+                "Un libro perdido"
+            ]
+        ],
+        "Name": "Tempus fugit: acto I - Un trabajo problem\u00e1tico"
+    },
+    "2013": {
+        "Contains": [
+            [
+                "10110",
+                "Secreto de la infancia"
+            ],
+            [
+                "10111",
+                "Viento del sur y aventura"
+            ],
+            [
+                "10112",
+                "Los dientes del le\u00f3n"
+            ],
+            [
+                "10113",
+                "Atrapado en una tierra sin viento"
+            ],
+            [
+                "10114",
+                ""
+            ]
+        ],
+        "Name": "Carmen Dei: acto I - Atrapado en una tierra sin viento"
+    },
+    "2009": {
+        "Contains": [
+            [
+                "10200",
+                "El m\u00e1s fuerte de Mondstadt"
+            ],
+            [
+                "10201",
+                "El misterio del tesoro de la chica de rojo"
+            ],
+            [
+                "10202",
+                "El tesoro de los Caballeros de Favonius"
+            ],
+            [
+                "10203",
+                ""
+            ]
+        ],
+        "Name": "Trifolium: acto I - El verdadero tesoro"
+    },
+    "2007": {
+        "Contains": [
+            [
+                "11000",
+                "La peque\u00f1a chef se va de caza"
+            ],
+            [
+                "11001",
+                "Cita para cocinar"
+            ],
+            [
+                "11002",
+                "Ingredientes faltantes"
+            ],
+            [
+                "11003",
+                "Ganancia inesperada"
+            ],
+            [
+                "11004",
+                "Recompensas antiguas"
+            ],
+            [
+                "11005",
+                "Duelo culinario"
+            ]
+        ],
+        "Name": "El cuchar\u00f3n: acto I - Viaje gastron\u00f3mico de Mondstadt"
+    },
+    "2008": {
+        "Contains": [
+            [
+                "12000",
+                "Una aventura literaria"
+            ],
+            [
+                "12001",
+                "Conoce a tu enemigo y te conocer\u00e1s a ti mismo"
+            ],
+            [
+                "12002",
+                "La calma antes de la tormenta"
+            ],
+            [
+                "12003",
+                "El caballero estoico"
+            ]
+        ],
+        "Name": "Fabulae Textile: acto I - El rat\u00f3n de biblioteca espadach\u00edn"
+    },
+    "2011": {
+        "Contains": [
+            [
+                "11100",
+                "El enga\u00f1o de Ladr\u00f3n de Estrellas"
+            ],
+            [
+                "11101",
+                "Un guardi\u00e1n Yaksha sospechoso"
+            ],
+            [
+                "11102",
+                "La purificaci\u00f3n del mal"
+            ],
+            [
+                "11103",
+                "Proyecci\u00f3n astral"
+            ],
+            [
+                "11104",
+                ""
+            ]
+        ],
+        "Name": "Rey de las Alas Doradas: acto I - El sue\u00f1o de la mariposa"
+    },
+    "10001": {
+        "Contains": [
+            [
+                "40001",
+                "El origen de las linternas"
+            ],
+            [
+                "40006",
+                "(Prueba) Control de NPC ambiental del Rito de la Linterna"
+            ],
+            [
+                "40007",
+                "(Prueba) Control del ladr\u00f3n sospechoso del Rito de la Linterna"
+            ],
+            [
+                "40008",
+                "Recompensas de la misi\u00f3n del Rito de la Linterna"
+            ],
+            [
+                "40009",
+                ""
+            ]
+        ],
+        "Name": "Rito de la Linterna: d\u00eda 1 - Rito de la Linterna: d\u00eda 1"
+    },
+    "10002": {
+        "Contains": [
+            [
+                "40002",
+                "Penumbra bajo la linterna"
+            ]
+        ],
+        "Name": "Rito de la Linterna: d\u00eda 2 - Rito de la Linterna: d\u00eda 2"
+    },
+    "10003": {
+        "Contains": [
+            [
+                "40003",
+                "Marca de encuentro con los dioses"
+            ]
+        ],
+        "Name": "Rito de la Linterna: d\u00eda 3 - Rito de la Linterna: d\u00eda 3"
+    },
+    "10004": {
+        "Contains": [
+            [
+                "40004",
+                "Preguntas al viento"
+            ]
+        ],
+        "Name": "Rito de la Linterna: d\u00eda 4 - Rito de la Linterna: d\u00eda 4"
+    },
+    "10005": {
+        "Contains": [
+            [
+                "40005",
+                "Mingxiao en el mar"
+            ]
+        ],
+        "Name": "Rito de la Linterna: d\u00eda 5 - Rito de la Linterna: d\u00eda 5"
+    },
+    "1201": {
+        "Contains": [
+            [
+                "2000",
+                "C\u00f3mo superar una tempestad"
+            ],
+            [
+                "2001",
+                "El Torneo Crux"
+            ],
+            [
+                "2002",
+                "Viento en popa"
+            ]
+        ],
+        "Name": "Cap\u00edtulo II: pr\u00f3logo - Viento de oto\u00f1o y hojas escarlata"
+    },
+    "1104": {
+        "Contains": [
+            [
+                "8000",
+                "Sacrificio involuntario"
+            ],
+            [
+                "8001",
+                "Un emisario sin seguidores"
+            ],
+            [
+                "8002",
+                "Una prueba poco honoraria"
+            ],
+            [
+                "8003",
+                "Almas separadas"
+            ]
+        ],
+        "Name": "Cap\u00edtulo I: acto IV - Nos volveremos a encontrar"
+    },
+    "2019": {
+        "Contains": [
+            [
+                "10120",
+                "Sombras del pasado"
+            ],
+            [
+                "10121",
+                "Oratoria y etiqueta"
+            ],
+            [
+                "10122",
+                "El protocolo del coraz\u00f3n"
+            ]
+        ],
+        "Name": "Aphros Delos: acto I - Las olas que no vuelven al mar"
+    },
+    "2010": {
+        "Contains": [
+            [
+                "10500",
+                "La astrolog\u00eda y el pacto de 50 a\u00f1os"
+            ],
+            [
+                "10501",
+                "Nuevo destino: Mondstadt"
+            ],
+            [
+                "10502",
+                "Un destino enmara\u00f1ado"
+            ],
+            [
+                "10503",
+                ""
+            ]
+        ],
+        "Name": "Astrolabos: acto I - M\u00e1s all\u00e1 de las estrellas"
+    },
+    "2012": {
+        "Contains": [
+            [
+                "11010",
+                "Un encuentro m\u00e1s all\u00e1 del mar"
+            ],
+            [
+                "11011",
+                "El incre\u00edble tour de Teucer"
+            ],
+            [
+                "11012",
+                "El defensor de los sue\u00f1os de la infancia"
+            ]
+        ],
+        "Name": "Monoceros Caeli: acto I - La marcha de los c\u00edclopes"
+    },
+    "2014": {
+        "Contains": [
+            [
+                "11020",
+                "Una sombra de anta\u00f1o"
+            ],
+            [
+                "11021",
+                "El despertar del V\u00f3rtice"
+            ],
+            [
+                "11022",
+                "Unas ruinas bajo llave"
+            ],
+            [
+                "11023",
+                "El fin de la Sal"
+            ],
+            [
+                "11024",
+                "La verdad sobre lo que ocurri\u00f3"
+            ],
+            [
+                "11025",
+                ""
+            ]
+        ],
+        "Name": "Historia Antiqua: acto I - Sal Flore"
+    },
+    "2016": {
+        "Contains": [
+            [
+                "11030",
+                "La bestia iluminada del Mar de Nubes"
+            ],
+            [
+                "11031",
+                "Una secretaria en un mar de humanos"
+            ],
+            [
+                "11032",
+                "Un pacto m\u00e1s all\u00e1 de los l\u00edmites del tiempo"
+            ]
+        ],
+        "Name": "Sinae Unicornis: acto I - Mar de nubes, mar de humanos"
+    },
+    "2017": {
+        "Contains": [
+            [
+                "11040",
+                "El alquimista del que todo el mundo habla"
+            ],
+            [
+                "11041",
+                "El genio de la investigaci\u00f3n y la semilla de otro mundo"
+            ],
+            [
+                "11042",
+                "Experimento n.\u00ba 1: Los elementos"
+            ],
+            [
+                "11043",
+                "Experimento n.\u00ba 3: La vida"
+            ],
+            [
+                "11044",
+                "Experimento n.\u00ba 2: El mundo"
+            ],
+            [
+                "11045",
+                "Experimento final: Gloria marchita"
+            ]
+        ],
+        "Name": "Princeps Cretaceus: acto I - El informe de investigaci\u00f3n del viajero"
+    },
+    "2018": {
+        "Contains": [
+            [
+                "11110",
+                "La misteriosa Funeraria El Camino"
+            ],
+            [
+                "11111",
+                "En busca de un fantasma"
+            ],
+            [
+                "11112",
+                "Amistad, deseos y arrepentimientos"
+            ],
+            [
+                "11113",
+                "Una despedida perfecta"
+            ],
+            [
+                "11114",
+                ""
+            ]
+        ],
+        "Name": "Papilio Charontis: acto I - Vuelan las mariposas"
+    },
+    "2020": {
+        "Contains": [
+            [
+                "11120",
+                "Vistas extra\u00f1as y almas robadas"
+            ],
+            [
+                "11121",
+                "En las piedras est\u00e1 la verdad"
+            ],
+            [
+                "11122",
+                "Los cabos sueltos salen a la luz"
+            ],
+            [
+                "11123",
+                "La roca permanece inmutable en el caos"
+            ],
+            [
+                "11124",
+                ""
+            ]
+        ],
+        "Name": "Historia Antiqua: acto II - M\u00e1s que una simple piedra"
+    },
+    "2015": {
+        "Contains": [
+            [
+                "11200",
+                ""
+            ],
+            [
+                "11201",
+                ""
+            ],
+            [
+                "11202",
+                ""
+            ]
+        ],
+        "Name": " - "
+    },
+    "1105": {
+        "Contains": [
+            [
+                "18000",
+                "Dainsleif, \u201cel buscador de la verdad\u201d"
+            ]
+        ],
+        "Name": "Cap\u00edtulo I, acto IV: Preludio - Dainsleif"
+    },
+    "101401": {
+        "Contains": [
+            [
+                "19001",
+                "La preocupaci\u00f3n de la Hermana Victoria"
+            ],
+            [
+                "19002",
+                "Un grito repentino"
+            ],
+            [
+                "19003",
+                "Asuntos religiosos"
+            ],
+            [
+                "19004",
+                "El primer ingrediente de la bebida picante"
+            ],
+            [
+                "19005",
+                "\u00a1Caballer{Fa}{Mo} y Diaconisa a la carga!"
+            ],
+            [
+                "19006",
+                "El segundo ingrediente de la bebida picante"
+            ],
+            [
+                "19007",
+                "Una persona con malas intenciones"
+            ],
+            [
+                "19008",
+                "Curar es un deber"
+            ],
+            [
+                "19009",
+                "Una bebida especial"
+            ]
+        ],
+        "Name": "Encuentro - B\u00e1rbara: acto I - La fuente de la curaci\u00f3n"
+    },
+    "103601": {
+        "Contains": [
+            [
+                "19021",
+                "Duro de rastrear"
+            ],
+            [
+                "19022",
+                "Visi\u00f3n lejana"
+            ],
+            [
+                "19023",
+                "El camino del exorcista"
+            ],
+            [
+                "19024",
+                "Un uso inusual de los helados"
+            ],
+            [
+                "19025",
+                "Por la sonrisa de un ni\u00f1o"
+            ],
+            [
+                "19030",
+                "Prueba de valor"
+            ],
+            [
+                "19031",
+                "Incomodidad repentina"
+            ],
+            [
+                "19032",
+                "Por caminos distintos"
+            ],
+            [
+                "19033",
+                "Adentr\u00e1ndose a\u00fan m\u00e1s"
+            ],
+            [
+                "19034",
+                "El quid de la cuesti\u00f3n"
+            ],
+            [
+                "19035",
+                "Aguando la fiesta"
+            ]
+        ],
+        "Name": "Encuentro - Chongyun: acto I - El cazafantasmas"
+    },
+    "103201": {
+        "Contains": [
+            [
+                "19041",
+                "Un encuentro entre aventureros"
+            ],
+            [
+                "19042",
+                "\u00bfAlgo... distinto a una aventura?"
+            ],
+            [
+                "19043",
+                "\u00bfQu\u00e9 es esto? \u00bfUna excursi\u00f3n?"
+            ],
+            [
+                "19044",
+                "Aventuras en Thermadon"
+            ],
+            [
+                "19045",
+                "Aventura en las ruinas de Eya"
+            ]
+        ],
+        "Name": "Encuentro - Bennett: acto I - Una aventura maravillosa"
+    },
+    "103401": {
+        "Contains": [
+            [
+                "19061",
+                "Caballera en ciernes"
+            ],
+            [
+                "19062",
+                "El arte de la hospitalidad"
+            ],
+            [
+                "19063",
+                ""
+            ],
+            [
+                "19064",
+                "La fuerza de Noelle"
+            ],
+            [
+                "19065",
+                "Pr\u00e1ctica real"
+            ],
+            [
+                "19066",
+                "Entrenamiento de fuerza"
+            ],
+            [
+                "19067",
+                "Un breve descanso"
+            ],
+            [
+                "19068",
+                "La intenci\u00f3n es lo que cuenta"
+            ],
+            [
+                "19069",
+                "La intenci\u00f3n es lo que cuenta"
+            ]
+        ],
+        "Name": "Encuentro - Noelle: acto I - El camino de una caballera"
+    },
+    "103402": {
+        "Contains": [
+            [
+                "19081",
+                "La estudiosa criada"
+            ],
+            [
+                "19082",
+                "Viaje a Liyue"
+            ],
+            [
+                "19083",
+                "La tenacidad de la Geoarmada"
+            ],
+            [
+                "19084",
+                "El viaje de una caballera por Liyue"
+            ],
+            [
+                "19085",
+                "Examen de ingreso al Gremio"
+            ],
+            [
+                "19086",
+                "Examen de ingreso al Gremio"
+            ],
+            [
+                "19087",
+                "Examen de ingreso al Gremio"
+            ],
+            [
+                "19090",
+                "Noelle exploradora"
+            ],
+            [
+                "19091",
+                "Noelle, la Gran Maestra Suplente"
+            ],
+            [
+                "19092",
+                "Agente Noelle"
+            ]
+        ],
+        "Name": "Encuentro - Noelle: acto II - El examen de una caballera"
+    },
+    "103901": {
+        "Contains": [
+            [
+                "19101",
+                "La cantinera de la Taberna Cola de Gato"
+            ],
+            [
+                "19102",
+                "La clave para encontrar gatos"
+            ],
+            [
+                "19103",
+                "Una bebida con una base especial"
+            ],
+            [
+                "19104",
+                "Sombras del Valle Dadaupa"
+            ],
+            [
+                "19105",
+                "Sopa medicinal de Samachurl"
+            ],
+            [
+                "19106",
+                "Ingredientes especiales para cocteler\u00eda"
+            ],
+            [
+                "19107",
+                "Los cantineros comparan notas"
+            ]
+        ],
+        "Name": "Encuentro - Diona: acto I - Cocteler\u00eda felina"
+    },
+    "10027": {
+        "Contains": [
+            [
+                "40010",
+                "Islas misteriosas: viaje a lo desconocido"
+            ]
+        ],
+        "Name": "\u00a1Verano, islas, aventuras! (I) - Islas misteriosas: viaje a lo desconocido"
+    },
+    "10028": {
+        "Contains": [
+            [
+                "40011",
+                "Vacaciones estivales: procedan con precauci\u00f3n"
+            ]
+        ],
+        "Name": "\u00a1Verano, islas, aventuras! (II) - Vacaciones estivales: procedan con precauci\u00f3n"
+    },
+    "10029": {
+        "Contains": [
+            [
+                "40012",
+                "Rey del oc\u00e9ano: a la espera"
+            ]
+        ],
+        "Name": "\u00a1Verano, islas, aventuras! (III) - Rey Dodo del oc\u00e9ano: a la espera"
+    },
+    "10030": {
+        "Contains": [
+            [
+                "40013",
+                "Acertijo final: un secreto revelado"
+            ]
+        ],
+        "Name": "\u00a1Verano, islas, aventuras! (IV) - Acertijo final: un secreto revelado"
+    },
+    "10031": {
+        "Contains": [
+            [
+                "40016",
+                "Misi\u00f3n de las islas 1"
+            ]
+        ]
+    },
+    "10032": {
+        "Contains": [
+            [
+                "40017",
+                ""
+            ]
+        ]
+    },
+    "10033": {
+        "Contains": [
+            [
+                "40018",
+                ""
+            ]
+        ]
+    },
+    "10034": {
+        "Contains": [
+            [
+                "40019",
+                ""
+            ]
+        ]
+    },
+    "10006": {
+        "Contains": [
+            [
+                "41111",
+                "Estrella desconocida"
+            ]
+        ],
+        "Name": "Estrellas que no regresan I - Estrella desconocida"
+    },
+    "10007": {
+        "Contains": [
+            [
+                "41112",
+                "Crisis inminente"
+            ]
+        ],
+        "Name": "Estrellas que no regresan II - Crisis inminente"
+    },
+    "10008": {
+        "Contains": [
+            [
+                "41113",
+                "Lo que las estrellas ocultan, el agua revelar\u00e1"
+            ]
+        ],
+        "Name": "Estrellas que no regresan III - Lo que las estrellas ocultan, el agua revelar\u00e1"
+    },
+    "10009": {
+        "Contains": [
+            [
+                "41114",
+                "Donde convergen las antiguas estrellas"
+            ]
+        ],
+        "Name": "Estrellas que no regresan IV - Donde convergen las antiguas estrellas"
+    },
+    "10010": {
+        "Contains": [
+            [
+                "41210",
+                "Deseo Ponzo\u00f1oso"
+            ]
+        ],
+        "Name": "La caliza y el drag\u00f3n: acto I - Deseo Ponzo\u00f1oso"
+    },
+    "10011": {
+        "Contains": [
+            [
+                "41211",
+                "El rival de los Arcontes"
+            ]
+        ],
+        "Name": "La caliza y el drag\u00f3n: acto II - El rival de los Arcontes"
+    },
+    "10012": {
+        "Contains": [
+            [
+                "41212",
+                "Ladrones entre la bruma"
+            ]
+        ],
+        "Name": "La caliza y el drag\u00f3n: acto III - Ladrones entre la bruma"
+    },
+    "10013": {
+        "Contains": [
+            [
+                "41213",
+                "Unos hu\u00e9spedes no deseados"
+            ]
+        ],
+        "Name": "La caliza y el drag\u00f3n: acto IV - Unos hu\u00e9spedes no deseados"
+    },
+    "10014": {
+        "Contains": [
+            [
+                "41214",
+                "Ep\u00edlogo"
+            ]
+        ],
+        "Name": "La caliza y el drag\u00f3n: acto V - Ep\u00edlogo"
+    },
+    "10018": {
+        "Contains": [
+            [
+                "41311",
+                "El origen de las linternas"
+            ]
+        ],
+        "Name": "Rito de la Linterna (I) - El origen de las linternas"
+    },
+    "10019": {
+        "Contains": [
+            [
+                "41312",
+                "Penumbra bajo la linterna"
+            ]
+        ],
+        "Name": "Rito de la Linterna (II) - Penumbra bajo la linterna"
+    },
+    "10020": {
+        "Contains": [
+            [
+                "41313",
+                "Una luz sobre el mar"
+            ]
+        ],
+        "Name": "Rito de la Linterna (III) - Una luz sobre el mar"
+    },
+    "10015": {
+        "Contains": [
+            [
+                "41357",
+                "Linternas giratorias (I)"
+            ],
+            [
+                "71000",
+                ""
+            ],
+            [
+                "71003",
+                ""
+            ],
+            [
+                "71023",
+                ""
+            ],
+            [
+                "71024",
+                ""
+            ]
+        ],
+        "Name": " - El resplandor de las linternas celestes"
+    },
+    "10016": {
+        "Contains": [
+            [
+                "41358",
+                "Linternas giratorias (II)"
+            ],
+            [
+                "71025",
+                ""
+            ],
+            [
+                "71026",
+                ""
+            ],
+            [
+                "71027",
+                ""
+            ],
+            [
+                "71028",
+                ""
+            ]
+        ],
+        "Name": " - El resplandor de las linternas celestes"
+    },
+    "10017": {
+        "Contains": [
+            [
+                "41359",
+                "Linternas giratorias (III)"
+            ],
+            [
+                "71029",
+                ""
+            ],
+            [
+                "71030",
+                ""
+            ],
+            [
+                "71032",
+                ""
+            ]
+        ],
+        "Name": " - El resplandor de las linternas celestes"
+    },
+    "10021": {
+        "Contains": [
+            [
+                "41410",
+                "Poema de flores y nubes"
+            ],
+            [
+                "41414",
+                ""
+            ],
+            [
+                "41415",
+                ""
+            ]
+        ],
+        "Name": "Festival de las Flores de Viento (I) - Poema de flores y nubes"
+    },
+    "10022": {
+        "Contains": [
+            [
+                "41411",
+                "Mensaje de nubes y bruma"
+            ]
+        ],
+        "Name": "Festival de las Flores de Viento (II) - Mensaje de nubes y bruma"
+    },
+    "10023": {
+        "Contains": [
+            [
+                "41412",
+                "Frontera de bruma y viento"
+            ]
+        ],
+        "Name": "Festival de las Flores de Viento (III) - Frontera de bruma y viento"
+    },
+    "10024": {
+        "Contains": [
+            [
+                "41413",
+                "Sue\u00f1o de viento y flores"
+            ]
+        ],
+        "Name": "Festival de las Flores de Viento (IV) - Sue\u00f1o de viento y flores"
+    },
+    "71033": {
+        "Contains": [
+            [
+                "71033",
+                "Poemas y pinturas del Rito de la Linterna: parte II"
+            ],
+            [
+                "71034",
+                ""
+            ]
+        ]
+    }
+}

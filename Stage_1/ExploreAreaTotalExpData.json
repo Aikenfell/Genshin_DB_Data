@@ -1,0 +1,42 @@
+{
+    "1": {
+        "AreaID": 1,
+        "TotalExp": 273
+    },
+    "2": {
+        "AreaID": 2,
+        "TotalExp": 146
+    },
+    "3": {
+        "AreaID": 3,
+        "TotalExp": 218
+    },
+    "4": {
+        "AreaID": 4,
+        "TotalExp": 211
+    },
+    "5": {
+        "AreaID": 5,
+        "TotalExp": 450
+    },
+    "6": {
+        "AreaID": 6,
+        "TotalExp": 571
+    },
+    "7": {
+        "AreaID": 7,
+        "TotalExp": 274
+    },
+    "8": {
+        "AreaID": 8,
+        "TotalExp": 185
+    },
+    "9": {
+        "AreaID": 9,
+        "TotalExp": 286
+    },
+    "10": {
+        "AreaID": 10,
+        "TotalExp": 470
+    }
+}

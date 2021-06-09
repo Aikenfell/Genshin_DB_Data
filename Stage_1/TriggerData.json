@@ -1,0 +1,1106 @@
+{
+    "1": {
+        "Id": 1,
+        "SceneId": 3,
+        "GroupId": 133003052,
+        "TriggerName": "ENTER_REGION_21"
+    },
+    "2": {
+        "Id": 2,
+        "SceneId": 3,
+        "GroupId": 133003055,
+        "TriggerName": "ENTER_REGION_22"
+    },
+    "1001": {
+        "Id": 1001,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_24"
+    },
+    "1002": {
+        "Id": 1002,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_2"
+    },
+    "1003": {
+        "Id": 1003,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_27"
+    },
+    "1004": {
+        "Id": 1004,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_33"
+    },
+    "1011": {
+        "Id": 1011,
+        "SceneId": 3,
+        "GroupId": 133001901,
+        "TriggerName": "ENTER_REGION_11"
+    },
+    "1012": {
+        "Id": 1012,
+        "SceneId": 3,
+        "GroupId": 133001901,
+        "TriggerName": "ENTER_REGION_12"
+    },
+    "1013": {
+        "Id": 1013,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_3"
+    },
+    "1014": {
+        "Id": 1014,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_4"
+    },
+    "1015": {
+        "Id": 1015,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_5"
+    },
+    "1016": {
+        "Id": 1016,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_36"
+    },
+    "1017": {
+        "Id": 1017,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_35"
+    },
+    "1018": {
+        "Id": 1018,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_38"
+    },
+    "1019": {
+        "Id": 1019,
+        "SceneId": 3,
+        "GroupId": 133003001,
+        "TriggerName": "ENTER_REGION_39"
+    },
+    "1020": {
+        "Id": 1020,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_40"
+    },
+    "1021": {
+        "Id": 1021,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_68"
+    },
+    "1022": {
+        "Id": 1022,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_75"
+    },
+    "1023": {
+        "Id": 1023,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_7"
+    },
+    "1024": {
+        "Id": 1024,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_6"
+    },
+    "1025": {
+        "Id": 1025,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_21"
+    },
+    "1026": {
+        "Id": 1026,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_22"
+    },
+    "1027": {
+        "Id": 1027,
+        "SceneId": 1008,
+        "GroupId": 201008901,
+        "TriggerName": "ENTER_REGION_1"
+    },
+    "1028": {
+        "Id": 1028,
+        "SceneId": 1008,
+        "GroupId": 201008901,
+        "TriggerName": "ENTER_REGION_2"
+    },
+    "1029": {
+        "Id": 1029,
+        "SceneId": 1008,
+        "GroupId": 201008901,
+        "TriggerName": "ENTER_REGION_3"
+    },
+    "1030": {
+        "Id": 1030,
+        "SceneId": 1004,
+        "GroupId": 201004901,
+        "TriggerName": "ENTER_REGION_1"
+    },
+    "1031": {
+        "Id": 1031,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_14"
+    },
+    "1032": {
+        "Id": 1032,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_24"
+    },
+    "1033": {
+        "Id": 1033,
+        "SceneId": 1009,
+        "GroupId": 201009901,
+        "TriggerName": "ENTER_REGION_1"
+    },
+    "1034": {
+        "Id": 1034,
+        "SceneId": 1009,
+        "GroupId": 201009901,
+        "TriggerName": "ENTER_REGION_2"
+    },
+    "1035": {
+        "Id": 1035,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_66"
+    },
+    "1036": {
+        "Id": 1036,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_76"
+    },
+    "1037": {
+        "Id": 1037,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_18"
+    },
+    "1038": {
+        "Id": 1038,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_19"
+    },
+    "1039": {
+        "Id": 1039,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_20"
+    },
+    "1040": {
+        "Id": 1040,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_67"
+    },
+    "1041": {
+        "Id": 1041,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_68"
+    },
+    "1042": {
+        "Id": 1042,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_69"
+    },
+    "1043": {
+        "Id": 1043,
+        "SceneId": 1005,
+        "GroupId": 201005901,
+        "TriggerName": "ENTER_REGION_3"
+    },
+    "1044": {
+        "Id": 1044,
+        "SceneId": 1005,
+        "GroupId": 201005901,
+        "TriggerName": "ENTER_REGION_2"
+    },
+    "1045": {
+        "Id": 1045,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_21"
+    },
+    "1046": {
+        "Id": 1046,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_19"
+    },
+    "1047": {
+        "Id": 1047,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_20"
+    },
+    "1048": {
+        "Id": 1048,
+        "SceneId": 20009,
+        "GroupId": 220009901,
+        "TriggerName": "ENTER_REGION_28"
+    },
+    "1049": {
+        "Id": 1049,
+        "SceneId": 20009,
+        "GroupId": 220009901,
+        "TriggerName": "ENTER_REGION_29"
+    },
+    "1050": {
+        "Id": 1050,
+        "SceneId": 20009,
+        "GroupId": 220009901,
+        "TriggerName": "ENTER_REGION_30"
+    },
+    "1051": {
+        "Id": 1051,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_25"
+    },
+    "1052": {
+        "Id": 1052,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_107"
+    },
+    "1053": {
+        "Id": 1053,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_84"
+    },
+    "1054": {
+        "Id": 1054,
+        "SceneId": 20008,
+        "GroupId": 220008901,
+        "TriggerName": "ENTER_REGION_41"
+    },
+    "1055": {
+        "Id": 1055,
+        "SceneId": 20008,
+        "GroupId": 220008901,
+        "TriggerName": "ENTER_REGION_42"
+    },
+    "1056": {
+        "Id": 1056,
+        "SceneId": 20008,
+        "GroupId": 220008901,
+        "TriggerName": "ENTER_REGION_43"
+    },
+    "1057": {
+        "Id": 1057,
+        "SceneId": 20011,
+        "GroupId": 220011901,
+        "TriggerName": "ENTER_REGION_49"
+    },
+    "1058": {
+        "Id": 1058,
+        "SceneId": 20011,
+        "GroupId": 220011901,
+        "TriggerName": "ENTER_REGION_50"
+    },
+    "1059": {
+        "Id": 1059,
+        "SceneId": 20011,
+        "GroupId": 220011901,
+        "TriggerName": "ENTER_REGION_51"
+    },
+    "1060": {
+        "Id": 1060,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_28"
+    },
+    "1061": {
+        "Id": 1061,
+        "SceneId": 20011,
+        "GroupId": 220011901,
+        "TriggerName": "ENTER_REGION_55"
+    },
+    "1062": {
+        "Id": 1062,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_33"
+    },
+    "1063": {
+        "Id": 1063,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_147"
+    },
+    "1064": {
+        "Id": 1064,
+        "SceneId": 20016,
+        "GroupId": 220016901,
+        "TriggerName": "ENTER_REGION_4"
+    },
+    "1065": {
+        "Id": 1065,
+        "SceneId": 3,
+        "GroupId": 133001901,
+        "TriggerName": "ENTER_REGION_162"
+    },
+    "1066": {
+        "Id": 1066,
+        "SceneId": 3,
+        "GroupId": 133001901,
+        "TriggerName": "ENTER_REGION_163"
+    },
+    "1067": {
+        "Id": 1067,
+        "SceneId": 1004,
+        "GroupId": 201004901,
+        "TriggerName": "ENTER_REGION_2"
+    },
+    "1068": {
+        "Id": 1068,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_60"
+    },
+    "1069": {
+        "Id": 1069,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_61"
+    },
+    "1070": {
+        "Id": 1070,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_23"
+    },
+    "1071": {
+        "Id": 1071,
+        "SceneId": 3,
+        "GroupId": 133001902,
+        "TriggerName": "ENTER_REGION_186"
+    },
+    "1072": {
+        "Id": 1072,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_63"
+    },
+    "1073": {
+        "Id": 1073,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_185"
+    },
+    "1074": {
+        "Id": 1074,
+        "SceneId": 3,
+        "GroupId": 133001166,
+        "TriggerName": "ENTER_REGION_209"
+    },
+    "1075": {
+        "Id": 1075,
+        "SceneId": 3,
+        "GroupId": 133001902,
+        "TriggerName": "ENTER_REGION_217"
+    },
+    "1076": {
+        "Id": 1076,
+        "SceneId": 3,
+        "GroupId": 133001903,
+        "TriggerName": "ENTER_REGION_239"
+    },
+    "1077": {
+        "Id": 1077,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_70"
+    },
+    "1078": {
+        "Id": 1078,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_225"
+    },
+    "1079": {
+        "Id": 1079,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_226"
+    },
+    "1080": {
+        "Id": 1080,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_227"
+    },
+    "1081": {
+        "Id": 1081,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_78"
+    },
+    "1082": {
+        "Id": 1082,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_97"
+    },
+    "1083": {
+        "Id": 1083,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_98"
+    },
+    "1084": {
+        "Id": 1084,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_99"
+    },
+    "1085": {
+        "Id": 1085,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_154"
+    },
+    "1086": {
+        "Id": 1086,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_155"
+    },
+    "1087": {
+        "Id": 1087,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_156"
+    },
+    "1088": {
+        "Id": 1088,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_157"
+    },
+    "1089": {
+        "Id": 1089,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_118"
+    },
+    "1090": {
+        "Id": 1090,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_119"
+    },
+    "1091": {
+        "Id": 1091,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_120"
+    },
+    "1092": {
+        "Id": 1092,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_178"
+    },
+    "1093": {
+        "Id": 1093,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_463"
+    },
+    "1094": {
+        "Id": 1094,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_180"
+    },
+    "1095": {
+        "Id": 1095,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_502"
+    },
+    "1096": {
+        "Id": 1096,
+        "SceneId": 3,
+        "GroupId": 133001901,
+        "TriggerName": "ENTER_REGION_420"
+    },
+    "1097": {
+        "Id": 1097,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_257"
+    },
+    "1098": {
+        "Id": 1098,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_258"
+    },
+    "1099": {
+        "Id": 1099,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_259"
+    },
+    "1100": {
+        "Id": 1100,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_504"
+    },
+    "1101": {
+        "Id": 1101,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_505"
+    },
+    "1102": {
+        "Id": 1102,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_244"
+    },
+    "1103": {
+        "Id": 1103,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_512"
+    },
+    "1104": {
+        "Id": 1104,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_513"
+    },
+    "1105": {
+        "Id": 1105,
+        "SceneId": 20009,
+        "GroupId": 220009901,
+        "TriggerName": "ENTER_REGION_56"
+    },
+    "1106": {
+        "Id": 1106,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_277"
+    },
+    "1107": {
+        "Id": 1107,
+        "SceneId": 1004,
+        "GroupId": 201004901,
+        "TriggerName": "ENTER_REGION_3"
+    },
+    "1108": {
+        "Id": 1108,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_546"
+    },
+    "1109": {
+        "Id": 1109,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_547"
+    },
+    "1110": {
+        "Id": 1110,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_555"
+    },
+    "1111": {
+        "Id": 1111,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_556"
+    },
+    "1112": {
+        "Id": 1112,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_557"
+    },
+    "1113": {
+        "Id": 1113,
+        "SceneId": 3,
+        "GroupId": 133004904,
+        "TriggerName": "ENTER_REGION_282"
+    },
+    "1114": {
+        "Id": 1114,
+        "SceneId": 3,
+        "GroupId": 133004904,
+        "TriggerName": "ENTER_REGION_283"
+    },
+    "1115": {
+        "Id": 1115,
+        "SceneId": 3,
+        "GroupId": 133004904,
+        "TriggerName": "ENTER_REGION_284"
+    },
+    "1116": {
+        "Id": 1116,
+        "SceneId": 1004,
+        "GroupId": 201004904,
+        "TriggerName": "ENTER_REGION_4"
+    },
+    "1117": {
+        "Id": 1117,
+        "SceneId": 3,
+        "GroupId": 133004905,
+        "TriggerName": "ENTER_REGION_285"
+    },
+    "1118": {
+        "Id": 1118,
+        "SceneId": 3,
+        "GroupId": 133001904,
+        "TriggerName": "ENTER_REGION_446"
+    },
+    "1119": {
+        "Id": 1119,
+        "SceneId": 3,
+        "GroupId": 133001904,
+        "TriggerName": "ENTER_REGION_502"
+    },
+    "1120": {
+        "Id": 1120,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_316"
+    },
+    "1121": {
+        "Id": 1121,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_317"
+    },
+    "1122": {
+        "Id": 1122,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_318"
+    },
+    "1123": {
+        "Id": 1123,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_321"
+    },
+    "1124": {
+        "Id": 1124,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_287"
+    },
+    "1125": {
+        "Id": 1125,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_288"
+    },
+    "1126": {
+        "Id": 1126,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_289"
+    },
+    "1127": {
+        "Id": 1127,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_331"
+    },
+    "1129": {
+        "Id": 1129,
+        "SceneId": 3,
+        "GroupId": 133001905,
+        "TriggerName": "ENTER_REGION_466"
+    },
+    "1130": {
+        "Id": 1130,
+        "SceneId": 3,
+        "GroupId": 133001905,
+        "TriggerName": "ENTER_REGION_471"
+    },
+    "1131": {
+        "Id": 1131,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_595"
+    },
+    "1132": {
+        "Id": 1132,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_596"
+    },
+    "1133": {
+        "Id": 1133,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_333"
+    },
+    "1134": {
+        "Id": 1134,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_334"
+    },
+    "1135": {
+        "Id": 1135,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_95"
+    },
+    "1136": {
+        "Id": 1136,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_901001"
+    },
+    "1137": {
+        "Id": 1137,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_366"
+    },
+    "1138": {
+        "Id": 1138,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_373"
+    },
+    "1139": {
+        "Id": 1139,
+        "SceneId": 3,
+        "GroupId": 133102901,
+        "TriggerName": "ENTER_REGION_368"
+    },
+    "1140": {
+        "Id": 1140,
+        "SceneId": 3,
+        "GroupId": 133102901,
+        "TriggerName": "ENTER_REGION_367"
+    },
+    "1141": {
+        "Id": 1141,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_324"
+    },
+    "1142": {
+        "Id": 1142,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_325"
+    },
+    "1143": {
+        "Id": 1143,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_601"
+    },
+    "1144": {
+        "Id": 1144,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "LEAVE_REGION_606"
+    },
+    "1145": {
+        "Id": 1145,
+        "SceneId": 3,
+        "GroupId": 133004910,
+        "TriggerName": "ENTER_REGION_910043"
+    },
+    "1146": {
+        "Id": 1146,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_901001"
+    },
+    "1147": {
+        "Id": 1147,
+        "SceneId": 3,
+        "GroupId": 133007901,
+        "TriggerName": "ENTER_REGION_901001"
+    },
+    "1148": {
+        "Id": 1148,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901001"
+    },
+    "1149": {
+        "Id": 1149,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901002"
+    },
+    "1150": {
+        "Id": 1150,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901003"
+    },
+    "1151": {
+        "Id": 1151,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901004"
+    },
+    "1152": {
+        "Id": 1152,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901005"
+    },
+    "1153": {
+        "Id": 1153,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901006"
+    },
+    "1154": {
+        "Id": 1154,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901001"
+    },
+    "1155": {
+        "Id": 1155,
+        "SceneId": 3,
+        "GroupId": 133002901,
+        "TriggerName": "ENTER_REGION_901007"
+    },
+    "1156": {
+        "Id": 1156,
+        "SceneId": 3,
+        "GroupId": 133001905,
+        "TriggerName": "ENTER_REGION_905001"
+    },
+    "1157": {
+        "Id": 1157,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_901001"
+    },
+    "1158": {
+        "Id": 1158,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901002"
+    },
+    "1159": {
+        "Id": 1159,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901003"
+    },
+    "1160": {
+        "Id": 1160,
+        "SceneId": 3,
+        "GroupId": 133103904,
+        "TriggerName": "ENTER_REGION_904001"
+    },
+    "1161": {
+        "Id": 1161,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901004"
+    },
+    "1162": {
+        "Id": 1162,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901005"
+    },
+    "1163": {
+        "Id": 1163,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901006"
+    },
+    "1164": {
+        "Id": 1164,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901007"
+    },
+    "1165": {
+        "Id": 1165,
+        "SceneId": 3,
+        "GroupId": 133107901,
+        "TriggerName": "ENTER_REGION_901008"
+    },
+    "1166": {
+        "Id": 1166,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_901002"
+    },
+    "1167": {
+        "Id": 1167,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_901003"
+    },
+    "1168": {
+        "Id": 1168,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_901004"
+    },
+    "1169": {
+        "Id": 1169,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_901005"
+    },
+    "1170": {
+        "Id": 1170,
+        "SceneId": 3,
+        "GroupId": 133103901,
+        "TriggerName": "ENTER_REGION_901006"
+    },
+    "1171": {
+        "Id": 1171,
+        "SceneId": 3,
+        "GroupId": 133004901,
+        "TriggerName": "ENTER_REGION_901002"
+    },
+    "1172": {
+        "Id": 1172,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_901002"
+    },
+    "1173": {
+        "Id": 1173,
+        "SceneId": 3,
+        "GroupId": 133003901,
+        "TriggerName": "ENTER_REGION_901003"
+    },
+    "1174": {
+        "Id": 1174,
+        "SceneId": 3,
+        "GroupId": 133102904,
+        "TriggerName": "ENTER_REGION_904010"
+    },
+    "1175": {
+        "Id": 1175,
+        "SceneId": 3,
+        "GroupId": 133104913,
+        "TriggerName": "ENTER_REGION_913006"
+    },
+    "1176": {
+        "Id": 1176,
+        "SceneId": 3,
+        "GroupId": 133104622,
+        "TriggerName": "ENTER_REGION_622076"
+    },
+    "1177": {
+        "Id": 1177,
+        "SceneId": 3,
+        "GroupId": 133007902,
+        "TriggerName": "ENTER_REGION_902005"
+    },
+    "1178": {
+        "Id": 1178,
+        "SceneId": 3,
+        "GroupId": 133106907,
+        "TriggerName": "ENTER_REGION_907011"
+    },
+    "1179": {
+        "Id": 1179,
+        "SceneId": 3,
+        "GroupId": 133106311,
+        "TriggerName": "ENTER_REGION_311011"
+    },
+    "1180": {
+        "Id": 1180,
+        "SceneId": 3,
+        "GroupId": 133106312,
+        "TriggerName": "ENTER_REGION_312013"
+    },
+    "1181": {
+        "Id": 1181,
+        "SceneId": 3,
+        "GroupId": 133007902,
+        "TriggerName": "ENTER_REGION_902009"
+    },
+    "1182": {
+        "Id": 1182,
+        "SceneId": 3,
+        "GroupId": 133007902,
+        "TriggerName": "ENTER_REGION_902013"
+    },
+    "1183": {
+        "Id": 1183,
+        "SceneId": 3,
+        "GroupId": 133107934,
+        "TriggerName": "ENTER_REGION_934003"
+    },
+    "1184": {
+        "Id": 1184,
+        "SceneId": 3,
+        "GroupId": 133107935,
+        "TriggerName": "ENTER_REGION_935010"
+    },
+    "1185": {
+        "Id": 1185,
+        "SceneId": 3,
+        "GroupId": 133107935,
+        "TriggerName": "ENTER_REGION_935011"
+    },
+    "1186": {
+        "Id": 1186,
+        "SceneId": 3,
+        "GroupId": 133104916,
+        "TriggerName": "ENTER_REGION_916021"
+    },
+    "1187": {
+        "Id": 1187,
+        "SceneId": 3,
+        "GroupId": 133104916,
+        "TriggerName": "ENTER_REGION_916022"
+    },
+    "1188": {
+        "Id": 1188,
+        "SceneId": 3,
+        "GroupId": 133104916,
+        "TriggerName": "ENTER_REGION_916023"
+    },
+    "1189": {
+        "Id": 1189,
+        "SceneId": 3,
+        "GroupId": 133103916,
+        "TriggerName": "ENTER_REGION_916004"
+    }
+}

@@ -1,0 +1,3582 @@
+{
+    "3003001": {
+        "Id": 3003001,
+        "AreaId": 998,
+        "PointType": 1001,
+        "GadgetId": 70520001,
+        "ItemId": 101001,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 35
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999930,
+        "InitDisableInteract": true
+    },
+    "3003003": {
+        "Id": 3003003,
+        "AreaId": 998,
+        "PointType": 1002,
+        "GadgetId": 70520002,
+        "ItemId": 101002,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 10,
+        "Priority": 20,
+        "RefreshId": 999931,
+        "InitDisableInteract": true
+    },
+    "3003004": {
+        "Id": 3003004,
+        "AreaId": 998,
+        "PointType": 1003,
+        "GadgetId": 70520003,
+        "ItemId": 101003,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 4
+            }
+        ],
+        "Cd": 10,
+        "Priority": 30,
+        "RefreshId": 999932,
+        "InitDisableInteract": true
+    },
+    "3003005": {
+        "Id": 3003005,
+        "AreaId": 2,
+        "PointType": 1004,
+        "GadgetId": 70520018,
+        "ItemId": 100028,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 4
+            }
+        ],
+        "Cd": 10,
+        "Priority": 30,
+        "RefreshId": 999921,
+        "InitDisableInteract": true
+    },
+    "3003006": {
+        "Id": 3003006,
+        "AreaId": 998,
+        "PointType": 1005,
+        "GadgetId": 70520019,
+        "ItemId": 101004,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 4
+            }
+        ],
+        "Cd": 10,
+        "Priority": 30,
+        "InitDisableInteract": true
+    },
+    "3003007": {
+        "Id": 3003007,
+        "AreaId": 998,
+        "PointType": 1006,
+        "GadgetId": 70590027,
+        "ItemId": 101006,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 4
+            }
+        ],
+        "Cd": 10,
+        "Priority": 30,
+        "RefreshId": 999931,
+        "InitDisableInteract": true
+    },
+    "3003009": {
+        "Id": 3003009,
+        "AreaId": 999,
+        "PointType": 2001,
+        "GadgetId": 70520009,
+        "ItemId": 100016,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003010": {
+        "Id": 3003010,
+        "AreaId": 999,
+        "PointType": 2002,
+        "GadgetId": 70520004,
+        "ItemId": 100011,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 40
+            }
+        ],
+        "Cd": 10,
+        "Priority": 5,
+        "RefreshId": 999900
+    },
+    "3003015": {
+        "Id": 3003015,
+        "AreaId": 999,
+        "PointType": 2003,
+        "GadgetId": 70520006,
+        "ItemId": 100013,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 10,
+        "Priority": 5,
+        "RefreshId": 999900
+    },
+    "3003016": {
+        "Id": 3003016,
+        "AreaId": 999,
+        "PointType": 2019,
+        "GadgetId": 70520007,
+        "ItemId": 100014,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 10,
+        "Priority": 5,
+        "RefreshId": 999900
+    },
+    "3003017": {
+        "Id": 3003017,
+        "AreaId": 999,
+        "PointType": 2004,
+        "GadgetId": 70520005,
+        "ItemId": 100012,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003019": {
+        "Id": 3003019,
+        "AreaId": 999,
+        "PointType": 2005,
+        "GadgetId": 70520008,
+        "ItemId": 100015,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 40
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003021": {
+        "Id": 3003021,
+        "AreaId": 999,
+        "PointType": 2006,
+        "GadgetId": 70540003,
+        "ItemId": 100001,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 30
+            }
+        ],
+        "Cd": 5,
+        "Priority": 20,
+        "RefreshId": 999900
+    },
+    "3003022": {
+        "Id": 3003022,
+        "AreaId": 999,
+        "PointType": 2007,
+        "GadgetId": 70540005,
+        "ItemId": 100020,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 50
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003034": {
+        "Id": 3003034,
+        "AreaId": 1,
+        "PointType": 2008,
+        "GadgetId": 70590013,
+        "ItemId": 100056,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003036": {
+        "Id": 3003036,
+        "AreaId": 999,
+        "PointType": 2009,
+        "GadgetId": 70520013,
+        "ItemId": 100063,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003023": {
+        "Id": 3003023,
+        "AreaId": 999,
+        "PointType": 3001,
+        "GadgetId": 70540003,
+        "ItemId": 100001,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 80
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 5,
+        "Priority": 20,
+        "RefreshId": 999900
+    },
+    "3003024": {
+        "Id": 3003024,
+        "AreaId": 999,
+        "PointType": 3002,
+        "GadgetId": 70540001,
+        "ItemId": 100051,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 70
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003025": {
+        "Id": 3003025,
+        "AreaId": 999,
+        "PointType": 3003,
+        "GadgetId": 70540004,
+        "ItemId": 100062,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003031": {
+        "Id": 3003031,
+        "PointType": 9103,
+        "GadgetId": 70710008,
+        "ItemId": 100308,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 10
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003032": {
+        "Id": 3003032,
+        "PointType": 4004,
+        "GadgetId": 70590034,
+        "ItemId": 107011,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 100
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10
+    },
+    "3003033": {
+        "Id": 3003033,
+        "AreaId": 1,
+        "PointType": 3007,
+        "GadgetId": 70510004,
+        "ItemId": 100055,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 80
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003035": {
+        "Id": 3003035,
+        "AreaId": 999,
+        "PointType": 3008,
+        "GadgetId": 70510007,
+        "ItemId": 100052,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999920,
+        "InitDisableInteract": true
+    },
+    "3003037": {
+        "Id": 3003037,
+        "AreaId": 1,
+        "PointType": 3009,
+        "GadgetId": 70510009,
+        "ItemId": 100057,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921,
+        "InitDisableInteract": true
+    },
+    "3003038": {
+        "Id": 3003038,
+        "AreaId": 2,
+        "PointType": 3010,
+        "GadgetId": 70510012,
+        "ItemId": 100058,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921,
+        "InitDisableInteract": true
+    },
+    "3003039": {
+        "Id": 3003039,
+        "AreaId": 999,
+        "PointType": 3011,
+        "GadgetId": 70540021,
+        "ItemId": 100002,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003100": {
+        "Id": 3003100,
+        "AreaId": 1,
+        "PointType": 2010,
+        "GadgetId": 70540013,
+        "ItemId": 100021,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003101": {
+        "Id": 3003101,
+        "AreaId": 1,
+        "PointType": 2011,
+        "GadgetId": 70540022,
+        "ItemId": 100022,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003102": {
+        "Id": 3003102,
+        "AreaId": 1,
+        "PointType": 2012,
+        "GadgetId": 70540018,
+        "ItemId": 100023,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003103": {
+        "Id": 3003103,
+        "AreaId": 1,
+        "PointType": 2013,
+        "GadgetId": 70540019,
+        "ItemId": 100024,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003104": {
+        "Id": 3003104,
+        "AreaId": 1,
+        "PointType": 2014,
+        "GadgetId": 70540020,
+        "ItemId": 100025,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003105": {
+        "Id": 3003105,
+        "AreaId": 999,
+        "PointType": 2015,
+        "GadgetId": 70540014,
+        "ItemId": 100026,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003106": {
+        "Id": 3003106,
+        "AreaId": 2,
+        "PointType": 2016,
+        "GadgetId": 70540008,
+        "ItemId": 100027,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003112": {
+        "Id": 3003112,
+        "AreaId": 2,
+        "PointType": 2023,
+        "GadgetId": 70540015,
+        "ItemId": 100029,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003114": {
+        "Id": 3003114,
+        "AreaId": 2,
+        "PointType": 2025,
+        "GadgetId": 70540012,
+        "ItemId": 100030,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003115": {
+        "Id": 3003115,
+        "AreaId": 2,
+        "PointType": 2026,
+        "GadgetId": 70540026,
+        "ItemId": 100034,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003116": {
+        "Id": 3003116,
+        "AreaId": 999,
+        "PointType": 2027,
+        "GadgetId": 70540027,
+        "ItemId": 100032,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003117": {
+        "Id": 3003117,
+        "AreaId": 2,
+        "PointType": 2028,
+        "GadgetId": 70540029,
+        "ItemId": 100031,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003118": {
+        "Id": 3003118,
+        "AreaId": 2,
+        "PointType": 2029,
+        "GadgetId": 70540028,
+        "ItemId": 100033,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003120": {
+        "Id": 3003120,
+        "AreaId": 999,
+        "PointType": 2030,
+        "GadgetId": 70590024,
+        "ItemId": 100091,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003121": {
+        "Id": 3003121,
+        "AreaId": 998,
+        "PointType": 1007,
+        "GadgetId": 70590025,
+        "ItemId": 101005,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 10,
+        "Priority": 20,
+        "RefreshId": 999920,
+        "InitDisableInteract": true
+    },
+    "3003122": {
+        "Id": 3003122,
+        "AreaId": 999,
+        "PointType": 2031,
+        "GadgetId": 70520024,
+        "ItemId": 100016,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999900
+    },
+    "3003123": {
+        "Id": 3003123,
+        "AreaId": 999,
+        "PointType": 2032,
+        "GadgetId": 70590030,
+        "ItemId": 100618,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999920,
+        "IsForbidGuest": true
+    },
+    "3003124": {
+        "Id": 3003124,
+        "AreaId": 3,
+        "PointType": 2033,
+        "GadgetId": 70520025,
+        "ItemId": 101206,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "RefreshId": 999921
+    },
+    "3003026": {
+        "Id": 3003026,
+        "PointType": 4002,
+        "GadgetId": 70590021,
+        "ItemId": 107003,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 100
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003028": {
+        "Id": 3003028,
+        "PointType": 4001003,
+        "GadgetId": 70600064,
+        "ItemId": 100151,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10
+    },
+    "3003029": {
+        "Id": 3003029,
+        "PointType": 9101,
+        "GadgetId": 70710008,
+        "ItemId": 100306,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 10
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004001": {
+        "Id": 1004001,
+        "PointType": 9001,
+        "GadgetId": 71700002,
+        "ItemId": 100178,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004002": {
+        "Id": 1004002,
+        "PointType": 9002,
+        "GadgetId": 71700003,
+        "ItemId": 100179,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004003": {
+        "Id": 1004003,
+        "PointType": 9003,
+        "GadgetId": 71700004,
+        "ItemId": 100180,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004004": {
+        "Id": 1004004,
+        "PointType": 9004,
+        "GadgetId": 71700005,
+        "ItemId": 100181,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004005": {
+        "Id": 1004005,
+        "PointType": 9005,
+        "GadgetId": 71700006,
+        "ItemId": 100182,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004006": {
+        "Id": 1004006,
+        "PointType": 9006,
+        "GadgetId": 71700007,
+        "ItemId": 100183,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004007": {
+        "Id": 1004007,
+        "PointType": 9007,
+        "GadgetId": 71700009,
+        "ItemId": 100188,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004008": {
+        "Id": 1004008,
+        "PointType": 9008,
+        "GadgetId": 71700010,
+        "ItemId": 100189,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004009": {
+        "Id": 1004009,
+        "PointType": 9009,
+        "GadgetId": 71700011,
+        "ItemId": 100190,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004010": {
+        "Id": 1004010,
+        "PointType": 9010,
+        "GadgetId": 71700012,
+        "ItemId": 100191,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004011": {
+        "Id": 1004011,
+        "PointType": 9011,
+        "GadgetId": 71700013,
+        "ItemId": 100192,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004012": {
+        "Id": 1004012,
+        "PointType": 9012,
+        "GadgetId": 71700014,
+        "ItemId": 100193,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004013": {
+        "Id": 1004013,
+        "PointType": 9013,
+        "GadgetId": 71700015,
+        "ItemId": 100194,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004014": {
+        "Id": 1004014,
+        "PointType": 9014,
+        "GadgetId": 71700016,
+        "ItemId": 100195,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004015": {
+        "Id": 1004015,
+        "PointType": 9015,
+        "GadgetId": 71700017,
+        "ItemId": 100196,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004016": {
+        "Id": 1004016,
+        "PointType": 9016,
+        "GadgetId": 71700018,
+        "ItemId": 100197,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004017": {
+        "Id": 1004017,
+        "PointType": 9017,
+        "GadgetId": 71700019,
+        "ItemId": 100198,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004018": {
+        "Id": 1004018,
+        "PointType": 9018,
+        "GadgetId": 71700020,
+        "ItemId": 100199,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004019": {
+        "Id": 1004019,
+        "PointType": 9019,
+        "GadgetId": 71700021,
+        "ItemId": 100200,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004020": {
+        "Id": 1004020,
+        "PointType": 9020,
+        "GadgetId": 71700023,
+        "ItemId": 100202,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004021": {
+        "Id": 1004021,
+        "PointType": 9021,
+        "GadgetId": 71700024,
+        "ItemId": 100203,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004022": {
+        "Id": 1004022,
+        "PointType": 9022,
+        "GadgetId": 71700025,
+        "ItemId": 100204,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004023": {
+        "Id": 1004023,
+        "PointType": 9023,
+        "GadgetId": 71700026,
+        "ItemId": 100205,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004024": {
+        "Id": 1004024,
+        "PointType": 9024,
+        "GadgetId": 71700027,
+        "ItemId": 100206,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004025": {
+        "Id": 1004025,
+        "PointType": 9025,
+        "GadgetId": 71700028,
+        "ItemId": 100207,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004026": {
+        "Id": 1004026,
+        "PointType": 9026,
+        "GadgetId": 71700029,
+        "ItemId": 100208,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004027": {
+        "Id": 1004027,
+        "PointType": 9027,
+        "GadgetId": 71700022,
+        "ItemId": 100201,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004028": {
+        "Id": 1004028,
+        "PointType": 9028,
+        "GadgetId": 71700039,
+        "ItemId": 100223,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004029": {
+        "Id": 1004029,
+        "PointType": 9029,
+        "GadgetId": 71700042,
+        "ItemId": 100226,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004030": {
+        "Id": 1004030,
+        "PointType": 9030,
+        "GadgetId": 71700043,
+        "ItemId": 100227,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004031": {
+        "Id": 1004031,
+        "PointType": 9031,
+        "GadgetId": 71700044,
+        "ItemId": 100228,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004032": {
+        "Id": 1004032,
+        "PointType": 9032,
+        "GadgetId": 71700048,
+        "ItemId": 100229,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004033": {
+        "Id": 1004033,
+        "PointType": 9033,
+        "GadgetId": 71700049,
+        "ItemId": 100230,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004034": {
+        "Id": 1004034,
+        "PointType": 9034,
+        "GadgetId": 71700050,
+        "ItemId": 100239,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004035": {
+        "Id": 1004035,
+        "PointType": 9035,
+        "GadgetId": 71700051,
+        "ItemId": 100240,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004036": {
+        "Id": 1004036,
+        "PointType": 9036,
+        "GadgetId": 71700052,
+        "ItemId": 100241,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004037": {
+        "Id": 1004037,
+        "PointType": 9037,
+        "GadgetId": 71700054,
+        "ItemId": 100388,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004038": {
+        "Id": 1004038,
+        "PointType": 9038,
+        "GadgetId": 71700055,
+        "ItemId": 100389,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004039": {
+        "Id": 1004039,
+        "PointType": 9039,
+        "GadgetId": 71700056,
+        "ItemId": 100390,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004040": {
+        "Id": 1004040,
+        "PointType": 9040,
+        "GadgetId": 71700057,
+        "ItemId": 100391,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004041": {
+        "Id": 1004041,
+        "PointType": 9041,
+        "GadgetId": 71700058,
+        "ItemId": 100399,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004042": {
+        "Id": 1004042,
+        "PointType": 9042,
+        "GadgetId": 71700059,
+        "ItemId": 100400,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004043": {
+        "Id": 1004043,
+        "PointType": 9043,
+        "GadgetId": 71700060,
+        "ItemId": 100401,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004044": {
+        "Id": 1004044,
+        "PointType": 9044,
+        "GadgetId": 71700061,
+        "ItemId": 100402,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004045": {
+        "Id": 1004045,
+        "PointType": 9045,
+        "GadgetId": 71700062,
+        "ItemId": 100403,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004046": {
+        "Id": 1004046,
+        "PointType": 9046,
+        "GadgetId": 71700063,
+        "ItemId": 100404,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004047": {
+        "Id": 1004047,
+        "PointType": 9047,
+        "GadgetId": 71700064,
+        "ItemId": 100405,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004048": {
+        "Id": 1004048,
+        "PointType": 9048,
+        "GadgetId": 71700065,
+        "ItemId": 100406,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004049": {
+        "Id": 1004049,
+        "PointType": 9049,
+        "GadgetId": 71700066,
+        "ItemId": 100407,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004050": {
+        "Id": 1004050,
+        "PointType": 9050,
+        "GadgetId": 71700067,
+        "ItemId": 100408,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004051": {
+        "Id": 1004051,
+        "PointType": 9051,
+        "GadgetId": 71700068,
+        "ItemId": 100409,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004052": {
+        "Id": 1004052,
+        "PointType": 9052,
+        "GadgetId": 71700069,
+        "ItemId": 100410,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004053": {
+        "Id": 1004053,
+        "PointType": 9053,
+        "GadgetId": 71700070,
+        "ItemId": 100411,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004054": {
+        "Id": 1004054,
+        "PointType": 9054,
+        "GadgetId": 71700071,
+        "ItemId": 100412,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004055": {
+        "Id": 1004055,
+        "PointType": 9055,
+        "GadgetId": 71700072,
+        "ItemId": 100413,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004056": {
+        "Id": 1004056,
+        "PointType": 9056,
+        "GadgetId": 71700074,
+        "ItemId": 100426,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004057": {
+        "Id": 1004057,
+        "PointType": 9057,
+        "GadgetId": 71700078,
+        "ItemId": 100432,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004058": {
+        "Id": 1004058,
+        "PointType": 9058,
+        "GadgetId": 71700079,
+        "ItemId": 100433,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004059": {
+        "Id": 1004059,
+        "PointType": 9059,
+        "GadgetId": 71700080,
+        "ItemId": 100434,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004060": {
+        "Id": 1004060,
+        "PointType": 9060,
+        "GadgetId": 71700081,
+        "ItemId": 100435,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004061": {
+        "Id": 1004061,
+        "PointType": 9061,
+        "GadgetId": 71700082,
+        "ItemId": 100436,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004062": {
+        "Id": 1004062,
+        "PointType": 9062,
+        "GadgetId": 71700084,
+        "ItemId": 100437,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004063": {
+        "Id": 1004063,
+        "PointType": 9063,
+        "GadgetId": 71700085,
+        "ItemId": 100438,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004064": {
+        "Id": 1004064,
+        "PointType": 9064,
+        "GadgetId": 71700086,
+        "ItemId": 100439,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004065": {
+        "Id": 1004065,
+        "PointType": 9065,
+        "GadgetId": 71700087,
+        "ItemId": 100440,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004066": {
+        "Id": 1004066,
+        "PointType": 9066,
+        "GadgetId": 71700088,
+        "ItemId": 100441,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004067": {
+        "Id": 1004067,
+        "PointType": 9067,
+        "GadgetId": 71700089,
+        "ItemId": 100442,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004068": {
+        "Id": 1004068,
+        "PointType": 9068,
+        "GadgetId": 71700090,
+        "ItemId": 100443,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004069": {
+        "Id": 1004069,
+        "PointType": 9069,
+        "GadgetId": 71700091,
+        "ItemId": 100444,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004070": {
+        "Id": 1004070,
+        "PointType": 9070,
+        "GadgetId": 71700092,
+        "ItemId": 100445,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004071": {
+        "Id": 1004071,
+        "PointType": 9071,
+        "GadgetId": 71700110,
+        "ItemId": 100480,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004072": {
+        "Id": 1004072,
+        "PointType": 9072,
+        "GadgetId": 71700111,
+        "ItemId": 100481,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004073": {
+        "Id": 1004073,
+        "PointType": 9073,
+        "GadgetId": 71700112,
+        "ItemId": 100482,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004074": {
+        "Id": 1004074,
+        "PointType": 9074,
+        "GadgetId": 71700113,
+        "ItemId": 100483,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004075": {
+        "Id": 1004075,
+        "PointType": 9075,
+        "GadgetId": 71700114,
+        "ItemId": 100484,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004076": {
+        "Id": 1004076,
+        "PointType": 9076,
+        "GadgetId": 71700115,
+        "ItemId": 100507,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004077": {
+        "Id": 1004077,
+        "PointType": 9077,
+        "GadgetId": 71700116,
+        "ItemId": 100508,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004078": {
+        "Id": 1004078,
+        "PointType": 9078,
+        "GadgetId": 71700117,
+        "ItemId": 100509,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004079": {
+        "Id": 1004079,
+        "PointType": 9079,
+        "GadgetId": 71700124,
+        "ItemId": 100564,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004080": {
+        "Id": 1004080,
+        "PointType": 9080,
+        "GadgetId": 71700125,
+        "ItemId": 100565,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004081": {
+        "Id": 1004081,
+        "PointType": 9081,
+        "GadgetId": 71700126,
+        "ItemId": 100566,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004082": {
+        "Id": 1004082,
+        "PointType": 9082,
+        "GadgetId": 71700127,
+        "ItemId": 100567,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004083": {
+        "Id": 1004083,
+        "PointType": 9083,
+        "GadgetId": 71700128,
+        "ItemId": 100568,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004084": {
+        "Id": 1004084,
+        "PointType": 9084,
+        "GadgetId": 71700129,
+        "ItemId": 100569,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004085": {
+        "Id": 1004085,
+        "PointType": 9085,
+        "GadgetId": 71700130,
+        "ItemId": 100570,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004086": {
+        "Id": 1004086,
+        "PointType": 9086,
+        "GadgetId": 71700131,
+        "ItemId": 100571,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004087": {
+        "Id": 1004087,
+        "PointType": 9087,
+        "GadgetId": 71700132,
+        "ItemId": 100572,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004088": {
+        "Id": 1004088,
+        "PointType": 9088,
+        "GadgetId": 71700133,
+        "ItemId": 100573,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004089": {
+        "Id": 1004089,
+        "PointType": 9089,
+        "GadgetId": 71700134,
+        "ItemId": 100574,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004090": {
+        "Id": 1004090,
+        "PointType": 9090,
+        "GadgetId": 71700135,
+        "ItemId": 100575,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004091": {
+        "Id": 1004091,
+        "PointType": 9091,
+        "GadgetId": 71700136,
+        "ItemId": 100576,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004092": {
+        "Id": 1004092,
+        "PointType": 9092,
+        "GadgetId": 71700137,
+        "ItemId": 100577,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004093": {
+        "Id": 1004093,
+        "PointType": 9093,
+        "GadgetId": 71700138,
+        "ItemId": 100578,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004094": {
+        "Id": 1004094,
+        "PointType": 9094,
+        "GadgetId": 71700139,
+        "ItemId": 100579,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004095": {
+        "Id": 1004095,
+        "PointType": 9095,
+        "GadgetId": 71700140,
+        "ItemId": 100580,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004096": {
+        "Id": 1004096,
+        "PointType": 9096,
+        "GadgetId": 70710170,
+        "ItemId": 100583,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004097": {
+        "Id": 1004097,
+        "PointType": 9097,
+        "GadgetId": 71700141,
+        "ItemId": 100586,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004098": {
+        "Id": 1004098,
+        "PointType": 9098,
+        "GadgetId": 71700142,
+        "ItemId": 100587,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004099": {
+        "Id": 1004099,
+        "PointType": 9099,
+        "GadgetId": 71700143,
+        "ItemId": 100588,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004100": {
+        "Id": 1004100,
+        "PointType": 9200,
+        "GadgetId": 71700144,
+        "ItemId": 100589,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004101": {
+        "Id": 1004101,
+        "PointType": 9201,
+        "GadgetId": 71700145,
+        "ItemId": 100590,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004102": {
+        "Id": 1004102,
+        "PointType": 9202,
+        "GadgetId": 71700146,
+        "ItemId": 100591,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004103": {
+        "Id": 1004103,
+        "PointType": 9203,
+        "GadgetId": 71700147,
+        "ItemId": 100592,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004104": {
+        "Id": 1004104,
+        "PointType": 9204,
+        "GadgetId": 71700148,
+        "ItemId": 100593,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004105": {
+        "Id": 1004105,
+        "PointType": 9205,
+        "GadgetId": 71700155,
+        "ItemId": 100607,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004106": {
+        "Id": 1004106,
+        "PointType": 9206,
+        "GadgetId": 71700156,
+        "ItemId": 100608,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004107": {
+        "Id": 1004107,
+        "PointType": 9207,
+        "GadgetId": 71700157,
+        "ItemId": 100609,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004108": {
+        "Id": 1004108,
+        "PointType": 9208,
+        "GadgetId": 71700158,
+        "ItemId": 100610,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004109": {
+        "Id": 1004109,
+        "PointType": 9209,
+        "GadgetId": 71700159,
+        "ItemId": 100611,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004110": {
+        "Id": 1004110,
+        "PointType": 9210,
+        "GadgetId": 71700160,
+        "ItemId": 100612,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004111": {
+        "Id": 1004111,
+        "PointType": 9211,
+        "GadgetId": 71700161,
+        "ItemId": 100613,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004112": {
+        "Id": 1004112,
+        "PointType": 9212,
+        "GadgetId": 71700162,
+        "ItemId": 100614,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004113": {
+        "Id": 1004113,
+        "PointType": 9213,
+        "GadgetId": 71700163,
+        "ItemId": 100615,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004114": {
+        "Id": 1004114,
+        "PointType": 9214,
+        "GadgetId": 71700164,
+        "ItemId": 100616,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004115": {
+        "Id": 1004115,
+        "PointType": 9215,
+        "GadgetId": 71700165,
+        "ItemId": 100245,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004116": {
+        "Id": 1004116,
+        "PointType": 9216,
+        "GadgetId": 71700166,
+        "ItemId": 100624,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004117": {
+        "Id": 1004117,
+        "PointType": 9217,
+        "GadgetId": 71700167,
+        "ItemId": 100637,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004118": {
+        "Id": 1004118,
+        "PointType": 9218,
+        "GadgetId": 71700168,
+        "ItemId": 100638,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004119": {
+        "Id": 1004119,
+        "PointType": 9219,
+        "GadgetId": 71700169,
+        "ItemId": 100639,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004120": {
+        "Id": 1004120,
+        "PointType": 9220,
+        "GadgetId": 71700170,
+        "ItemId": 100640,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004121": {
+        "Id": 1004121,
+        "PointType": 9221,
+        "GadgetId": 71700171,
+        "ItemId": 100641,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004122": {
+        "Id": 1004122,
+        "PointType": 9222,
+        "GadgetId": 71700172,
+        "ItemId": 100642,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004123": {
+        "Id": 1004123,
+        "PointType": 9223,
+        "GadgetId": 71700173,
+        "ItemId": 100643,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004124": {
+        "Id": 1004124,
+        "PointType": 9224,
+        "GadgetId": 71700174,
+        "ItemId": 100644,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004125": {
+        "Id": 1004125,
+        "PointType": 9225,
+        "GadgetId": 71700175,
+        "ItemId": 100645,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004126": {
+        "Id": 1004126,
+        "PointType": 9226,
+        "GadgetId": 71700178,
+        "ItemId": 100703,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004127": {
+        "Id": 1004127,
+        "PointType": 9227,
+        "GadgetId": 71700180,
+        "ItemId": 100706,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004128": {
+        "Id": 1004128,
+        "PointType": 9228,
+        "GadgetId": 71700181,
+        "ItemId": 100711,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004129": {
+        "Id": 1004129,
+        "PointType": 9229,
+        "GadgetId": 71700182,
+        "ItemId": 100712,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004130": {
+        "Id": 1004130,
+        "PointType": 9230,
+        "GadgetId": 71700185,
+        "ItemId": 100730,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004131": {
+        "Id": 1004131,
+        "PointType": 9231,
+        "GadgetId": 71700186,
+        "ItemId": 100731,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004132": {
+        "Id": 1004132,
+        "PointType": 9232,
+        "GadgetId": 71700187,
+        "ItemId": 100732,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004133": {
+        "Id": 1004133,
+        "PointType": 9233,
+        "GadgetId": 71700188,
+        "ItemId": 100733,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004134": {
+        "Id": 1004134,
+        "PointType": 9234,
+        "GadgetId": 71700189,
+        "ItemId": 100734,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004135": {
+        "Id": 1004135,
+        "PointType": 9235,
+        "GadgetId": 71700190,
+        "ItemId": 100735,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004136": {
+        "Id": 1004136,
+        "PointType": 9236,
+        "GadgetId": 71700191,
+        "ItemId": 100736,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004137": {
+        "Id": 1004137,
+        "PointType": 9237,
+        "GadgetId": 71700203,
+        "ItemId": 100783,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004138": {
+        "Id": 1004138,
+        "PointType": 9238,
+        "GadgetId": 71700204,
+        "ItemId": 100784,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004139": {
+        "Id": 1004139,
+        "PointType": 9239,
+        "GadgetId": 71700205,
+        "ItemId": 100785,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004140": {
+        "Id": 1004140,
+        "PointType": 9240,
+        "GadgetId": 71700206,
+        "ItemId": 100786,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004141": {
+        "Id": 1004141,
+        "PointType": 9241,
+        "GadgetId": 71700207,
+        "ItemId": 100787,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "1004142": {
+        "Id": 1004142,
+        "PointType": 9242,
+        "GadgetId": 71700208,
+        "ItemId": 100788,
+        "BlockLimits": [
+            {
+                "BlockId": 1004,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003030": {
+        "Id": 3003030,
+        "PointType": 9102,
+        "GadgetId": 70710008,
+        "ItemId": 100307,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 10
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003040": {
+        "Id": 3003040,
+        "PointType": 9104,
+        "GadgetId": 70520017,
+        "ItemId": 100064,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003041": {
+        "Id": 3003041,
+        "PointType": 9105,
+        "GadgetId": 70710008,
+        "ItemId": 100352,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003042": {
+        "Id": 3003042,
+        "PointType": 9107,
+        "GadgetId": 70710063,
+        "ItemId": 100450,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003043": {
+        "Id": 3003043,
+        "PointType": 9108,
+        "GadgetId": 70710064,
+        "ItemId": 100451,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003044": {
+        "Id": 3003044,
+        "PointType": 9109,
+        "GadgetId": 70710068,
+        "ItemId": 100456,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "20007009": {
+        "Id": 20007009,
+        "PointType": 9106,
+        "GadgetId": 70710020,
+        "ItemId": 100349,
+        "BlockLimits": [
+            {
+                "BlockId": 20007,
+                "Count": 6
+            }
+        ],
+        "Cd": 5,
+        "Priority": 20,
+        "IsForbidGuest": true
+    },
+    "3003045": {
+        "Id": 3003045,
+        "PointType": 9110,
+        "GadgetId": 71700098,
+        "ItemId": 100468,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003046": {
+        "Id": 3003046,
+        "PointType": 9111,
+        "GadgetId": 70210102,
+        "ItemId": 100467,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003047": {
+        "Id": 3003047,
+        "PointType": 9112,
+        "GadgetId": 70710008,
+        "ItemId": 100495,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003048": {
+        "Id": 3003048,
+        "PointType": 9113,
+        "GadgetId": 70710008,
+        "ItemId": 100512,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003049": {
+        "Id": 3003049,
+        "PointType": 9114,
+        "GadgetId": 70710008,
+        "ItemId": 100513,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003050": {
+        "Id": 3003050,
+        "PointType": 9115,
+        "GadgetId": 70710008,
+        "ItemId": 100514,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 5
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003051": {
+        "Id": 3003051,
+        "PointType": 9116,
+        "GadgetId": 70710008,
+        "ItemId": 100524,
+        "BlockLimits": [
+            {
+                "BlockId": 3004,
+                "Count": 10
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003052": {
+        "Id": 3003052,
+        "PointType": 9117,
+        "GadgetId": 70710112,
+        "ItemId": 100525,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 10
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003053": {
+        "Id": 3003053,
+        "PointType": 9118,
+        "GadgetId": 71700150,
+        "ItemId": 100541,
+        "BlockLimits": [
+            {
+                "BlockId": 3103,
+                "Count": 10
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003054": {
+        "Id": 3003054,
+        "PointType": 9119,
+        "GadgetId": 71700151,
+        "ItemId": 100549,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003055": {
+        "Id": 3003055,
+        "PointType": 9120,
+        "GadgetId": 71700152,
+        "ItemId": 100552,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 80
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003056": {
+        "Id": 3003056,
+        "PointType": 9121,
+        "GadgetId": 71700153,
+        "ItemId": 100550,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003057": {
+        "Id": 3003057,
+        "PointType": 9122,
+        "GadgetId": 71700154,
+        "ItemId": 100551,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 20
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003058": {
+        "Id": 3003058,
+        "PointType": 9123,
+        "GadgetId": 71700123,
+        "ItemId": 100562,
+        "BlockLimits": [
+            {
+                "BlockId": 3006,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003059": {
+        "Id": 3003059,
+        "PointType": 9124,
+        "GadgetId": 71700149,
+        "ItemId": 100601,
+        "BlockLimits": [
+            {
+                "BlockId": 3006,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003060": {
+        "Id": 3003060,
+        "PointType": 9125,
+        "GadgetId": 70710196,
+        "ItemId": 100623,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003061": {
+        "Id": 3003061,
+        "PointType": 9126,
+        "GadgetId": 70590030,
+        "ItemId": 100618,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 60
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003062": {
+        "Id": 3003062,
+        "PointType": 9127,
+        "GadgetId": 70950016,
+        "ItemId": 109,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 25
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003063": {
+        "Id": 3003063,
+        "PointType": 9128,
+        "GadgetId": 70710152,
+        "ItemId": 100556,
+        "BlockLimits": [
+            {
+                "BlockId": 3103,
+                "Count": 1
+            }
+        ],
+        "PointLocation": "POINT_AIR",
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003064": {
+        "Id": 3003064,
+        "PointType": 9129,
+        "GadgetId": 70520020,
+        "ItemId": 100012,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003065": {
+        "Id": 3003065,
+        "PointType": 9130,
+        "GadgetId": 70520023,
+        "ItemId": 100016,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003066": {
+        "Id": 3003066,
+        "PointType": 9131,
+        "GadgetId": 70520022,
+        "ItemId": 100011,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003067": {
+        "Id": 3003067,
+        "PointType": 9132,
+        "GadgetId": 70520021,
+        "ItemId": 100020,
+        "BlockLimits": [
+            {
+                "BlockId": 3003,
+                "Count": 1
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003068": {
+        "Id": 3003068,
+        "PointType": 9133,
+        "GadgetId": 70710297,
+        "ItemId": 100744,
+        "BlockLimits": [
+            {
+                "BlockId": 3004,
+                "Count": 10
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003069": {
+        "Id": 3003069,
+        "PointType": 9134,
+        "GadgetId": 70710298,
+        "ItemId": 100745,
+        "BlockLimits": [
+            {
+                "BlockId": 3002,
+                "Count": 10
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003070": {
+        "Id": 3003070,
+        "PointType": 9135,
+        "GadgetId": 71700209,
+        "ItemId": 100779,
+        "BlockLimits": [
+            {
+                "BlockId": 3004,
+                "Count": 10
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "InitDisableInteract": true,
+        "IsForbidGuest": true
+    },
+    "3003071": {
+        "Id": 3003071,
+        "PointType": 9136,
+        "GadgetId": 71700210,
+        "ItemId": 100780,
+        "BlockLimits": [
+            {
+                "BlockId": 3002,
+                "Count": 10
+            }
+        ],
+        "Cd": 10,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003083": {
+        "Id": 3003083,
+        "PointType": 9148,
+        "GadgetId": 71700222,
+        "ItemId": 100832,
+        "BlockLimits": [
+            {
+                "BlockId": 3220,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    },
+    "3003084": {
+        "Id": 3003084,
+        "PointType": 9149,
+        "GadgetId": 71700223,
+        "ItemId": 100833,
+        "BlockLimits": [
+            {
+                "BlockId": 3220,
+                "Count": 1
+            }
+        ],
+        "Cd": 1,
+        "Priority": 10,
+        "IsForbidGuest": true
+    }
+}

@@ -1,0 +1,642 @@
+{
+    "101": {
+        "Id": 101,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "102": {
+        "Id": 102,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "103": {
+        "Id": 103,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "104": {
+        "Id": 104,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "105": {
+        "Id": 105,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "106": {
+        "Id": 106,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "107": {
+        "Id": 107,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "108": {
+        "Id": 108,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "109": {
+        "Id": 109,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "110": {
+        "Id": 110,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "111": {
+        "Id": 111,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "112": {
+        "Id": 112,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "113": {
+        "Id": 113,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "114": {
+        "Id": 114,
+        "TagStr": "史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "115": {
+        "Id": 115,
+        "TagStr": "大史莱姆",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "201": {
+        "Id": 201,
+        "TagStr": "元素之核",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "401": {
+        "Id": 401,
+        "TagStr": "无相之雷",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "402": {
+        "Id": 402,
+        "TagStr": "无相之风",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "403": {
+        "Id": 403,
+        "TagStr": "无相之岩",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "405": {
+        "Id": 405,
+        "TagStr": "无相之冰",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "501": {
+        "Id": 501,
+        "TagStr": "纯水精灵",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "502": {
+        "Id": 502,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "503": {
+        "Id": 503,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "504": {
+        "Id": 504,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "505": {
+        "Id": 505,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "506": {
+        "Id": 506,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "507": {
+        "Id": 507,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "508": {
+        "Id": 508,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "509": {
+        "Id": 509,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "10101": {
+        "Id": 10101,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10102": {
+        "Id": 10102,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10103": {
+        "Id": 10103,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10104": {
+        "Id": 10104,
+        "TagStr": "远程丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10105": {
+        "Id": 10105,
+        "TagStr": "远程丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10106": {
+        "Id": 10106,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10107": {
+        "Id": 10107,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10108": {
+        "Id": 10108,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10109": {
+        "Id": 10109,
+        "TagStr": "远程丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10110": {
+        "Id": 10110,
+        "TagStr": "远程丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10111": {
+        "Id": 10111,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10112": {
+        "Id": 10112,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10113": {
+        "Id": 10113,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10114": {
+        "Id": 10114,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10115": {
+        "Id": 10115,
+        "TagStr": "丘丘人",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10201": {
+        "Id": 10201,
+        "TagStr": "丘丘暴徒",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "10202": {
+        "Id": 10202,
+        "TagStr": "丘丘暴徒",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "10203": {
+        "Id": 10203,
+        "TagStr": "丘丘暴徒",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "10204": {
+        "Id": 10204,
+        "TagStr": "丘丘岩盔王",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "10205": {
+        "Id": 10205,
+        "TagStr": "丘丘岩盔王",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "10206": {
+        "Id": 10206,
+        "TagStr": "丘丘暴徒",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "10301": {
+        "Id": 10301,
+        "TagStr": "丘丘萨满",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10302": {
+        "Id": 10302,
+        "TagStr": "丘丘萨满",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10303": {
+        "Id": 10303,
+        "TagStr": "丘丘萨满",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10304": {
+        "Id": 10304,
+        "TagStr": "丘丘萨满",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "10305": {
+        "Id": 10305,
+        "TagStr": "丘丘萨满",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "20101": {
+        "Id": 20101,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "20102": {
+        "Id": 20102,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "20103": {
+        "Id": 20103,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "20201": {
+        "Id": 20201,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "20301": {
+        "Id": 20301,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "30101": {
+        "Id": 30101,
+        "TagStr": "先遣队",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "30102": {
+        "Id": 30102,
+        "TagStr": "先遣队",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "30103": {
+        "Id": 30103,
+        "TagStr": "先遣队",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "30104": {
+        "Id": 30104,
+        "TagStr": "先遣队",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "30105": {
+        "Id": 30105,
+        "TagStr": "先遣队",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "30106": {
+        "Id": 30106,
+        "TagStr": "先遣队",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "30201": {
+        "Id": 30201,
+        "TagStr": "债务处理人",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "30301": {
+        "Id": 30301,
+        "TagStr": "召唤师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "30401": {
+        "Id": 30401,
+        "TagStr": "召唤师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "40101": {
+        "Id": 40101,
+        "TagStr": "遗迹守卫",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "40102": {
+        "Id": 40102,
+        "TagStr": "遗迹守卫",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "40103": {
+        "Id": 40103,
+        "TagStr": "遗迹重机",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "50101": {
+        "Id": 50101,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50102": {
+        "Id": 50102,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50103": {
+        "Id": 50103,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50104": {
+        "Id": 50104,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50105": {
+        "Id": 50105,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50106": {
+        "Id": 50106,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50107": {
+        "Id": 50107,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50201": {
+        "Id": 50201,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50202": {
+        "Id": 50202,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50301": {
+        "Id": 50301,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50302": {
+        "Id": 50302,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50303": {
+        "Id": 50303,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50401": {
+        "Id": 50401,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50501": {
+        "Id": 50501,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50502": {
+        "Id": 50502,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50601": {
+        "Id": 50601,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50701": {
+        "Id": 50701,
+        "TagStr": "盗宝团",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "50901": {
+        "Id": 50901,
+        "TagStr": "魔偶剑鬼",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60101": {
+        "Id": 60101,
+        "TagStr": "骗骗花",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "60102": {
+        "Id": 60102,
+        "TagStr": "骗骗花",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "60201": {
+        "Id": 60201,
+        "TagStr": "急冻树",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60202": {
+        "Id": 60202,
+        "TagStr": "爆炎树",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60301": {
+        "Id": 60301,
+        "TagStr": "幼岩龙蜥",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "60401": {
+        "Id": 60401,
+        "TagStr": "岩龙蜥",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    "60501": {
+        "Id": 60501,
+        "TagStr": "古岩龙蜥水",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60502": {
+        "Id": 60502,
+        "TagStr": "古岩龙蜥火",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60503": {
+        "Id": 60503,
+        "TagStr": "古岩龙蜥冰",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60504": {
+        "Id": 60504,
+        "TagStr": "古岩龙蜥电",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    "60601": {
+        "Id": 60601,
+        "TagStr": "雷萤",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "60602": {
+        "Id": 60602,
+        "TagStr": "雷萤",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "60603": {
+        "Id": 60603,
+        "TagStr": "雷萤",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
+    },
+    "80101": {
+        "Id": 80101,
+        "TagStr": "采集动物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80102": {
+        "Id": 80102,
+        "TagStr": "采集动物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80103": {
+        "Id": 80103,
+        "TagStr": "采集动物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80201": {
+        "Id": 80201,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80202": {
+        "Id": 80202,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80203": {
+        "Id": 80203,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80204": {
+        "Id": 80204,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80205": {
+        "Id": 80205,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80206": {
+        "Id": 80206,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80301": {
+        "Id": 80301,
+        "TagStr": "鸟类",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80302": {
+        "Id": 80302,
+        "TagStr": "鸟类",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80303": {
+        "Id": 80303,
+        "TagStr": "鸟类",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80304": {
+        "Id": 80304,
+        "TagStr": "鸟类",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80305": {
+        "Id": 80305,
+        "TagStr": "鸟类",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80401": {
+        "Id": 80401,
+        "TagStr": "水族",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80501": {
+        "Id": 80501,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "80502": {
+        "Id": 80502,
+        "TagStr": "魔法生物",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "82203": {
+        "Id": 82203,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "82204": {
+        "Id": 82204,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "82205": {
+        "Id": 82205,
+        "TagStr": "走兽",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "82301": {
+        "Id": 82301,
+        "TagStr": "鸟类",
+        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
+    },
+    "90101": {
+        "Id": 90101,
+        "TagStr": "风魔龙",
+        "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    },
+    "90201": {
+        "Id": 90201,
+        "TagStr": "北风狼",
+        "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    },
+    "90301": {
+        "Id": 90301,
+        "TagStr": "公子",
+        "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    },
+    "90401": {
+        "Id": 90401,
+        "TagStr": "若陀龙王火电",
+        "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
+    }
+}

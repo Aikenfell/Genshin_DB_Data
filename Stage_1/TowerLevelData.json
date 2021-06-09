@@ -1,0 +1,3207 @@
+{
+    "1": {
+        "LevelId": 1,
+        "LevelGroupId": 1,
+        "LevelIndex": 1,
+        "DungeonId": 3310,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    150
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    210
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621001,
+        "MonsterLevel": 24,
+        "FirstMonsterList": [
+            105,
+            106,
+            107
+        ],
+        "SecondMonsterList": []
+    },
+    "2": {
+        "LevelId": 2,
+        "LevelGroupId": 1,
+        "LevelIndex": 2,
+        "DungeonId": 3410,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    150
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    210
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "20:100,21:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621002,
+        "MonsterLevel": 24,
+        "FirstMonsterList": [
+            10102,
+            10103,
+            10104,
+            10106,
+            10201,
+            10202
+        ],
+        "SecondMonsterList": []
+    },
+    "3": {
+        "LevelId": 3,
+        "LevelGroupId": 1,
+        "LevelIndex": 3,
+        "DungeonId": 3510,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    150
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    210
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621003,
+        "MonsterLevel": 24,
+        "FirstMonsterList": [
+            10104,
+            10201,
+            106,
+            107,
+            30301
+        ],
+        "SecondMonsterList": []
+    },
+    "4": {
+        "LevelId": 4,
+        "LevelGroupId": 2,
+        "LevelIndex": 1,
+        "DungeonId": 3311,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    180
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621004,
+        "MonsterLevel": 39,
+        "FirstMonsterList": [
+            105,
+            106,
+            107
+        ],
+        "SecondMonsterList": []
+    },
+    "5": {
+        "LevelId": 5,
+        "LevelGroupId": 2,
+        "LevelIndex": 2,
+        "DungeonId": 3411,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234101003,
+                    3030,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234101003,
+                    3030,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234101003,
+                    3030,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "20:100,21:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621005,
+        "MonsterLevel": 39,
+        "FirstMonsterList": [
+            110,
+            111,
+            10202,
+            20103
+        ],
+        "SecondMonsterList": []
+    },
+    "6": {
+        "LevelId": 6,
+        "LevelGroupId": 2,
+        "LevelIndex": 3,
+        "DungeonId": 3511,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    180
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621006,
+        "MonsterLevel": 39,
+        "FirstMonsterList": [
+            10301,
+            10202,
+            20103
+        ],
+        "SecondMonsterList": []
+    },
+    "7": {
+        "LevelId": 7,
+        "LevelGroupId": 3,
+        "LevelIndex": 1,
+        "DungeonId": 3312,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    180
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621007,
+        "MonsterLevel": 44,
+        "FirstMonsterList": [
+            108,
+            112,
+            10105,
+            10109,
+            10103,
+            106,
+            109,
+            113
+        ],
+        "SecondMonsterList": []
+    },
+    "8": {
+        "LevelId": 8,
+        "LevelGroupId": 3,
+        "LevelIndex": 2,
+        "DungeonId": 3412,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    180
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "20:100,21:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621008,
+        "MonsterLevel": 44,
+        "FirstMonsterList": [
+            50103,
+            50104,
+            50105,
+            50106,
+            50302,
+            50601,
+            50701
+        ],
+        "SecondMonsterList": []
+    },
+    "9": {
+        "LevelId": 9,
+        "LevelGroupId": 3,
+        "LevelIndex": 3,
+        "DungeonId": 3512,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    120
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621009,
+        "MonsterLevel": 44,
+        "FirstMonsterList": [
+            10202,
+            40101
+        ],
+        "SecondMonsterList": []
+    },
+    "10": {
+        "LevelId": 10,
+        "LevelGroupId": 4,
+        "LevelIndex": 1,
+        "DungeonId": 3313,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    180
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621010,
+        "MonsterLevel": 49,
+        "FirstMonsterList": [
+            110,
+            111,
+            10102,
+            10109,
+            20103
+        ],
+        "SecondMonsterList": []
+    },
+    "11": {
+        "LevelId": 11,
+        "LevelGroupId": 4,
+        "LevelIndex": 2,
+        "DungeonId": 3413,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234103003,
+                    3024,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234103003,
+                    3024,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234103003,
+                    3024,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "20:100,21:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621011,
+        "MonsterLevel": 49,
+        "FirstMonsterList": [
+            110,
+            10102,
+            10109,
+            10107,
+            10202,
+            20103
+        ],
+        "SecondMonsterList": []
+    },
+    "12": {
+        "LevelId": 12,
+        "LevelGroupId": 4,
+        "LevelIndex": 3,
+        "DungeonId": 3513,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    1,
+                    120
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,23:100,24:100",
+            "25:100,28:100,29:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621012,
+        "MonsterLevel": 49,
+        "FirstMonsterList": [
+            10109,
+            10102,
+            10301,
+            10202,
+            20103
+        ],
+        "SecondMonsterList": []
+    },
+    "13": {
+        "LevelId": 13,
+        "LevelGroupId": 5,
+        "LevelIndex": 1,
+        "DungeonId": 3341,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100",
+            "16:100,35:100,36:100,17:100",
+            "6:100,7:100,18:100"
+        ],
+        "FirstPassRewardId": 621013,
+        "MonsterLevel": 54,
+        "FirstMonsterList": [
+            109,
+            10110,
+            108
+        ],
+        "SecondMonsterList": [
+            20101
+        ]
+    },
+    "14": {
+        "LevelId": 14,
+        "LevelGroupId": 5,
+        "LevelIndex": 2,
+        "DungeonId": 3441,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    240
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100",
+            "16:100,35:100,36:100,17:100",
+            "6:100,7:100,38:100,34:100"
+        ],
+        "FirstPassRewardId": 621014,
+        "MonsterLevel": 54,
+        "FirstMonsterList": [
+            50302,
+            50303,
+            50107,
+            50106,
+            50202
+        ],
+        "SecondMonsterList": [
+            50701,
+            50601,
+            50303,
+            50103,
+            50102
+        ]
+    },
+    "15": {
+        "LevelId": 15,
+        "LevelGroupId": 5,
+        "LevelIndex": 3,
+        "DungeonId": 3541,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100",
+            "16:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621015,
+        "MonsterLevel": 54,
+        "FirstMonsterList": [
+            30301,
+            50107
+        ],
+        "SecondMonsterList": [
+            30201,
+            50105
+        ]
+    },
+    "16": {
+        "LevelId": 16,
+        "LevelGroupId": 6,
+        "LevelIndex": 1,
+        "DungeonId": 3342,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    30
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621016,
+        "MonsterLevel": 59,
+        "FirstMonsterList": [
+            60101,
+            109,
+            10110,
+            10102,
+            108
+        ],
+        "SecondMonsterList": [
+            60102,
+            113,
+            10303,
+            10109,
+            10102,
+            112
+        ]
+    },
+    "17": {
+        "LevelId": 17,
+        "LevelGroupId": 6,
+        "LevelIndex": 2,
+        "DungeonId": 3442,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    90
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    270
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621017,
+        "MonsterLevel": 59,
+        "FirstMonsterList": [
+            20102,
+            10203,
+            10202,
+            10201,
+            10301,
+            10105,
+            10109,
+            10110,
+            10106,
+            10107,
+            10112,
+            10103
+        ],
+        "SecondMonsterList": [
+            10302,
+            10303,
+            113,
+            10105,
+            10109,
+            10110,
+            112
+        ]
+    },
+    "18": {
+        "LevelId": 18,
+        "LevelGroupId": 6,
+        "LevelIndex": 3,
+        "DungeonId": 3542,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    240
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    330
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621018,
+        "MonsterLevel": 59,
+        "FirstMonsterList": [
+            10205,
+            10109,
+            10110,
+            10304,
+            10112
+        ],
+        "SecondMonsterList": [
+            20101,
+            113
+        ]
+    },
+    "19": {
+        "LevelId": 19,
+        "LevelGroupId": 7,
+        "LevelIndex": 1,
+        "DungeonId": 3343,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,4:100,5:100,20:100,23:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621019,
+        "MonsterLevel": 64,
+        "FirstMonsterList": [
+            30101,
+            30102,
+            30103
+        ],
+        "SecondMonsterList": [
+            30101,
+            30106,
+            30105
+        ]
+    },
+    "20": {
+        "LevelId": 20,
+        "LevelGroupId": 7,
+        "LevelIndex": 2,
+        "DungeonId": 3443,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    390
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,4:100,5:100,20:100,23:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621020,
+        "MonsterLevel": 64,
+        "FirstMonsterList": [
+            30101,
+            30104,
+            30103
+        ],
+        "SecondMonsterList": [
+            30104,
+            30106,
+            30105
+        ]
+    },
+    "21": {
+        "LevelId": 21,
+        "LevelGroupId": 7,
+        "LevelIndex": 3,
+        "DungeonId": 3543,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    330
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    450
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,4:100,5:100,20:100,23:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621021,
+        "MonsterLevel": 64,
+        "FirstMonsterList": [
+            30102,
+            30103,
+            30105
+        ],
+        "SecondMonsterList": [
+            30106,
+            30103,
+            30105
+        ]
+    },
+    "22": {
+        "LevelId": 22,
+        "LevelGroupId": 8,
+        "LevelIndex": 1,
+        "DungeonId": 3344,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    330
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,28:100,32:100,36:100,17:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621022,
+        "MonsterLevel": 69,
+        "FirstMonsterList": [
+            20103,
+            20102
+        ],
+        "SecondMonsterList": [
+            20101
+        ]
+    },
+    "23": {
+        "LevelId": 23,
+        "LevelGroupId": 8,
+        "LevelIndex": 2,
+        "DungeonId": 3444,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    360
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,28:100,32:100,35:100,36:100",
+            "6:100,7:100,17:100,38:100"
+        ],
+        "FirstPassRewardId": 621023,
+        "MonsterLevel": 69,
+        "FirstMonsterList": [
+            40101,
+            10109,
+            10104,
+            10103,
+            10102
+        ],
+        "SecondMonsterList": [
+            40101,
+            10105,
+            10107,
+            10106
+        ]
+    },
+    "24": {
+        "LevelId": 24,
+        "LevelGroupId": 8,
+        "LevelIndex": 3,
+        "DungeonId": 3544,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,28:100,32:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621024,
+        "MonsterLevel": 69,
+        "FirstMonsterList": [
+            60201
+        ],
+        "SecondMonsterList": [
+            60202
+        ]
+    },
+    "25": {
+        "LevelId": 25,
+        "LevelGroupId": 9,
+        "LevelIndex": 1,
+        "DungeonId": 3371,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,20:100,23:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621025,
+        "MonsterLevel": 71,
+        "FirstMonsterList": [
+            113,
+            106,
+            107
+        ],
+        "SecondMonsterList": [
+            106,
+            107,
+            113
+        ]
+    },
+    "26": {
+        "LevelId": 26,
+        "LevelGroupId": 9,
+        "LevelIndex": 2,
+        "DungeonId": 3471,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,20:100,23:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621026,
+        "MonsterLevel": 73,
+        "FirstMonsterList": [
+            30301,
+            50303,
+            50105,
+            50103,
+            50106,
+            50102
+        ],
+        "SecondMonsterList": [
+            30101,
+            30103,
+            30104,
+            30105
+        ]
+    },
+    "27": {
+        "LevelId": 27,
+        "LevelGroupId": 9,
+        "LevelIndex": 3,
+        "DungeonId": 3571,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,20:100,23:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621027,
+        "MonsterLevel": 75,
+        "FirstMonsterList": [
+            60301,
+            10205
+        ],
+        "SecondMonsterList": [
+            40101
+        ]
+    },
+    "28": {
+        "LevelId": 28,
+        "LevelGroupId": 10,
+        "LevelIndex": 1,
+        "DungeonId": 3375,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100",
+            "16:100,25:100,28:100,29:100,32:100,36:100",
+            "31:100"
+        ],
+        "FirstPassRewardId": 621028,
+        "MonsterLevel": 79,
+        "FirstMonsterList": [
+            10202,
+            113,
+            10107
+        ],
+        "SecondMonsterList": [
+            20101,
+            10202
+        ]
+    },
+    "29": {
+        "LevelId": 29,
+        "LevelGroupId": 10,
+        "LevelIndex": 2,
+        "DungeonId": 3475,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100,27:100",
+            "16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621029,
+        "MonsterLevel": 81,
+        "FirstMonsterList": [
+            10202,
+            60102,
+            10106,
+            10102
+        ],
+        "SecondMonsterList": [
+            20101,
+            10202,
+            10105
+        ]
+    },
+    "30": {
+        "LevelId": 30,
+        "LevelGroupId": 10,
+        "LevelIndex": 3,
+        "DungeonId": 3575,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100,27:100",
+            "16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621030,
+        "MonsterLevel": 84,
+        "FirstMonsterList": [
+            30105,
+            30106
+        ],
+        "SecondMonsterList": [
+            20101,
+            10302,
+            10105,
+            60102
+        ]
+    },
+    "31": {
+        "LevelId": 31,
+        "LevelGroupId": 11,
+        "LevelIndex": 1,
+        "DungeonId": 3373,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621031,
+        "MonsterLevel": 87,
+        "FirstMonsterList": [
+            109,
+            106,
+            107,
+            10109,
+            10103
+        ],
+        "SecondMonsterList": [
+            30301,
+            20102,
+            10301,
+            10109,
+            10110
+        ]
+    },
+    "32": {
+        "LevelId": 32,
+        "LevelGroupId": 11,
+        "LevelIndex": 2,
+        "DungeonId": 3473,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234703002,
+                    2016,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234703002,
+                    2016,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234703002,
+                    2016,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621032,
+        "MonsterLevel": 89,
+        "FirstMonsterList": [
+            10202,
+            10203,
+            10106,
+            10112
+        ],
+        "SecondMonsterList": [
+            10202,
+            10203,
+            106,
+            107,
+            10110,
+            10109
+        ]
+    },
+    "33": {
+        "LevelId": 33,
+        "LevelGroupId": 11,
+        "LevelIndex": 3,
+        "DungeonId": 3573,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621033,
+        "MonsterLevel": 91,
+        "FirstMonsterList": [
+            30101,
+            30104,
+            30105
+        ],
+        "SecondMonsterList": [
+            30103,
+            30105,
+            30104
+        ]
+    },
+    "34": {
+        "LevelId": 34,
+        "LevelGroupId": 12,
+        "LevelIndex": 1,
+        "DungeonId": 3374,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,21:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621034,
+        "MonsterLevel": 94,
+        "FirstMonsterList": [
+            10201,
+            109,
+            60101
+        ],
+        "SecondMonsterList": [
+            20102,
+            109,
+            10109
+        ]
+    },
+    "35": {
+        "LevelId": 35,
+        "LevelGroupId": 12,
+        "LevelIndex": 2,
+        "DungeonId": 3474,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234704003,
+                    3024,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234704003,
+                    3024,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234704003,
+                    3024,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,21:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621035,
+        "MonsterLevel": 97,
+        "FirstMonsterList": [
+            60101,
+            10105,
+            10109
+        ],
+        "SecondMonsterList": [
+            20102,
+            10201,
+            109,
+            10109,
+            10110,
+            10105
+        ]
+    },
+    "36": {
+        "LevelId": 36,
+        "LevelGroupId": 12,
+        "LevelIndex": 3,
+        "DungeonId": 3574,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,21:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621036,
+        "MonsterLevel": 99,
+        "FirstMonsterList": [
+            30101,
+            30103,
+            30105
+        ],
+        "SecondMonsterList": [
+            30101,
+            30103,
+            30105,
+            30104
+        ]
+    },
+    "37": {
+        "LevelId": 37,
+        "LevelGroupId": 13,
+        "LevelIndex": 1,
+        "DungeonId": 3376,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,20:100,23:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621025,
+        "MonsterLevel": 71,
+        "FirstMonsterList": [
+            10206,
+            10114,
+            109
+        ],
+        "SecondMonsterList": [
+            20102,
+            10206,
+            10305,
+            10109
+        ]
+    },
+    "38": {
+        "LevelId": 38,
+        "LevelGroupId": 13,
+        "LevelIndex": 2,
+        "DungeonId": 3476,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,20:100,23:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621026,
+        "MonsterLevel": 73,
+        "FirstMonsterList": [
+            10206,
+            10114,
+            10113,
+            109
+        ],
+        "SecondMonsterList": [
+            30101,
+            30103,
+            30105
+        ]
+    },
+    "39": {
+        "LevelId": 39,
+        "LevelGroupId": 13,
+        "LevelIndex": 3,
+        "DungeonId": 3576,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "4:100,20:100,23:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621027,
+        "MonsterLevel": 75,
+        "FirstMonsterList": [
+            10204,
+            10109
+        ],
+        "SecondMonsterList": [
+            20102,
+            10206
+        ]
+    },
+    "40": {
+        "LevelId": 40,
+        "LevelGroupId": 14,
+        "LevelIndex": 1,
+        "DungeonId": 3377,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100",
+            "16:100,25:100,28:100,29:100,32:100,36:100",
+            "31:100"
+        ],
+        "FirstPassRewardId": 621028,
+        "MonsterLevel": 79,
+        "FirstMonsterList": [
+            20102,
+            10113,
+            109
+        ],
+        "SecondMonsterList": [
+            30301,
+            20102,
+            10301
+        ]
+    },
+    "41": {
+        "LevelId": 41,
+        "LevelGroupId": 14,
+        "LevelIndex": 2,
+        "DungeonId": 3477,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100,27:100",
+            "16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621029,
+        "MonsterLevel": 81,
+        "FirstMonsterList": [
+            10206,
+            10114,
+            10113
+        ],
+        "SecondMonsterList": [
+            30401,
+            50105,
+            50106
+        ]
+    },
+    "42": {
+        "LevelId": 42,
+        "LevelGroupId": 14,
+        "LevelIndex": 3,
+        "DungeonId": 3577,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,24:100,27:100",
+            "16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621030,
+        "MonsterLevel": 84,
+        "FirstMonsterList": [
+            30401,
+            30201
+        ],
+        "SecondMonsterList": [
+            10204
+        ]
+    },
+    "43": {
+        "LevelId": 43,
+        "LevelGroupId": 15,
+        "LevelIndex": 1,
+        "DungeonId": 3379,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,21:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621031,
+        "MonsterLevel": 87,
+        "FirstMonsterList": [
+            20103,
+            106,
+            107,
+            111
+        ],
+        "SecondMonsterList": [
+            10203,
+            10202
+        ]
+    },
+    "44": {
+        "LevelId": 44,
+        "LevelGroupId": 15,
+        "LevelIndex": 2,
+        "DungeonId": 3479,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234709003,
+                    3024,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234709003,
+                    3024,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    234709003,
+                    3024,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,21:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621032,
+        "MonsterLevel": 89,
+        "FirstMonsterList": [
+            10201,
+            10202,
+            10112,
+            10107,
+            10110,
+            10105
+        ],
+        "SecondMonsterList": [
+            30301,
+            30201,
+            50302,
+            50601,
+            50701,
+            50103,
+            50104
+        ]
+    },
+    "45": {
+        "LevelId": 45,
+        "LevelGroupId": 15,
+        "LevelIndex": 3,
+        "DungeonId": 3579,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,21:100,24:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621033,
+        "MonsterLevel": 91,
+        "FirstMonsterList": [
+            30105,
+            30103,
+            30104,
+            30102
+        ],
+        "SecondMonsterList": [
+            30201,
+            30301
+        ]
+    },
+    "46": {
+        "LevelId": 46,
+        "LevelGroupId": 16,
+        "LevelIndex": 1,
+        "DungeonId": 3378,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621034,
+        "MonsterLevel": 94,
+        "FirstMonsterList": [
+            10203,
+            10202,
+            10112
+        ],
+        "SecondMonsterList": [
+            40101,
+            201
+        ]
+    },
+    "47": {
+        "LevelId": 47,
+        "LevelGroupId": 16,
+        "LevelIndex": 2,
+        "DungeonId": 3478,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621035,
+        "MonsterLevel": 97,
+        "FirstMonsterList": [
+            50302,
+            50303,
+            50107,
+            50601,
+            50701
+        ],
+        "SecondMonsterList": [
+            30201
+        ]
+    },
+    "48": {
+        "LevelId": 48,
+        "LevelGroupId": 16,
+        "LevelIndex": 3,
+        "DungeonId": 3578,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621036,
+        "MonsterLevel": 99,
+        "FirstMonsterList": [
+            30301,
+            10203,
+            50103,
+            50106
+        ],
+        "SecondMonsterList": [
+            30201,
+            10203
+        ]
+    },
+    "49": {
+        "LevelId": 49,
+        "LevelGroupId": 17,
+        "LevelIndex": 1,
+        "DungeonId": 3380,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621034,
+        "MonsterLevel": 94,
+        "FirstMonsterList": [
+            60401
+        ],
+        "SecondMonsterList": [
+            60401
+        ]
+    },
+    "50": {
+        "LevelId": 50,
+        "LevelGroupId": 17,
+        "LevelIndex": 2,
+        "DungeonId": 3480,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621035,
+        "MonsterLevel": 97,
+        "FirstMonsterList": [
+            30301,
+            30401
+        ],
+        "SecondMonsterList": [
+            30201,
+            50302
+        ]
+    },
+    "51": {
+        "LevelId": 51,
+        "LevelGroupId": 17,
+        "LevelIndex": 3,
+        "DungeonId": 3580,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621036,
+        "MonsterLevel": 99,
+        "FirstMonsterList": [
+            40101
+        ],
+        "SecondMonsterList": [
+            40103
+        ]
+    },
+    "52": {
+        "LevelId": 52,
+        "LevelGroupId": 18,
+        "LevelIndex": 1,
+        "DungeonId": 3381,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    233711003,
+                    3024,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    233711003,
+                    3024,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    233711003,
+                    3024,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621034,
+        "MonsterLevel": 87,
+        "FirstMonsterList": [
+            50701,
+            50601,
+            50202
+        ],
+        "SecondMonsterList": [
+            50302,
+            50303,
+            50107,
+            50103,
+            50104,
+            50105,
+            50106
+        ]
+    },
+    "53": {
+        "LevelId": 53,
+        "LevelGroupId": 18,
+        "LevelIndex": 2,
+        "DungeonId": 3481,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    120
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    240
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    360
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621035,
+        "MonsterLevel": 89,
+        "FirstMonsterList": [
+            30103,
+            30102,
+            30105
+        ],
+        "SecondMonsterList": [
+            30103,
+            30102,
+            30104
+        ]
+    },
+    "54": {
+        "LevelId": 54,
+        "LevelGroupId": 18,
+        "LevelIndex": 3,
+        "DungeonId": 3581,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621036,
+        "MonsterLevel": 91,
+        "FirstMonsterList": [
+            30301,
+            30401
+        ],
+        "SecondMonsterList": [
+            20201
+        ]
+    },
+    "55": {
+        "LevelId": 55,
+        "LevelGroupId": 19,
+        "LevelIndex": 1,
+        "DungeonId": 3382,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,36:100,17:100",
+            "6:100,7:100,18:100,35:100"
+        ],
+        "FirstPassRewardId": 621034,
+        "MonsterLevel": 94,
+        "FirstMonsterList": [
+            60401,
+            60102
+        ],
+        "SecondMonsterList": [
+            60401,
+            60101
+        ]
+    },
+    "56": {
+        "LevelId": 56,
+        "LevelGroupId": 19,
+        "LevelIndex": 2,
+        "DungeonId": 3482,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100",
+            "6:100,7:100,17:100,38:100,31:100,34:100"
+        ],
+        "FirstPassRewardId": 621035,
+        "MonsterLevel": 97,
+        "FirstMonsterList": [
+            50302,
+            50303,
+            50601,
+            50701,
+            50103,
+            50104,
+            50105,
+            60601,
+            60602,
+            60603
+        ],
+        "SecondMonsterList": [
+            20101,
+            20103,
+            502,
+            503,
+            504,
+            506,
+            507
+        ]
+    },
+    "57": {
+        "LevelId": 57,
+        "LevelGroupId": 19,
+        "LevelIndex": 3,
+        "DungeonId": 3582,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,3:100,21:100,27:100",
+            "15:100,16:100,25:100,28:100,29:100,32:100,35:100,36:100,17:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621036,
+        "MonsterLevel": 99,
+        "FirstMonsterList": [
+            20301
+        ],
+        "SecondMonsterList": [
+            30201,
+            30301,
+            30401
+        ]
+    },
+    "58": {
+        "LevelId": 58,
+        "LevelGroupId": 20,
+        "LevelIndex": 1,
+        "DungeonId": 3383,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "10:100,15:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,31:100"
+        ],
+        "FirstPassRewardId": 621025,
+        "MonsterLevel": 71,
+        "FirstMonsterList": [
+            10206,
+            10114,
+            60101
+        ],
+        "SecondMonsterList": [
+            20102,
+            10206,
+            10305,
+            10109,
+            10110
+        ]
+    },
+    "59": {
+        "LevelId": 59,
+        "LevelGroupId": 20,
+        "LevelIndex": 2,
+        "DungeonId": 3483,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "10:100,15:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,34:100"
+        ],
+        "FirstPassRewardId": 621026,
+        "MonsterLevel": 73,
+        "FirstMonsterList": [
+            10206,
+            10114,
+            10113,
+            60101
+        ],
+        "SecondMonsterList": [
+            30101,
+            30102,
+            30104,
+            30105
+        ]
+    },
+    "60": {
+        "LevelId": 60,
+        "LevelGroupId": 20,
+        "LevelIndex": 3,
+        "DungeonId": 3583,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "10:100,15:100,28:100,29:100,35:100,38:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621027,
+        "MonsterLevel": 75,
+        "FirstMonsterList": [
+            10204,
+            10305,
+            10109,
+            10110
+        ],
+        "SecondMonsterList": [
+            20102,
+            20103,
+            10206
+        ]
+    },
+    "61": {
+        "LevelId": 61,
+        "LevelGroupId": 21,
+        "LevelIndex": 1,
+        "DungeonId": 3384,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "10:100,15:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,31:100"
+        ],
+        "FirstPassRewardId": 621028,
+        "MonsterLevel": 79,
+        "FirstMonsterList": [
+            20103,
+            60101,
+            10113,
+            109,
+            111
+        ],
+        "SecondMonsterList": [
+            20201,
+            20102
+        ]
+    },
+    "62": {
+        "LevelId": 62,
+        "LevelGroupId": 21,
+        "LevelIndex": 2,
+        "DungeonId": 3484,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "10:100,15:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,34:100"
+        ],
+        "FirstPassRewardId": 621029,
+        "MonsterLevel": 81,
+        "FirstMonsterList": [
+            10206,
+            10114,
+            10113,
+            10303,
+            10301
+        ],
+        "SecondMonsterList": [
+            20301,
+            20102
+        ]
+    },
+    "63": {
+        "LevelId": 63,
+        "LevelGroupId": 21,
+        "LevelIndex": 3,
+        "DungeonId": 3584,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "10:100,15:100,28:100,29:100,35:100,38:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621030,
+        "MonsterLevel": 84,
+        "FirstMonsterList": [
+            405
+        ],
+        "SecondMonsterList": [
+            10204,
+            20103
+        ]
+    },
+    "64": {
+        "LevelId": 64,
+        "LevelGroupId": 22,
+        "LevelIndex": 1,
+        "DungeonId": 3385,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    233715003,
+                    3024,
+                    20
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    233715003,
+                    3024,
+                    40
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN",
+                "ArgumentList": [
+                    233715003,
+                    3024,
+                    60
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,31:100"
+        ],
+        "FirstPassRewardId": 621031,
+        "MonsterLevel": 87,
+        "FirstMonsterList": [
+            10202,
+            10201,
+            10107,
+            10103,
+            10105,
+            10109,
+            10110
+        ],
+        "SecondMonsterList": [
+            10205,
+            10112,
+            10113,
+            10106
+        ]
+    },
+    "65": {
+        "LevelId": 65,
+        "LevelGroupId": 22,
+        "LevelIndex": 2,
+        "DungeonId": 3485,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    60
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,34:100"
+        ],
+        "FirstPassRewardId": 621032,
+        "MonsterLevel": 89,
+        "FirstMonsterList": [
+            30106,
+            30103,
+            30105
+        ],
+        "SecondMonsterList": [
+            30101,
+            30102,
+            30104
+        ]
+    },
+    "66": {
+        "LevelId": 66,
+        "LevelGroupId": 22,
+        "LevelIndex": 3,
+        "DungeonId": 3585,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621033,
+        "MonsterLevel": 91,
+        "FirstMonsterList": [
+            40102,
+            40101
+        ],
+        "SecondMonsterList": [
+            20301,
+            20201
+        ]
+    },
+    "67": {
+        "LevelId": 67,
+        "LevelGroupId": 23,
+        "LevelIndex": 1,
+        "DungeonId": 3386,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,34:100"
+        ],
+        "FirstPassRewardId": 621034,
+        "MonsterLevel": 94,
+        "FirstMonsterList": [
+            60401
+        ],
+        "SecondMonsterList": [
+            60401
+        ]
+    },
+    "68": {
+        "LevelId": 68,
+        "LevelGroupId": 23,
+        "LevelIndex": 2,
+        "DungeonId": 3486,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+            "7:100,22:100,34:100"
+        ],
+        "FirstPassRewardId": 621035,
+        "MonsterLevel": 97,
+        "FirstMonsterList": [
+            30401,
+            50303,
+            50302,
+            50601,
+            50701,
+            50103,
+            50104,
+            50105,
+            50106
+        ],
+        "SecondMonsterList": [
+            10205,
+            60301
+        ]
+    },
+    "69": {
+        "LevelId": 69,
+        "LevelGroupId": 23,
+        "LevelIndex": 3,
+        "DungeonId": 3586,
+        "Param": [
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    180
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    300
+                ]
+            },
+            {
+                "TowerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN",
+                "ArgumentList": [
+                    2,
+                    420
+                ]
+            }
+        ],
+        "TowerBuffConfigStrList": [
+            "1:100,2:100,4:100,5:100,20:100,23:100",
+            "15:100,25:100,26:100,28:100,29:100,35:100,38:100",
+            "19:100"
+        ],
+        "FirstPassRewardId": 621036,
+        "MonsterLevel": 99,
+        "FirstMonsterList": [
+            20301,
+            20101,
+            20103
+        ],
+        "SecondMonsterList": [
+            20201,
+            20101,
+            20102
+        ]
+    }
+}

@@ -1,0 +1,1766 @@
+{
+    "21010101": {
+        "Name": 2823299104,
+        "DescID": 10101,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21020101": {
+        "Name": 2998946096,
+        "DescID": 10201,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020201": {
+        "Name": 2414837496,
+        "DescID": 10202,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020202": {
+        "Name": 2414837496,
+        "DescID": 10202,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020301": {
+        "Name": 1611076776,
+        "DescID": 10203,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020401": {
+        "Name": 3926747992,
+        "DescID": 10204,
+        "Icon": "UI_MonsterIcon_Brute_Ice_01",
+        "Type": "Monster"
+    },
+    "21020501": {
+        "Name": 1204583624,
+        "DescID": 10205,
+        "Icon": "UI_MonsterIcon_Brute_Rock_None",
+        "Type": "Monster"
+    },
+    "21020601": {
+        "Name": 3749655912,
+        "DescID": 10206,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "20010101": {
+        "Name": 2173510696,
+        "DescID": 101,
+        "Icon": "UI_MonsterIcon_Slime_Grass_02",
+        "Type": "Monster"
+    },
+    "20010201": {
+        "Name": 220962224,
+        "DescID": 102,
+        "Icon": "UI_MonsterIcon_Slime_Grass_03",
+        "Type": "Monster"
+    },
+    "20010202": {
+        "Name": 220962224,
+        "DescID": 102,
+        "Icon": "UI_MonsterIcon_Slime_Grass_03",
+        "Type": "Monster"
+    },
+    "20010301": {
+        "Name": 1511587408,
+        "DescID": 103,
+        "Icon": "UI_MonsterIcon_Slime_Wind_02",
+        "Type": "Monster"
+    },
+    "20010401": {
+        "Name": 1527751472,
+        "DescID": 104,
+        "Icon": "UI_MonsterIcon_Slime_Wind_03",
+        "Type": "Monster"
+    },
+    "20010403": {
+        "Name": 1527751472,
+        "DescID": 104,
+        "Icon": "UI_MonsterIcon_Slime_Wind_03",
+        "Type": "Monster"
+    },
+    "29010101": {
+        "Name": 390703016,
+        "DescID": 90101,
+        "Icon": "UI_MonsterIcon_Dvalin",
+        "Type": "Monster"
+    },
+    "29010102": {
+        "Name": 390703016,
+        "DescID": 90101,
+        "Icon": "UI_MonsterIcon_Dvalin",
+        "Type": "Monster"
+    },
+    "29010103": {
+        "Name": 390703016,
+        "DescID": 90101,
+        "Icon": "UI_MonsterIcon_Dvalin",
+        "Type": "Monster"
+    },
+    "29010104": {
+        "Name": 390703016,
+        "DescID": 90101,
+        "Icon": "UI_MonsterIcon_Dvalin",
+        "Type": "Monster"
+    },
+    "29020101": {
+        "Name": 1869267944,
+        "DescID": 90201,
+        "Icon": "UI_MonsterIcon_LupiBoreas",
+        "Type": "Monster"
+    },
+    "29020102": {
+        "Name": 1869267944,
+        "DescID": 90201,
+        "Icon": "UI_MonsterIcon_LupiBoreas",
+        "Type": "Monster"
+    },
+    "29030101": {
+        "Name": 901182329,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Monster_Tartaglia",
+        "Type": "Animal"
+    },
+    "29030102": {
+        "Name": 2270475073,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Monster_Tartaglia_EvilEye",
+        "Type": "Animal"
+    },
+    "29030103": {
+        "Name": 2530909488,
+        "DescID": 90301,
+        "Icon": "UI_MonsterIcon_Tartaglia",
+        "Type": "Monster"
+    },
+    "29030104": {
+        "Name": 1267133425,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Monster_Tartaglia",
+        "Type": "Animal"
+    },
+    "29030105": {
+        "Name": 94768249,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Monster_Tartaglia_EvilEye",
+        "Type": "Animal"
+    },
+    "29030106": {
+        "Name": 2530909488,
+        "DescID": 90301,
+        "Icon": "UI_MonsterIcon_Tartaglia",
+        "Type": "Monster"
+    },
+    "29040101": {
+        "Name": 3423290768,
+        "DescID": 90401,
+        "Icon": "UI_MonsterIcon_Dahaka",
+        "Type": "Monster"
+    },
+    "29040102": {
+        "Name": 3423290768,
+        "DescID": 90401,
+        "Icon": "UI_MonsterIcon_Dahaka",
+        "Type": "Monster"
+    },
+    "29040103": {
+        "Name": 3423290768,
+        "DescID": 90401,
+        "Icon": "UI_MonsterIcon_Dahaka",
+        "Type": "Monster"
+    },
+    "29040104": {
+        "Name": 3423290768,
+        "DescID": 90401,
+        "Icon": "UI_MonsterIcon_Dahaka",
+        "Type": "Monster"
+    },
+    "29040111": {
+        "Name": 3423290768,
+        "DescID": 90401,
+        "Icon": "UI_MonsterIcon_Dahaka",
+        "Type": "Monster"
+    },
+    "20020101": {
+        "Name": 352893312,
+        "DescID": 201,
+        "Icon": "UI_MonsterIcon_Elemental_Wind_01",
+        "Type": "Monster"
+    },
+    "20040101": {
+        "Name": 2576416432,
+        "DescID": 401,
+        "Icon": "UI_MonsterIcon_Effigy_Electric",
+        "Type": "Monster"
+    },
+    "20040102": {
+        "Name": 2576416432,
+        "DescID": 401,
+        "Icon": "UI_MonsterIcon_Effigy_Electric",
+        "Type": "Monster"
+    },
+    "20040201": {
+        "Name": 1388893264,
+        "DescID": 402,
+        "Icon": "UI_MonsterIcon_Effigy_Wind",
+        "Type": "Monster"
+    },
+    "20040202": {
+        "Name": 1388893264,
+        "DescID": 402,
+        "Icon": "UI_MonsterIcon_Effigy_Wind",
+        "Type": "Monster"
+    },
+    "20040301": {
+        "Name": 1590609280,
+        "DescID": 403,
+        "Icon": "UI_MonsterIcon_Effigy_Rock",
+        "Type": "Monster"
+    },
+    "20040302": {
+        "Name": 1590609280,
+        "DescID": 403,
+        "Icon": "UI_MonsterIcon_Effigy_Rock",
+        "Type": "Monster"
+    },
+    "20040501": {
+        "Name": 937574560,
+        "DescID": 405,
+        "Icon": "UI_MonsterIcon_Effigy_Ice",
+        "Type": "Monster"
+    },
+    "20010501": {
+        "Name": 960731328,
+        "DescID": 105,
+        "Icon": "UI_MonsterIcon_Slime_Electric_02",
+        "Type": "Monster"
+    },
+    "20010601": {
+        "Name": 2835495304,
+        "DescID": 106,
+        "Icon": "UI_MonsterIcon_Slime_Electric_03",
+        "Type": "Monster"
+    },
+    "20010604": {
+        "Name": 2835495304,
+        "DescID": 106,
+        "Icon": "UI_MonsterIcon_Slime_Electric_03",
+        "Type": "Monster"
+    },
+    "20010701": {
+        "Name": 3389920104,
+        "DescID": 107,
+        "Icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
+        "Type": "Monster"
+    },
+    "20010702": {
+        "Name": 3389920104,
+        "DescID": 107,
+        "Icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
+        "Type": "Monster"
+    },
+    "20010801": {
+        "Name": 678013664,
+        "DescID": 108,
+        "Icon": "UI_MonsterIcon_Slime_Ice_02",
+        "Type": "Monster"
+    },
+    "20010802": {
+        "Name": 678013664,
+        "DescID": 108,
+        "Icon": "UI_MonsterIcon_Slime_Ice_02",
+        "Type": "Monster"
+    },
+    "20010901": {
+        "Name": 2368926680,
+        "DescID": 109,
+        "Icon": "UI_MonsterIcon_Slime_Ice_03",
+        "Type": "Monster"
+    },
+    "20010902": {
+        "Name": 2368926680,
+        "DescID": 109,
+        "Icon": "UI_MonsterIcon_Slime_Ice_03",
+        "Type": "Monster"
+    },
+    "20010904": {
+        "Name": 2368926680,
+        "DescID": 109,
+        "Icon": "UI_MonsterIcon_Slime_Ice_03",
+        "Type": "Monster"
+    },
+    "20011001": {
+        "Name": 1266302080,
+        "DescID": 110,
+        "Icon": "UI_MonsterIcon_Slime_Water_02",
+        "Type": "Monster"
+    },
+    "20011101": {
+        "Name": 1883787496,
+        "DescID": 111,
+        "Icon": "UI_MonsterIcon_Slime_Water_03",
+        "Type": "Monster"
+    },
+    "20011103": {
+        "Name": 1883787496,
+        "DescID": 111,
+        "Icon": "UI_MonsterIcon_Slime_Water_03",
+        "Type": "Monster"
+    },
+    "20050101": {
+        "Name": 1194478280,
+        "DescID": 501,
+        "Icon": "UI_MonsterIcon_Oceanid",
+        "Type": "Monster"
+    },
+    "20050102": {
+        "Name": 1194478280,
+        "DescID": 501,
+        "Icon": "UI_MonsterIcon_Oceanid",
+        "Type": "Monster"
+    },
+    "20050201": {
+        "Name": 3750306112,
+        "DescID": 502,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050202": {
+        "Name": 3750306112,
+        "DescID": 502,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050301": {
+        "Name": 1411333056,
+        "DescID": 503,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050401": {
+        "Name": 3859189664,
+        "DescID": 504,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050402": {
+        "Name": 3859189664,
+        "DescID": 504,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050501": {
+        "Name": 1517871784,
+        "DescID": 505,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050601": {
+        "Name": 2454508744,
+        "DescID": 506,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050602": {
+        "Name": 2454508744,
+        "DescID": 506,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050701": {
+        "Name": 2695145104,
+        "DescID": 507,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050702": {
+        "Name": 2695145104,
+        "DescID": 507,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050801": {
+        "Name": 2270056128,
+        "DescID": 508,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "20050901": {
+        "Name": 1727202056,
+        "DescID": 509,
+        "Icon": "UI_MonsterIcon_Oceanid_Underling",
+        "Type": "Monster"
+    },
+    "21010201": {
+        "Name": 1502883680,
+        "DescID": 10102,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21010301": {
+        "Name": 2491960152,
+        "DescID": 10103,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21010401": {
+        "Name": 3261111696,
+        "DescID": 10104,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21010402": {
+        "Name": 3261111696,
+        "DescID": 10104,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21010501": {
+        "Name": 41061376,
+        "DescID": 10105,
+        "Icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "Type": "Monster"
+    },
+    "21010502": {
+        "Name": 41061376,
+        "DescID": 10105,
+        "Icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "Type": "Monster"
+    },
+    "21010601": {
+        "Name": 4024598056,
+        "DescID": 10106,
+        "Icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "Type": "Monster"
+    },
+    "21010603": {
+        "Name": 4024598056,
+        "DescID": 10106,
+        "Icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "Type": "Monster"
+    },
+    "21010701": {
+        "Name": 3251673344,
+        "DescID": 10107,
+        "Icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "Type": "Monster"
+    },
+    "21010901": {
+        "Name": 2598026680,
+        "DescID": 10109,
+        "Icon": "UI_MonsterIcon_Hili_Ice_Range",
+        "Type": "Monster"
+    },
+    "21010902": {
+        "Name": 2598026680,
+        "DescID": 10109,
+        "Icon": "UI_MonsterIcon_Hili_Ice_Range",
+        "Type": "Monster"
+    },
+    "21011001": {
+        "Name": 2963928784,
+        "DescID": 10110,
+        "Icon": "UI_MonsterIcon_Hili_Electric_Range",
+        "Type": "Monster"
+    },
+    "21011002": {
+        "Name": 2963928784,
+        "DescID": 10110,
+        "Icon": "UI_MonsterIcon_Hili_Electric_Range",
+        "Type": "Monster"
+    },
+    "21011201": {
+        "Name": 1779087448,
+        "DescID": 10112,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21011301": {
+        "Name": 2456790112,
+        "DescID": 10113,
+        "Icon": "UI_MonsterIcon_Hili_Ice_Range",
+        "Type": "Monster"
+    },
+    "21011401": {
+        "Name": 3034104928,
+        "DescID": 10114,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21011501": {
+        "Name": 1868726720,
+        "DescID": 10115,
+        "Icon": "UI_MonsterIcon_Hili_Wei",
+        "Type": "Monster"
+    },
+    "20011201": {
+        "Name": 3113209704,
+        "DescID": 112,
+        "Icon": "UI_MonsterIcon_Slime_Fire_02",
+        "Type": "Monster"
+    },
+    "20011202": {
+        "Name": 3113209704,
+        "DescID": 112,
+        "Icon": "UI_MonsterIcon_Slime_Fire_02",
+        "Type": "Monster"
+    },
+    "20011301": {
+        "Name": 3104668424,
+        "DescID": 113,
+        "Icon": "UI_MonsterIcon_Slime_Fire_03",
+        "Type": "Monster"
+    },
+    "20011304": {
+        "Name": 3104668424,
+        "DescID": 113,
+        "Icon": "UI_MonsterIcon_Slime_Fire_03",
+        "Type": "Monster"
+    },
+    "20011401": {
+        "Name": 1304425088,
+        "DescID": 114,
+        "Icon": "UI_MonsterIcon_Slime_Rock_02",
+        "Type": "Monster"
+    },
+    "20011501": {
+        "Name": 2254956112,
+        "DescID": 115,
+        "Icon": "UI_MonsterIcon_Slime_Rock_03",
+        "Type": "Monster"
+    },
+    "20011502": {
+        "Name": 2254956112,
+        "DescID": 115,
+        "Icon": "UI_MonsterIcon_Slime_Rock_03",
+        "Type": "Monster"
+    },
+    "22010101": {
+        "Name": 2415438104,
+        "DescID": 20101,
+        "Icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "Type": "Monster"
+    },
+    "22010102": {
+        "Name": 2415438104,
+        "DescID": 20101,
+        "Icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "Type": "Monster"
+    },
+    "22010103": {
+        "Name": 2415438104,
+        "DescID": 20101,
+        "Icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "Type": "Monster"
+    },
+    "22010104": {
+        "Name": 2415438104,
+        "DescID": 20101,
+        "Icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "Type": "Monster"
+    },
+    "22010201": {
+        "Name": 1321463096,
+        "DescID": 20102,
+        "Icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "Type": "Monster"
+    },
+    "22010202": {
+        "Name": 1321463096,
+        "DescID": 20102,
+        "Icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "Type": "Monster"
+    },
+    "22010203": {
+        "Name": 1321463096,
+        "DescID": 20102,
+        "Icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "Type": "Monster"
+    },
+    "22010204": {
+        "Name": 1321463096,
+        "DescID": 20102,
+        "Icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "Type": "Monster"
+    },
+    "22010301": {
+        "Name": 2267848368,
+        "DescID": 20103,
+        "Icon": "UI_MonsterIcon_Abyss_Water_01",
+        "Type": "Monster"
+    },
+    "22010302": {
+        "Name": 2267848368,
+        "DescID": 20103,
+        "Icon": "UI_MonsterIcon_Abyss_Water_01",
+        "Type": "Monster"
+    },
+    "22010303": {
+        "Name": 2267848368,
+        "DescID": 20103,
+        "Icon": "UI_MonsterIcon_Abyss_Water_01",
+        "Type": "Monster"
+    },
+    "22010304": {
+        "Name": 2267848368,
+        "DescID": 20103,
+        "Icon": "UI_MonsterIcon_Abyss_Water_01",
+        "Type": "Monster"
+    },
+    "22020101": {
+        "Name": 2159496136,
+        "DescID": 20201,
+        "Icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
+        "Type": "Monster"
+    },
+    "22020102": {
+        "Name": 2159496136,
+        "DescID": 20201,
+        "Icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
+        "Type": "Monster"
+    },
+    "22030101": {
+        "Name": 626343048,
+        "DescID": 20301,
+        "Icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01",
+        "Type": "Monster"
+    },
+    "22030102": {
+        "Name": 626343048,
+        "DescID": 20301,
+        "Icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01",
+        "Type": "Monster"
+    },
+    "21030101": {
+        "Name": 1980056728,
+        "DescID": 10301,
+        "Icon": "UI_MonsterIcon_Shaman_Water_01",
+        "Type": "Monster"
+    },
+    "21030103": {
+        "Name": 1980056728,
+        "DescID": 10301,
+        "Icon": "UI_MonsterIcon_Shaman_Water_01",
+        "Type": "Monster"
+    },
+    "21030201": {
+        "Name": 1473826984,
+        "DescID": 10302,
+        "Icon": "UI_MonsterIcon_Shaman_Grass_01",
+        "Type": "Monster"
+    },
+    "21030203": {
+        "Name": 1473826984,
+        "DescID": 10302,
+        "Icon": "UI_MonsterIcon_Shaman_Grass_01",
+        "Type": "Monster"
+    },
+    "21030301": {
+        "Name": 10553112,
+        "DescID": 10303,
+        "Icon": "UI_MonsterIcon_Shaman_Wind_01",
+        "Type": "Monster"
+    },
+    "21030303": {
+        "Name": 10553112,
+        "DescID": 10303,
+        "Icon": "UI_MonsterIcon_Shaman_Wind_01",
+        "Type": "Monster"
+    },
+    "21030304": {
+        "Name": 10553112,
+        "DescID": 10303,
+        "Icon": "UI_MonsterIcon_Shaman_Wind_01",
+        "Type": "Monster"
+    },
+    "21030401": {
+        "Name": 3338079384,
+        "DescID": 10304,
+        "Icon": "UI_MonsterIcon_Shaman_Rock_01",
+        "Type": "Monster"
+    },
+    "21030402": {
+        "Name": 3338079384,
+        "DescID": 10304,
+        "Icon": "UI_MonsterIcon_Shaman_Rock_01",
+        "Type": "Monster"
+    },
+    "21030501": {
+        "Name": 1785924728,
+        "DescID": 10305,
+        "Icon": "UI_MonsterIcon_Shaman_Ice_01",
+        "Type": "Monster"
+    },
+    "24010101": {
+        "Name": 1418628360,
+        "DescID": 40101,
+        "Icon": "UI_MonsterIcon_Defender_Noner_01",
+        "Type": "Monster"
+    },
+    "24010108": {
+        "Name": 1418628360,
+        "DescID": 40101,
+        "Icon": "UI_MonsterIcon_Defender_Noner_01",
+        "Type": "Monster"
+    },
+    "24010201": {
+        "Name": 4243053360,
+        "DescID": 40102,
+        "Icon": "UI_MonsterIcon_Formathr_None",
+        "Type": "Monster"
+    },
+    "24010301": {
+        "Name": 399632552,
+        "DescID": 40103,
+        "Icon": "UI_MonsterIcon_Konungmathr",
+        "Type": "Monster"
+    },
+    "23010101": {
+        "Name": 995929064,
+        "DescID": 30101,
+        "Icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
+        "Type": "Monster"
+    },
+    "23010201": {
+        "Name": 12762888,
+        "DescID": 30102,
+        "Icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01",
+        "Type": "Monster"
+    },
+    "23010301": {
+        "Name": 1919409584,
+        "DescID": 30103,
+        "Icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
+        "Type": "Monster"
+    },
+    "23010401": {
+        "Name": 3627495392,
+        "DescID": 30104,
+        "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
+        "Type": "Monster"
+    },
+    "23010501": {
+        "Name": 1426306032,
+        "DescID": 30105,
+        "Icon": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01",
+        "Type": "Monster"
+    },
+    "23010601": {
+        "Name": 1434878968,
+        "DescID": 30106,
+        "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
+        "Type": "Monster"
+    },
+    "23020101": {
+        "Name": 3750143024,
+        "DescID": 30201,
+        "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
+        "Type": "Monster"
+    },
+    "23020102": {
+        "Name": 3750143024,
+        "DescID": 30201,
+        "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
+        "Type": "Monster"
+    },
+    "23030101": {
+        "Name": 1010609776,
+        "DescID": 30301,
+        "Icon": "UI_MonsterIcon_Fatuus_Summoner_01",
+        "Type": "Monster"
+    },
+    "23030102": {
+        "Name": 1010609776,
+        "DescID": 30301,
+        "Icon": "UI_MonsterIcon_Fatuus_Summoner_01",
+        "Type": "Monster"
+    },
+    "23040101": {
+        "Name": 4010466472,
+        "DescID": 30401,
+        "Icon": "UI_MonsterIcon_Fatuus_Mage_Ice_01",
+        "Type": "Monster"
+    },
+    "25010101": {
+        "Name": 2720944320,
+        "DescID": 50101,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01",
+        "Type": "Monster"
+    },
+    "25010102": {
+        "Name": 2720944320,
+        "DescID": 50101,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01",
+        "Type": "Monster"
+    },
+    "25010103": {
+        "Name": 2720944320,
+        "DescID": 50101,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01",
+        "Type": "Monster"
+    },
+    "25010104": {
+        "Name": 2720944320,
+        "DescID": 50101,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01",
+        "Type": "Monster"
+    },
+    "25010201": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010203": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010204": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010205": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010206": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010207": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010208": {
+        "Name": 3059200712,
+        "DescID": 50102,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+        "Type": "Monster"
+    },
+    "25010301": {
+        "Name": 1087023424,
+        "DescID": 50103,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01",
+        "Type": "Monster"
+    },
+    "25010302": {
+        "Name": 1087023424,
+        "DescID": 50103,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01",
+        "Type": "Monster"
+    },
+    "25010401": {
+        "Name": 3798548888,
+        "DescID": 50104,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
+        "Type": "Monster"
+    },
+    "25010501": {
+        "Name": 1521590128,
+        "DescID": 50105,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
+        "Type": "Monster"
+    },
+    "25010601": {
+        "Name": 361009392,
+        "DescID": 50106,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
+        "Type": "Monster"
+    },
+    "25010701": {
+        "Name": 3123684272,
+        "DescID": 50107,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
+        "Type": "Monster"
+    },
+    "25020101": {
+        "Name": 3627181320,
+        "DescID": 50201,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Crossbow_01",
+        "Type": "Monster"
+    },
+    "25020102": {
+        "Name": 3627181320,
+        "DescID": 50201,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Crossbow_01",
+        "Type": "Monster"
+    },
+    "25020201": {
+        "Name": 3413949720,
+        "DescID": 50202,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
+        "Type": "Monster"
+    },
+    "25020204": {
+        "Name": 3413949720,
+        "DescID": 50202,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01",
+        "Type": "Monster"
+    },
+    "25030101": {
+        "Name": 531388104,
+        "DescID": 50301,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Shovel_01",
+        "Type": "Monster"
+    },
+    "25030201": {
+        "Name": 28706096,
+        "DescID": 50302,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02",
+        "Type": "Monster"
+    },
+    "25030301": {
+        "Name": 1603081168,
+        "DescID": 50303,
+        "Icon": "UI_MonsterIcon_Thoarder_Male_Sailor_01",
+        "Type": "Monster"
+    },
+    "25040101": {
+        "Name": 1914087968,
+        "DescID": 50401,
+        "Icon": "UI_MonsterIcon_Thoarder_Female_Hatchet_01",
+        "Type": "Monster"
+    },
+    "25050101": {
+        "Name": 1541768712,
+        "DescID": 50501,
+        "Icon": "UI_MonsterIcon_Millelith_Male_01",
+        "Type": "Monster"
+    },
+    "25050201": {
+        "Name": 4161693360,
+        "DescID": 50502,
+        "Icon": "UI_MonsterIcon_Millelith_Male_02",
+        "Type": "Monster"
+    },
+    "25060101": {
+        "Name": 557874744,
+        "DescID": 50601,
+        "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
+        "Type": "Monster"
+    },
+    "25060102": {
+        "Name": 557874744,
+        "DescID": 50601,
+        "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
+        "Type": "Monster"
+    },
+    "25070101": {
+        "Name": 2325739152,
+        "DescID": 50701,
+        "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
+        "Type": "Monster"
+    },
+    "25090101": {
+        "Name": 1759704776,
+        "DescID": 50901,
+        "Icon": "UI_MonsterIcon_Samurai_Ningyo",
+        "Type": "Monster"
+    },
+    "25090102": {
+        "Name": 1759704776,
+        "DescID": 50901,
+        "Icon": "UI_MonsterIcon_Samurai_Ningyo",
+        "Type": "Monster"
+    },
+    "25090103": {
+        "Name": 1759704776,
+        "DescID": 50901,
+        "Icon": "UI_MonsterIcon_Samurai_Ningyo",
+        "Type": "Monster"
+    },
+    "25090104": {
+        "Name": 1759704776,
+        "DescID": 50901,
+        "Icon": "UI_MonsterIcon_Samurai_Ningyo",
+        "Type": "Monster"
+    },
+    "26010101": {
+        "Name": 883066616,
+        "DescID": 60101,
+        "Icon": "UI_MonsterIcon_Mimik_Ice",
+        "Type": "Monster"
+    },
+    "26010102": {
+        "Name": 883066616,
+        "DescID": 60101,
+        "Icon": "UI_MonsterIcon_Mimik_Ice",
+        "Type": "Monster"
+    },
+    "26010201": {
+        "Name": 516009168,
+        "DescID": 60102,
+        "Icon": "UI_MonsterIcon_Mimik_Fire",
+        "Type": "Monster"
+    },
+    "26020101": {
+        "Name": 1058177408,
+        "DescID": 60201,
+        "Icon": "UI_MonsterIcon_Regisvine_Ice",
+        "Type": "Monster"
+    },
+    "26020102": {
+        "Name": 1058177408,
+        "DescID": 60201,
+        "Icon": "UI_MonsterIcon_Regisvine_Ice",
+        "Type": "Monster"
+    },
+    "26020201": {
+        "Name": 184117072,
+        "DescID": 60202,
+        "Icon": "UI_MonsterIcon_Regisvine_Fire",
+        "Type": "Monster"
+    },
+    "26030101": {
+        "Name": 2176598456,
+        "DescID": 60301,
+        "Icon": "UI_MonsterIcon_Wyrm_Rock",
+        "Type": "Monster"
+    },
+    "26040101": {
+        "Name": 94524776,
+        "DescID": 60401,
+        "Icon": "UI_MonsterIcon_Drake_Rock",
+        "Type": "Monster"
+    },
+    "26040102": {
+        "Name": 94524776,
+        "DescID": 60401,
+        "Icon": "UI_MonsterIcon_Drake_Rock",
+        "Type": "Monster"
+    },
+    "26040103": {
+        "Name": 94524776,
+        "DescID": 60401,
+        "Icon": "UI_MonsterIcon_Drake_Rock",
+        "Type": "Monster"
+    },
+    "26040104": {
+        "Name": 94524776,
+        "DescID": 60401,
+        "Icon": "UI_MonsterIcon_Drake_Rock",
+        "Type": "Monster"
+    },
+    "26050101": {
+        "Name": 1057217072,
+        "DescID": 60501,
+        "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "Type": "Monster"
+    },
+    "26050201": {
+        "Name": 1057217072,
+        "DescID": 60501,
+        "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "Type": "Monster"
+    },
+    "26050301": {
+        "Name": 1057217072,
+        "DescID": 60501,
+        "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "Type": "Monster"
+    },
+    "26050401": {
+        "Name": 1057217072,
+        "DescID": 60501,
+        "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "Type": "Monster"
+    },
+    "26050501": {
+        "Name": 1057217072,
+        "DescID": 60501,
+        "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "Type": "Monster"
+    },
+    "26060101": {
+        "Name": 2662118744,
+        "DescID": 60601,
+        "Icon": "UI_MonsterIcon_Cicin_Thunder_01",
+        "Type": "Monster"
+    },
+    "26060201": {
+        "Name": 5464472,
+        "DescID": 60602,
+        "Icon": "UI_MonsterIcon_Cicin_Water_01",
+        "Type": "Monster"
+    },
+    "26060301": {
+        "Name": 1902456384,
+        "DescID": 60603,
+        "Icon": "UI_MonsterIcon_Cicin_Ice_01",
+        "Type": "Monster"
+    },
+    "21010102": {
+        "Name": 2823299104,
+        "DescID": 10101,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21020102": {
+        "Name": 2998946096,
+        "DescID": 10201,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020203": {
+        "Name": 2414837496,
+        "DescID": 10202,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020302": {
+        "Name": 1611076776,
+        "DescID": 10203,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "21020602": {
+        "Name": 3749655912,
+        "DescID": 10206,
+        "Icon": "UI_MonsterIcon_Brute_None_01",
+        "Type": "Monster"
+    },
+    "20010302": {
+        "Name": 1511587408,
+        "DescID": 103,
+        "Icon": "UI_MonsterIcon_Slime_Wind_02",
+        "Type": "Monster"
+    },
+    "20010402": {
+        "Name": 1527751472,
+        "DescID": 104,
+        "Icon": "UI_MonsterIcon_Slime_Wind_03",
+        "Type": "Monster"
+    },
+    "20010502": {
+        "Name": 960731328,
+        "DescID": 105,
+        "Icon": "UI_MonsterIcon_Slime_Electric_02",
+        "Type": "Monster"
+    },
+    "20010602": {
+        "Name": 2835495304,
+        "DescID": 106,
+        "Icon": "UI_MonsterIcon_Slime_Electric_03",
+        "Type": "Monster"
+    },
+    "20010703": {
+        "Name": 3389920104,
+        "DescID": 107,
+        "Icon": "UI_MonsterIcon_Slime_Electric_03_Positive",
+        "Type": "Monster"
+    },
+    "20010803": {
+        "Name": 678013664,
+        "DescID": 108,
+        "Icon": "UI_MonsterIcon_Slime_Ice_02",
+        "Type": "Monster"
+    },
+    "20010903": {
+        "Name": 2368926680,
+        "DescID": 109,
+        "Icon": "UI_MonsterIcon_Slime_Ice_03",
+        "Type": "Monster"
+    },
+    "20011002": {
+        "Name": 1266302080,
+        "DescID": 110,
+        "Icon": "UI_MonsterIcon_Slime_Water_02",
+        "Type": "Monster"
+    },
+    "20011102": {
+        "Name": 1883787496,
+        "DescID": 111,
+        "Icon": "UI_MonsterIcon_Slime_Water_03",
+        "Type": "Monster"
+    },
+    "21010302": {
+        "Name": 2491960152,
+        "DescID": 10103,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21010702": {
+        "Name": 3251673344,
+        "DescID": 10107,
+        "Icon": "UI_MonsterIcon_Hili_Fire_Range",
+        "Type": "Monster"
+    },
+    "21011202": {
+        "Name": 1779087448,
+        "DescID": 10112,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "21011402": {
+        "Name": 3034104928,
+        "DescID": 10114,
+        "Icon": "UI_MonsterIcon_Hili_None_01",
+        "Type": "Monster"
+    },
+    "20011203": {
+        "Name": 3113209704,
+        "DescID": 112,
+        "Icon": "UI_MonsterIcon_Slime_Fire_02",
+        "Type": "Monster"
+    },
+    "20011302": {
+        "Name": 3104668424,
+        "DescID": 113,
+        "Icon": "UI_MonsterIcon_Slime_Fire_03",
+        "Type": "Monster"
+    },
+    "20011402": {
+        "Name": 1304425088,
+        "DescID": 114,
+        "Icon": "UI_MonsterIcon_Slime_Rock_02",
+        "Type": "Monster"
+    },
+    "20011503": {
+        "Name": 2254956112,
+        "DescID": 115,
+        "Icon": "UI_MonsterIcon_Slime_Rock_03",
+        "Type": "Monster"
+    },
+    "22010105": {
+        "Name": 2415438104,
+        "DescID": 20101,
+        "Icon": "UI_MonsterIcon_Abyss_Fire_01",
+        "Type": "Monster"
+    },
+    "22010205": {
+        "Name": 1321463096,
+        "DescID": 20102,
+        "Icon": "UI_MonsterIcon_Abyss_Ice_01",
+        "Type": "Monster"
+    },
+    "22010305": {
+        "Name": 2267848368,
+        "DescID": 20103,
+        "Icon": "UI_MonsterIcon_Abyss_Water_01",
+        "Type": "Monster"
+    },
+    "21030102": {
+        "Name": 1980056728,
+        "DescID": 10301,
+        "Icon": "UI_MonsterIcon_Shaman_Water_01",
+        "Type": "Monster"
+    },
+    "21030202": {
+        "Name": 1473826984,
+        "DescID": 10302,
+        "Icon": "UI_MonsterIcon_Shaman_Grass_01",
+        "Type": "Monster"
+    },
+    "21030302": {
+        "Name": 10553112,
+        "DescID": 10303,
+        "Icon": "UI_MonsterIcon_Shaman_Wind_01",
+        "Type": "Monster"
+    },
+    "21030403": {
+        "Name": 3338079384,
+        "DescID": 10304,
+        "Icon": "UI_MonsterIcon_Shaman_Rock_01",
+        "Type": "Monster"
+    },
+    "21030502": {
+        "Name": 1785924728,
+        "DescID": 10305,
+        "Icon": "UI_MonsterIcon_Shaman_Ice_01",
+        "Type": "Monster"
+    },
+    "24010102": {
+        "Name": 1418628360,
+        "DescID": 40101,
+        "Icon": "UI_MonsterIcon_Defender_Noner_01",
+        "Type": "Monster"
+    },
+    "24010202": {
+        "Name": 4243053360,
+        "DescID": 40102,
+        "Icon": "UI_MonsterIcon_Formathr_None",
+        "Type": "Monster"
+    },
+    "24010302": {
+        "Name": 399632552,
+        "DescID": 40103,
+        "Icon": "UI_MonsterIcon_Konungmathr",
+        "Type": "Monster"
+    },
+    "28020304": {
+        "Name": 2945576521,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Boar_04",
+        "Type": "Animal"
+    },
+    "28020301": {
+        "Name": 63409257,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Boar_01",
+        "Type": "Animal"
+    },
+    "28020303": {
+        "Name": 132617825,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Boar_03",
+        "Type": "Animal"
+    },
+    "28020305": {
+        "Name": 1456352009,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Boar_05",
+        "Type": "Animal"
+    },
+    "28010101": {
+        "Name": 1839640913,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Crab_01",
+        "Type": "Animal"
+    },
+    "28010102": {
+        "Name": 2511558577,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Crab_02",
+        "Type": "Animal"
+    },
+    "28010103": {
+        "Name": 2162443809,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Crab_03",
+        "Type": "Animal"
+    },
+    "28020101": {
+        "Name": 1266416417,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fox_01",
+        "Type": "Animal"
+    },
+    "28020102": {
+        "Name": 3274426617,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fox_02",
+        "Type": "Animal"
+    },
+    "28020103": {
+        "Name": 4278404001,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fox_03",
+        "Type": "Animal"
+    },
+    "28020104": {
+        "Name": 4274494425,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fox_04",
+        "Type": "Animal"
+    },
+    "28020201": {
+        "Name": 3644055001,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Squirrel_01",
+        "Type": "Animal"
+    },
+    "28030101": {
+        "Name": 2445438681,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Crane_01",
+        "Type": "Animal"
+    },
+    "28030201": {
+        "Name": 1280420505,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Falcon_01",
+        "Type": "Animal"
+    },
+    "28030202": {
+        "Name": 3921324617,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Falcon_02",
+        "Type": "Animal"
+    },
+    "28030203": {
+        "Name": 3335964409,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Falcon_03",
+        "Type": "Animal"
+    },
+    "28030204": {
+        "Name": 2895641177,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Falcon_04",
+        "Type": "Animal"
+    },
+    "28050101": {
+        "Name": 884270689,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Wisp_Wind_01",
+        "Type": "Animal"
+    },
+    "28050102": {
+        "Name": 2418029489,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Wisp_Rock_01",
+        "Type": "Animal"
+    },
+    "28050103": {
+        "Name": 629511129,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Wisp_Ice_01",
+        "Type": "Animal"
+    },
+    "28010201": {
+        "Name": 2419507529,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Lizard_01",
+        "Type": "Animal"
+    },
+    "28010202": {
+        "Name": 2399295953,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Lizard_02",
+        "Type": "Animal"
+    },
+    "28010203": {
+        "Name": 3373770521,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Lizard_03",
+        "Type": "Animal"
+    },
+    "28010204": {
+        "Name": 1105980993,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Salamander_01",
+        "Type": "Animal"
+    },
+    "28010205": {
+        "Name": 109108537,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Salamander_02",
+        "Type": "Animal"
+    },
+    "28010206": {
+        "Name": 264018561,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Salamander_03",
+        "Type": "Animal"
+    },
+    "28010301": {
+        "Name": 1756644489,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Frog_01",
+        "Type": "Animal"
+    },
+    "28010302": {
+        "Name": 2631750785,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Frog_02",
+        "Type": "Animal"
+    },
+    "28010303": {
+        "Name": 3711965481,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Frog_03",
+        "Type": "Animal"
+    },
+    "28020302": {
+        "Name": 1743054377,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Boar_02",
+        "Type": "Animal"
+    },
+    "28030301": {
+        "Name": 3277108593,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Pigeon_01",
+        "Type": "Animal"
+    },
+    "28030302": {
+        "Name": 1428360801,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Pigeon_02",
+        "Type": "Animal"
+    },
+    "28030303": {
+        "Name": 41262137,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Pigeon_03",
+        "Type": "Animal"
+    },
+    "28030304": {
+        "Name": 295311481,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Pigeon_04",
+        "Type": "Animal"
+    },
+    "28030305": {
+        "Name": 2563876993,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Pigeon_05",
+        "Type": "Animal"
+    },
+    "28030401": {
+        "Name": 2118401209,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Tit_01",
+        "Type": "Animal"
+    },
+    "28030402": {
+        "Name": 1125989137,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Tit_02",
+        "Type": "Animal"
+    },
+    "28030403": {
+        "Name": 2365585105,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Tit_03",
+        "Type": "Animal"
+    },
+    "28030404": {
+        "Name": 2076113217,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Tit_04",
+        "Type": "Animal"
+    },
+    "28030501": {
+        "Name": 2756023217,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Wigeon_01",
+        "Type": "Animal"
+    },
+    "28030502": {
+        "Name": 743951433,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Wigeon_02",
+        "Type": "Animal"
+    },
+    "28030503": {
+        "Name": 3133002009,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Wigeon_03",
+        "Type": "Animal"
+    },
+    "28040101": {
+        "Name": 1608018225,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_01",
+        "Type": "Animal"
+    },
+    "28040102": {
+        "Name": 1176694353,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_02",
+        "Type": "Animal"
+    },
+    "28040103": {
+        "Name": 1681298953,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_03",
+        "Type": "Animal"
+    },
+    "28040104": {
+        "Name": 1906209225,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_04",
+        "Type": "Animal"
+    },
+    "28040105": {
+        "Name": 1443229617,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_05",
+        "Type": "Animal"
+    },
+    "28040106": {
+        "Name": 1622767521,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_06",
+        "Type": "Animal"
+    },
+    "28040107": {
+        "Name": 4216951473,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Fish_07",
+        "Type": "Animal"
+    },
+    "28020401": {
+        "Name": 272662369,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_DogPrick_01",
+        "Type": "Animal"
+    },
+    "28020402": {
+        "Name": 2152727401,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_DogPrick_02",
+        "Type": "Animal"
+    },
+    "28020403": {
+        "Name": 3896670209,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_DogPrick_03",
+        "Type": "Animal"
+    },
+    "28020404": {
+        "Name": 1226968249,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_DogPrick_04",
+        "Type": "Animal"
+    },
+    "28020501": {
+        "Name": 2270084769,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_01",
+        "Type": "Animal"
+    },
+    "28020502": {
+        "Name": 2975239113,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_02",
+        "Type": "Animal"
+    },
+    "28020503": {
+        "Name": 1280299113,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_03",
+        "Type": "Animal"
+    },
+    "28020504": {
+        "Name": 1242169441,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_04",
+        "Type": "Animal"
+    },
+    "28020505": {
+        "Name": 3615668505,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_05",
+        "Type": "Animal"
+    },
+    "28020506": {
+        "Name": 3464233241,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_06",
+        "Type": "Animal"
+    },
+    "28020507": {
+        "Name": 376891297,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Cat_07",
+        "Type": "Animal"
+    },
+    "28020601": {
+        "Name": 2579280265,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Marten_01",
+        "Type": "Animal"
+    },
+    "28020602": {
+        "Name": 2591407545,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Marten_02",
+        "Type": "Animal"
+    },
+    "28020603": {
+        "Name": 2235178825,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Marten_03",
+        "Type": "Animal"
+    },
+    "28020604": {
+        "Name": 614724937,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Marten_04",
+        "Type": "Animal"
+    },
+    "28050201": {
+        "Name": 3197116161,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Thoarder_Weasel_01",
+        "Type": "Animal"
+    },
+    "28050202": {
+        "Name": 1596356241,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Thoarder_Weasel_02",
+        "Type": "Animal"
+    },
+    "28050203": {
+        "Name": 805502041,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Thoarder_Weasel_03",
+        "Type": "Animal"
+    },
+    "28220301": {
+        "Name": 1222738217,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_Boar_01",
+        "Type": "Animal"
+    },
+    "28220401": {
+        "Name": 3683009001,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_DogPrick_01",
+        "Type": "Animal"
+    },
+    "28220402": {
+        "Name": 3856915065,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_DogPrick_02",
+        "Type": "Animal"
+    },
+    "28220403": {
+        "Name": 3907658409,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_DogPrick_03",
+        "Type": "Animal"
+    },
+    "28220404": {
+        "Name": 984938809,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_DogPrick_04",
+        "Type": "Animal"
+    },
+    "28220502": {
+        "Name": 2297963097,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_Cat_02",
+        "Type": "Animal"
+    },
+    "28220504": {
+        "Name": 917091729,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_Cat_04",
+        "Type": "Animal"
+    },
+    "28220505": {
+        "Name": 1973061177,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_Cat_05",
+        "Type": "Animal"
+    },
+    "28220506": {
+        "Name": 3376609289,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_Cat_06",
+        "Type": "Animal"
+    },
+    "28230101": {
+        "Name": 2860398881,
+        "DescID": "0",
+        "Icon": "UI_AnimalIcon_Homeworld_Crane_01",
+        "Type": "Animal"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "1": {
+        "Id": 1,
+        "NameTextMapHash": 1731946084,
+        "SubTabId": 4,
+        "ShopType": "SHOP_TYPE_PACKAGE",
+        "ConfigIdVec": [
+            101
+        ],
+        "CondVec": [],
+        "Order": 3,
+        "OneCardIconName": "MallPackage_MonthlyCard"
+    },
+    "3": {
+        "Id": 3,
+        "NameTextMapHash": 1849127228,
+        "SubTabId": 6,
+        "MMCKOPCKBHC": "RECOMMEND_JUMP",
+        "ShopType": "SHOP_TYPE_COSTUME",
+        "ConfigIdVec": [],
+        "CondVec": [],
+        "Order": 4,
+        "OneCardIconName": "MallPackage_SkinDisplay",
+        "DABHKGHEDKC": 5,
+        "FGKLLCOLAHI": true
+    }
+}

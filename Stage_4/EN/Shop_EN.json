@@ -1,0 +1,5799 @@
+{
+    "SHOP_TYPE_VIRTUAL_SHOP": {
+        "101001": {
+            "Name": "Original Resin",
+            "Count": 1,
+            "Limit": "Null"
+        }
+    },
+    "SHOP_TYPE_CITY": {
+        "201001": {
+            "Name": "Agnidus Agate Sliver",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Anemo Sigil": 10
+            }
+        },
+        "201002": {
+            "Name": "Varunada Lazurite Sliver",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Anemo Sigil": 10
+            }
+        },
+        "201003": {
+            "Name": "Vayuda Turquoise Sliver",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Anemo Sigil": 10
+            }
+        },
+        "201004": {
+            "Name": "Shivada Jade Sliver",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Anemo Sigil": 10
+            }
+        },
+        "201005": {
+            "Name": "Prithiva Topaz Sliver",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Anemo Sigil": 10
+            }
+        },
+        "201006": {
+            "Name": "Vajrada Amethyst Sliver",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Anemo Sigil": 10
+            }
+        },
+        "201007": {
+            "Name": "Tile of Decarabian's Tower",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Anemo Sigil": 4
+            }
+        },
+        "201008": {
+            "Name": "Boreal Wolf's Milk Tooth",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Anemo Sigil": 4
+            }
+        },
+        "201009": {
+            "Name": "Fetters of the Dandelion Gladiator",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Anemo Sigil": 4
+            }
+        },
+        "201010": {
+            "Name": "Memory of Roving Gales",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Anemo Sigil": 225
+            }
+        },
+        "201011": {
+            "Name": "Northlander Sword Billet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Anemo Sigil": 225
+            }
+        },
+        "201012": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": 60,
+            "Cost": {
+                "Anemo Sigil": 1
+            }
+        },
+        "201013": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": "Null",
+            "Cost": {
+                "Anemo Sigil": 2
+            }
+        }
+    },
+    "SHOP_TYPE_BLACKSMITH": {
+        "202001": {
+            "Name": "Silver Sword",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202002": {
+            "Name": "Old Merc's Pal",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202003": {
+            "Name": "Iron Point",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202004": {
+            "Name": "Pocket Grimoire",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "202005": {
+            "Name": "Seasoned Hunter's Bow",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 600
+            }
+        }
+    },
+    "SHOP_TYPE_GROCERY": {
+        "203001": {
+            "Name": "Salt",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 60
+            }
+        },
+        "203002": {
+            "Name": "Pepper",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "203003": {
+            "Name": "Onion",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "203004": {
+            "Name": "Milk",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "203005": {
+            "Name": "Tomato",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "203006": {
+            "Name": "Cabbage",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "203007": {
+            "Name": "Potato",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "203008": {
+            "Name": "Wheat",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        }
+    },
+    "SHOP_TYPE_FOOD": {
+        "204001": {
+            "Name": "Teyvat Fried Egg",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 200
+            }
+        },
+        "204002": {
+            "Name": "Fisherman's Toast",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1025
+            }
+        },
+        "204003": {
+            "Name": "Chicken-Mushroom Skewer",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "204004": {
+            "Name": "Flour",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "204005": {
+            "Name": "Cream",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "204006": {
+            "Name": "Smoked Fowl",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 900
+            }
+        },
+        "204007": {
+            "Name": "Butter",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 270
+            }
+        },
+        "204008": {
+            "Name": "Ham",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 630
+            }
+        },
+        "204009": {
+            "Name": "Sugar",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "204010": {
+            "Name": "Crab Roe",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1125
+            }
+        },
+        "204011": {
+            "Name": "Jam",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1475
+            }
+        },
+        "204012": {
+            "Name": "Cheese",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 420
+            }
+        },
+        "204013": {
+            "Name": "Bacon",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 720
+            }
+        },
+        "204014": {
+            "Name": "Sausage",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 840
+            }
+        },
+        "204015": {
+            "Name": "Recipe: Tea Break Pancake",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "204016": {
+            "Name": "Recipe: Flaming Red Bolognese",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "204017": {
+            "Name": "Recipe: Cream Stew",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "204018": {
+            "Name": "Recipe: Calla Lily Seafood Soup",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "204019": {
+            "Name": "Recipe: Saut\u00e9ed Matsutake",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "204020": {
+            "Name": "Recipe: \"Pile 'Em Up\"",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "204021": {
+            "Name": "Recipe: Mint Jelly",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1250
+            }
+        },
+        "204022": {
+            "Name": "Recipe: Crispy Potato Shrimp Platter",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Flora": {
+        "205001": {
+            "Name": "Sweet Flower",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 200
+            }
+        },
+        "205002": {
+            "Name": "Windwheel Aster",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "205003": {
+            "Name": "Cecilia",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "205004": {
+            "Name": "Small Lamp Grass",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "205005": {
+            "Name": "Calla Lily",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Charles": {
+        "206001": {
+            "Name": "Wolfhook Juice",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "206002": {
+            "Name": "Berry & Mint Burst",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "206003": {
+            "Name": "Apple Cider",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Shiliu": {
+        "207001": {
+            "Name": "Adventurer's Golden Goblet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207002": {
+            "Name": "Adventurer's Tail Feather",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207003": {
+            "Name": "Adventurer's Bandana",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207004": {
+            "Name": "Adventurer's Flower",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "207005": {
+            "Name": "Adventurer's Pocket Watch",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Schulz": {
+        "208001": {
+            "Name": "Dull Blade",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208002": {
+            "Name": "Waster Greatsword",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208003": {
+            "Name": "Beginner's Protector",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208004": {
+            "Name": "Apprentice's Notes",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "208005": {
+            "Name": "Hunter's Bow",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Brook": {
+        "209001": {
+            "Name": "Steak",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 530
+            }
+        },
+        "209002": {
+            "Name": "Chicken-Mushroom Skewer",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "209003": {
+            "Name": "Northern Smoked Chicken",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1850
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Hopkins": {
+        "210001": {
+            "Name": "Holy Water",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 300
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Draff": {
+        "211001": {
+            "Name": "Raw Meat",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "211002": {
+            "Name": "Fowl",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "211003": {
+            "Name": "Bird Egg",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 200
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Chloris": {
+        "212001": {
+            "Name": "Snapdragon",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 280
+            }
+        },
+        "212002": {
+            "Name": "Mint",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "212003": {
+            "Name": "Wolfhook",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "212004": {
+            "Name": "Valberry",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "212005": {
+            "Name": "Philanemo Mushroom",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Goth": {
+        "1051001": {
+            "Name": "Deadwood Road Sign",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 25000
+            }
+        },
+        "1051002": {
+            "Name": "Lightning Protective Tent",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1051003": {
+            "Name": "Simple Single-Person Tent",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1051004": {
+            "Name": "Adventurer Camp",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_SOUVENIR": {
+        "301001": {
+            "Name": "Agnidus Agate Sliver",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Geo Sigil": 10
+            }
+        },
+        "301002": {
+            "Name": "Varunada Lazurite Sliver",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Geo Sigil": 10
+            }
+        },
+        "301003": {
+            "Name": "Vayuda Turquoise Sliver",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Geo Sigil": 10
+            }
+        },
+        "301004": {
+            "Name": "Shivada Jade Sliver",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Geo Sigil": 10
+            }
+        },
+        "301005": {
+            "Name": "Prithiva Topaz Sliver",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Geo Sigil": 10
+            }
+        },
+        "301006": {
+            "Name": "Vajrada Amethyst Sliver",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Geo Sigil": 10
+            }
+        },
+        "301007": {
+            "Name": "Luminous Sands from Guyun",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Geo Sigil": 4
+            }
+        },
+        "301008": {
+            "Name": "Mist Veiled Lead Elixir",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Geo Sigil": 4
+            }
+        },
+        "301009": {
+            "Name": "Grain of Aerosiderite",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Geo Sigil": 4
+            }
+        },
+        "301010": {
+            "Name": "Memory of Immovable Crystals",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Geo Sigil": 225
+            }
+        },
+        "301011": {
+            "Name": "Northlander Bow Billet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Geo Sigil": 225
+            }
+        },
+        "301012": {
+            "Name": "Northlander Claymore Billet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Geo Sigil": 225
+            }
+        },
+        "301013": {
+            "Name": "Northlander Catalyst Billet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Geo Sigil": 225
+            }
+        },
+        "301014": {
+            "Name": "Northlander Polearm Billet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Geo Sigil": 225
+            }
+        },
+        "301015": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": 120,
+            "Cost": {
+                "Geo Sigil": 1
+            }
+        },
+        "301016": {
+            "Name": "Mora",
+            "Count": 1600,
+            "Limit": "Null",
+            "Cost": {
+                "Geo Sigil": 2
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_GROCERY": {
+        "302001": {
+            "Name": "Salt",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 60
+            }
+        },
+        "302002": {
+            "Name": "Pepper",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "302003": {
+            "Name": "Onion",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 80
+            }
+        },
+        "302004": {
+            "Name": "Milk",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302005": {
+            "Name": "Tomato",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302006": {
+            "Name": "Cabbage",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302007": {
+            "Name": "Potato",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302008": {
+            "Name": "Wheat",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302009": {
+            "Name": "Rice",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302010": {
+            "Name": "Shrimp Meat",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "302011": {
+            "Name": "Tofu",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 100
+            }
+        },
+        "302012": {
+            "Name": "Almond",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 120
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_RESTAURANT": {
+        "303001": {
+            "Name": "Teyvat Fried Egg",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 200
+            }
+        },
+        "303002": {
+            "Name": "Fisherman's Toast",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1025
+            }
+        },
+        "303003": {
+            "Name": "Chicken-Mushroom Skewer",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "303004": {
+            "Name": "Flour",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "303005": {
+            "Name": "Sugar",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "303006": {
+            "Name": "Sausage",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 840
+            }
+        },
+        "303007": {
+            "Name": "Recipe: Grilled Tiger Fish",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1250
+            }
+        },
+        "303008": {
+            "Name": "Recipe: Jueyun Chili Chicken",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303009": {
+            "Name": "Recipe: Crystal Shrimp",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303010": {
+            "Name": "Recipe: Black-Back Perch Stew",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303011": {
+            "Name": "Recipe: Squirrel Fish",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303012": {
+            "Name": "Recipe: Come and Get It",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303013": {
+            "Name": "Recipe: Triple-Layered Consomm\u00e9",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303014": {
+            "Name": "Recipe: Universal Peace",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303015": {
+            "Name": "Fish",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "303016": {
+            "Name": "Crab",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "303017": {
+            "Name": "Ham",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 630
+            }
+        },
+        "303018": {
+            "Name": "Bamboo Shoot",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "303019": {
+            "Name": "Lotus Head",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "303020": {
+            "Name": "Matsutake",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "303021": {
+            "Name": "Mushroom",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 180
+            }
+        },
+        "303022": {
+            "Name": "Carrot",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 260
+            }
+        },
+        "303023": {
+            "Name": "Radish",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 350
+            }
+        },
+        "303024": {
+            "Name": "Jueyun Chili",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "303025": {
+            "Name": "Recipe: Mint Salad",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303026": {
+            "Name": "Recipe: Minty Meat Rolls",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "303027": {
+            "Name": "Recipe: Crab Roe Tofu",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "303028": {
+            "Name": "Recipe: Rice Buns",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1250
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Licai": {
+        "304001": {
+            "Name": "Recipe: Stone Harbor Delicacies",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "304002": {
+            "Name": "Stone Harbor Delicacies",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1925
+            }
+        },
+        "304003": {
+            "Name": "Noodles with Mountain Delicacies",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 2150
+            }
+        },
+        "304004": {
+            "Name": "Tianshu Meat",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 12000
+            }
+        },
+        "304005": {
+            "Name": "Recipe: Cured Pork Dry Hotpot",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "304006": {
+            "Name": "Cured Pork Dry Hotpot",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 7275
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Yueshu": {
+        "305001": {
+            "Name": "Recipe: Fullmoon Egg",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "305002": {
+            "Name": "Golden Shrimp Balls",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 5700
+            }
+        },
+        "305003": {
+            "Name": "Fullmoon Egg",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 5775
+            }
+        },
+        "305004": {
+            "Name": "Golden Crab",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 12200
+            }
+        },
+        "305005": {
+            "Name": "Recipe: Stir-Fried Fish Noodles",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "305006": {
+            "Name": "Stir-Fried Fish Noodles",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1375
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Gui": {
+        "306001": {
+            "Name": "Recipe: Lotus Seed and Bird Egg Soup",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "306002": {
+            "Name": "Qingxin",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 600
+            }
+        },
+        "306003": {
+            "Name": "Horsetail",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "306004": {
+            "Name": "Lotus Head",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "306005": {
+            "Name": "Mist Flower Corolla",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "306006": {
+            "Name": "Flaming Flower Stamen",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "306007": {
+            "Name": "Violetgrass",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Gao": {
+        "307001": {
+            "Name": "Fish",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "307002": {
+            "Name": "Fish",
+            "Count": 3,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Sun": {
+        "308001": {
+            "Name": "Fish",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "308002": {
+            "Name": "Crab",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "308003": {
+            "Name": "Shrimp Meat",
+            "Count": 1,
+            "Limit": 50,
+            "Cost": {
+                "Mora": 150
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Qiming": {
+        "309001": {
+            "Name": "Apple",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 200
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhangshun": {
+        "310001": {
+            "Name": "Lucky Dog's Goblet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310002": {
+            "Name": "Lucky Dog's Eagle Feather",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310003": {
+            "Name": "Lucky Dog's Silver Circlet",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310004": {
+            "Name": "Lucky Dog's Clover",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "310005": {
+            "Name": "Lucky Dog's Hourglass",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Chen": {
+        "311001": {
+            "Name": "Delicious Grilled Tiger Fish",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 380
+            }
+        },
+        "311002": {
+            "Name": "Stir-Fried Filet",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 900
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_ErNiang": {
+        "312001": {
+            "Name": "Delicious Zhongyuan Chop Suey",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 6600
+            }
+        },
+        "312002": {
+            "Name": "Mora Meat",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 430
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Shitou": {
+        "313001": {
+            "Name": "Iron Chunk",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "313002": {
+            "Name": "White Iron Chunk",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 400
+            }
+        },
+        "313003": {
+            "Name": "Noctilucous Jade",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Jifang": {
+        "314001": {
+            "Name": "Moonlit Bamboo Forest (II)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314002": {
+            "Name": "Moonlit Bamboo Forest (III)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314003": {
+            "Name": "Rex Incognito (IV)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314004": {
+            "Name": "Tales From the Waves: Receding Torrent",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314005": {
+            "Name": "Records of Jueyun: Palace Beneath the Sea",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314006": {
+            "Name": "Legend of the Lone Sword (IV)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314007": {
+            "Name": "Legend of the Shattered Halberd (I)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314008": {
+            "Name": "Legend of the Shattered Halberd (IV)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314009": {
+            "Name": "Legend of the Shattered Halberd (V)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314010": {
+            "Name": "Heart's Desire: Sapphire",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 3000
+            }
+        },
+        "314011": {
+            "Name": "Records of Jueyun: Mountain Spirits",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314012": {
+            "Name": "Customs of Liyue: Silk Flowers",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314013": {
+            "Name": "String of Pearls (II)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314014": {
+            "Name": "String of Pearls (III)",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314015": {
+            "Name": "Records of Jueyun: Qilin",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "314016": {
+            "Name": "Records of Jueyun: Hidden Jade",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhu": {
+        "315001": {
+            "Name": "Pop's Teas",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "315002": {
+            "Name": "Mora Meat",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 430
+            }
+        },
+        "315003": {
+            "Name": "Stir-Fried Filet",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 900
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Bai": {
+        "316001": {
+            "Name": "Recipe: Noodles with Mountain Delicacies",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "316002": {
+            "Name": "Recipe: Qingce Stir Fry",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "316003": {
+            "Name": "Tofu",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 120
+            }
+        },
+        "316004": {
+            "Name": "Almond",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "316005": {
+            "Name": "Silk Flower",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "316006": {
+            "Name": "Glaze Lily",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "316007": {
+            "Name": "Recipe: Jueyun Guoba",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "316008": {
+            "Name": "Qingce Stir Fry",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 6150
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Kai": {
+        "317001": {
+            "Name": "Pop's Teas",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Linglang": {
+        "318001": {
+            "Name": "Traveling Doctor's Medicine Pot",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318002": {
+            "Name": "Traveling Doctor's Owl Feather",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318003": {
+            "Name": "Traveling Doctor's Handkerchief",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318004": {
+            "Name": "Traveling Doctor's Silver Lotus",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        },
+        "318005": {
+            "Name": "Traveling Doctor's Pocket Watch",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_VerrGoldet": {
+        "319001": {
+            "Name": "Almond Tofu",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1550
+            }
+        },
+        "319002": {
+            "Name": "Matsutake Meat Rolls",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1775
+            }
+        },
+        "319003": {
+            "Name": "Chicken-Mushroom Skewer",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "319004": {
+            "Name": "Recipe: Bamboo Shoot Soup",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        },
+        "319005": {
+            "Name": "Matsutake",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 300
+            }
+        },
+        "319006": {
+            "Name": "Butter",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 270
+            }
+        },
+        "319007": {
+            "Name": "Sausage",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 840
+            }
+        },
+        "319008": {
+            "Name": "Silk Flower",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "319009": {
+            "Name": "Violetgrass",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        },
+        "319010": {
+            "Name": "Jueyun Chili Chicken",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1925
+            }
+        },
+        "319011": {
+            "Name": "Noodles with Mountain Delicacies",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 2150
+            }
+        },
+        "319012": {
+            "Name": "Recipe:Vegetarian Abalone",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 2500
+            }
+        },
+        "319013": {
+            "Name": "Recipe: Stir-Fried Shrimp",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 5000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhou": {
+        "320001": {
+            "Name": "Pop's Teas",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_TASK_Ekaterina": {
+        "321001": {
+            "Name": "Mora",
+            "Count": 1,
+            "Limit": 50000,
+            "Cost": {
+                "A Huge Bag of Mora": 1
+            }
+        }
+    },
+    "SHOP_TYPE_TASK_Tartaglia": {
+        "322001": {
+            "Name": "Mora",
+            "Count": 1,
+            "Limit": 35000,
+            "Cost": {
+                "Childe and Teucer's Mora Pouch": 1
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Harris": {
+        "323001": {
+            "Name": "Radish Veggie Soup",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 530
+            }
+        },
+        "323002": {
+            "Name": "Steak",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 790
+            }
+        },
+        "323003": {
+            "Name": "Jewelry Soup",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Mora": 1775
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Yinian": {
+        "1042001": {
+            "Name": "Lantern Rite Special Grilled Tiger Fish",
+            "Count": 1,
+            "Limit": 20,
+            "Cost": {
+                "Mora": 380
+            }
+        },
+        "1042002": {
+            "Name": "Lantern Rite Special Fried Radish Balls",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 2025
+            }
+        },
+        "1042003": {
+            "Name": "Lantern Rite Special Lotus Seed and Bird Egg Soup",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 1550
+            }
+        },
+        "1042004": {
+            "Name": "Lantern Rite Special Jewelry Soup",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 1775
+            }
+        },
+        "1042005": {
+            "Name": "Lantern Rite Special Noodles with Mountain Delicacies",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "Mora": 2150
+            }
+        },
+        "1042006": {
+            "Name": "Lantern Rite Special Come and Get It",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 6225
+            }
+        },
+        "1042007": {
+            "Name": "Lantern Rite Special Triple-Layered Consomm\u00e9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 7050
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Changshun": {
+        "1045001": {
+            "Name": "Potato",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "Mora": 150
+            }
+        },
+        "1045002": {
+            "Name": "Sugar",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 450
+            }
+        },
+        "1045003": {
+            "Name": "Cheese",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 420
+            }
+        },
+        "1045004": {
+            "Name": "Cor Lapis",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1500
+            }
+        },
+        "1045005": {
+            "Name": "Electro Crystal",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Bolai": {
+        "1046001": {
+            "Name": "Apple",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "1046002": {
+            "Name": "Sunsettia",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 170
+            }
+        },
+        "1046003": {
+            "Name": "Fish",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Mora": 240
+            }
+        },
+        "1046004": {
+            "Name": "Starconch",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "Mora": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_MasterLu": {
+        "1050001": {
+            "Name": "\"The Adventurer's Burdens\"",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1050002": {
+            "Name": "Lone and Cautious Adventurer",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        },
+        "1050003": {
+            "Name": "Dialogue Twixt Ancient Tree and Rock",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Mora": 50000
+            }
+        }
+    },
+    "SHOP_TYPE_PAIMON": {
+        "Purchase With Primogems": {
+            "102001": {
+                "Name": "Intertwined Fate",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Primogem": 160
+                }
+            },
+            "102002": {
+                "Name": "Acquaint Fate",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Primogem": 160
+                }
+            }
+        },
+        "Starglitter Exchange": {
+            "102003": {
+                "Name": "Intertwined Fate",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Masterless Starglitter": 5
+                }
+            },
+            "102004": {
+                "Name": "Acquaint Fate",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "Masterless Starglitter": 5
+                }
+            },
+            "102005": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Masterless Starglitter": 34
+                }
+            },
+            "102006": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Masterless Starglitter": 34
+                }
+            },
+            "102007": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102008": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102009": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102010": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102011": {
+                "Name": "Game Data Error",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102013": {
+                "Name": "Black Crystal Horn",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102015": {
+                "Name": "Ley Line Sprout",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102016": {
+                "Name": "Chaos Core",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102017": {
+                "Name": "Mist Grass Wick",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102018": {
+                "Name": "Inspector's Sacrificial Knife",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102019": {
+                "Name": "Fossilized Bone Shard",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102020": {
+                "Name": "Slime Concentrate",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102021": {
+                "Name": "Ominous Mask",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102022": {
+                "Name": "Forbidden Curse Scroll",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102023": {
+                "Name": "Weathered Arrowhead",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102024": {
+                "Name": "Lieutenant's Insignia",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102025": {
+                "Name": "Golden Raven Insignia",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102026": {
+                "Name": "Energy Nectar",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "Masterless Starglitter": 2
+                }
+            },
+            "102027": {
+                "Name": "Razor",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Masterless Starglitter": 34
+                }
+            },
+            "102028": {
+                "Name": "Amber",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Masterless Starglitter": 34
+                }
+            },
+            "102029": {
+                "Name": "Royal Longsword",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102030": {
+                "Name": "Royal Greatsword",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102031": {
+                "Name": "Blackcliff Pole",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102032": {
+                "Name": "Royal Grimoire",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            },
+            "102033": {
+                "Name": "Royal Bow",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Masterless Starglitter": 24
+                }
+            }
+        },
+        "Stardust Exchange": {
+            "102501": {
+                "Name": "Intertwined Fate",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Masterless Stardust": 75
+                }
+            },
+            "102502": {
+                "Name": "Acquaint Fate",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Masterless Stardust": 75
+                }
+            },
+            "102503": {
+                "Name": "Adventurer's Experience",
+                "Count": 3,
+                "Limit": 100,
+                "Cost": {
+                    "Masterless Stardust": 8
+                }
+            },
+            "102504": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102505": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Masterless Stardust": 10
+                }
+            },
+            "102506": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": "Null",
+                "Cost": {
+                    "Masterless Stardust": 20
+                }
+            },
+            "102507": {
+                "Name": "Black Bronze Horn",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Masterless Stardust": 15
+                }
+            },
+            "102509": {
+                "Name": "Dead Ley Line Leaves",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Masterless Stardust": 15
+                }
+            },
+            "102510": {
+                "Name": "Chaos Circuit",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Masterless Stardust": 15
+                }
+            },
+            "102511": {
+                "Name": "Mist Grass",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Masterless Stardust": 15
+                }
+            },
+            "102512": {
+                "Name": "Agent's Sacrificial Knife",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Masterless Stardust": 15
+                }
+            },
+            "102513": {
+                "Name": "Sturdy Bone Shard",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Masterless Stardust": 15
+                }
+            },
+            "102514": {
+                "Name": "Slime Secretions",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102515": {
+                "Name": "Stained Mask",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102516": {
+                "Name": "Sealed Scroll",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102517": {
+                "Name": "Sharp Arrowhead",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102518": {
+                "Name": "Sergeant's Insignia",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102519": {
+                "Name": "Silver Raven Insignia",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102520": {
+                "Name": "Shimmering Nectar",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102521": {
+                "Name": "Heavy Horn",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102523": {
+                "Name": "Dead Ley Line Branch",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102524": {
+                "Name": "Chaos Device",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102525": {
+                "Name": "Mist Grass Pollen",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102526": {
+                "Name": "Hunter's Sacrificial Knife",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102527": {
+                "Name": "Fragile Bone Shard",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102528": {
+                "Name": "Slime Condensate",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102529": {
+                "Name": "Damaged Mask",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102530": {
+                "Name": "Divining Scroll",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102531": {
+                "Name": "Firm Arrowhead",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102532": {
+                "Name": "Recruit's Insignia",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102533": {
+                "Name": "Treasure Hoarder Insignia",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102534": {
+                "Name": "Whopperflower Nectar",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            },
+            "102535": {
+                "Name": "Dust of Azoth",
+                "Count": 10,
+                "Limit": 100,
+                "Cost": {
+                    "Masterless Stardust": 5
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_PACKAGE": {
+        "103010": {
+            "Name": "Starter Supply Bundle",
+            "Count": 1,
+            "Limit": 1
+        },
+        "103011": {
+            "Name": "Wayfarer's Supply Bundle",
+            "Count": 1,
+            "Limit": 1
+        },
+        "103012": {
+            "Name": "Adventurer's Supply Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103013": {
+            "Name": "Adventurer's Ore Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103014": {
+            "Name": "Adventurer's Special Bundle",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103018": {
+            "Name": "Adventurer's Tempering Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103019": {
+            "Name": "Adventurer's Instructional Bundle",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103020": {
+            "Name": "Adventurer's Tempering Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103021": {
+            "Name": "Adventurer's Instructional Bundle",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103022": {
+            "Name": "Adventurer's Jumbo Ore Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103023": {
+            "Name": "Adventurer's Instructional Bundle",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103024": {
+            "Name": "Adventurer's Jumbo Ore Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103025": {
+            "Name": "Adventurer's Special Supply Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103026": {
+            "Name": "Adventurer's Instructional Bundle",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103027": {
+            "Name": "Adventurer's Jumbo Ore Bundle",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103028": {
+            "Name": "Adventurer's Instructional Bundle",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103029": {
+            "Name": "Adventurer's Jumbo Ore Bundle",
+            "Count": 1,
+            "Limit": 5
+        }
+    },
+    "1052": {
+        "106001": {
+            "Name": "Sea Breeze Dandelion",
+            "Count": 1,
+            "Limit": 1
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_ASTER": {
+        "0": {
+            "1002001": {
+                "Name": "Agnidus Agate Fragment",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Fading Star's Might": 12
+                }
+            },
+            "1002002": {
+                "Name": "Varunada Lazurite Fragment",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Fading Star's Might": 12
+                }
+            },
+            "1002003": {
+                "Name": "Vajrada Amethyst Fragment",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Fading Star's Might": 12
+                }
+            },
+            "1002004": {
+                "Name": "Vayuda Turquoise Fragment",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Fading Star's Might": 12
+                }
+            },
+            "1002005": {
+                "Name": "Shivada Jade Fragment",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Fading Star's Might": 12
+                }
+            },
+            "1002006": {
+                "Name": "Prithiva Topaz Fragment",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Fading Star's Might": 12
+                }
+            },
+            "1002007": {
+                "Name": "Adventurer's Experience",
+                "Count": 1,
+                "Limit": 150,
+                "Cost": {
+                    "Fading Star's Might": 1
+                }
+            },
+            "1002008": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 150,
+                "Cost": {
+                    "Fading Star's Might": 4
+                }
+            },
+            "1002009": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 250,
+                "Cost": {
+                    "Fading Star's Might": 4
+                }
+            },
+            "1002010": {
+                "Name": "Mora",
+                "Count": 500,
+                "Limit": "Null",
+                "Cost": {
+                    "Fading Star's Might": 1
+                }
+            }
+        },
+        "1": {
+            "1002011": {
+                "Name": "Guide to Freedom",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Fading Star's Essence": 4
+                }
+            },
+            "1002012": {
+                "Name": "Philosophies of Freedom",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Fading Star's Essence": 12
+                }
+            },
+            "1002013": {
+                "Name": "Guide to Resistance",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Fading Star's Essence": 4
+                }
+            },
+            "1002014": {
+                "Name": "Philosophies of Resistance",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Fading Star's Essence": 12
+                }
+            },
+            "1002015": {
+                "Name": "Guide to Ballad",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Fading Star's Essence": 4
+                }
+            },
+            "1002016": {
+                "Name": "Philosophies of Ballad",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Fading Star's Essence": 12
+                }
+            },
+            "1002017": {
+                "Name": "Guide to Prosperity",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Fading Star's Essence": 4
+                }
+            },
+            "1002018": {
+                "Name": "Philosophies of Prosperity",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Fading Star's Essence": 12
+                }
+            },
+            "1002019": {
+                "Name": "Guide to Diligence",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Fading Star's Essence": 4
+                }
+            },
+            "1002020": {
+                "Name": "Philosophies of Diligence",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Fading Star's Essence": 12
+                }
+            },
+            "1002021": {
+                "Name": "Guide to Gold",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "Fading Star's Essence": 4
+                }
+            },
+            "1002022": {
+                "Name": "Philosophies of Gold",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Fading Star's Essence": 12
+                }
+            },
+            "1002023": {
+                "Name": "Crown of Insight",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Fading Star's Essence": 110
+                }
+            },
+            "1002024": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 100,
+                "Cost": {
+                    "Fading Star's Essence": 1
+                }
+            },
+            "1002025": {
+                "Name": "Fine Enhancement Ore",
+                "Count": 3,
+                "Limit": "Null",
+                "Cost": {
+                    "Fading Star's Essence": 2
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_DRAGON_SPINE": {
+        "0": {
+            "1004101": {
+                "Name": "Festering Dragon Marrow",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Glimmering Essence": 600
+                }
+            },
+            "1004102": {
+                "Name": "Chains of the Dandelion Gladiator",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Glimmering Essence": 25
+                }
+            },
+            "1004103": {
+                "Name": "Debris of Decarabian's City",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Glimmering Essence": 25
+                }
+            },
+            "1004104": {
+                "Name": "Boreal Wolf's Cracked Tooth",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Glimmering Essence": 25
+                }
+            },
+            "1004105": {
+                "Name": "Lustrous Stone from Guyun",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Glimmering Essence": 25
+                }
+            },
+            "1004106": {
+                "Name": "Mist Veiled Mercury Elixir",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Glimmering Essence": 25
+                }
+            },
+            "1004107": {
+                "Name": "Piece of Aerosiderite",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Glimmering Essence": 25
+                }
+            },
+            "1004108": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Glimmering Essence": 20
+                }
+            },
+            "1004109": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "Glimmering Essence": 10
+                }
+            },
+            "1004110": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Glimmering Essence": 20
+                }
+            }
+        },
+        "1": {
+            "1004201": {
+                "Name": "Festering Dragon Marrow",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Warm Essence": 600
+                }
+            },
+            "1004202": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Warm Essence": 20
+                }
+            },
+            "1004203": {
+                "Name": "Adventurer's Experience",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Warm Essence": 5
+                }
+            },
+            "1004204": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 120,
+                "Cost": {
+                    "Warm Essence": 10
+                }
+            },
+            "1004205": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Warm Essence": 20
+                }
+            }
+        },
+        "2": {
+            "1004301": {
+                "Name": "Festering Dragon Marrow",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Miraculous Essence": 400
+                }
+            },
+            "1004302": {
+                "Name": "Crown of Insight",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Miraculous Essence": 600
+                }
+            },
+            "1004303": {
+                "Name": "Guide to Freedom",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Miraculous Essence": 20
+                }
+            },
+            "1004304": {
+                "Name": "Guide to Resistance",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Miraculous Essence": 20
+                }
+            },
+            "1004305": {
+                "Name": "Guide to Ballad",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Miraculous Essence": 20
+                }
+            },
+            "1004306": {
+                "Name": "Guide to Prosperity",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Miraculous Essence": 20
+                }
+            },
+            "1004307": {
+                "Name": "Guide to Diligence",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Miraculous Essence": 20
+                }
+            },
+            "1004308": {
+                "Name": "Guide to Gold",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "Miraculous Essence": 20
+                }
+            },
+            "1004309": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Miraculous Essence": 12
+                }
+            },
+            "1004310": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Miraculous Essence": 12
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_TREASURE_MAP": {
+        "1003101": {
+            "Name": "Primogem",
+            "Count": 100,
+            "Limit": 3,
+            "Cost": {
+                "Iron Coin": 80
+            }
+        },
+        "1003102": {
+            "Name": "Hero's Wit",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "Iron Coin": 8
+            }
+        },
+        "1003103": {
+            "Name": "Mystic Enhancement Ore",
+            "Count": 1,
+            "Limit": 20,
+            "Cost": {
+                "Iron Coin": 4
+            }
+        },
+        "1003104": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 20,
+            "Cost": {
+                "Iron Coin": 8
+            }
+        },
+        "1003106": {
+            "Name": "Mini Seelie: Dayflower",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Iron Coin": 280
+            }
+        },
+        "1003107": {
+            "Name": "Mini Seelie: Ros\u00e9",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Iron Coin": 280
+            }
+        },
+        "1003108": {
+            "Name": "Mini Seelie: Curcuma",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Iron Coin": 280
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_SEA_LAMP": {
+        "0": {
+            "1005101": {
+                "Name": "Agnidus Agate Fragment",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 60
+                }
+            },
+            "1005102": {
+                "Name": "Varunada Lazurite Fragment",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 60
+                }
+            },
+            "1005103": {
+                "Name": "Vajrada Amethyst Fragment",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 60
+                }
+            },
+            "1005104": {
+                "Name": "Vayuda Turquoise Fragment",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 60
+                }
+            },
+            "1005105": {
+                "Name": "Shivada Jade Fragment",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 60
+                }
+            },
+            "1005106": {
+                "Name": "Prithiva Topaz Fragment",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 60
+                }
+            },
+            "1005107": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Peace Talisman": 20
+                }
+            },
+            "1005108": {
+                "Name": "Dust of Azoth",
+                "Count": 10,
+                "Limit": 20,
+                "Cost": {
+                    "Peace Talisman": 10
+                }
+            },
+            "1005109": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 20,
+                "Cost": {
+                    "Peace Talisman": 20
+                }
+            }
+        },
+        "1": {
+            "1005201": {
+                "Name": "Crown of Insight",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Peace Talisman": 1000
+                }
+            },
+            "1005202": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "Peace Talisman": 20
+                }
+            },
+            "1005203": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 30,
+                "Cost": {
+                    "Peace Talisman": 10
+                }
+            },
+            "1005204": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 40,
+                "Cost": {
+                    "Peace Talisman": 20
+                }
+            }
+        },
+        "2": {
+            "1005301": {
+                "Name": "Celebration: Lantern-Light",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Peace Talisman": 1000
+                }
+            },
+            "1005302": {
+                "Name": "Philosophies of Freedom",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Peace Talisman": 120
+                }
+            },
+            "1005303": {
+                "Name": "Guide to Freedom",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 40
+                }
+            },
+            "1005304": {
+                "Name": "Philosophies of Resistance",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Peace Talisman": 120
+                }
+            },
+            "1005305": {
+                "Name": "Guide to Resistance",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 40
+                }
+            },
+            "1005306": {
+                "Name": "Philosophies of Ballad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Peace Talisman": 120
+                }
+            },
+            "1005307": {
+                "Name": "Guide to Ballad",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 40
+                }
+            },
+            "1005308": {
+                "Name": "Philosophies of Prosperity",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Peace Talisman": 120
+                }
+            },
+            "1005309": {
+                "Name": "Guide to Prosperity",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 40
+                }
+            },
+            "1005310": {
+                "Name": "Philosophies of Diligence",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Peace Talisman": 120
+                }
+            },
+            "1005311": {
+                "Name": "Guide to Diligence",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 40
+                }
+            },
+            "1005312": {
+                "Name": "Philosophies of Gold",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Peace Talisman": 120
+                }
+            },
+            "1005313": {
+                "Name": "Guide to Gold",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peace Talisman": 40
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_FLEUR_FAIR": {
+        "0": {
+            "1044101": {
+                "Name": "Crown of Insight",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Festive Tour Ticket": 400
+                }
+            },
+            "1044102": {
+                "Name": "Guide to Freedom",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Festive Tour Ticket": 20
+                }
+            },
+            "1044103": {
+                "Name": "Philosophies of Freedom",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Festive Tour Ticket": 60
+                }
+            },
+            "1044104": {
+                "Name": "Guide to Resistance",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Festive Tour Ticket": 20
+                }
+            },
+            "1044105": {
+                "Name": "Philosophies of Resistance",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Festive Tour Ticket": 60
+                }
+            },
+            "1044106": {
+                "Name": "Guide to Ballad",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Festive Tour Ticket": 20
+                }
+            },
+            "1044107": {
+                "Name": "Philosophies of Ballad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Festive Tour Ticket": 60
+                }
+            },
+            "1044108": {
+                "Name": "Guide to Prosperity",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Festive Tour Ticket": 20
+                }
+            },
+            "1044109": {
+                "Name": "Philosophies of Prosperity",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Festive Tour Ticket": 60
+                }
+            },
+            "1044110": {
+                "Name": "Guide to Diligence",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Festive Tour Ticket": 20
+                }
+            },
+            "1044111": {
+                "Name": "Philosophies of Diligence",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Festive Tour Ticket": 60
+                }
+            },
+            "1044112": {
+                "Name": "Guide to Gold",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Festive Tour Ticket": 20
+                }
+            },
+            "1044113": {
+                "Name": "Philosophies of Gold",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Festive Tour Ticket": 60
+                }
+            },
+            "1044114": {
+                "Name": "Windblume Festival Commemorative Balloon",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Festive Tour Ticket": 280
+                }
+            },
+            "1044115": {
+                "Name": "Windsong Lyre",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Festive Tour Ticket": 280
+                }
+            }
+        },
+        "1": {
+            "1044201": {
+                "Name": "Windblume Ode",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Peculiar Collab Coupon": 700
+                }
+            },
+            "1044202": {
+                "Name": "\"The Visible Winds\"",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Peculiar Collab Coupon": 500
+                }
+            },
+            "1044203": {
+                "Name": "Chains of the Dandelion Gladiator",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peculiar Collab Coupon": 15
+                }
+            },
+            "1044204": {
+                "Name": "Debris of Decarabian's City",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peculiar Collab Coupon": 15
+                }
+            },
+            "1044205": {
+                "Name": "Boreal Wolf's Cracked Tooth",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peculiar Collab Coupon": 15
+                }
+            },
+            "1044206": {
+                "Name": "Lustrous Stone from Guyun",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peculiar Collab Coupon": 15
+                }
+            },
+            "1044207": {
+                "Name": "Mist Veiled Mercury Elixir",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peculiar Collab Coupon": 15
+                }
+            },
+            "1044208": {
+                "Name": "Piece of Aerosiderite",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Peculiar Collab Coupon": 15
+                }
+            },
+            "1044209": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 30,
+                "Cost": {
+                    "Peculiar Collab Coupon": 10
+                }
+            },
+            "1044210": {
+                "Name": "Dust of Azoth",
+                "Count": 6,
+                "Limit": 20,
+                "Cost": {
+                    "Peculiar Collab Coupon": 3
+                }
+            },
+            "1044211": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Peculiar Collab Coupon": 5
+                }
+            },
+            "1044212": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "Peculiar Collab Coupon": 10
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB": {
+        "15001101": {
+            "Name": "Primogem",
+            "Count": 60,
+            "Limit": 5,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001102": {
+            "Name": "Crown of Insight",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Fractured Fruit Data": 1000
+            }
+        },
+        "15001103": {
+            "Name": "Guide to Freedom",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 40
+            }
+        },
+        "15001104": {
+            "Name": "Philosophies of Freedom",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001105": {
+            "Name": "Guide to Resistance",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 40
+            }
+        },
+        "15001106": {
+            "Name": "Philosophies of Resistance",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001107": {
+            "Name": "Guide to Ballad",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 40
+            }
+        },
+        "15001108": {
+            "Name": "Philosophies of Ballad",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001109": {
+            "Name": "Guide to Prosperity",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 40
+            }
+        },
+        "15001110": {
+            "Name": "Philosophies of Prosperity",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001111": {
+            "Name": "Guide to Diligence",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 40
+            }
+        },
+        "15001112": {
+            "Name": "Philosophies of Diligence",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001113": {
+            "Name": "Guide to Gold",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 40
+            }
+        },
+        "15001114": {
+            "Name": "Philosophies of Gold",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "Fractured Fruit Data": 120
+            }
+        },
+        "15001115": {
+            "Name": "Agnidus Agate Fragment",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 60
+            }
+        },
+        "15001116": {
+            "Name": "Varunada Lazurite Fragment",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 60
+            }
+        },
+        "15001117": {
+            "Name": "Vajrada Amethyst Fragment",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 60
+            }
+        },
+        "15001118": {
+            "Name": "Vayuda Turquoise Fragment",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 60
+            }
+        },
+        "15001119": {
+            "Name": "Shivada Jade Fragment",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 60
+            }
+        },
+        "15001120": {
+            "Name": "Prithiva Topaz Fragment",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "Fractured Fruit Data": 60
+            }
+        },
+        "15001121": {
+            "Name": "Hero's Wit",
+            "Count": 1,
+            "Limit": 30,
+            "Cost": {
+                "Fractured Fruit Data": 20
+            }
+        },
+        "15001122": {
+            "Name": "Mystic Enhancement Ore",
+            "Count": 1,
+            "Limit": 75,
+            "Cost": {
+                "Fractured Fruit Data": 10
+            }
+        },
+        "15001123": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 50,
+            "Cost": {
+                "Fractured Fruit Data": 20
+            }
+        },
+        "15001124": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 50,
+            "Cost": {
+                "Fractured Fruit Data": 30
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_SUMMER_TIME": {
+        "0": {
+            "16001101": {
+                "Name": "Crown of Insight",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Shiny Flotsam": 500
+                }
+            },
+            "16001102": {
+                "Name": "Northlander Billet Trove",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Shiny Flotsam": 500
+                }
+            },
+            "16001103": {
+                "Name": "\"A Guide in the Summer Woods\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Shiny Flotsam": 100
+                }
+            },
+            "16001104": {
+                "Name": "\"A Messenger in the Summer Woods\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Shiny Flotsam": 100
+                }
+            },
+            "16001105": {
+                "Name": "\"Pure Gorgeous Summer\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Shiny Flotsam": 200
+                }
+            },
+            "16001106": {
+                "Name": "Philosophies of Freedom",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Shiny Flotsam": 50
+                }
+            },
+            "16001107": {
+                "Name": "Philosophies of Resistance",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Shiny Flotsam": 50
+                }
+            },
+            "16001108": {
+                "Name": "Philosophies of Ballad",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Shiny Flotsam": 50
+                }
+            },
+            "16001109": {
+                "Name": "Philosophies of Prosperity",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Shiny Flotsam": 50
+                }
+            },
+            "16001110": {
+                "Name": "Philosophies of Diligence",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Shiny Flotsam": 50
+                }
+            },
+            "16001111": {
+                "Name": "Philosophies of Gold",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "Shiny Flotsam": 50
+                }
+            }
+        },
+        "1": {
+            "16001201": {
+                "Name": "Dodoco Tales",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Mini \"Harpastum\"": 800
+                }
+            },
+            "16001202": {
+                "Name": "\"Fragments of Innocence\"",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "Mini \"Harpastum\"": 500
+                }
+            },
+            "16001203": {
+                "Name": "\"Feather-Light Praise\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Mini \"Harpastum\"": 200
+                }
+            },
+            "16001204": {
+                "Name": "\"The Blue Ocean's Treasure\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Mini \"Harpastum\"": 200
+                }
+            },
+            "16001205": {
+                "Name": "\"Witch's Chorus\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Mini \"Harpastum\"": 200
+                }
+            },
+            "16001206": {
+                "Name": "Chains of the Dandelion Gladiator",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            },
+            "16001207": {
+                "Name": "Debris of Decarabian's City",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            },
+            "16001208": {
+                "Name": "Boreal Wolf's Cracked Tooth",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            },
+            "16001209": {
+                "Name": "Lustrous Stone from Guyun",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            },
+            "16001210": {
+                "Name": "Mist Veiled Mercury Elixir",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            },
+            "16001211": {
+                "Name": "Piece of Aerosiderite",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            },
+            "16001212": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 100,
+                "Cost": {
+                    "Mini \"Harpastum\"": 5
+                }
+            },
+            "16001213": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 24,
+                "Cost": {
+                    "Mini \"Harpastum\"": 10
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING": {
+        "16002001": {
+            "Name": "Primogem",
+            "Count": 60,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 200
+            }
+        },
+        "16002002": {
+            "Name": "Celebration: Kaboomball",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "Enigma Gear": 1500
+            }
+        },
+        "16002003": {
+            "Name": "Guide to Freedom",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 50
+            }
+        },
+        "16002004": {
+            "Name": "Guide to Resistance",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 50
+            }
+        },
+        "16002005": {
+            "Name": "Guide to Ballad",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 50
+            }
+        },
+        "16002006": {
+            "Name": "Guide to Prosperity",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 50
+            }
+        },
+        "16002007": {
+            "Name": "Guide to Diligence",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 50
+            }
+        },
+        "16002008": {
+            "Name": "Guide to Gold",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "Enigma Gear": 50
+            }
+        },
+        "16002009": {
+            "Name": "Hero's Wit",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "Enigma Gear": 25
+            }
+        },
+        "16002010": {
+            "Name": "Mora",
+            "Count": 10000,
+            "Limit": 16,
+            "Cost": {
+                "Enigma Gear": 25
+            }
+        }
+    },
+    "SHOP_TYPE_HOME": {
+        "1": {
+            "213101": {
+                "Name": "Fabric",
+                "Count": 5,
+                "Limit": 50,
+                "Cost": {
+                    "Realm Currency": 10
+                }
+            },
+            "213102": {
+                "Name": "Transient Resin",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 1200
+                }
+            },
+            "213103": {
+                "Name": "Hero's Wit",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Realm Currency": 120
+                }
+            },
+            "213104": {
+                "Name": "Mystic Enhancement Ore",
+                "Count": 1,
+                "Limit": 40,
+                "Cost": {
+                    "Realm Currency": 60
+                }
+            },
+            "213105": {
+                "Name": "Mora",
+                "Count": 10000,
+                "Limit": 20,
+                "Cost": {
+                    "Realm Currency": 120
+                }
+            },
+            "213106": {
+                "Name": "Sanctifying Essence",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Realm Currency": 360
+                }
+            },
+            "213107": {
+                "Name": "Sanctifying Unction",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "Realm Currency": 90
+                }
+            }
+        },
+        "2": {
+            "213201": {
+                "Name": "Vial of Adeptal Speed",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "Realm Currency": 10
+                }
+            },
+            "213202": {
+                "Name": "Fragrant Cedar Vegetable Rack",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 60
+                }
+            },
+            "213203": {
+                "Name": "Blooming Hedge",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213204": {
+                "Name": "Ordinary Garden Hedge",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213205": {
+                "Name": "\"Concealing Leaves\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213206": {
+                "Name": "\"Green Fountain\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213207": {
+                "Name": "\"Kindletree\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213208": {
+                "Name": "\"Crystalfly's Perch\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213209": {
+                "Name": "\"Southern Sweetleaves\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213210": {
+                "Name": "\"Brightcrown Plumebush\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213211": {
+                "Name": "\"The Color of the Wind\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213212": {
+                "Name": "Silversand Coconut Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213213": {
+                "Name": "Whitesand Coconut Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213214": {
+                "Name": "Tianheng Red Maple: Branches Aflame",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213215": {
+                "Name": "Peculiar Knotwood Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213216": {
+                "Name": "Yellow Sandbearer Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213217": {
+                "Name": "Hiding Grazestone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213218": {
+                "Name": "Recreation Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213219": {
+                "Name": "Unmoving Kingstone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213220": {
+                "Name": "Ashen Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213221": {
+                "Name": "Sartorial Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213222": {
+                "Name": "Moss-Covered Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213223": {
+                "Name": "Stratus-Cloud Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213224": {
+                "Name": "Stepping Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213225": {
+                "Name": "Unprecedentedly Average Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213226": {
+                "Name": "Mature Cuihua Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213227": {
+                "Name": "Cuihua Sapling",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213228": {
+                "Name": "Tall Birch",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213229": {
+                "Name": "Birch Sapling",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213230": {
+                "Name": "Golden Knotwood Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213231": {
+                "Name": "Green Knotwood Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213232": {
+                "Name": "Amber Knotwood Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213233": {
+                "Name": "Amber Irontrunk Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213234": {
+                "Name": "Golden Irontrunk Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213235": {
+                "Name": "Green Irontrunk Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213236": {
+                "Name": "Qingce Heronleaf Bamboo",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213237": {
+                "Name": "Qingce Skysail Bamboo",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213238": {
+                "Name": "Qingce Jadestone Bamboo",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213239": {
+                "Name": "Overgrown Wildvest",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213240": {
+                "Name": "Hazel Wildvest",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213241": {
+                "Name": "Wine-Red Wildvest",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213242": {
+                "Name": "Moonlight Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213243": {
+                "Name": "Sunset Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213244": {
+                "Name": "Scorched Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213245": {
+                "Name": "Goldchime Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213246": {
+                "Name": "Goldbud Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213247": {
+                "Name": "Summer Solstice Rock",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213248": {
+                "Name": "Formation Rock",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213249": {
+                "Name": "\"Dainty Fists\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213250": {
+                "Name": "Chasm's Doorstep",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213251": {
+                "Name": "Parched Stone",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213252": {
+                "Name": "Golden Pearlroot Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213253": {
+                "Name": "Amber Pearlroot Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213254": {
+                "Name": "Withered Pearlroot Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213255": {
+                "Name": "Green Pearlroot Tree",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213256": {
+                "Name": "Profuse Smokeleaf",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213257": {
+                "Name": "Vivacious Smokeleaf",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213258": {
+                "Name": "Profuse Lacquerleaf",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213259": {
+                "Name": "Vivacious Lacquerleaf",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213260": {
+                "Name": "Profuse Awlking",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213261": {
+                "Name": "Vivacious Awlking",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213262": {
+                "Name": "Luscious Bloom",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213263": {
+                "Name": "Verdant Bloom",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213264": {
+                "Name": "Meadow Bloom",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213265": {
+                "Name": "Gemini Verdance",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213266": {
+                "Name": "Gemini Jasmine",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 40
+                }
+            },
+            "213267": {
+                "Name": "\"A Seat in the Wilderness\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213268": {
+                "Name": "\"Hunter's Vantage\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213269": {
+                "Name": "\"Prey's Cloak of Refuge\"",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213270": {
+                "Name": "Verdurous Feast",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213271": {
+                "Name": "Verdurous Waiter",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213272": {
+                "Name": "Adeptus Amber: A Striking Sight",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 120
+                }
+            },
+            "213273": {
+                "Name": "Adeptus Amber: Trespassers Beware",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "Realm Currency": 120
+                }
+            }
+        },
+        "3": {
+            "213601": {
+                "Name": "Multi-Seat Round Pine Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213602": {
+                "Name": "Wooden Restaurant Signboard",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213603": {
+                "Name": "Pine Dining Chair",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213606": {
+                "Name": "Well-Worn Sword",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213607": {
+                "Name": "Mounted Record Board",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213609": {
+                "Name": "Straw Hut",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213610": {
+                "Name": "Straw Depot",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213611": {
+                "Name": "Straw Shed",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213612": {
+                "Name": "Doorless Pine Cupboard",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213613": {
+                "Name": "Long Pine Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213614": {
+                "Name": "Fir Shelves",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213615": {
+                "Name": "Fir Weapon Rack",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213616": {
+                "Name": "Messy Pile of Fir Crates",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213617": {
+                "Name": "Neat Stack of Fir Kegs",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213618": {
+                "Name": "Simple Cargo Cart",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213619": {
+                "Name": "Heavy Hay Bale",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213620": {
+                "Name": "Storage Sack: Buzz-Off Bag",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213621": {
+                "Name": "Old Well",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213622": {
+                "Name": "Weathered Bamboo Fence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213623": {
+                "Name": "Smooth Wooden Bench",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213624": {
+                "Name": "Smooth Stone Bench",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213625": {
+                "Name": "Timber Wall With Jade Eaves",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213626": {
+                "Name": "Dark Wood Arch Wall",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213627": {
+                "Name": "Traditional Cedar Flooring",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213628": {
+                "Name": "Colorful Checkered Tile",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213629": {
+                "Name": "Checkered Cedar Ceiling",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213630": {
+                "Name": "Dark Checkered Ceiling",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213631": {
+                "Name": "Two-Tier Candle Chandelier",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213632": {
+                "Name": "Eight-Sided Lantern: Lucky Day",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213633": {
+                "Name": "Six-Sided Lantern: Harmony in Friendship",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213634": {
+                "Name": "\"Night of the Party Pumpkins\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213635": {
+                "Name": "Favonius Office Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213636": {
+                "Name": "Favonius Conference Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213637": {
+                "Name": "Long Table With Tablecloth",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213638": {
+                "Name": "Red Cedar Round Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213639": {
+                "Name": "Northern Stone Hearth",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213640": {
+                "Name": "\"Clear Blue Afternoon\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213641": {
+                "Name": "\"Unwavering Determination\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213642": {
+                "Name": "Red Pine Wood Round Stool",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213644": {
+                "Name": "Trusty Portable Lamp",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213645": {
+                "Name": "Sturdy Birch Vanity",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213646": {
+                "Name": "Mondstadt Rug: Crimson Ardor",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213647": {
+                "Name": "Mondstadt Rug: Tireless Search",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213648": {
+                "Name": "Rally Banner",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213649": {
+                "Name": "Pure Spirit Banner",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213650": {
+                "Name": "Neat Stack of Books",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213651": {
+                "Name": "\"Scholar's Weariness\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213652": {
+                "Name": "\"Etiquette of Correspondence\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213653": {
+                "Name": "Exquisite Hourglass Ornament",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213654": {
+                "Name": "Flower Arrangement: Baby Blue Tranquility",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213655": {
+                "Name": "Potted Plant: Crystalline Breeze",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213656": {
+                "Name": "Potted Flower: Fragrant Facade",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213657": {
+                "Name": "Alchemic Device: Between Fire and Water",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213658": {
+                "Name": "Alchemic Component: Burden of Dust",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213659": {
+                "Name": "Potted Plant: Petite Perrenial",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213660": {
+                "Name": "Golden Triple-Arm Candelabrum",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213661": {
+                "Name": "Breeze-Blessed Bed",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213662": {
+                "Name": "Cloudy Haze Bed",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213663": {
+                "Name": "Large Birch Wardrobe",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213664": {
+                "Name": "Birch Double Drawer Nightstand",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213665": {
+                "Name": "Gold-Lined Sandbearer Nightstand",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213666": {
+                "Name": "Gold-Lined Sandbearer Wardrobe",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213667": {
+                "Name": "Seashell Table Lamp",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213668": {
+                "Name": "Bustling Sundry Stand",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213669": {
+                "Name": "Real Deal Fruit Stand",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213670": {
+                "Name": "Open-Air Workshop",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213671": {
+                "Name": "Bountiful Harvest Fruit Cart",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213672": {
+                "Name": "Country Home With Tall Attic",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213673": {
+                "Name": "\"Traveling Merchant North of the Stone Gate\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213674": {
+                "Name": "Roll-Roofed Fruit and Vegetable Cart",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213675": {
+                "Name": "Liyue House: Solitary Retreat",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213676": {
+                "Name": "Heavy Fir Forging Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213677": {
+                "Name": "Large Stone Mill",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213678": {
+                "Name": "Hardwood Weapon Rack",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213679": {
+                "Name": "Sturdy Stone Well",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213680": {
+                "Name": "Wine Jar With Bamboo Casing: Spirits Awaiting Moonrise",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213681": {
+                "Name": "Potted Plant: Verdant Vastness",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213682": {
+                "Name": "Fruit and Veggie Stall: Harvest Bounties",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213683": {
+                "Name": "Wine Shop Display Counter: To Your Heart's Content",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213684": {
+                "Name": "Crude Double-Decker Pallet",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213685": {
+                "Name": "Farmer's Scarecrow",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213686": {
+                "Name": "Fruit Seller's Caution",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213687": {
+                "Name": "Fruit Seller's Toil",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213688": {
+                "Name": "Wooden Hilichurl Fence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213689": {
+                "Name": "Hilichurl Totem Fence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213690": {
+                "Name": "Hilichurl Archery Target",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213691": {
+                "Name": "Hilichurl Horned Pot",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213692": {
+                "Name": "Bamboo Outdoor Tea Table",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213693": {
+                "Name": "Water-Retaining Flower Beds",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213694": {
+                "Name": "Lush Grapevine",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213695": {
+                "Name": "Wrought Iron Carved Street Light",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213696": {
+                "Name": "Evil-Repelling Lantern: All-Around Lighting",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213697": {
+                "Name": "Four Corners Lantern: Amity From Afar",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213698": {
+                "Name": "Shadow Lamp: Painted Shadow",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213699": {
+                "Name": "Soft Lounge Sofa",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213700": {
+                "Name": "Economy Cuihua Bookshelf",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213701": {
+                "Name": "\"Archivist's Treasure Trove\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213702": {
+                "Name": "Birch Main Courtyard Gate",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213703": {
+                "Name": "Carved Courtyard Fence Ending",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213704": {
+                "Name": "Carved Courtyard Fence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213705": {
+                "Name": "Wing House: Dawn & Dusk",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213706": {
+                "Name": "Pavilion: Stargazer's Shelter",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213707": {
+                "Name": "Scenic Corridor: Sylvan Stroll",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213708": {
+                "Name": "Courtyard Wall: Spring and Autumn Splendor",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213709": {
+                "Name": "Wall Corner: Fragrant Nook",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213710": {
+                "Name": "Courtyard Wall: All in a Row",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213711": {
+                "Name": "Courtyard Wall: Peace Across",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213712": {
+                "Name": "Main Entrance: Gateway to the Clouds",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213713": {
+                "Name": "Perimeter Wall: Scenic Archway",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213714": {
+                "Name": "Sturdy Wooden Barrel",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213715": {
+                "Name": "Soil-Carrying Wooden Barrel",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213716": {
+                "Name": "Newly Grown Grapevines",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213717": {
+                "Name": "Simple Wooden Fence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213718": {
+                "Name": "Half-Constructed Fence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213719": {
+                "Name": "Tall Wooden Pole",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213720": {
+                "Name": "Temporary Work Quarters",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213721": {
+                "Name": "Wood Bundle",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 80
+                }
+            },
+            "213722": {
+                "Name": "Rainproof Fir Cargo Container",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213723": {
+                "Name": "Countryside Tea Stand",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213724": {
+                "Name": "\"The Adventurer's Treasures\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213725": {
+                "Name": "Stone Cup-Shaped Pool",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213726": {
+                "Name": "Glazed Porcelain Tea Set: \"Embracing Truth\"",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 160
+                }
+            },
+            "213727": {
+                "Name": "Amidst Poetic Pondering",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213728": {
+                "Name": "Amidst Whispering Winds",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213729": {
+                "Name": "Feiyun Study Room",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213730": {
+                "Name": "Cloudy Haze Dream-Court",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213731": {
+                "Name": "Secret Research Lab",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213732": {
+                "Name": "Cottage Kitchen",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213733": {
+                "Name": "Weapon Forging Station",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213734": {
+                "Name": "Idyllic Town",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213735": {
+                "Name": "Bird and Blossom Park",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213736": {
+                "Name": "Gathering of Gourmets",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213737": {
+                "Name": "Glittering Street",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213738": {
+                "Name": "Qingce Cloud Residence",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213739": {
+                "Name": "Of Hunting and Dancing",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213740": {
+                "Name": "Iter Ad Astra Abyssosque",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            },
+            "213741": {
+                "Name": "Dawn Orchard",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "Realm Currency": 240
+                }
+            }
+        }
+    }
+}

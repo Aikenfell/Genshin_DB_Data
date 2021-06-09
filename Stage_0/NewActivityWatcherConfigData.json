@@ -1,0 +1,5886 @@
+[
+    {
+        "RewardID": 490001,
+        "RewardPreview": 2101,
+        "ActivitychallengetipsTextMapHash": 2357158552,
+        "ExtraActivitychallengetipsTextMapHash": 175190103,
+        "Id": 1500101,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 490002,
+        "RewardPreview": 2102,
+        "ActivitychallengetipsTextMapHash": 2186297600,
+        "ExtraActivitychallengetipsTextMapHash": 85890495,
+        "Id": 1500102,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 490003,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1510819328,
+        "ExtraActivitychallengetipsTextMapHash": 116152071,
+        "Id": 1500103,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 490004,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 911937520,
+        "ExtraActivitychallengetipsTextMapHash": 243632575,
+        "Id": 1500104,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20
+    },
+    {
+        "RewardID": 490009,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3796228584,
+        "ExtraActivitychallengetipsTextMapHash": 3946483863,
+        "Id": 1500105,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 490010,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2234401504,
+        "ExtraActivitychallengetipsTextMapHash": 1545513391,
+        "Id": 1500106,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 40000
+    },
+    {
+        "RewardID": 490011,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2511411272,
+        "ExtraActivitychallengetipsTextMapHash": 3953405559,
+        "Id": 1500107,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 80000
+    },
+    {
+        "RewardID": 490012,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1841643096,
+        "ExtraActivitychallengetipsTextMapHash": 1342725855,
+        "Id": 1500108,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 160000
+    },
+    {
+        "RewardID": 490005,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2418092520,
+        "ExtraActivitychallengetipsTextMapHash": 2920541519,
+        "Id": 1500109,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 490006,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 709177168,
+        "ExtraActivitychallengetipsTextMapHash": 2617486175,
+        "Id": 1500110,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 490007,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 395438768,
+        "ExtraActivitychallengetipsTextMapHash": 3292994095,
+        "Id": 1500111,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30
+    },
+    {
+        "RewardID": 490008,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1739883704,
+        "ExtraActivitychallengetipsTextMapHash": 4261453263,
+        "Id": 1500112,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 100
+    },
+    {
+        "RewardID": 490013,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2781970104,
+        "ExtraActivitychallengetipsTextMapHash": 4020350439,
+        "Id": 1500113,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_WORLD_LEVEL_SCORE",
+            "ParamList": [
+                "720",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 490001,
+        "RewardPreview": 2101,
+        "ActivitychallengetipsTextMapHash": 2279370000,
+        "ExtraActivitychallengetipsTextMapHash": 2144248743,
+        "Id": 1500501,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490002,
+        "RewardPreview": 2102,
+        "ActivitychallengetipsTextMapHash": 2141519256,
+        "ExtraActivitychallengetipsTextMapHash": 2745551495,
+        "Id": 1500502,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490003,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 710856968,
+        "ExtraActivitychallengetipsTextMapHash": 4177349671,
+        "Id": 1500503,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490004,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 151319616,
+        "ExtraActivitychallengetipsTextMapHash": 61031703,
+        "Id": 1500504,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490009,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1499196224,
+        "ExtraActivitychallengetipsTextMapHash": 3213175087,
+        "Id": 1500505,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490010,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 202814408,
+        "ExtraActivitychallengetipsTextMapHash": 4280656447,
+        "Id": 1500506,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 40000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490011,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2647593696,
+        "ExtraActivitychallengetipsTextMapHash": 3616788839,
+        "Id": 1500507,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 80000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490012,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1772352888,
+        "ExtraActivitychallengetipsTextMapHash": 4189366167,
+        "Id": 1500508,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 160000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490005,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 4212650472,
+        "ExtraActivitychallengetipsTextMapHash": 341471671,
+        "Id": 1500509,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490006,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3497894040,
+        "ExtraActivitychallengetipsTextMapHash": 4146403287,
+        "Id": 1500510,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490007,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2617625992,
+        "ExtraActivitychallengetipsTextMapHash": 2930035855,
+        "Id": 1500511,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490008,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1701363944,
+        "ExtraActivitychallengetipsTextMapHash": 1032017191,
+        "Id": 1500512,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_MONSTER",
+            "ParamList": [
+                "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 100,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 490013,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 813143832,
+        "ExtraActivitychallengetipsTextMapHash": 550374071,
+        "Id": 1500513,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_CRUCIBLE_WORLD_LEVEL_SCORE",
+            "ParamList": [
+                "720",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3000001,
+        "ActivitychallengetipsTextMapHash": 2270218168,
+        "ExtraActivitychallengetipsTextMapHash": 2136599383,
+        "Id": 1200101,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001005",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RewardID": 3000002,
+        "ActivitychallengetipsTextMapHash": 1896573096,
+        "ExtraActivitychallengetipsTextMapHash": 3257508631,
+        "Id": 1200102,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001012",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RewardID": 3000003,
+        "ActivitychallengetipsTextMapHash": 1179969504,
+        "ExtraActivitychallengetipsTextMapHash": 2549186327,
+        "Id": 1200103,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001013",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RewardID": 3000004,
+        "ActivitychallengetipsTextMapHash": 2129370136,
+        "ExtraActivitychallengetipsTextMapHash": 162899743,
+        "Id": 1200104,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001007",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RewardID": 3000005,
+        "ActivitychallengetipsTextMapHash": 2684716912,
+        "ExtraActivitychallengetipsTextMapHash": 2846798087,
+        "Id": 1200105,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001014",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RewardID": 3000006,
+        "ActivitychallengetipsTextMapHash": 1827889008,
+        "ExtraActivitychallengetipsTextMapHash": 466169751,
+        "Id": 1200106,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001015",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2300469352,
+        "ExtraActivitychallengetipsTextMapHash": 638869087,
+        "Id": 1200107,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001008",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 1107874896,
+        "ExtraActivitychallengetipsTextMapHash": 1463992455,
+        "Id": 1200108,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001016",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2717791568,
+        "ExtraActivitychallengetipsTextMapHash": 1744567623,
+        "Id": 1200109,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_GATHER",
+            "ParamList": [
+                "302001017",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3000010,
+        "ActivitychallengetipsTextMapHash": 3039438344,
+        "ExtraActivitychallengetipsTextMapHash": 1927934071,
+        "Id": 1200110,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3000011,
+        "ActivitychallengetipsTextMapHash": 825283120,
+        "ExtraActivitychallengetipsTextMapHash": 600809303,
+        "Id": 1200111,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 3000012,
+        "ActivitychallengetipsTextMapHash": 3315777560,
+        "ExtraActivitychallengetipsTextMapHash": 3031911407,
+        "Id": 1200112,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 15
+    },
+    {
+        "RewardID": 3000013,
+        "ActivitychallengetipsTextMapHash": 943221864,
+        "ExtraActivitychallengetipsTextMapHash": 2357658087,
+        "Id": 1200113,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20
+    },
+    {
+        "RewardID": 3000014,
+        "ActivitychallengetipsTextMapHash": 4119969008,
+        "ExtraActivitychallengetipsTextMapHash": 192106111,
+        "Id": 1200114,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 25
+    },
+    {
+        "RewardID": 3000015,
+        "ActivitychallengetipsTextMapHash": 2988498200,
+        "ExtraActivitychallengetipsTextMapHash": 2916892631,
+        "Id": 1200115,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2260985544,
+        "ExtraActivitychallengetipsTextMapHash": 2138647799,
+        "Id": 1200130,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "ParamList": [
+                "4111309",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 1162985200,
+        "ExtraActivitychallengetipsTextMapHash": 1799609671,
+        "Id": 1200131,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70950021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 14
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 16783256,
+        "ExtraActivitychallengetipsTextMapHash": 2087449983,
+        "Id": 1200132,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
+            "ParamList": [
+                "70330041",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 423594600,
+        "ExtraActivitychallengetipsTextMapHash": 1086958095,
+        "Id": 1200201,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "ParamList": [
+                "4111309",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3981962720,
+        "ExtraActivitychallengetipsTextMapHash": 1616325431,
+        "Id": 1200202,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "109",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 500,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1758285456,
+        "ExtraActivitychallengetipsTextMapHash": 291811999,
+        "Id": 1200203,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "110",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 500,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 660337896,
+        "ExtraActivitychallengetipsTextMapHash": 2906594599,
+        "Id": 1200301,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "ParamList": [
+                "4111309",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 391638632,
+        "ExtraActivitychallengetipsTextMapHash": 1249604647,
+        "Id": 1200302,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "109",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 500,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 590268048,
+        "ExtraActivitychallengetipsTextMapHash": 1916876831,
+        "Id": 1200303,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "110",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 500,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002011,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2753165688,
+        "ExtraActivitychallengetipsTextMapHash": 1045493095,
+        "Id": 1501001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133104761",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002012,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1951483464,
+        "ExtraActivitychallengetipsTextMapHash": 1090007615,
+        "Id": 1501002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133104761",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002013,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2206655728,
+        "ExtraActivitychallengetipsTextMapHash": 413603767,
+        "Id": 1501003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133104761",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3002021,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3607134760,
+        "ExtraActivitychallengetipsTextMapHash": 2730844975,
+        "Id": 1502001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133103577",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002022,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 868485688,
+        "ExtraActivitychallengetipsTextMapHash": 3788616807,
+        "Id": 1502002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133103577",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002023,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1993469224,
+        "ExtraActivitychallengetipsTextMapHash": 784025175,
+        "Id": 1502003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133103577",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3002031,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 861677120,
+        "ExtraActivitychallengetipsTextMapHash": 418111551,
+        "Id": 1503001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133001435",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002032,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 750729800,
+        "ExtraActivitychallengetipsTextMapHash": 692699471,
+        "Id": 1503002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133001435",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002033,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2319027856,
+        "ExtraActivitychallengetipsTextMapHash": 137400215,
+        "Id": 1503003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133001435",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3002041,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1403797056,
+        "ExtraActivitychallengetipsTextMapHash": 1033342639,
+        "Id": 1504001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133104029",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002042,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3588149400,
+        "ExtraActivitychallengetipsTextMapHash": 250823919,
+        "Id": 1504002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133104029",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002043,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3112796720,
+        "ExtraActivitychallengetipsTextMapHash": 354619831,
+        "Id": 1504003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133104029",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3002051,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2753104984,
+        "ExtraActivitychallengetipsTextMapHash": 1767429047,
+        "Id": 1505001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133107134",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002052,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2940178096,
+        "ExtraActivitychallengetipsTextMapHash": 421509207,
+        "Id": 1505002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133107134",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002053,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 549365872,
+        "ExtraActivitychallengetipsTextMapHash": 1647833943,
+        "Id": 1505003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133107134",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3002061,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1677312768,
+        "ExtraActivitychallengetipsTextMapHash": 797089623,
+        "Id": 1506001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133101214",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002062,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 2373263848,
+        "ExtraActivitychallengetipsTextMapHash": 917231383,
+        "Id": 1506002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133101214",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002063,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 3976740456,
+        "ExtraActivitychallengetipsTextMapHash": 1428539671,
+        "Id": 1506003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133101214",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3002071,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 678150776,
+        "ExtraActivitychallengetipsTextMapHash": 2435140855,
+        "Id": 1507001,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133004365",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3002072,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 506503736,
+        "ExtraActivitychallengetipsTextMapHash": 2552752767,
+        "Id": 1507002,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133004365",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3002073,
+        "RewardPreview": 2103,
+        "ActivitychallengetipsTextMapHash": 1492390912,
+        "ExtraActivitychallengetipsTextMapHash": 292684527,
+        "Id": 1507003,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
+            "ParamList": [
+                "133004365",
+                "120",
+                "3000",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3003101,
+        "ActivitychallengetipsTextMapHash": 4224619928,
+        "ExtraActivitychallengetipsTextMapHash": 610084079,
+        "Id": 1300111,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "ParamList": [
+                "200101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 60
+    },
+    {
+        "RewardID": 3003102,
+        "ActivitychallengetipsTextMapHash": 1894109264,
+        "ExtraActivitychallengetipsTextMapHash": 2333094151,
+        "Id": 1300112,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "ParamList": [
+                "200101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 120
+    },
+    {
+        "RewardID": 3003103,
+        "ActivitychallengetipsTextMapHash": 3935031384,
+        "ExtraActivitychallengetipsTextMapHash": 358190679,
+        "Id": 1300113,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "ParamList": [
+                "200102",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30
+    },
+    {
+        "RewardID": 3003104,
+        "ActivitychallengetipsTextMapHash": 647316608,
+        "ExtraActivitychallengetipsTextMapHash": 3520458399,
+        "Id": 1300114,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_POSSESS_MATERIAL_NUM",
+            "ParamList": [
+                "200102",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 60
+    },
+    {
+        "RewardID": 3003105,
+        "ActivitychallengetipsTextMapHash": 3792873336,
+        "ExtraActivitychallengetipsTextMapHash": 1765895943,
+        "Id": 1300115,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_UPGRADE",
+            "ParamList": [
+                "11413",
+                "20",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3003106,
+        "ActivitychallengetipsTextMapHash": 3119085968,
+        "ExtraActivitychallengetipsTextMapHash": 2055069503,
+        "Id": 1300116,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_UPGRADE",
+            "ParamList": [
+                "11413",
+                "40",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3003201,
+        "ActivitychallengetipsTextMapHash": 1535191848,
+        "ExtraActivitychallengetipsTextMapHash": 3321225935,
+        "Id": 1300121,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "ParamList": [
+                "11413",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3003202,
+        "ActivitychallengetipsTextMapHash": 1214718120,
+        "ExtraActivitychallengetipsTextMapHash": 1124762487,
+        "Id": 1300122,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "111",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardID": 3003203,
+        "ActivitychallengetipsTextMapHash": 3564907096,
+        "ExtraActivitychallengetipsTextMapHash": 4123649527,
+        "Id": 1300123,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "111",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1800
+    },
+    {
+        "RewardID": 3003204,
+        "ActivitychallengetipsTextMapHash": 1475480072,
+        "ExtraActivitychallengetipsTextMapHash": 1838108479,
+        "Id": 1300124,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "ParamList": [
+                "6",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 8
+    },
+    {
+        "RewardID": 3003205,
+        "ActivitychallengetipsTextMapHash": 628715240,
+        "ExtraActivitychallengetipsTextMapHash": 621799447,
+        "Id": 1300125,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "ParamList": [
+                "6",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 16
+    },
+    {
+        "RewardID": 3003206,
+        "ActivitychallengetipsTextMapHash": 2529256200,
+        "ExtraActivitychallengetipsTextMapHash": 217412047,
+        "Id": 1300126,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_GROUP_VARIABLE_GT",
+            "ParamList": [
+                "6",
+                "remainingHeat",
+                "3",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3003301,
+        "ActivitychallengetipsTextMapHash": 2149576728,
+        "ExtraActivitychallengetipsTextMapHash": 1122195447,
+        "Id": 1300131,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "ParamList": [
+                "11413",
+                "2",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3003302,
+        "ActivitychallengetipsTextMapHash": 811594984,
+        "ExtraActivitychallengetipsTextMapHash": 1703777455,
+        "Id": 1300132,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "112",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardID": 3003303,
+        "ActivitychallengetipsTextMapHash": 822696360,
+        "ExtraActivitychallengetipsTextMapHash": 4255783471,
+        "Id": 1300133,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "112",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1800
+    },
+    {
+        "RewardID": 3003304,
+        "ActivitychallengetipsTextMapHash": 1285794272,
+        "ExtraActivitychallengetipsTextMapHash": 3210439719,
+        "Id": 1300134,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "ParamList": [
+                "7",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 8
+    },
+    {
+        "RewardID": 3003305,
+        "ActivitychallengetipsTextMapHash": 1577201528,
+        "ExtraActivitychallengetipsTextMapHash": 2924403135,
+        "Id": 1300135,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "ParamList": [
+                "7",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 16
+    },
+    {
+        "RewardID": 3003306,
+        "ActivitychallengetipsTextMapHash": 470124624,
+        "ExtraActivitychallengetipsTextMapHash": 53400663,
+        "Id": 1300136,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_CLIMATE_METER",
+            "ParamList": [
+                "7",
+                "1",
+                "20",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3003401,
+        "ActivitychallengetipsTextMapHash": 3506079824,
+        "ExtraActivitychallengetipsTextMapHash": 2345393991,
+        "Id": 1300141,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
+            "ParamList": [
+                "11413",
+                "4",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3003402,
+        "ActivitychallengetipsTextMapHash": 1990089928,
+        "ExtraActivitychallengetipsTextMapHash": 264900295,
+        "Id": 1300142,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "113",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardID": 3003403,
+        "ActivitychallengetipsTextMapHash": 3025918112,
+        "ExtraActivitychallengetipsTextMapHash": 3270867479,
+        "Id": 1300143,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_NUM",
+            "ParamList": [
+                "7",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3003403,
+        "ActivitychallengetipsTextMapHash": 368535600,
+        "ExtraActivitychallengetipsTextMapHash": 3453170263,
+        "Id": 1300144,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "3",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 3003404,
+        "ActivitychallengetipsTextMapHash": 2384652088,
+        "ExtraActivitychallengetipsTextMapHash": 2761919815,
+        "Id": 1300145,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "ParamList": [
+                "3",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 15
+    },
+    {
+        "RewardID": 3003406,
+        "ActivitychallengetipsTextMapHash": 3421372704,
+        "ExtraActivitychallengetipsTextMapHash": 106693735,
+        "Id": 1300146,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_SPECIFED_TYPE_BLOSSOM_CLIMATE_METER",
+            "ParamList": [
+                "7",
+                "1",
+                "20",
+                ""
+            ]
+        },
+        "Progress": 3,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3003405,
+        "ActivitychallengetipsTextMapHash": 2329183608,
+        "ExtraActivitychallengetipsTextMapHash": 2062024215,
+        "Id": 1300147,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_REACH_MP_PLAY_RECORD",
+            "ParamList": [
+                "3",
+                "3010116",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3003406,
+        "ActivitychallengetipsTextMapHash": 1255972424,
+        "ExtraActivitychallengetipsTextMapHash": 2997238527,
+        "Id": 1300148,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_REACH_MP_PLAY_SCORE",
+            "ParamList": [
+                "3",
+                "300",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008101,
+        "ActivitychallengetipsTextMapHash": 887353392,
+        "ExtraActivitychallengetipsTextMapHash": 3689466295,
+        "Id": 1200210,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_UNLOCK_GEAR",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008101,
+        "ActivitychallengetipsTextMapHash": 647775688,
+        "ExtraActivitychallengetipsTextMapHash": 267691495,
+        "Id": 1200212,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008102,
+        "ActivitychallengetipsTextMapHash": 1714634736,
+        "ExtraActivitychallengetipsTextMapHash": 321369575,
+        "Id": 1200213,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_SCORE",
+            "ParamList": [
+                "2",
+                "420",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008103,
+        "ActivitychallengetipsTextMapHash": 369503000,
+        "ExtraActivitychallengetipsTextMapHash": 2411131695,
+        "Id": 1200216,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_SCORE",
+            "ParamList": [
+                "3",
+                "490",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008104,
+        "ActivitychallengetipsTextMapHash": 575332056,
+        "ExtraActivitychallengetipsTextMapHash": 3420453527,
+        "Id": 1200217,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_SCORE",
+            "ParamList": [
+                "4",
+                "560",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008105,
+        "ActivitychallengetipsTextMapHash": 905343392,
+        "ExtraActivitychallengetipsTextMapHash": 2913299319,
+        "Id": 1200250,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_ESCAPE",
+            "ParamList": [
+                "2",
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008106,
+        "ActivitychallengetipsTextMapHash": 761548528,
+        "ExtraActivitychallengetipsTextMapHash": 4186153095,
+        "Id": 1200253,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_ESCAPE",
+            "ParamList": [
+                "3",
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008107,
+        "ActivitychallengetipsTextMapHash": 885103312,
+        "ExtraActivitychallengetipsTextMapHash": 3481976039,
+        "Id": 1200254,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_ESCAPE",
+            "ParamList": [
+                "4",
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008105,
+        "ActivitychallengetipsTextMapHash": 3862034888,
+        "ExtraActivitychallengetipsTextMapHash": 893022639,
+        "Id": 1200214,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 300,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008106,
+        "ActivitychallengetipsTextMapHash": 665397704,
+        "ExtraActivitychallengetipsTextMapHash": 3094929335,
+        "Id": 1200215,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BUILDING_POINT",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008108,
+        "ActivitychallengetipsTextMapHash": 4202922440,
+        "ExtraActivitychallengetipsTextMapHash": 155458295,
+        "Id": 1200211,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "4",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 4
+    },
+    {
+        "RewardID": 3008109,
+        "ActivitychallengetipsTextMapHash": 2371823056,
+        "ExtraActivitychallengetipsTextMapHash": 4294331279,
+        "Id": 1200218,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "5",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3008110,
+        "ActivitychallengetipsTextMapHash": 2509507112,
+        "ExtraActivitychallengetipsTextMapHash": 3911154135,
+        "Id": 1200219,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "6",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "RewardID": 3008101,
+        "ActivitychallengetipsTextMapHash": 1537252128,
+        "ExtraActivitychallengetipsTextMapHash": 1812881791,
+        "Id": 1200220,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_UNLOCK_GEAR",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008101,
+        "ActivitychallengetipsTextMapHash": 1422841104,
+        "ExtraActivitychallengetipsTextMapHash": 1721879703,
+        "Id": 1200222,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT",
+            "ParamList": [
+                "2",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008111,
+        "ActivitychallengetipsTextMapHash": 803209096,
+        "ExtraActivitychallengetipsTextMapHash": 666375335,
+        "Id": 1200223,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_SCORE",
+            "ParamList": [
+                "5",
+                "630",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008112,
+        "ActivitychallengetipsTextMapHash": 1381011616,
+        "ExtraActivitychallengetipsTextMapHash": 2755151879,
+        "Id": 1200226,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_SCORE",
+            "ParamList": [
+                "6",
+                "700",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008113,
+        "ActivitychallengetipsTextMapHash": 4230582136,
+        "ExtraActivitychallengetipsTextMapHash": 1116834239,
+        "Id": 1200255,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_ESCAPE",
+            "ParamList": [
+                "5",
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008114,
+        "ActivitychallengetipsTextMapHash": 3566801512,
+        "ExtraActivitychallengetipsTextMapHash": 3048659999,
+        "Id": 1200256,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_ESCAPE",
+            "ParamList": [
+                "6",
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008115,
+        "ActivitychallengetipsTextMapHash": 4250477424,
+        "ExtraActivitychallengetipsTextMapHash": 1579619567,
+        "Id": 1200251,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_GEAR_NUM",
+            "ParamList": [
+                "5",
+                "12",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008116,
+        "ActivitychallengetipsTextMapHash": 3270944160,
+        "ExtraActivitychallengetipsTextMapHash": 3308532351,
+        "Id": 1200257,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_GEAR_NUM",
+            "ParamList": [
+                "6",
+                "12",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008117,
+        "ActivitychallengetipsTextMapHash": 3504512480,
+        "ExtraActivitychallengetipsTextMapHash": 1137894391,
+        "Id": 1200224,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 300
+    },
+    {
+        "RewardID": 3008113,
+        "ActivitychallengetipsTextMapHash": 3784170760,
+        "ExtraActivitychallengetipsTextMapHash": 909754383,
+        "Id": 1200227,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008118,
+        "ActivitychallengetipsTextMapHash": 1767851960,
+        "ExtraActivitychallengetipsTextMapHash": 4195859911,
+        "Id": 1200225,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BUILDING_POINT",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3000
+    },
+    {
+        "RewardID": 3008115,
+        "ActivitychallengetipsTextMapHash": 4082579192,
+        "ExtraActivitychallengetipsTextMapHash": 3399218087,
+        "Id": 1200228,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BUILDING_POINT",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008119,
+        "ActivitychallengetipsTextMapHash": 857923552,
+        "ExtraActivitychallengetipsTextMapHash": 1697542559,
+        "Id": 1200221,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "7",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "RewardID": 3008120,
+        "ActivitychallengetipsTextMapHash": 4216762328,
+        "ExtraActivitychallengetipsTextMapHash": 2346285791,
+        "Id": 1200229,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "8",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "RewardID": 3008101,
+        "ActivitychallengetipsTextMapHash": 531390448,
+        "ExtraActivitychallengetipsTextMapHash": 651933511,
+        "Id": 1200230,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_UNLOCK_GEAR",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008101,
+        "ActivitychallengetipsTextMapHash": 2405404632,
+        "ExtraActivitychallengetipsTextMapHash": 1525429015,
+        "Id": 1200232,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT",
+            "ParamList": [
+                "3",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008121,
+        "ActivitychallengetipsTextMapHash": 2022767968,
+        "ExtraActivitychallengetipsTextMapHash": 3904516159,
+        "Id": 1200233,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_SCORE",
+            "ParamList": [
+                "7",
+                "875",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008122,
+        "ActivitychallengetipsTextMapHash": 3263094016,
+        "ExtraActivitychallengetipsTextMapHash": 2877303007,
+        "Id": 1200258,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_ESCAPE",
+            "ParamList": [
+                "7",
+                "0",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008123,
+        "ActivitychallengetipsTextMapHash": 900893808,
+        "ExtraActivitychallengetipsTextMapHash": 1748553479,
+        "Id": 1200252,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_GEAR_ID_NUM",
+            "ParamList": [
+                "7",
+                "8",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008124,
+        "ActivitychallengetipsTextMapHash": 3633288920,
+        "ExtraActivitychallengetipsTextMapHash": 2380417607,
+        "Id": 1200259,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BATTLE_DIFFICULT_GEAR_NUM",
+            "ParamList": [
+                "7",
+                "12",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3008119,
+        "ActivitychallengetipsTextMapHash": 242597160,
+        "ExtraActivitychallengetipsTextMapHash": 3906062967,
+        "Id": 1200234,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 300,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008125,
+        "ActivitychallengetipsTextMapHash": 231054144,
+        "ExtraActivitychallengetipsTextMapHash": 2052376919,
+        "Id": 1200236,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 600
+    },
+    {
+        "RewardID": 3008126,
+        "ActivitychallengetipsTextMapHash": 3527897808,
+        "ExtraActivitychallengetipsTextMapHash": 253632295,
+        "Id": 1200237,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 900
+    },
+    {
+        "RewardID": 3008122,
+        "ActivitychallengetipsTextMapHash": 658224960,
+        "ExtraActivitychallengetipsTextMapHash": 527026719,
+        "Id": 1200235,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BUILDING_POINT",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008127,
+        "ActivitychallengetipsTextMapHash": 2837904296,
+        "ExtraActivitychallengetipsTextMapHash": 2555655567,
+        "Id": 1200238,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BUILDING_POINT",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6000
+    },
+    {
+        "RewardID": 3008128,
+        "ActivitychallengetipsTextMapHash": 258540376,
+        "ExtraActivitychallengetipsTextMapHash": 2174450479,
+        "Id": 1200239,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_BUILDING_POINT",
+            "ParamList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 9000
+    },
+    {
+        "RewardID": 3008125,
+        "ActivitychallengetipsTextMapHash": 1181854784,
+        "ExtraActivitychallengetipsTextMapHash": 1932219111,
+        "Id": 1200231,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "9",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3008129,
+        "ActivitychallengetipsTextMapHash": 383781472,
+        "ExtraActivitychallengetipsTextMapHash": 647742591,
+        "Id": 1200240,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "9",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "RewardID": 3008130,
+        "ActivitychallengetipsTextMapHash": 3664939104,
+        "ExtraActivitychallengetipsTextMapHash": 402801407,
+        "Id": 1200241,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_LEVELUP_GEAR",
+            "ParamList": [
+                "10",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 1529654616,
+        "ExtraActivitychallengetipsTextMapHash": 3579725807,
+        "Id": 1501901,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001576,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 294782744,
+        "ExtraActivitychallengetipsTextMapHash": 832884767,
+        "Id": 1501902,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001576,0",
+                "3",
+                "506",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2247446928,
+        "ExtraActivitychallengetipsTextMapHash": 2421294407,
+        "Id": 1501903,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001576,0",
+                "3",
+                "507",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 3747967816,
+        "ExtraActivitychallengetipsTextMapHash": 3953056231,
+        "Id": 1501904,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001577,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 927584888,
+        "ExtraActivitychallengetipsTextMapHash": 1344326791,
+        "Id": 1501905,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001577,0",
+                "3",
+                "503",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2276165864,
+        "ExtraActivitychallengetipsTextMapHash": 1890049343,
+        "Id": 1501906,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001577,0",
+                "3",
+                "505",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2893452592,
+        "ExtraActivitychallengetipsTextMapHash": 3738263935,
+        "Id": 1501907,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001582,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 580425752,
+        "ExtraActivitychallengetipsTextMapHash": 201045479,
+        "Id": 1501908,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001582,0",
+                "3",
+                "503",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 3555025088,
+        "ExtraActivitychallengetipsTextMapHash": 3134249119,
+        "Id": 1501909,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001582,0",
+                "3",
+                "505",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 4142903856,
+        "ExtraActivitychallengetipsTextMapHash": 1851674911,
+        "Id": 1501910,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001578,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 1432255800,
+        "ExtraActivitychallengetipsTextMapHash": 2021790455,
+        "Id": 1501911,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001578,0",
+                "3",
+                "503",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 580311360,
+        "ExtraActivitychallengetipsTextMapHash": 3546431495,
+        "Id": 1501912,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001578,0",
+                "3",
+                "505",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 3893657680,
+        "ExtraActivitychallengetipsTextMapHash": 232552535,
+        "Id": 1501913,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001579,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 1983732464,
+        "ExtraActivitychallengetipsTextMapHash": 2650331895,
+        "Id": 1501914,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001579,0",
+                "3",
+                "502",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 886409088,
+        "ExtraActivitychallengetipsTextMapHash": 3421255639,
+        "Id": 1501915,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001579,0",
+                "3",
+                "503",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2262761808,
+        "ExtraActivitychallengetipsTextMapHash": 184392319,
+        "Id": 1501916,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001581,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2351490160,
+        "ExtraActivitychallengetipsTextMapHash": 350332591,
+        "Id": 1501917,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001581,0",
+                "3",
+                "503",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 1039082848,
+        "ExtraActivitychallengetipsTextMapHash": 2624128687,
+        "Id": 1501918,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001581,0",
+                "3",
+                "505",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2794583760,
+        "ExtraActivitychallengetipsTextMapHash": 1322328855,
+        "Id": 1501919,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001580,0",
+                "3",
+                "501",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 211501912,
+        "ExtraActivitychallengetipsTextMapHash": 922833831,
+        "Id": 1501920,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001580,0",
+                "3",
+                "502",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 4226962376,
+        "ExtraActivitychallengetipsTextMapHash": 3883222423,
+        "Id": 1501921,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "0,133001580,0",
+                "3",
+                "503",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011101,
+        "ActivitychallengetipsTextMapHash": 3252928568,
+        "ExtraActivitychallengetipsTextMapHash": 460220871,
+        "Id": 1200311,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1001",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011102,
+        "ActivitychallengetipsTextMapHash": 844629824,
+        "ExtraActivitychallengetipsTextMapHash": 680986455,
+        "Id": 1200312,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1001",
+                "1800",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011103,
+        "ActivitychallengetipsTextMapHash": 2888473920,
+        "ExtraActivitychallengetipsTextMapHash": 499156695,
+        "Id": 1200313,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1001",
+                "2600",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011104,
+        "ActivitychallengetipsTextMapHash": 348342600,
+        "ExtraActivitychallengetipsTextMapHash": 2498507287,
+        "Id": 1200314,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1003",
+                "1200",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011105,
+        "ActivitychallengetipsTextMapHash": 1434928416,
+        "ExtraActivitychallengetipsTextMapHash": 910302279,
+        "Id": 1200315,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1003",
+                "2200",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011106,
+        "ActivitychallengetipsTextMapHash": 2573288680,
+        "ExtraActivitychallengetipsTextMapHash": 3664908399,
+        "Id": 1200316,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1003",
+                "3200",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011107,
+        "ActivitychallengetipsTextMapHash": 3354211928,
+        "ExtraActivitychallengetipsTextMapHash": 1761313871,
+        "Id": 1200317,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1004",
+                "1600",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011108,
+        "ActivitychallengetipsTextMapHash": 1780231904,
+        "ExtraActivitychallengetipsTextMapHash": 3113634407,
+        "Id": 1200318,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1004",
+                "2800",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011109,
+        "ActivitychallengetipsTextMapHash": 3661192464,
+        "ExtraActivitychallengetipsTextMapHash": 1125458367,
+        "Id": 1200319,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1004",
+                "4000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011110,
+        "ActivitychallengetipsTextMapHash": 33514936,
+        "ExtraActivitychallengetipsTextMapHash": 2813506767,
+        "Id": 1200320,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1005",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011111,
+        "ActivitychallengetipsTextMapHash": 2333716416,
+        "ExtraActivitychallengetipsTextMapHash": 1189878375,
+        "Id": 1200321,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1005",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011112,
+        "ActivitychallengetipsTextMapHash": 3179164192,
+        "ExtraActivitychallengetipsTextMapHash": 243232655,
+        "Id": 1200322,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BALLOON_REACH_SCORE",
+            "ParamList": [
+                "1005",
+                "3000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011001,
+        "ActivitychallengetipsTextMapHash": 3747847032,
+        "ExtraActivitychallengetipsTextMapHash": 21468519,
+        "Id": 1200323,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2001",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011002,
+        "ActivitychallengetipsTextMapHash": 1268182672,
+        "ExtraActivitychallengetipsTextMapHash": 1979659735,
+        "Id": 1200324,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2001",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011003,
+        "ActivitychallengetipsTextMapHash": 3304046336,
+        "ExtraActivitychallengetipsTextMapHash": 1734868207,
+        "Id": 1200325,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2001",
+                "3000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011004,
+        "ActivitychallengetipsTextMapHash": 415304944,
+        "ExtraActivitychallengetipsTextMapHash": 477899759,
+        "Id": 1200326,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2002",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011005,
+        "ActivitychallengetipsTextMapHash": 3200379856,
+        "ExtraActivitychallengetipsTextMapHash": 1297975463,
+        "Id": 1200327,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2002",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011006,
+        "ActivitychallengetipsTextMapHash": 2194310368,
+        "ExtraActivitychallengetipsTextMapHash": 2253414551,
+        "Id": 1200328,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2002",
+                "3000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011007,
+        "ActivitychallengetipsTextMapHash": 3360898488,
+        "ExtraActivitychallengetipsTextMapHash": 3889230487,
+        "Id": 1200329,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2003",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011008,
+        "ActivitychallengetipsTextMapHash": 505637312,
+        "ExtraActivitychallengetipsTextMapHash": 4056688071,
+        "Id": 1200330,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2003",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011009,
+        "ActivitychallengetipsTextMapHash": 3349171448,
+        "ExtraActivitychallengetipsTextMapHash": 2990019031,
+        "Id": 1200331,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2003",
+                "3000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011010,
+        "ActivitychallengetipsTextMapHash": 593961256,
+        "ExtraActivitychallengetipsTextMapHash": 285238647,
+        "Id": 1200332,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2004",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011011,
+        "ActivitychallengetipsTextMapHash": 2504860816,
+        "ExtraActivitychallengetipsTextMapHash": 1022213879,
+        "Id": 1200333,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2004",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011012,
+        "ActivitychallengetipsTextMapHash": 4003278584,
+        "ExtraActivitychallengetipsTextMapHash": 1210480471,
+        "Id": 1200334,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_FALL_REACH_SCORE",
+            "ParamList": [
+                "2004",
+                "3000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011201,
+        "ActivitychallengetipsTextMapHash": 2482556832,
+        "ExtraActivitychallengetipsTextMapHash": 1714010999,
+        "Id": 1200335,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "1",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011202,
+        "ActivitychallengetipsTextMapHash": 2919472144,
+        "ExtraActivitychallengetipsTextMapHash": 1209662599,
+        "Id": 1200336,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "2",
+                "1200",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011203,
+        "ActivitychallengetipsTextMapHash": 2478516552,
+        "ExtraActivitychallengetipsTextMapHash": 3372210151,
+        "Id": 1200337,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "3",
+                "1800",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011204,
+        "ActivitychallengetipsTextMapHash": 370085432,
+        "ExtraActivitychallengetipsTextMapHash": 2938337495,
+        "Id": 1200338,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "4",
+                "800",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011205,
+        "ActivitychallengetipsTextMapHash": 1798686784,
+        "ExtraActivitychallengetipsTextMapHash": 461413487,
+        "Id": 1200339,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "5",
+                "1200",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011206,
+        "ActivitychallengetipsTextMapHash": 127971296,
+        "ExtraActivitychallengetipsTextMapHash": 1195497839,
+        "Id": 1200340,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "6",
+                "1800",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011207,
+        "ActivitychallengetipsTextMapHash": 1865297424,
+        "ExtraActivitychallengetipsTextMapHash": 1872413199,
+        "Id": 1200341,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "7",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011208,
+        "ActivitychallengetipsTextMapHash": 2947152,
+        "ExtraActivitychallengetipsTextMapHash": 794567079,
+        "Id": 1200342,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "8",
+                "1400",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011209,
+        "ActivitychallengetipsTextMapHash": 3365264336,
+        "ExtraActivitychallengetipsTextMapHash": 1873921183,
+        "Id": 1200343,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "9",
+                "2200",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011210,
+        "ActivitychallengetipsTextMapHash": 2156087464,
+        "ExtraActivitychallengetipsTextMapHash": 987406927,
+        "Id": 1200344,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "10",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011211,
+        "ActivitychallengetipsTextMapHash": 2748203352,
+        "ExtraActivitychallengetipsTextMapHash": 4073723911,
+        "Id": 1200345,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "11",
+                "1400",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011212,
+        "ActivitychallengetipsTextMapHash": 3537027512,
+        "ExtraActivitychallengetipsTextMapHash": 10550743,
+        "Id": 1200346,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_MUSIC_GAME_REACH_SCORE",
+            "ParamList": [
+                "12",
+                "2400",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011301,
+        "ActivitychallengetipsTextMapHash": 2361663632,
+        "ExtraActivitychallengetipsTextMapHash": 409402695,
+        "Id": 1200351,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_IN_LIMIT_TIME",
+            "ParamList": [
+                "1",
+                "480",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011302,
+        "ActivitychallengetipsTextMapHash": 4080664480,
+        "ExtraActivitychallengetipsTextMapHash": 3907700967,
+        "Id": 1200352,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_KEEP_ENERGY",
+            "ParamList": [
+                "50",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011303,
+        "ActivitychallengetipsTextMapHash": 4123503864,
+        "ExtraActivitychallengetipsTextMapHash": 3463866511,
+        "Id": 1200353,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_fall_down_brokenfloor:6003",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011304,
+        "ActivitychallengetipsTextMapHash": 2848310776,
+        "ExtraActivitychallengetipsTextMapHash": 2632613487,
+        "Id": 1200354,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_hit_by_bullet:6005",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011305,
+        "ActivitychallengetipsTextMapHash": 978940456,
+        "ExtraActivitychallengetipsTextMapHash": 1393608655,
+        "Id": 1200355,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_catch_flora_count:6004",
+                "10",
+                "4",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011306,
+        "ActivitychallengetipsTextMapHash": 4177845016,
+        "ExtraActivitychallengetipsTextMapHash": 2059997231,
+        "Id": 1200356,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_IN_LIMIT_TIME",
+            "ParamList": [
+                "2",
+                "180",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011307,
+        "ActivitychallengetipsTextMapHash": 3889179904,
+        "ExtraActivitychallengetipsTextMapHash": 3653326783,
+        "Id": 1200357,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_KEEP_ENERGY",
+            "ParamList": [
+                "80",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011308,
+        "ActivitychallengetipsTextMapHash": 2706615488,
+        "ExtraActivitychallengetipsTextMapHash": 2994493575,
+        "Id": 1200363,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_hit_by_bubble:6006",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011309,
+        "ActivitychallengetipsTextMapHash": 277186424,
+        "ExtraActivitychallengetipsTextMapHash": 4124040751,
+        "Id": 1200368,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_hit_by_bubble:6007",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011310,
+        "ActivitychallengetipsTextMapHash": 2541493552,
+        "ExtraActivitychallengetipsTextMapHash": 4095059215,
+        "Id": 1200360,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_hit_by_bombflower:6004",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011311,
+        "ActivitychallengetipsTextMapHash": 217428112,
+        "ExtraActivitychallengetipsTextMapHash": 2235108495,
+        "Id": 1200361,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_IN_LIMIT_TIME",
+            "ParamList": [
+                "1",
+                "420",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011312,
+        "ActivitychallengetipsTextMapHash": 1673110832,
+        "ExtraActivitychallengetipsTextMapHash": 402524511,
+        "Id": 1200371,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_BUFF_NUM",
+            "ParamList": [
+                "2",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011313,
+        "ActivitychallengetipsTextMapHash": 1185312240,
+        "ExtraActivitychallengetipsTextMapHash": 2386898167,
+        "Id": 1200358,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_fall_down_darkfloor:6001",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011314,
+        "ActivitychallengetipsTextMapHash": 2661670720,
+        "ExtraActivitychallengetipsTextMapHash": 2664462199,
+        "Id": 1200364,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_memory_get_time_6008:6008",
+                "40",
+                "3",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011315,
+        "ActivitychallengetipsTextMapHash": 1360669136,
+        "ExtraActivitychallengetipsTextMapHash": 3295257543,
+        "Id": 1200365,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_collect_energy_6002:6002",
+                "10",
+                "4",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011316,
+        "ActivitychallengetipsTextMapHash": 2050890200,
+        "ExtraActivitychallengetipsTextMapHash": 1336062103,
+        "Id": 1200366,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_IN_LIMIT_TIME",
+            "ParamList": [
+                "2",
+                "120",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011317,
+        "ActivitychallengetipsTextMapHash": 4171260696,
+        "ExtraActivitychallengetipsTextMapHash": 786302327,
+        "Id": 1200372,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_BUFF_NUM",
+            "ParamList": [
+                "3",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011318,
+        "ActivitychallengetipsTextMapHash": 3108248264,
+        "ExtraActivitychallengetipsTextMapHash": 639891223,
+        "Id": 1200359,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_transparten_get_time_6001:6001",
+                "30",
+                "3",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011319,
+        "ActivitychallengetipsTextMapHash": 467475728,
+        "ExtraActivitychallengetipsTextMapHash": 1294625351,
+        "Id": 1200369,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_wrong_position_memoryfloor:6008",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011320,
+        "ActivitychallengetipsTextMapHash": 2855025288,
+        "ExtraActivitychallengetipsTextMapHash": 739049831,
+        "Id": 1200370,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_WITH_GROUP_VARIABLE",
+            "ParamList": [
+                "watcher_hit_by_floor:6002",
+                "0",
+                "1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3011312,
+        "ActivitychallengetipsTextMapHash": 1638007472,
+        "ExtraActivitychallengetipsTextMapHash": 2642229135,
+        "Id": 1200362,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_KEEP_ENERGY",
+            "ParamList": [
+                "150",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3011317,
+        "ActivitychallengetipsTextMapHash": 3274417512,
+        "ExtraActivitychallengetipsTextMapHash": 1255526111,
+        "Id": 1200367,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FLEUR_FAIR_DUNGEON_FINISH_KEEP_ENERGY",
+            "ParamList": [
+                "200",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3010001,
+        "ActivitychallengetipsTextMapHash": 2938590032,
+        "ExtraActivitychallengetipsTextMapHash": 2002088391,
+        "IsDisuse": true,
+        "Id": 1502010,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "ParamList": [
+                "4142106",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 3783984712,
+        "ExtraActivitychallengetipsTextMapHash": 44103887,
+        "Id": 1200401,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "ParamList": [
+                "7165201",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013011,
+        "ActivitychallengetipsTextMapHash": 2827421752,
+        "ExtraActivitychallengetipsTextMapHash": 2708278519,
+        "Id": 1502201,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "ParamList": [
+                "7100",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013012,
+        "ActivitychallengetipsTextMapHash": 1386116504,
+        "ExtraActivitychallengetipsTextMapHash": 1153526047,
+        "Id": 1502202,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7100",
+                "1",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013015,
+        "ActivitychallengetipsTextMapHash": 993559424,
+        "ExtraActivitychallengetipsTextMapHash": 489266135,
+        "Id": 1502203,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_AND_CHALLENGE_REMAIN_TIME_GREATER_THAN",
+            "ParamList": [
+                "7100",
+                "999",
+                "360",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013014,
+        "ActivitychallengetipsTextMapHash": 804063328,
+        "ExtraActivitychallengetipsTextMapHash": 551372183,
+        "Id": 1502204,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7100",
+                "2",
+                "5",
+                "3"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013013,
+        "ActivitychallengetipsTextMapHash": 3989572576,
+        "ExtraActivitychallengetipsTextMapHash": 1883891223,
+        "Id": 1502205,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7100",
+                "3",
+                "",
+                ""
+            ]
+        },
+        "Progress": 8
+    },
+    {
+        "RewardID": 3013021,
+        "ActivitychallengetipsTextMapHash": 2473600040,
+        "ExtraActivitychallengetipsTextMapHash": 4207696767,
+        "Id": 1502206,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "ParamList": [
+                "7102",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013022,
+        "ActivitychallengetipsTextMapHash": 1947883512,
+        "ExtraActivitychallengetipsTextMapHash": 2989975447,
+        "Id": 1502207,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7102",
+                "4",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013025,
+        "ActivitychallengetipsTextMapHash": 278578696,
+        "ExtraActivitychallengetipsTextMapHash": 77152119,
+        "Id": 1502208,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_AND_CHALLENGE_REMAIN_TIME_GREATER_THAN",
+            "ParamList": [
+                "7102",
+                "999",
+                "360",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013023,
+        "ActivitychallengetipsTextMapHash": 1720211248,
+        "ExtraActivitychallengetipsTextMapHash": 1118123207,
+        "Id": 1502209,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7102",
+                "5",
+                "",
+                ""
+            ]
+        },
+        "Progress": 50000
+    },
+    {
+        "RewardID": 3013024,
+        "ActivitychallengetipsTextMapHash": 2097114744,
+        "ExtraActivitychallengetipsTextMapHash": 4134559111,
+        "Id": 1502210,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7102",
+                "6",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 3013031,
+        "ActivitychallengetipsTextMapHash": 2008955216,
+        "ExtraActivitychallengetipsTextMapHash": 1448659887,
+        "Id": 1502211,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "ParamList": [
+                "7104",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013032,
+        "ActivitychallengetipsTextMapHash": 2652053552,
+        "ExtraActivitychallengetipsTextMapHash": 1154701735,
+        "Id": 1502212,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7104",
+                "7",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013035,
+        "ActivitychallengetipsTextMapHash": 991213664,
+        "ExtraActivitychallengetipsTextMapHash": 628446463,
+        "Id": 1502213,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_AND_CHALLENGE_REMAIN_TIME_GREATER_THAN",
+            "ParamList": [
+                "7104",
+                "999",
+                "360",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013034,
+        "ActivitychallengetipsTextMapHash": 2118620784,
+        "ExtraActivitychallengetipsTextMapHash": 3919036519,
+        "Id": 1502214,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7104",
+                "8",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "RewardID": 3013033,
+        "ActivitychallengetipsTextMapHash": 3293085552,
+        "ExtraActivitychallengetipsTextMapHash": 3388546527,
+        "Id": 1502215,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7104",
+                "9",
+                "",
+                ""
+            ]
+        },
+        "Progress": 12
+    },
+    {
+        "RewardID": 3013041,
+        "ActivitychallengetipsTextMapHash": 2135765936,
+        "ExtraActivitychallengetipsTextMapHash": 1755212519,
+        "Id": 1502216,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "ParamList": [
+                "7105",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013042,
+        "ActivitychallengetipsTextMapHash": 2172174368,
+        "ExtraActivitychallengetipsTextMapHash": 1121212967,
+        "Id": 1502217,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7105",
+                "10",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013045,
+        "ActivitychallengetipsTextMapHash": 1896963944,
+        "ExtraActivitychallengetipsTextMapHash": 2173397607,
+        "Id": 1502218,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_AND_CHALLENGE_REMAIN_TIME_GREATER_THAN",
+            "ParamList": [
+                "7105",
+                "999",
+                "360",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013044,
+        "ActivitychallengetipsTextMapHash": 3317777264,
+        "ExtraActivitychallengetipsTextMapHash": 860381543,
+        "Id": 1502219,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7105",
+                "11",
+                "40",
+                "3"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013043,
+        "ActivitychallengetipsTextMapHash": 2254748256,
+        "ExtraActivitychallengetipsTextMapHash": 864475119,
+        "Id": 1502220,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "ParamList": [
+                "LevelAbility_Combat_Activity_Watcher_1:Watcher_Achievement_1502220",
+                "Watcher_SuperTrial_RangeKillEnemy",
+                "",
+                ""
+            ]
+        },
+        "Progress": 8
+    },
+    {
+        "RewardID": 3013051,
+        "ActivitychallengetipsTextMapHash": 2742612592,
+        "ExtraActivitychallengetipsTextMapHash": 4188833527,
+        "Id": 1502221,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "ParamList": [
+                "7101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013052,
+        "ActivitychallengetipsTextMapHash": 1846766968,
+        "ExtraActivitychallengetipsTextMapHash": 392995903,
+        "Id": 1502222,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7101",
+                "12",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013055,
+        "ActivitychallengetipsTextMapHash": 2528431344,
+        "ExtraActivitychallengetipsTextMapHash": 3837785887,
+        "Id": 1502223,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_AND_CHALLENGE_REMAIN_TIME_GREATER_THAN",
+            "ParamList": [
+                "7101",
+                "999",
+                "360",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013054,
+        "ActivitychallengetipsTextMapHash": 2527968288,
+        "ExtraActivitychallengetipsTextMapHash": 2733604903,
+        "Id": 1502224,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7101",
+                "13",
+                "30",
+                "3"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013053,
+        "ActivitychallengetipsTextMapHash": 3622544232,
+        "ExtraActivitychallengetipsTextMapHash": 221764767,
+        "Id": 1502225,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7101",
+                "14",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 3013061,
+        "ActivitychallengetipsTextMapHash": 3429935072,
+        "ExtraActivitychallengetipsTextMapHash": 3874567439,
+        "Id": 1502226,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON",
+            "ParamList": [
+                "7103",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013062,
+        "ActivitychallengetipsTextMapHash": 2045219664,
+        "ExtraActivitychallengetipsTextMapHash": 3902111271,
+        "Id": 1502227,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7103",
+                "15",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013065,
+        "ActivitychallengetipsTextMapHash": 2398842432,
+        "ExtraActivitychallengetipsTextMapHash": 1967167263,
+        "Id": 1502228,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_AND_CHALLENGE_REMAIN_TIME_GREATER_THAN",
+            "ParamList": [
+                "7103",
+                "999",
+                "360",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013064,
+        "ActivitychallengetipsTextMapHash": 4259960408,
+        "ExtraActivitychallengetipsTextMapHash": 1234378471,
+        "Id": 1502229,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_DUNGEON_WITH_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7103",
+                "17",
+                "5",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3013063,
+        "ActivitychallengetipsTextMapHash": 2807132048,
+        "ExtraActivitychallengetipsTextMapHash": 226038663,
+        "Id": 1502230,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_DUNGEON_MIST_TRIAL_STAT",
+            "ParamList": [
+                "7103",
+                "16",
+                "",
+                ""
+            ]
+        },
+        "Progress": 4
+    },
+    {
+        "RewardID": 3012001,
+        "ActivitychallengetipsTextMapHash": 1054977960,
+        "ExtraActivitychallengetipsTextMapHash": 2294916311,
+        "Id": 1502401,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "1",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3012002,
+        "ActivitychallengetipsTextMapHash": 3784302080,
+        "ExtraActivitychallengetipsTextMapHash": 1630646471,
+        "Id": 1502402,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "2",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3012003,
+        "ActivitychallengetipsTextMapHash": 654363280,
+        "ExtraActivitychallengetipsTextMapHash": 3719434423,
+        "Id": 1502403,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "3",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3012004,
+        "ActivitychallengetipsTextMapHash": 3404008392,
+        "ExtraActivitychallengetipsTextMapHash": 2873933855,
+        "Id": 1502404,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "4",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3012005,
+        "ActivitychallengetipsTextMapHash": 734094864,
+        "ExtraActivitychallengetipsTextMapHash": 3485130855,
+        "Id": 1502405,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "5",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3012006,
+        "ActivitychallengetipsTextMapHash": 527512504,
+        "ExtraActivitychallengetipsTextMapHash": 3044301455,
+        "Id": 1502406,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "6",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3012007,
+        "ActivitychallengetipsTextMapHash": 1176729832,
+        "ExtraActivitychallengetipsTextMapHash": 2476493063,
+        "Id": 1502407,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_FIND_HILICHURL_LEVEL",
+            "ParamList": [
+                "7",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3014101,
+        "ActivitychallengetipsTextMapHash": 2304177576,
+        "ExtraActivitychallengetipsTextMapHash": 3028777919,
+        "Id": 1502301,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "ParamList": [
+                "10101014",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3014102,
+        "ActivitychallengetipsTextMapHash": 1681397208,
+        "ExtraActivitychallengetipsTextMapHash": 414362887,
+        "Id": 1502302,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10101015",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3014103,
+        "ActivitychallengetipsTextMapHash": 1628552920,
+        "ExtraActivitychallengetipsTextMapHash": 2470480319,
+        "Id": 1502303,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "ParamList": [
+                "10101016",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3014104,
+        "ActivitychallengetipsTextMapHash": 705984408,
+        "ExtraActivitychallengetipsTextMapHash": 2772865127,
+        "Id": 1502304,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10101017",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3014105,
+        "ActivitychallengetipsTextMapHash": 1253079904,
+        "ExtraActivitychallengetipsTextMapHash": 787355119,
+        "Id": 1502305,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "ParamList": [
+                "10101018",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301807,
+        "ActivitychallengetipsTextMapHash": 4148531000,
+        "ExtraActivitychallengetipsTextMapHash": 1917436511,
+        "Id": 1503004,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8001",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301808,
+        "ActivitychallengetipsTextMapHash": 743211232,
+        "ExtraActivitychallengetipsTextMapHash": 3511194799,
+        "Id": 1503005,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8001",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301809,
+        "ActivitychallengetipsTextMapHash": 1618182168,
+        "ExtraActivitychallengetipsTextMapHash": 361334815,
+        "Id": 1503006,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8001",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301816,
+        "ActivitychallengetipsTextMapHash": 1606421840,
+        "ExtraActivitychallengetipsTextMapHash": 1429458543,
+        "Id": 1503007,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8002",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301817,
+        "ActivitychallengetipsTextMapHash": 3608945008,
+        "ExtraActivitychallengetipsTextMapHash": 1624269207,
+        "Id": 1503008,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8002",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301818,
+        "ActivitychallengetipsTextMapHash": 1693643480,
+        "ExtraActivitychallengetipsTextMapHash": 1862681919,
+        "Id": 1503009,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8002",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301819,
+        "ActivitychallengetipsTextMapHash": 1817880912,
+        "ExtraActivitychallengetipsTextMapHash": 2999675319,
+        "Id": 1503010,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8003",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301820,
+        "ActivitychallengetipsTextMapHash": 3734096936,
+        "ExtraActivitychallengetipsTextMapHash": 2715568783,
+        "Id": 1503011,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8003",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301821,
+        "ActivitychallengetipsTextMapHash": 260130176,
+        "ExtraActivitychallengetipsTextMapHash": 2190872263,
+        "Id": 1503012,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8003",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301801,
+        "ActivitychallengetipsTextMapHash": 2273220736,
+        "ExtraActivitychallengetipsTextMapHash": 2574435455,
+        "Id": 1503013,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8004",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301802,
+        "ActivitychallengetipsTextMapHash": 3604318320,
+        "ExtraActivitychallengetipsTextMapHash": 319848735,
+        "Id": 1503014,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8004",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301803,
+        "ActivitychallengetipsTextMapHash": 2537434488,
+        "ExtraActivitychallengetipsTextMapHash": 941305519,
+        "Id": 1503015,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8004",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301810,
+        "ActivitychallengetipsTextMapHash": 2990447616,
+        "ExtraActivitychallengetipsTextMapHash": 1329003439,
+        "Id": 1503016,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8005",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301811,
+        "ActivitychallengetipsTextMapHash": 216390832,
+        "ExtraActivitychallengetipsTextMapHash": 4120767127,
+        "Id": 1503017,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8005",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301812,
+        "ActivitychallengetipsTextMapHash": 882653296,
+        "ExtraActivitychallengetipsTextMapHash": 3231206335,
+        "Id": 1503018,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8005",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301804,
+        "ActivitychallengetipsTextMapHash": 2954214728,
+        "ExtraActivitychallengetipsTextMapHash": 9456119,
+        "Id": 1503019,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8006",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301805,
+        "ActivitychallengetipsTextMapHash": 3117074704,
+        "ExtraActivitychallengetipsTextMapHash": 1653374503,
+        "Id": 1503020,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8006",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301806,
+        "ActivitychallengetipsTextMapHash": 1697641120,
+        "ExtraActivitychallengetipsTextMapHash": 1609082847,
+        "Id": 1503021,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8006",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301813,
+        "ActivitychallengetipsTextMapHash": 2934351336,
+        "ExtraActivitychallengetipsTextMapHash": 1590735551,
+        "Id": 1503022,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8007",
+                "500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301814,
+        "ActivitychallengetipsTextMapHash": 2757559576,
+        "ExtraActivitychallengetipsTextMapHash": 817018039,
+        "Id": 1503023,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8007",
+                "1000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301815,
+        "ActivitychallengetipsTextMapHash": 765205896,
+        "ExtraActivitychallengetipsTextMapHash": 4293532511,
+        "Id": 1503024,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GALLERY_BUOYANT_COMBAT_REACH_SCORE",
+            "ParamList": [
+                "8007",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3016211,
+        "ActivitychallengetipsTextMapHash": 499557792,
+        "ExtraActivitychallengetipsTextMapHash": 841893103,
+        "Id": 1200501,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001108",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3016212,
+        "ActivitychallengetipsTextMapHash": 1181148408,
+        "ExtraActivitychallengetipsTextMapHash": 2789310399,
+        "Id": 1200502,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001108",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3016213,
+        "ActivitychallengetipsTextMapHash": 2421708128,
+        "ExtraActivitychallengetipsTextMapHash": 279394703,
+        "Id": 1200503,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001108",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3016221,
+        "ActivitychallengetipsTextMapHash": 1596651520,
+        "ExtraActivitychallengetipsTextMapHash": 2611527031,
+        "Id": 1200504,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144004063",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3016222,
+        "ActivitychallengetipsTextMapHash": 3901608200,
+        "ExtraActivitychallengetipsTextMapHash": 871122743,
+        "Id": 1200505,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144004063",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3016223,
+        "ActivitychallengetipsTextMapHash": 2346654096,
+        "ExtraActivitychallengetipsTextMapHash": 2386217783,
+        "Id": 1200506,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144004063",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3016231,
+        "ActivitychallengetipsTextMapHash": 193018296,
+        "ExtraActivitychallengetipsTextMapHash": 4272210303,
+        "Id": 1200507,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001127",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3016232,
+        "ActivitychallengetipsTextMapHash": 2129290048,
+        "ExtraActivitychallengetipsTextMapHash": 2569086263,
+        "Id": 1200508,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001127",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3016233,
+        "ActivitychallengetipsTextMapHash": 811619664,
+        "ExtraActivitychallengetipsTextMapHash": 1100565479,
+        "Id": 1200509,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001127",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3016241,
+        "ActivitychallengetipsTextMapHash": 2758669608,
+        "ExtraActivitychallengetipsTextMapHash": 2481072735,
+        "Id": 1200510,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144004065",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3016242,
+        "ActivitychallengetipsTextMapHash": 754189256,
+        "ExtraActivitychallengetipsTextMapHash": 313051439,
+        "Id": 1200511,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144004065",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3016243,
+        "ActivitychallengetipsTextMapHash": 1672298840,
+        "ExtraActivitychallengetipsTextMapHash": 461260207,
+        "Id": 1200512,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144004065",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3016251,
+        "ActivitychallengetipsTextMapHash": 1594470432,
+        "ExtraActivitychallengetipsTextMapHash": 1541968303,
+        "Id": 1200513,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001130",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3016252,
+        "ActivitychallengetipsTextMapHash": 3938740208,
+        "ExtraActivitychallengetipsTextMapHash": 871279039,
+        "Id": 1200514,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001130",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3016253,
+        "ActivitychallengetipsTextMapHash": 740152712,
+        "ExtraActivitychallengetipsTextMapHash": 4010283343,
+        "Id": 1200515,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144001130",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3016261,
+        "ActivitychallengetipsTextMapHash": 2006940240,
+        "ExtraActivitychallengetipsTextMapHash": 589324839,
+        "Id": 1200516,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144002049",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000
+    },
+    {
+        "RewardID": 3016262,
+        "ActivitychallengetipsTextMapHash": 730300384,
+        "ExtraActivitychallengetipsTextMapHash": 2144983455,
+        "Id": 1200517,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144002049",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000
+    },
+    {
+        "RewardID": 3016263,
+        "ActivitychallengetipsTextMapHash": 2301055712,
+        "ExtraActivitychallengetipsTextMapHash": 1639353175,
+        "Id": 1200518,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "144002049",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000
+    },
+    {
+        "RewardID": 3016101,
+        "ActivitychallengetipsTextMapHash": 4119541472,
+        "ExtraActivitychallengetipsTextMapHash": 1123444887,
+        "Id": 1200519,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "124",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 200
+    },
+    {
+        "RewardID": 3016102,
+        "ActivitychallengetipsTextMapHash": 1847607816,
+        "ExtraActivitychallengetipsTextMapHash": 3746213719,
+        "Id": 1200520,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "124",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1000
+    },
+    {
+        "RewardID": 3016103,
+        "ActivitychallengetipsTextMapHash": 4019385688,
+        "ExtraActivitychallengetipsTextMapHash": 2192825295,
+        "Id": 1200521,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "124",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2000
+    },
+    {
+        "RewardID": 3016104,
+        "ActivitychallengetipsTextMapHash": 4274469520,
+        "ExtraActivitychallengetipsTextMapHash": 3699184647,
+        "Id": 1200522,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_MONSTERS_WITHOUT_VEHICLE",
+            "ParamList": [
+                "",
+                "144001074,144001102,144001103,144001104,144001105,144004077,144002047,144001131,144001141,144004078",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30
+    },
+    {
+        "RewardID": 3016105,
+        "ActivitychallengetipsTextMapHash": 1967155424,
+        "ExtraActivitychallengetipsTextMapHash": 2922910295,
+        "Id": 1200523,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_MONSTERS_WITHOUT_VEHICLE",
+            "ParamList": [
+                "",
+                "144001074,144001102,144001103,144001104,144001105,144004077,144002047,144001131,144001141,144004078",
+                "",
+                ""
+            ]
+        },
+        "Progress": 60
+    },
+    {
+        "RewardID": 3016106,
+        "ActivitychallengetipsTextMapHash": 1342538360,
+        "ExtraActivitychallengetipsTextMapHash": 4174869423,
+        "Id": 1200524,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GADGETS_BY_SPECIFIC_SKILL",
+            "ParamList": [
+                "SceneObj_Area_Common_Property_Prop_HiliSeaLookoutShield_01",
+                "70290058",
+                "144001074,144001102,144001103,144001104,144001105,144004077,144002047,144001131,144001141,144004078",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 3016301,
+        "ActivitychallengetipsTextMapHash": 4225297776,
+        "ExtraActivitychallengetipsTextMapHash": 1294754447,
+        "Id": 1200525,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+            "ParamList": [
+                "25090101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3016302,
+        "ActivitychallengetipsTextMapHash": 2660322152,
+        "ExtraActivitychallengetipsTextMapHash": 1420391007,
+        "Id": 1200526,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+            "ParamList": [
+                "25090101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2
+    },
+    {
+        "RewardID": 3016303,
+        "ActivitychallengetipsTextMapHash": 1379007664,
+        "ExtraActivitychallengetipsTextMapHash": 902527663,
+        "Id": 1200527,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BATTLE_FOR_MONSTER_DIE_OR",
+            "ParamList": [
+                "25090101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3
+    },
+    {
+        "RewardID": 3016304,
+        "ActivitychallengetipsTextMapHash": 1308161400,
+        "ExtraActivitychallengetipsTextMapHash": 2968279615,
+        "Id": 1200528,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "ParamList": [
+                "LevelAbility_Combat_Activity_Watcher_1:Watcher_Achievement_1200528",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3016305,
+        "ActivitychallengetipsTextMapHash": 3356023600,
+        "ExtraActivitychallengetipsTextMapHash": 2331665591,
+        "Id": 1200529,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "ParamList": [
+                "LevelAbility_Combat_Activity_Watcher_1:Watcher_Achievement_1200529",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3016306,
+        "ActivitychallengetipsTextMapHash": 537436440,
+        "ExtraActivitychallengetipsTextMapHash": 3438640223,
+        "Id": 1200530,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "ParamList": [
+                "LevelAbility_Combat_Activity_Watcher_1:Watcher_Achievement_1200530",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 3016401,
+        "ActivitychallengetipsTextMapHash": 1174379624,
+        "ExtraActivitychallengetipsTextMapHash": 4133422567,
+        "Id": 1200531,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_PROGRESS",
+            "ParamList": [
+                "17",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 3
+    },
+    {
+        "RewardID": 3016402,
+        "ActivitychallengetipsTextMapHash": 23201032,
+        "ExtraActivitychallengetipsTextMapHash": 2263268719,
+        "Id": 1200532,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_PROGRESS",
+            "ParamList": [
+                "17",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 6
+    },
+    {
+        "RewardID": 3016403,
+        "ActivitychallengetipsTextMapHash": 3731529528,
+        "ExtraActivitychallengetipsTextMapHash": 2118768391,
+        "Id": 1200533,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_PROGRESS",
+            "ParamList": [
+                "17",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 9
+    },
+    {
+        "RewardID": 3016404,
+        "ActivitychallengetipsTextMapHash": 191291856,
+        "ExtraActivitychallengetipsTextMapHash": 4109880735,
+        "Id": 1200534,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_GROUP_VARIABLE_GT",
+            "ParamList": [
+                "10",
+                "BombTypeA",
+                "2",
+                ""
+            ]
+        },
+        "Progress": 2
+    },
+    {
+        "RewardID": 3016405,
+        "ActivitychallengetipsTextMapHash": 1933277568,
+        "ExtraActivitychallengetipsTextMapHash": 2424459567,
+        "Id": 1200535,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_GROUP_VARIABLE_GT",
+            "ParamList": [
+                "10",
+                "BombTypeB",
+                "3",
+                ""
+            ]
+        },
+        "Progress": 2
+    },
+    {
+        "RewardID": 3016406,
+        "ActivitychallengetipsTextMapHash": 482148440,
+        "ExtraActivitychallengetipsTextMapHash": 177808447,
+        "Id": 1200536,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_BLOSSOM_GROUP_VARIABLE_GT",
+            "ParamList": [
+                "10",
+                "BombTypeB",
+                "3",
+                ""
+            ]
+        },
+        "Progress": 4
+    },
+    {
+        "RewardID": 3002011,
+        "ActivitychallengetipsTextMapHash": 3494188464,
+        "ExtraActivitychallengetipsTextMapHash": 1990988503,
+        "Id": 1503301,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133104761",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002012,
+        "ActivitychallengetipsTextMapHash": 2950762496,
+        "ExtraActivitychallengetipsTextMapHash": 3602244143,
+        "Id": 1503302,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133104761",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002013,
+        "ActivitychallengetipsTextMapHash": 4253787384,
+        "ExtraActivitychallengetipsTextMapHash": 3189137663,
+        "Id": 1503303,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133104761",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002021,
+        "ActivitychallengetipsTextMapHash": 657910360,
+        "ExtraActivitychallengetipsTextMapHash": 387418575,
+        "Id": 1503304,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133103577",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002022,
+        "ActivitychallengetipsTextMapHash": 1308752712,
+        "ExtraActivitychallengetipsTextMapHash": 3105379663,
+        "Id": 1503305,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133103577",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002023,
+        "ActivitychallengetipsTextMapHash": 3982554328,
+        "ExtraActivitychallengetipsTextMapHash": 866858343,
+        "Id": 1503306,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133103577",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002031,
+        "ActivitychallengetipsTextMapHash": 1997061624,
+        "ExtraActivitychallengetipsTextMapHash": 329815511,
+        "Id": 1503307,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133001435",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002032,
+        "ActivitychallengetipsTextMapHash": 338575400,
+        "ExtraActivitychallengetipsTextMapHash": 3559642991,
+        "Id": 1503308,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133001435",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002033,
+        "ActivitychallengetipsTextMapHash": 2934511160,
+        "ExtraActivitychallengetipsTextMapHash": 1154809823,
+        "Id": 1503309,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133001435",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002041,
+        "ActivitychallengetipsTextMapHash": 2845397880,
+        "ExtraActivitychallengetipsTextMapHash": 2015655679,
+        "Id": 1503310,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133104029",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002042,
+        "ActivitychallengetipsTextMapHash": 2437931072,
+        "ExtraActivitychallengetipsTextMapHash": 3786922647,
+        "Id": 1503311,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133104029",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002043,
+        "ActivitychallengetipsTextMapHash": 919451360,
+        "ExtraActivitychallengetipsTextMapHash": 1894488767,
+        "Id": 1503312,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133104029",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002051,
+        "ActivitychallengetipsTextMapHash": 3007039280,
+        "ExtraActivitychallengetipsTextMapHash": 3462043487,
+        "Id": 1503313,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133107134",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002052,
+        "ActivitychallengetipsTextMapHash": 4061159096,
+        "ExtraActivitychallengetipsTextMapHash": 2731350351,
+        "Id": 1503314,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133107134",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002053,
+        "ActivitychallengetipsTextMapHash": 1031491448,
+        "ExtraActivitychallengetipsTextMapHash": 3357987719,
+        "Id": 1503315,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133107134",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002061,
+        "ActivitychallengetipsTextMapHash": 4212729976,
+        "ExtraActivitychallengetipsTextMapHash": 603775135,
+        "Id": 1503316,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133101214",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002062,
+        "ActivitychallengetipsTextMapHash": 1931234880,
+        "ExtraActivitychallengetipsTextMapHash": 522810303,
+        "Id": 1503317,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133101214",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3002063,
+        "ActivitychallengetipsTextMapHash": 777796632,
+        "ExtraActivitychallengetipsTextMapHash": 1830158983,
+        "Id": 1503318,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GROUP_SUMMER_TIME_SPRINT_BOAT_REACH_POINTS",
+            "ParamList": [
+                "133101214",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30000,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 3011301,
+        "ActivitychallengetipsTextMapHash": 695663736,
+        "ExtraActivitychallengetipsTextMapHash": 3295635671,
+        "Id": 1503201,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_FINISH_COUNT",
+            "ParamList": [
+                "7006",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2,
+        "IsDeleteWatcherAfterFinish": true
+    },
+    {
+        "RewardID": 301901,
+        "ActivitychallengetipsTextMapHash": 2300593400,
+        "ExtraActivitychallengetipsTextMapHash": 3633784639,
+        "Id": 1503202,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_FINISH_COUNT",
+            "ParamList": [
+                "7006",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2
+    },
+    {
+        "RewardID": 301902,
+        "ActivitychallengetipsTextMapHash": 162165848,
+        "ExtraActivitychallengetipsTextMapHash": 1234050239,
+        "Id": 1503203,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_SCORE",
+            "ParamList": [
+                "7006",
+                "1600",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301903,
+        "ActivitychallengetipsTextMapHash": 1493851680,
+        "ExtraActivitychallengetipsTextMapHash": 1560889639,
+        "Id": 1503204,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_SCORE",
+            "ParamList": [
+                "7006",
+                "2100",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301904,
+        "ActivitychallengetipsTextMapHash": 1627472664,
+        "ExtraActivitychallengetipsTextMapHash": 790685591,
+        "Id": 1503205,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201002",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 15
+    },
+    {
+        "RewardID": 301905,
+        "ActivitychallengetipsTextMapHash": 2182096920,
+        "ExtraActivitychallengetipsTextMapHash": 2502267319,
+        "Id": 1503206,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201003",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 80
+    },
+    {
+        "RewardID": 301908,
+        "ActivitychallengetipsTextMapHash": 3299051504,
+        "ExtraActivitychallengetipsTextMapHash": 3344634575,
+        "Id": 1503207,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "ParamList": [
+                "10201006",
+                "3",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "ActivitychallengetipsTextMapHash": 2151620536,
+        "ExtraActivitychallengetipsTextMapHash": 2119076199,
+        "Id": 1503208,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_QUEST_AND",
+            "ParamList": [
+                "7900706",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301906,
+        "ActivitychallengetipsTextMapHash": 3199676544,
+        "ExtraActivitychallengetipsTextMapHash": 4186629439,
+        "Id": 1503209,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201004",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 30
+    },
+    {
+        "RewardID": 301907,
+        "ActivitychallengetipsTextMapHash": 3766157864,
+        "ExtraActivitychallengetipsTextMapHash": 743769831,
+        "Id": 1503210,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201005",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 301909,
+        "ActivitychallengetipsTextMapHash": 3321332008,
+        "ExtraActivitychallengetipsTextMapHash": 3410220903,
+        "Id": 1503211,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_FINISH_COUNT",
+            "ParamList": [
+                "7013",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2
+    },
+    {
+        "RewardID": 301910,
+        "ActivitychallengetipsTextMapHash": 160152976,
+        "ExtraActivitychallengetipsTextMapHash": 4201679551,
+        "Id": 1503212,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_SCORE",
+            "ParamList": [
+                "7013",
+                "2100",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301911,
+        "ActivitychallengetipsTextMapHash": 829685288,
+        "ExtraActivitychallengetipsTextMapHash": 321759311,
+        "Id": 1503213,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_SCORE",
+            "ParamList": [
+                "7013",
+                "3000",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301912,
+        "ActivitychallengetipsTextMapHash": 1182475704,
+        "ExtraActivitychallengetipsTextMapHash": 182881423,
+        "Id": 1503214,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201002",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 35
+    },
+    {
+        "RewardID": 301913,
+        "ActivitychallengetipsTextMapHash": 1442333200,
+        "ExtraActivitychallengetipsTextMapHash": 4096169815,
+        "Id": 1503215,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201011",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 120
+    },
+    {
+        "RewardID": 301914,
+        "ActivitychallengetipsTextMapHash": 2860113344,
+        "ExtraActivitychallengetipsTextMapHash": 2451780671,
+        "Id": 1503216,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201012",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 50
+    },
+    {
+        "RewardID": 301915,
+        "ActivitychallengetipsTextMapHash": 2237289128,
+        "ExtraActivitychallengetipsTextMapHash": 3287298159,
+        "Id": 1503217,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201014",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20
+    },
+    {
+        "RewardID": 301916,
+        "ActivitychallengetipsTextMapHash": 525379448,
+        "ExtraActivitychallengetipsTextMapHash": 2415341727,
+        "Id": 1503218,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "ParamList": [
+                "10201013",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301917,
+        "ActivitychallengetipsTextMapHash": 3364802152,
+        "ExtraActivitychallengetipsTextMapHash": 2105178943,
+        "Id": 1503219,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_FINISH_COUNT",
+            "ParamList": [
+                "7014",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 2
+    },
+    {
+        "RewardID": 301918,
+        "ActivitychallengetipsTextMapHash": 3497341456,
+        "ExtraActivitychallengetipsTextMapHash": 139704431,
+        "Id": 1503220,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_SCORE",
+            "ParamList": [
+                "7014",
+                "1800",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301919,
+        "ActivitychallengetipsTextMapHash": 3754835008,
+        "ExtraActivitychallengetipsTextMapHash": 1225404999,
+        "Id": 1503221,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BOUNCE_CONJURING_SCORE",
+            "ParamList": [
+                "7014",
+                "2500",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RewardID": 301920,
+        "ActivitychallengetipsTextMapHash": 3895305040,
+        "ExtraActivitychallengetipsTextMapHash": 268823983,
+        "Id": 1503222,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201002",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 50
+    },
+    {
+        "RewardID": 301921,
+        "ActivitychallengetipsTextMapHash": 1679857776,
+        "ExtraActivitychallengetipsTextMapHash": 1718469271,
+        "Id": 1503223,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201021",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 100
+    },
+    {
+        "RewardID": 301922,
+        "ActivitychallengetipsTextMapHash": 1427112680,
+        "ExtraActivitychallengetipsTextMapHash": 4215116671,
+        "Id": 1503224,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201022",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 10
+    },
+    {
+        "RewardID": 301923,
+        "ActivitychallengetipsTextMapHash": 3578585392,
+        "ExtraActivitychallengetipsTextMapHash": 1482591951,
+        "Id": 1503225,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "ParamList": [
+                "10201024",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 5
+    },
+    {
+        "RewardID": 301924,
+        "ActivitychallengetipsTextMapHash": 364291720,
+        "ExtraActivitychallengetipsTextMapHash": 2112379831,
+        "Id": 1503226,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "ParamList": [
+                "10201023",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "201": {
+        "Id": 201,
+        "Order": 998,
+        "ShopType": "SHOP_TYPE_HCOIN"
+    },
+    "202": {
+        "Id": 202,
+        "Order": 997
+    },
+    "203": {
+        "Id": 203,
+        "Order": 999,
+        "ShopType": "SHOP_TYPE_MCOIN"
+    },
+    "106": {
+        "Id": 106,
+        "Order": 500
+    }
+}

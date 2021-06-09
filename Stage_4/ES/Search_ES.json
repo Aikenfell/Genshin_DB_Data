@@ -1,0 +1,4451 @@
+{
+    "Weapon": {
+        "": {
+            "NID": 0,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Alabarda": {
+            "NID": 1,
+            "Tags": [
+                "3",
+                "Polearm",
+                "ATQ"
+            ]
+        },
+        "Alas Celestiales": {
+            "NID": 2,
+            "Tags": [
+                "5",
+                "Bow",
+                "Prob. CRIT"
+            ]
+        },
+        "Apuntes del Aprendiz": {
+            "NID": 3,
+            "Tags": [
+                "1",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Aquila Favonia": {
+            "NID": 4,
+            "Tags": [
+                "5",
+                "Sword",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Arco Compuesto": {
+            "NID": 5,
+            "Tags": [
+                "4",
+                "Bow",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Arco Real": {
+            "NID": 6,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATQ"
+            ]
+        },
+        "Arco Recurvo": {
+            "NID": 7,
+            "Tags": [
+                "3",
+                "Bow",
+                "Vida"
+            ]
+        },
+        "Arco de Amos": {
+            "NID": 8,
+            "Tags": [
+                "5",
+                "Bow",
+                "ATQ"
+            ]
+        },
+        "Arco de Cuervo": {
+            "NID": 9,
+            "Tags": [
+                "3",
+                "Bow",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Arco de Favonius": {
+            "NID": 10,
+            "Tags": [
+                "4",
+                "Bow",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Arco de la Cazadora Esmeralda": {
+            "NID": 11,
+            "Tags": [
+                "4",
+                "Bow",
+                "Prob. CRIT"
+            ]
+        },
+        "Arco de \u00c9bano": {
+            "NID": 12,
+            "Tags": [
+                "3",
+                "Bow",
+                "ATQ"
+            ]
+        },
+        "Arco del Cazador": {
+            "NID": 13,
+            "Tags": [
+                "1",
+                "Bow",
+                ""
+            ]
+        },
+        "Arco del Cazador Estacional": {
+            "NID": 14,
+            "Tags": [
+                "2",
+                "Bow",
+                ""
+            ]
+        },
+        "Arco del Pe\u00f1asco Oscuro": {
+            "NID": 15,
+            "Tags": [
+                "4",
+                "Bow",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Arco del Sacrificio": {
+            "NID": 16,
+            "Tags": [
+                "4",
+                "Bow",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Argento Estelar de las Nieves": {
+            "NID": 17,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Asta de Bandera": {
+            "NID": 18,
+            "Tags": [
+                "3",
+                "Polearm",
+                ""
+            ]
+        },
+        "Balada Perdida": {
+            "NID": 19,
+            "Tags": [
+                "5",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Borla Blanca": {
+            "NID": 20,
+            "Tags": [
+                "3",
+                "Polearm",
+                "Prob. CRIT"
+            ]
+        },
+        "Borla Negra": {
+            "NID": 21,
+            "Tags": [
+                "3",
+                "Polearm",
+                "Vida"
+            ]
+        },
+        "B\u00e1culo de Homa": {
+            "NID": 22,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Candado Terrenal": {
+            "NID": 23,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "ATQ"
+            ]
+        },
+        "Cara de Diamante": {
+            "NID": 24,
+            "Tags": [
+                "5",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Carta N\u00e1utica": {
+            "NID": 25,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Catalizador de \u00c1mbar": {
+            "NID": 26,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Cazador de Dioses": {
+            "NID": 27,
+            "Tags": [
+                "5",
+                "Polearm",
+                ""
+            ]
+        },
+        "Cazador de Dragones de Kunwu": {
+            "NID": 28,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Cazador del Callej\u00f3n": {
+            "NID": 29,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATQ"
+            ]
+        },
+        "Cortador de Jade Primordial": {
+            "NID": 30,
+            "Tags": [
+                "5",
+                "Sword",
+                ""
+            ]
+        },
+        "Cuentos de Cazadores de Dragones": {
+            "NID": 31,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Vida"
+            ]
+        },
+        "Cuentos de Dodoco": {
+            "NID": 32,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATQ"
+            ]
+        },
+        "C\u00f3dice de Favonius": {
+            "NID": 33,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Deseo Ponzo\u00f1oso": {
+            "NID": 34,
+            "Tags": [
+                "4",
+                "Sword",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Destello en la Oscuridad": {
+            "NID": 35,
+            "Tags": [
+                "4",
+                "Sword",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Destino Vac\u00edo": {
+            "NID": 36,
+            "Tags": [
+                "5",
+                "Sword",
+                ""
+            ]
+        },
+        "Eleg\u00eda del Fin": {
+            "NID": 37,
+            "Tags": [
+                "5",
+                "Bow",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Espada Larga del Pe\u00f1asco Oscuro": {
+            "NID": 38,
+            "Tags": [
+                "4",
+                "Sword",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Espada L\u00edtica": {
+            "NID": 39,
+            "Tags": [
+                "4",
+                "Claymore",
+                "ATQ"
+            ]
+        },
+        "Espada Negra": {
+            "NID": 40,
+            "Tags": [
+                "4",
+                "Sword",
+                "Prob. CRIT"
+            ]
+        },
+        "Espada Plateada": {
+            "NID": 41,
+            "Tags": [
+                "2",
+                "Sword",
+                ""
+            ]
+        },
+        "Espada Real Larga": {
+            "NID": 42,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Espada Surcacielos": {
+            "NID": 43,
+            "Tags": [
+                "3",
+                "Sword",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Espada de Cuarzo": {
+            "NID": 44,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Espada de Favonius": {
+            "NID": 45,
+            "Tags": [
+                "4",
+                "Sword",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Espada de Hierro Blanco": {
+            "NID": 46,
+            "Tags": [
+                "3",
+                "Claymore",
+                "DEF"
+            ]
+        },
+        "Espada de Hierro Oscuro": {
+            "NID": 47,
+            "Tags": [
+                "3",
+                "Sword",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Espada de Jade Inicial": {
+            "NID": 48,
+            "Tags": [
+                "5",
+                "Claymore",
+                ""
+            ]
+        },
+        "Espada de Sacrificio": {
+            "NID": 49,
+            "Tags": [
+                "4",
+                "Sword",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Espada de la Desidia": {
+            "NID": 50,
+            "Tags": [
+                "5",
+                "Claymore",
+                "ATQ"
+            ]
+        },
+        "Espada del Alba": {
+            "NID": 51,
+            "Tags": [
+                "3",
+                "Sword",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Espada del Descenso": {
+            "NID": 52,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Espada del Mercenario": {
+            "NID": 53,
+            "Tags": [
+                "2",
+                "Claymore",
+                ""
+            ]
+        },
+        "Espada del Tiempo": {
+            "NID": 54,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Vida"
+            ]
+        },
+        "Espada del Viajero": {
+            "NID": 55,
+            "Tags": [
+                "3",
+                "Sword",
+                "DEF"
+            ]
+        },
+        "Espejo Roto": {
+            "NID": 56,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "Espina de Hierro": {
+            "NID": 57,
+            "Tags": [
+                "4",
+                "Sword",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Flauta": {
+            "NID": 58,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Fr\u00edo Eterno": {
+            "NID": 59,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATQ"
+            ]
+        },
+        "Garrote del Debate": {
+            "NID": 60,
+            "Tags": [
+                "3",
+                "Claymore",
+                "ATQ"
+            ]
+        },
+        "Gran Espada Real": {
+            "NID": 61,
+            "Tags": [
+                "4",
+                "Claymore",
+                "ATQ"
+            ]
+        },
+        "Gran Espada Sangrienta": {
+            "NID": 62,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Gran Espada Surcacielos": {
+            "NID": 63,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Gran Espada de Favonius": {
+            "NID": 64,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Gran Espada de Sacrificio": {
+            "NID": 65,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Gran Espada del Guerrero": {
+            "NID": 66,
+            "Tags": [
+                "1",
+                "Claymore",
+                ""
+            ]
+        },
+        "Gran Hoja del Pe\u00f1asco Oscuro": {
+            "NID": 67,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Grimorio Real": {
+            "NID": 68,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATQ"
+            ]
+        },
+        "Grimorio de Bolsillo": {
+            "NID": 69,
+            "Tags": [
+                "2",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Gu\u00eda M\u00e1gica": {
+            "NID": 70,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Halc\u00f3n de Jade": {
+            "NID": 71,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Prob. CRIT"
+            ]
+        },
+        "Herrumbre": {
+            "NID": 72,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATQ"
+            ]
+        },
+        "Historia Diferente": {
+            "NID": 73,
+            "Tags": [
+                "5",
+                "Claymore",
+                ""
+            ]
+        },
+        "Historias de Otros Mundos": {
+            "NID": 74,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Hoja Afilada Celestial": {
+            "NID": 75,
+            "Tags": [
+                "5",
+                "Sword",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Hoja Desafilada": {
+            "NID": 76,
+            "Tags": [
+                "1",
+                "Sword",
+                ""
+            ]
+        },
+        "Hoja Fr\u00eda": {
+            "NID": 77,
+            "Tags": [
+                "3",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Hoja de Filetear": {
+            "NID": 78,
+            "Tags": [
+                "3",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Juramento del Arquero": {
+            "NID": 79,
+            "Tags": [
+                "3",
+                "Bow",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Juramento por la Libertad": {
+            "NID": 80,
+            "Tags": [
+                "5",
+                "Sword",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Lanza L\u00edtica": {
+            "NID": 81,
+            "Tags": [
+                "4",
+                "Polearm",
+                "ATQ"
+            ]
+        },
+        "Lanza Perforanubes": {
+            "NID": 82,
+            "Tags": [
+                "5",
+                "Polearm",
+                "ATQ"
+            ]
+        },
+        "Lanza de Caza Real": {
+            "NID": 83,
+            "Tags": [
+                "4",
+                "Polearm",
+                "ATQ"
+            ]
+        },
+        "Lanza de Espinadrag\u00f3n": {
+            "NID": 84,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Lanza de Favonius": {
+            "NID": 85,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Lanza del Duelo": {
+            "NID": 86,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Prob. CRIT"
+            ]
+        },
+        "Lanza del Pe\u00f1asco Oscuro": {
+            "NID": 87,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Lanza del Principiante": {
+            "NID": 88,
+            "Tags": [
+                "1",
+                "Polearm",
+                ""
+            ]
+        },
+        "L\u00e1pida del Lobo": {
+            "NID": 89,
+            "Tags": [
+                "5",
+                "Claymore",
+                "ATQ"
+            ]
+        },
+        "Memorias de Sacrificios": {
+            "NID": 90,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Mensajero": {
+            "NID": 91,
+            "Tags": [
+                "3",
+                "Bow",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "M\u00e9dula de la Serpiente Marina": {
+            "NID": 92,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Prob. CRIT"
+            ]
+        },
+        "Nefrita Gemela": {
+            "NID": 93,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Prob. CRIT"
+            ]
+        },
+        "Oda a las Flores de Viento": {
+            "NID": 94,
+            "Tags": [
+                "4",
+                "Bow",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Oda de los Pinos": {
+            "NID": 95,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Ojo de la Perspicacia": {
+            "NID": 96,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "ATQ"
+            ]
+        },
+        "Oraci\u00f3n Perdida a los Vientos Sagrados": {
+            "NID": 97,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "Prob. CRIT"
+            ]
+        },
+        "Orbe Esmeralda": {
+            "NID": 98,
+            "Tags": [
+                "3",
+                "Catalyst",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Orgullo Celestial": {
+            "NID": 99,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Perdici\u00f3n del Drag\u00f3n": {
+            "NID": 100,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Pergamino Celestial": {
+            "NID": 101,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "ATQ"
+            ]
+        },
+        "Perla Solar": {
+            "NID": 102,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Prob. CRIT"
+            ]
+        },
+        "Pica Luna Creciente": {
+            "NID": 103,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Prototipo Arcaico": {
+            "NID": 104,
+            "Tags": [
+                "4",
+                "Claymore",
+                "ATQ"
+            ]
+        },
+        "Prototipo Estelar": {
+            "NID": 105,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Prototipo Luz de Luna": {
+            "NID": 106,
+            "Tags": [
+                "4",
+                "Bow",
+                "ATQ"
+            ]
+        },
+        "Prototipo Rencor": {
+            "NID": 107,
+            "Tags": [
+                "4",
+                "Sword",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Prototipo \u00c1mbar": {
+            "NID": 108,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Vida"
+            ]
+        },
+        "Punta de Hierro": {
+            "NID": 109,
+            "Tags": [
+                "2",
+                "Polearm",
+                ""
+            ]
+        },
+        "P\u00faa Celestial": {
+            "NID": 110,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Regalia de Jade Primordial": {
+            "NID": 111,
+            "Tags": [
+                "5",
+                "Catalyst",
+                ""
+            ]
+        },
+        "Rompemonta\u00f1as": {
+            "NID": 112,
+            "Tags": [
+                "5",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Rugido del Le\u00f3n": {
+            "NID": 113,
+            "Tags": [
+                "4",
+                "Sword",
+                "ATQ"
+            ]
+        },
+        "Segadora de la Lluvia": {
+            "NID": 114,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Maestr\u00eda Elemental"
+            ]
+        },
+        "Sinfon\u00eda de los Merodeadores": {
+            "NID": 115,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "Sombra Blanca": {
+            "NID": 116,
+            "Tags": [
+                "4",
+                "Claymore",
+                "DEF"
+            ]
+        },
+        "Sombra F\u00e9rrea": {
+            "NID": 117,
+            "Tags": [
+                "3",
+                "Claymore",
+                "Vida"
+            ]
+        },
+        "Tirachinas": {
+            "NID": 118,
+            "Tags": [
+                "3",
+                "Bow",
+                "Prob. CRIT"
+            ]
+        },
+        "Vals Nocturno": {
+            "NID": 119,
+            "Tags": [
+                "4",
+                "Bow",
+                "Bono de Da\u00f1o F\u00edsico"
+            ]
+        },
+        "Vino y Poes\u00eda": {
+            "NID": 120,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Recarga de Energ\u00eda"
+            ]
+        },
+        "Vista de Jade Primordial": {
+            "NID": 121,
+            "Tags": [
+                "5",
+                "Bow",
+                ""
+            ]
+        },
+        "\u00c1gata del Pe\u00f1asco Oscuro": {
+            "NID": 122,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Da\u00f1o CRIT"
+            ]
+        },
+        "\u00daltimo Acorde": {
+            "NID": 123,
+            "Tags": [
+                "4",
+                "Bow",
+                "Maestr\u00eda Elemental"
+            ]
+        }
+    },
+    "Character": {
+        "Albedo": {
+            "NID": 0,
+            "Tags": [
+                "5",
+                "Sword",
+                "Geo",
+                "5",
+                "Sword",
+                "\u5ca9",
+                "5",
+                "Sword",
+                "\u5ca9",
+                "5",
+                "Sword",
+                "Geo"
+            ]
+        },
+        "Amber": {
+            "NID": 1,
+            "Tags": [
+                "4",
+                "Bow",
+                "Pyro",
+                "4",
+                "Bow",
+                "\u706b",
+                "4",
+                "Bow",
+                "\u706b",
+                "4",
+                "Bow",
+                "Pyro"
+            ]
+        },
+        "Beidou": {
+            "NID": 2,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Electro",
+                "4",
+                "Claymore",
+                "\u96f7",
+                "4",
+                "Claymore",
+                "\u96f7",
+                "4",
+                "Claymore",
+                "Electro"
+            ]
+        },
+        "Bennett": {
+            "NID": 3,
+            "Tags": [
+                "4",
+                "Sword",
+                "Pyro",
+                "4",
+                "Sword",
+                "\u706b",
+                "4",
+                "Sword",
+                "\u706b",
+                "4",
+                "Sword",
+                "Pyro"
+            ]
+        },
+        "B\u00e1rbara": {
+            "NID": 4,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Hydro",
+                "4",
+                "Catalyst",
+                "\u6c34",
+                "4",
+                "Catalyst",
+                "\u6c34",
+                "4",
+                "Catalyst",
+                "Hydro"
+            ]
+        },
+        "Chongyun": {
+            "NID": 5,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Cryo",
+                "4",
+                "Claymore",
+                "\u51b0",
+                "4",
+                "Claymore",
+                "\u51b0",
+                "4",
+                "Claymore",
+                "Cryo"
+            ]
+        },
+        "Diluc": {
+            "NID": 6,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Pyro",
+                "5",
+                "Claymore",
+                "\u706b",
+                "5",
+                "Claymore",
+                "\u706b",
+                "5",
+                "Claymore",
+                "Pyro"
+            ]
+        },
+        "Diona": {
+            "NID": 7,
+            "Tags": [
+                "4",
+                "Bow",
+                "Cryo",
+                "4",
+                "Bow",
+                "\u51b0",
+                "4",
+                "Bow",
+                "\u51b0",
+                "4",
+                "Bow",
+                "Cryo"
+            ]
+        },
+        "Eula": {
+            "NID": 8,
+            "Tags": [
+                "5",
+                "Claymore",
+                "Cryo",
+                "5",
+                "Claymore",
+                "\u51b0",
+                "5",
+                "Claymore",
+                "\u51b0",
+                "5",
+                "Claymore",
+                "Cryo"
+            ]
+        },
+        "Fischl": {
+            "NID": 9,
+            "Tags": [
+                "4",
+                "Bow",
+                "Electro",
+                "4",
+                "Bow",
+                "\u96f7",
+                "4",
+                "Bow",
+                "\u96f7",
+                "4",
+                "Bow",
+                "Electro"
+            ]
+        },
+        "Ganyu": {
+            "NID": 10,
+            "Tags": [
+                "5",
+                "Bow",
+                "Cryo",
+                "5",
+                "Bow",
+                "\u51b0",
+                "5",
+                "Bow",
+                "\u51b0",
+                "5",
+                "Bow",
+                "Cryo"
+            ]
+        },
+        "Hu Tao": {
+            "NID": 11,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Pyro",
+                "5",
+                "Polearm",
+                "\u706b",
+                "5",
+                "Polearm",
+                "\u706b",
+                "5",
+                "Polearm",
+                "Pyro"
+            ]
+        },
+        "Jean": {
+            "NID": 12,
+            "Tags": [
+                "5",
+                "Sword",
+                "Anemo",
+                "5",
+                "Sword",
+                "\u98a8",
+                "5",
+                "Sword",
+                "\u98ce",
+                "5",
+                "Sword",
+                "Anemo"
+            ]
+        },
+        "Kaedehara Kazuha": {
+            "NID": 13,
+            "Tags": [
+                "5",
+                "Sword",
+                "Anemo",
+                "5",
+                "Sword",
+                "\u98a8",
+                "5",
+                "Sword",
+                "\u98ce",
+                "5",
+                "Sword",
+                "Anemo"
+            ]
+        },
+        "Kaeya": {
+            "NID": 14,
+            "Tags": [
+                "4",
+                "Sword",
+                "Cryo",
+                "4",
+                "Sword",
+                "\u51b0",
+                "4",
+                "Sword",
+                "\u51b0",
+                "4",
+                "Sword",
+                "Cryo"
+            ]
+        },
+        "Keching": {
+            "NID": 15,
+            "Tags": [
+                "5",
+                "Sword",
+                "Electro",
+                "5",
+                "Sword",
+                "\u96f7",
+                "5",
+                "Sword",
+                "\u96f7",
+                "5",
+                "Sword",
+                "Electro"
+            ]
+        },
+        "Klee": {
+            "NID": 16,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "Pyro",
+                "5",
+                "Catalyst",
+                "\u706b",
+                "5",
+                "Catalyst",
+                "\u706b",
+                "5",
+                "Catalyst",
+                "Pyro"
+            ]
+        },
+        "Lisa": {
+            "NID": 17,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Electro",
+                "4",
+                "Catalyst",
+                "\u96f7",
+                "4",
+                "Catalyst",
+                "\u96f7",
+                "4",
+                "Catalyst",
+                "Electro"
+            ]
+        },
+        "Lumina": {
+            "NID": 18,
+            "Tags": [
+                "5",
+                "Sword",
+                "None",
+                "5",
+                "Sword",
+                "\u7121",
+                "5",
+                "Sword",
+                "\u65e0",
+                "5",
+                "Sword",
+                "No disponible"
+            ]
+        },
+        "Mona": {
+            "NID": 19,
+            "Tags": [
+                "5",
+                "Catalyst",
+                "Hydro",
+                "5",
+                "Catalyst",
+                "\u6c34",
+                "5",
+                "Catalyst",
+                "\u6c34",
+                "5",
+                "Catalyst",
+                "Hydro"
+            ]
+        },
+        "Ninguang": {
+            "NID": 20,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Geo",
+                "4",
+                "Catalyst",
+                "\u5ca9",
+                "4",
+                "Catalyst",
+                "\u5ca9",
+                "4",
+                "Catalyst",
+                "Geo"
+            ]
+        },
+        "Noelle": {
+            "NID": 21,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Geo",
+                "4",
+                "Claymore",
+                "\u5ca9",
+                "4",
+                "Claymore",
+                "\u5ca9",
+                "4",
+                "Claymore",
+                "Geo"
+            ]
+        },
+        "Qiqi": {
+            "NID": 22,
+            "Tags": [
+                "5",
+                "Sword",
+                "Cryo",
+                "5",
+                "Sword",
+                "\u51b0",
+                "5",
+                "Sword",
+                "\u51b0",
+                "5",
+                "Sword",
+                "Cryo"
+            ]
+        },
+        "Razor": {
+            "NID": 23,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Electro",
+                "4",
+                "Claymore",
+                "\u96f7",
+                "4",
+                "Claymore",
+                "\u96f7",
+                "4",
+                "Claymore",
+                "Electro"
+            ]
+        },
+        "Rosaria": {
+            "NID": 24,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Cryo",
+                "4",
+                "Polearm",
+                "\u51b0",
+                "4",
+                "Polearm",
+                "\u51b0",
+                "4",
+                "Polearm",
+                "Cryo"
+            ]
+        },
+        "Sacarosa": {
+            "NID": 25,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Anemo",
+                "4",
+                "Catalyst",
+                "\u98a8",
+                "4",
+                "Catalyst",
+                "\u98ce",
+                "4",
+                "Catalyst",
+                "Anemo"
+            ]
+        },
+        "Tartaglia": {
+            "NID": 26,
+            "Tags": [
+                "5",
+                "Bow",
+                "Hydro",
+                "5",
+                "Bow",
+                "\u6c34",
+                "5",
+                "Bow",
+                "\u6c34",
+                "5",
+                "Bow",
+                "Hydro"
+            ]
+        },
+        "Venti": {
+            "NID": 27,
+            "Tags": [
+                "5",
+                "Bow",
+                "Anemo",
+                "5",
+                "Bow",
+                "\u98a8",
+                "5",
+                "Bow",
+                "\u98ce",
+                "5",
+                "Bow",
+                "Anemo"
+            ]
+        },
+        "Xiangling": {
+            "NID": 28,
+            "Tags": [
+                "4",
+                "Polearm",
+                "Pyro",
+                "4",
+                "Polearm",
+                "\u706b",
+                "4",
+                "Polearm",
+                "\u706b",
+                "4",
+                "Polearm",
+                "Pyro"
+            ]
+        },
+        "Xiao": {
+            "NID": 29,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Anemo",
+                "5",
+                "Polearm",
+                "\u98a8",
+                "5",
+                "Polearm",
+                "\u98ce",
+                "5",
+                "Polearm",
+                "Anemo"
+            ]
+        },
+        "Xingchiu": {
+            "NID": 30,
+            "Tags": [
+                "4",
+                "Sword",
+                "Hydro",
+                "4",
+                "Sword",
+                "\u6c34",
+                "4",
+                "Sword",
+                "\u6c34",
+                "4",
+                "Sword",
+                "Hydro"
+            ]
+        },
+        "Xinyan": {
+            "NID": 31,
+            "Tags": [
+                "4",
+                "Claymore",
+                "Pyro",
+                "4",
+                "Claymore",
+                "\u706b",
+                "4",
+                "Claymore",
+                "\u706b",
+                "4",
+                "Claymore",
+                "Pyro"
+            ]
+        },
+        "Yanfei": {
+            "NID": 32,
+            "Tags": [
+                "4",
+                "Catalyst",
+                "Pyro",
+                "4",
+                "Catalyst",
+                "\u706b",
+                "4",
+                "Catalyst",
+                "\u706b",
+                "4",
+                "Catalyst",
+                "Pyro"
+            ]
+        },
+        "Zhongli": {
+            "NID": 33,
+            "Tags": [
+                "5",
+                "Polearm",
+                "Geo",
+                "5",
+                "Polearm",
+                "\u5ca9",
+                "5",
+                "Polearm",
+                "\u5ca9",
+                "5",
+                "Polearm",
+                "Geo"
+            ]
+        },
+        "\u00c9ter": {
+            "NID": 34,
+            "Tags": [
+                "5",
+                "Sword",
+                "None",
+                "5",
+                "Sword",
+                "\u7121",
+                "5",
+                "Sword",
+                "\u65e0",
+                "5",
+                "Sword",
+                "No disponible"
+            ]
+        }
+    },
+    "Artifact": {
+        "Afortunado": {
+            "NID": 0
+        },
+        "Arenas de hielo y nieve": {
+            "NID": 1
+        },
+        "Artista Marcial": {
+            "NID": 2
+        },
+        "Aventurero": {
+            "NID": 3
+        },
+        "Berserker": {
+            "NID": 4
+        },
+        "Bruja Carmes\u00ed en Llamas": {
+            "NID": 5
+        },
+        "Caballer\u00eda Sanguinaria": {
+            "NID": 6
+        },
+        "Coraz\u00f3n de las Profundidades": {
+            "NID": 7
+        },
+        "Coraz\u00f3n del Guardi\u00e1n": {
+            "NID": 8
+        },
+        "Coraz\u00f3n del Guerrero": {
+            "NID": 9
+        },
+        "Coraz\u00f3n del Viajero": {
+            "NID": 10
+        },
+        "Domador de Truenos": {
+            "NID": 11
+        },
+        "Doncella Amada": {
+            "NID": 12
+        },
+        "Erudita": {
+            "NID": 13
+        },
+        "Exiliado": {
+            "NID": 14
+        },
+        "Final del Gladiador": {
+            "NID": 15
+        },
+        "Furia del Trueno": {
+            "NID": 16
+        },
+        "Instructor": {
+            "NID": 17
+        },
+        "Jugadora": {
+            "NID": 18
+        },
+        "Llamas Albinas": {
+            "NID": 19
+        },
+        "Milagro": {
+            "NID": 20
+        },
+        "M\u00e9dica Itinerante": {
+            "NID": 21
+        },
+        "N\u00f3mada del Invierno": {
+            "NID": 22
+        },
+        "Orquesta del Errante": {
+            "NID": 23
+        },
+        "Petra Arcaica": {
+            "NID": 24
+        },
+        "Retroceso del Meteorito": {
+            "NID": 25
+        },
+        "Ritual Antiguo de la Nobleza": {
+            "NID": 26
+        },
+        "Ritual de la Iluminaci\u00f3n": {
+            "NID": 27
+        },
+        "Ritual de la Primavera": {
+            "NID": 28
+        },
+        "Ritual de la Sabidur\u00eda": {
+            "NID": 29
+        },
+        "Ritual del Destino": {
+            "NID": 30
+        },
+        "Sombra Verde Esmeralda": {
+            "NID": 31
+        },
+        "Tenacidad de la Geoarmada": {
+            "NID": 32
+        },
+        "Virtuoso Corredor de Lava": {
+            "NID": 33
+        }
+    },
+    "Piece": {
+        "Tr\u00e9bol de Cuatro Hojas del Afortunado": {
+            "NID": 0,
+            "Set": "Afortunado",
+            "Part": "Flower"
+        },
+        "Pluma de \u00c1guila del Afortunado": {
+            "NID": 1,
+            "Set": "Afortunado",
+            "Part": "Feather"
+        },
+        "Reloj de Arena del Afortunado": {
+            "NID": 2,
+            "Set": "Afortunado",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz del Afortunado": {
+            "NID": 3,
+            "Set": "Afortunado",
+            "Part": "Goblet"
+        },
+        "Tiara de Plata del Afortunado": {
+            "NID": 4,
+            "Set": "Afortunado",
+            "Part": "Headpiece"
+        },
+        "Coraz\u00f3n de Escarcha": {
+            "NID": 5,
+            "Set": "Arenas de hielo y nieve",
+            "Part": "Flower"
+        },
+        "Pluma de Nieve": {
+            "NID": 6,
+            "Set": "Arenas de hielo y nieve",
+            "Part": "Feather"
+        },
+        "Arena Helada": {
+            "NID": 7,
+            "Set": "Arenas de hielo y nieve",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz de Aquilo": {
+            "NID": 8,
+            "Set": "Arenas de hielo y nieve",
+            "Part": "Goblet"
+        },
+        "Corona Glacial": {
+            "NID": 9,
+            "Set": "Arenas de hielo y nieve",
+            "Part": "Headpiece"
+        },
+        "Flor Roja del Artista Marcial": {
+            "NID": 10,
+            "Set": "Artista Marcial",
+            "Part": "Flower"
+        },
+        "Pluma del Artista Marcial": {
+            "NID": 11,
+            "Set": "Artista Marcial",
+            "Part": "Feather"
+        },
+        "Reloj de Agua del Artista Marcial": {
+            "NID": 12,
+            "Set": "Artista Marcial",
+            "Part": "Timepiece"
+        },
+        "Copa de Vino del Artista Marcial": {
+            "NID": 13,
+            "Set": "Artista Marcial",
+            "Part": "Goblet"
+        },
+        "Bandana del Artista Marcial": {
+            "NID": 14,
+            "Set": "Artista Marcial",
+            "Part": "Headpiece"
+        },
+        "Flor del Aventurero": {
+            "NID": 15,
+            "Set": "Aventurero",
+            "Part": "Flower"
+        },
+        "Pluma del Aventurero": {
+            "NID": 16,
+            "Set": "Aventurero",
+            "Part": "Feather"
+        },
+        "Reloj de Bolsillo del Aventurero": {
+            "NID": 17,
+            "Set": "Aventurero",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz Dorado del Aventurero": {
+            "NID": 18,
+            "Set": "Aventurero",
+            "Part": "Goblet"
+        },
+        "Bandana del Aventurero": {
+            "NID": 19,
+            "Set": "Aventurero",
+            "Part": "Headpiece"
+        },
+        "Rosa del Berserker": {
+            "NID": 20,
+            "Set": "Berserker",
+            "Part": "Flower"
+        },
+        "Pluma del Berserker": {
+            "NID": 21,
+            "Set": "Berserker",
+            "Part": "Feather"
+        },
+        "Reloj del Berserker": {
+            "NID": 22,
+            "Set": "Berserker",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz de Hueso del Berserker": {
+            "NID": 23,
+            "Set": "Berserker",
+            "Part": "Goblet"
+        },
+        "M\u00e1scara de Batalla del Berserker": {
+            "NID": 24,
+            "Set": "Berserker",
+            "Part": "Headpiece"
+        },
+        "Flor en Llamas de la Bruja": {
+            "NID": 25,
+            "Set": "Bruja Carmes\u00ed en Llamas",
+            "Part": "Flower"
+        },
+        "Pluma Ardiente de la Bruja": {
+            "NID": 26,
+            "Set": "Bruja Carmes\u00ed en Llamas",
+            "Part": "Feather"
+        },
+        "Fin de los Tiempos de la Bruja": {
+            "NID": 27,
+            "Set": "Bruja Carmes\u00ed en Llamas",
+            "Part": "Timepiece"
+        },
+        "Llama del Coraz\u00f3n de la Bruja": {
+            "NID": 28,
+            "Set": "Bruja Carmes\u00ed en Llamas",
+            "Part": "Goblet"
+        },
+        "Sombrero Abrasador de la Bruja": {
+            "NID": 29,
+            "Set": "Bruja Carmes\u00ed en Llamas",
+            "Part": "Headpiece"
+        },
+        "Coraz\u00f3n de Hierro Sanguinario": {
+            "NID": 30,
+            "Set": "Caballer\u00eda Sanguinaria",
+            "Part": "Flower"
+        },
+        "Pluma Oscura Sanguinaria": {
+            "NID": 31,
+            "Set": "Caballer\u00eda Sanguinaria",
+            "Part": "Feather"
+        },
+        "Reloj del Caballero Sanguinario": {
+            "NID": 32,
+            "Set": "Caballer\u00eda Sanguinaria",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz del Caballero Sanguinario": {
+            "NID": 33,
+            "Set": "Caballer\u00eda Sanguinaria",
+            "Part": "Goblet"
+        },
+        "M\u00e1scara de Hierro Sanguinaria": {
+            "NID": 34,
+            "Set": "Caballer\u00eda Sanguinaria",
+            "Part": "Headpiece"
+        },
+        "Broche Dorado": {
+            "NID": 35,
+            "Set": "Coraz\u00f3n de las Profundidades",
+            "Part": "Flower"
+        },
+        "Brisa de los Recuerdos": {
+            "NID": 36,
+            "Set": "Coraz\u00f3n de las Profundidades",
+            "Part": "Feather"
+        },
+        "Br\u00fajula de Cobre Resistente": {
+            "NID": 37,
+            "Set": "Coraz\u00f3n de las Profundidades",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz de las Profundidades": {
+            "NID": 38,
+            "Set": "Coraz\u00f3n de las Profundidades",
+            "Part": "Goblet"
+        },
+        "Gorro de Capit\u00e1n Manchado de Vino": {
+            "NID": 39,
+            "Set": "Coraz\u00f3n de las Profundidades",
+            "Part": "Headpiece"
+        },
+        "Flor del Guardi\u00e1n": {
+            "NID": 40,
+            "Set": "Coraz\u00f3n del Guardi\u00e1n",
+            "Part": "Flower"
+        },
+        "Insignia del Guardi\u00e1n": {
+            "NID": 41,
+            "Set": "Coraz\u00f3n del Guardi\u00e1n",
+            "Part": "Feather"
+        },
+        "Reloj del Guardi\u00e1n": {
+            "NID": 42,
+            "Set": "Coraz\u00f3n del Guardi\u00e1n",
+            "Part": "Timepiece"
+        },
+        "Cantimplora del Guardi\u00e1n": {
+            "NID": 43,
+            "Set": "Coraz\u00f3n del Guardi\u00e1n",
+            "Part": "Goblet"
+        },
+        "Bandana del Guardi\u00e1n": {
+            "NID": 44,
+            "Set": "Coraz\u00f3n del Guardi\u00e1n",
+            "Part": "Headpiece"
+        },
+        "Medalla del Guerrero": {
+            "NID": 45,
+            "Set": "Coraz\u00f3n del Guerrero",
+            "Part": "Flower"
+        },
+        "Esperanza del Guerrero": {
+            "NID": 46,
+            "Set": "Coraz\u00f3n del Guerrero",
+            "Part": "Feather"
+        },
+        "Determinaci\u00f3n del Guerrero": {
+            "NID": 47,
+            "Set": "Coraz\u00f3n del Guerrero",
+            "Part": "Timepiece"
+        },
+        "Gran Despedida del Guerrero": {
+            "NID": 48,
+            "Set": "Coraz\u00f3n del Guerrero",
+            "Part": "Goblet"
+        },
+        "Corona del Guerrero": {
+            "NID": 49,
+            "Set": "Coraz\u00f3n del Guerrero",
+            "Part": "Headpiece"
+        },
+        "Coraz\u00f3n de la Amistad": {
+            "NID": 50,
+            "Set": "Coraz\u00f3n del Viajero",
+            "Part": "Flower"
+        },
+        "Pluma del Retorno": {
+            "NID": 51,
+            "Set": "Coraz\u00f3n del Viajero",
+            "Part": "Feather"
+        },
+        "Piedra Atrapaluz": {
+            "NID": 52,
+            "Set": "Coraz\u00f3n del Viajero",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz Extranjero": {
+            "NID": 53,
+            "Set": "Coraz\u00f3n del Viajero",
+            "Part": "Goblet"
+        },
+        "Corona del Adi\u00f3s": {
+            "NID": 54,
+            "Set": "Coraz\u00f3n del Viajero",
+            "Part": "Headpiece"
+        },
+        "Coraz\u00f3n del Domador de Truenos": {
+            "NID": 55,
+            "Set": "Domador de Truenos",
+            "Part": "Flower"
+        },
+        "Pluma del Domador de Truenos": {
+            "NID": 56,
+            "Set": "Domador de Truenos",
+            "Part": "Feather"
+        },
+        "Tiempo del Domador de Truenos": {
+            "NID": 57,
+            "Set": "Domador de Truenos",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz del Domador de Truenos": {
+            "NID": 58,
+            "Set": "Domador de Truenos",
+            "Part": "Goblet"
+        },
+        "Corona del Domador de Truenos": {
+            "NID": 59,
+            "Set": "Domador de Truenos",
+            "Part": "Headpiece"
+        },
+        "Coraz\u00f3n Distante de la Doncella": {
+            "NID": 60,
+            "Set": "Doncella Amada",
+            "Part": "Flower"
+        },
+        "Recuerdos de la Doncella": {
+            "NID": 61,
+            "Set": "Doncella Amada",
+            "Part": "Feather"
+        },
+        "Juventud Pasajera de la Doncella": {
+            "NID": 62,
+            "Set": "Doncella Amada",
+            "Part": "Timepiece"
+        },
+        "Pasatiempo de la Doncella": {
+            "NID": 63,
+            "Set": "Doncella Amada",
+            "Part": "Goblet"
+        },
+        "Belleza Desvanecida de la Doncella": {
+            "NID": 64,
+            "Set": "Doncella Amada",
+            "Part": "Headpiece"
+        },
+        "Marcap\u00e1ginas de la Erudita": {
+            "NID": 65,
+            "Set": "Erudita",
+            "Part": "Flower"
+        },
+        "Pluma de la Erudita": {
+            "NID": 66,
+            "Set": "Erudita",
+            "Part": "Feather"
+        },
+        "Reloj de la Erudita": {
+            "NID": 67,
+            "Set": "Erudita",
+            "Part": "Timepiece"
+        },
+        "Tintero de la Erudita": {
+            "NID": 68,
+            "Set": "Erudita",
+            "Part": "Goblet"
+        },
+        "Mon\u00f3culo de la Erudita": {
+            "NID": 69,
+            "Set": "Erudita",
+            "Part": "Headpiece"
+        },
+        "Flor del Exiliado": {
+            "NID": 70,
+            "Set": "Exiliado",
+            "Part": "Flower"
+        },
+        "Pluma del Exiliado": {
+            "NID": 71,
+            "Set": "Exiliado",
+            "Part": "Feather"
+        },
+        "Reloj de Bolsillo del Exiliado": {
+            "NID": 72,
+            "Set": "Exiliado",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz del Exiliado": {
+            "NID": 73,
+            "Set": "Exiliado",
+            "Part": "Goblet"
+        },
+        "Diadema del Exiliado": {
+            "NID": 74,
+            "Set": "Exiliado",
+            "Part": "Headpiece"
+        },
+        "Nostalgia del Gladiador": {
+            "NID": 75,
+            "Set": "Final del Gladiador",
+            "Part": "Flower"
+        },
+        "Destino del Gladiador": {
+            "NID": 76,
+            "Set": "Final del Gladiador",
+            "Part": "Feather"
+        },
+        "Esperanza del Gladiador": {
+            "NID": 77,
+            "Set": "Final del Gladiador",
+            "Part": "Timepiece"
+        },
+        "Embriaguez del Gladiador": {
+            "NID": 78,
+            "Set": "Final del Gladiador",
+            "Part": "Goblet"
+        },
+        "Triunfo del Gladiador": {
+            "NID": 79,
+            "Set": "Final del Gladiador",
+            "Part": "Headpiece"
+        },
+        "Misericordia del P\u00e1jaro del Trueno": {
+            "NID": 80,
+            "Set": "Furia del Trueno",
+            "Part": "Flower"
+        },
+        "Superviviente de la Cat\u00e1strofe": {
+            "NID": 81,
+            "Set": "Furia del Trueno",
+            "Part": "Feather"
+        },
+        "Reloj de Arena del Trueno": {
+            "NID": 82,
+            "Set": "Furia del Trueno",
+            "Part": "Timepiece"
+        },
+        "Presagio de la Tormenta": {
+            "NID": 83,
+            "Set": "Furia del Trueno",
+            "Part": "Goblet"
+        },
+        "Corona del Invocador de Truenos": {
+            "NID": 84,
+            "Set": "Furia del Trueno",
+            "Part": "Headpiece"
+        },
+        "Broche del Instructor": {
+            "NID": 85,
+            "Set": "Instructor",
+            "Part": "Flower"
+        },
+        "Pluma del Instructor": {
+            "NID": 86,
+            "Set": "Instructor",
+            "Part": "Feather"
+        },
+        "Reloj de Bolsillo del Instructor": {
+            "NID": 87,
+            "Set": "Instructor",
+            "Part": "Timepiece"
+        },
+        "Taza de T\u00e9 del Instructor": {
+            "NID": 88,
+            "Set": "Instructor",
+            "Part": "Goblet"
+        },
+        "Gorra del Instructor": {
+            "NID": 89,
+            "Set": "Instructor",
+            "Part": "Headpiece"
+        },
+        "Broche de la Jugadora": {
+            "NID": 90,
+            "Set": "Jugadora",
+            "Part": "Flower"
+        },
+        "Pluma de la Jugadora": {
+            "NID": 91,
+            "Set": "Jugadora",
+            "Part": "Feather"
+        },
+        "Reloj de Bolsillo de la Jugadora": {
+            "NID": 92,
+            "Set": "Jugadora",
+            "Part": "Timepiece"
+        },
+        "Cubilete de la Jugadora": {
+            "NID": 93,
+            "Set": "Jugadora",
+            "Part": "Goblet"
+        },
+        "Aretes de la Jugadora": {
+            "NID": 94,
+            "Set": "Jugadora",
+            "Part": "Headpiece"
+        },
+        "Flor Inmaculada": {
+            "NID": 95,
+            "Set": "Llamas Albinas",
+            "Part": "Flower"
+        },
+        "Pluma del Doctor Sabio": {
+            "NID": 96,
+            "Set": "Llamas Albinas",
+            "Part": "Feather"
+        },
+        "Momento de Cese": {
+            "NID": 97,
+            "Set": "Llamas Albinas",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz de la Trascendencia": {
+            "NID": 98,
+            "Set": "Llamas Albinas",
+            "Part": "Goblet"
+        },
+        "M\u00e1scara de la Burla": {
+            "NID": 99,
+            "Set": "Llamas Albinas",
+            "Part": "Headpiece"
+        },
+        "Flor del Milagro": {
+            "NID": 100,
+            "Set": "Milagro",
+            "Part": "Flower"
+        },
+        "Pluma del Milagro": {
+            "NID": 101,
+            "Set": "Milagro",
+            "Part": "Feather"
+        },
+        "Reloj de Arena del Milagro": {
+            "NID": 102,
+            "Set": "Milagro",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz del Milagro": {
+            "NID": 103,
+            "Set": "Milagro",
+            "Part": "Goblet"
+        },
+        "Aretes del Milagro": {
+            "NID": 104,
+            "Set": "Milagro",
+            "Part": "Headpiece"
+        },
+        "Loto de Plata de la M\u00e9dica Itinerante": {
+            "NID": 105,
+            "Set": "M\u00e9dica Itinerante",
+            "Part": "Flower"
+        },
+        "Pluma del B\u00faho de la M\u00e9dica Itinerante": {
+            "NID": 106,
+            "Set": "M\u00e9dica Itinerante",
+            "Part": "Feather"
+        },
+        "Reloj de Bolsillo de la M\u00e9dica Itinerante": {
+            "NID": 107,
+            "Set": "M\u00e9dica Itinerante",
+            "Part": "Timepiece"
+        },
+        "Frasco de Medicinas de la M\u00e9dica Itinerante": {
+            "NID": 108,
+            "Set": "M\u00e9dica Itinerante",
+            "Part": "Goblet"
+        },
+        "Pa\u00f1uelo de la M\u00e9dica Itinerante": {
+            "NID": 109,
+            "Set": "M\u00e9dica Itinerante",
+            "Part": "Headpiece"
+        },
+        "Anhelo de la Ventisca": {
+            "NID": 110,
+            "Set": "N\u00f3mada del Invierno",
+            "Part": "Flower"
+        },
+        "Obstinaci\u00f3n Perforahielos": {
+            "NID": 111,
+            "Set": "N\u00f3mada del Invierno",
+            "Part": "Feather"
+        },
+        "Retorno a las Tierras del Hielo": {
+            "NID": 112,
+            "Set": "N\u00f3mada del Invierno",
+            "Part": "Timepiece"
+        },
+        "Orgullo del Invierno": {
+            "NID": 113,
+            "Set": "N\u00f3mada del Invierno",
+            "Part": "Goblet"
+        },
+        "Eco de la Escarcha": {
+            "NID": 114,
+            "Set": "N\u00f3mada del Invierno",
+            "Part": "Headpiece"
+        },
+        "Luz Matinal de la Orquesta": {
+            "NID": 115,
+            "Set": "Orquesta del Errante",
+            "Part": "Flower"
+        },
+        "Pluma del Bardo": {
+            "NID": 116,
+            "Set": "Orquesta del Errante",
+            "Part": "Feather"
+        },
+        "Reloj del Acto Final": {
+            "NID": 117,
+            "Set": "Orquesta del Errante",
+            "Part": "Timepiece"
+        },
+        "Cantimplora del Errante": {
+            "NID": 118,
+            "Set": "Orquesta del Errante",
+            "Part": "Goblet"
+        },
+        "Sombrero del Director": {
+            "NID": 119,
+            "Set": "Orquesta del Errante",
+            "Part": "Headpiece"
+        },
+        "Flor del Acantilado Agrietado": {
+            "NID": 120,
+            "Set": "Petra Arcaica",
+            "Part": "Flower"
+        },
+        "Pluma de la Cordillera Escarpada": {
+            "NID": 121,
+            "Set": "Petra Arcaica",
+            "Part": "Feather"
+        },
+        "Reloj de Sol de Jade Sempiterno": {
+            "NID": 122,
+            "Set": "Petra Arcaica",
+            "Part": "Timepiece"
+        },
+        "C\u00e1liz del Escultor de Monta\u00f1as": {
+            "NID": 123,
+            "Set": "Petra Arcaica",
+            "Part": "Goblet"
+        },
+        "M\u00e1scara de Basalto Inerte": {
+            "NID": 124,
+            "Set": "Petra Arcaica",
+            "Part": "Headpiece"
+        },
+        "Flor de la Noche de Verano": {
+            "NID": 125,
+            "Set": "Retroceso del Meteorito",
+            "Part": "Flower"
+        },
+        "Gran Final de la Noche de Verano": {
+            "NID": 126,
+            "Set": "Retroceso del Meteorito",
+            "Part": "Feather"
+        },
+        "Reloj de la Noche de Verano": {
+            "NID": 127,
+            "Set": "Retroceso del Meteorito",
+            "Part": "Timepiece"
+        },
+        "Globo de Agua de la Noche de Verano": {
+            "NID": 128,
+            "Set": "Retroceso del Meteorito",
+            "Part": "Goblet"
+        },
+        "M\u00e1scara de la Noche de Verano": {
+            "NID": 129,
+            "Set": "Retroceso del Meteorito",
+            "Part": "Headpiece"
+        },
+        "Flora Real": {
+            "NID": 130,
+            "Set": "Ritual Antiguo de la Nobleza",
+            "Part": "Flower"
+        },
+        "Pluma Real": {
+            "NID": 131,
+            "Set": "Ritual Antiguo de la Nobleza",
+            "Part": "Feather"
+        },
+        "Reloj de Bolsillo Real": {
+            "NID": 132,
+            "Set": "Ritual Antiguo de la Nobleza",
+            "Part": "Timepiece"
+        },
+        "Urna Plateada Real": {
+            "NID": 133,
+            "Set": "Ritual Antiguo de la Nobleza",
+            "Part": "Goblet"
+        },
+        "M\u00e1scara Real": {
+            "NID": 134,
+            "Set": "Ritual Antiguo de la Nobleza",
+            "Part": "Headpiece"
+        },
+        "Diadema P\u00edrica": {
+            "NID": 135,
+            "Set": "Ritual de la Iluminaci\u00f3n",
+            "Part": "Headpiece"
+        },
+        "Diadema de la Escarcha": {
+            "NID": 136,
+            "Set": "Ritual de la Primavera",
+            "Part": "Headpiece"
+        },
+        "Diadema del Trueno": {
+            "NID": 137,
+            "Set": "Ritual de la Sabidur\u00eda",
+            "Part": "Headpiece"
+        },
+        "Diadema Torrencial": {
+            "NID": 138,
+            "Set": "Ritual del Destino",
+            "Part": "Headpiece"
+        },
+        "Recuerdo de Flores Silvestres": {
+            "NID": 139,
+            "Set": "Sombra Verde Esmeralda",
+            "Part": "Flower"
+        },
+        "Pluma de la Cazadora Verde Esmeralda": {
+            "NID": 140,
+            "Set": "Sombra Verde Esmeralda",
+            "Part": "Feather"
+        },
+        "Serenidad de la Cazadora Verde Esmeralda": {
+            "NID": 141,
+            "Set": "Sombra Verde Esmeralda",
+            "Part": "Timepiece"
+        },
+        "Cantimplora de la Cazadora Verde Esmeralda": {
+            "NID": 142,
+            "Set": "Sombra Verde Esmeralda",
+            "Part": "Goblet"
+        },
+        "Sombrero de la Cazadora Verde Esmeralda": {
+            "NID": 143,
+            "Set": "Sombra Verde Esmeralda",
+            "Part": "Headpiece"
+        },
+        "Flor del Honor": {
+            "NID": 144,
+            "Set": "Tenacidad de la Geoarmada",
+            "Part": "Flower"
+        },
+        "Pluma de Guerra Ceremonial": {
+            "NID": 145,
+            "Set": "Tenacidad de la Geoarmada",
+            "Part": "Feather"
+        },
+        "Reloj de Sol de Oricalco": {
+            "NID": 146,
+            "Set": "Tenacidad de la Geoarmada",
+            "Part": "Timepiece"
+        },
+        "Copa del Juramento": {
+            "NID": 147,
+            "Set": "Tenacidad de la Geoarmada",
+            "Part": "Goblet"
+        },
+        "Yelmo Vetusto del General": {
+            "NID": 148,
+            "Set": "Tenacidad de la Geoarmada",
+            "Part": "Headpiece"
+        },
+        "Determinaci\u00f3n del Corredor de Lava": {
+            "NID": 149,
+            "Set": "Virtuoso Corredor de Lava",
+            "Part": "Flower"
+        },
+        "Liberaci\u00f3n del Corredor de Lava": {
+            "NID": 150,
+            "Set": "Virtuoso Corredor de Lava",
+            "Part": "Feather"
+        },
+        "Tormento del Corredor de Lava": {
+            "NID": 151,
+            "Set": "Virtuoso Corredor de Lava",
+            "Part": "Timepiece"
+        },
+        "Despertar del Corredor de Lava": {
+            "NID": 152,
+            "Set": "Virtuoso Corredor de Lava",
+            "Part": "Goblet"
+        },
+        "Sabidur\u00eda del Corredor de Lava": {
+            "NID": 153,
+            "Set": "Virtuoso Corredor de Lava",
+            "Part": "Headpiece"
+        }
+    },
+    "Food": {
+        "Abul\u00f3n vegetariano": {
+            "NID": 0
+        },
+        "Aceite esencial de escarcha": {
+            "NID": 1
+        },
+        "Aceite esencial de impacto": {
+            "NID": 2
+        },
+        "Aceite esencial de inmovilidad": {
+            "NID": 3
+        },
+        "Aceite esencial de llamas ardientes": {
+            "NID": 4
+        },
+        "Aceite esencial de torrente": {
+            "NID": 5
+        },
+        "Aceite esencial de ventisca": {
+            "NID": 6
+        },
+        "Alb\u00f3ndigas de camar\u00f3n dorado": {
+            "NID": 7
+        },
+        "Alb\u00f3ndigas de r\u00e1bano fritas": {
+            "NID": 8
+        },
+        "Alb\u00f3ndigas de r\u00e1bano fritas del Rito de la Linterna": {
+            "NID": 9
+        },
+        "Asado a la miel": {
+            "NID": 10
+        },
+        "Asado mar y monta\u00f1a": {
+            "NID": 11
+        },
+        "Bebida de bayas y menta": {
+            "NID": 12
+        },
+        "Bolitas de harina de arroz": {
+            "NID": 13
+        },
+        "Brocheta de champi\u00f1ones y pollo": {
+            "NID": 14
+        },
+        "Camarones de cristal": {
+            "NID": 15
+        },
+        "Cangrejo dorado": {
+            "NID": 16
+        },
+        "Carne a la jardinera": {
+            "NID": 17
+        },
+        "Carne curada con matsutake": {
+            "NID": 18
+        },
+        "Carne de Mora": {
+            "NID": 19
+        },
+        "Carne estilo Eje Celestial": {
+            "NID": 20
+        },
+        "Carne frita": {
+            "NID": 21
+        },
+        "Chop suey de Zhongyuan": {
+            "NID": 22
+        },
+        "C\u00f3ctel de camarones sobre papas fritas": {
+            "NID": 23
+        },
+        "Delicias del Puerto de Piedra": {
+            "NID": 24
+        },
+        "Ensalada de menta": {
+            "NID": 25
+        },
+        "Ensalada saludable": {
+            "NID": 26
+        },
+        "Estofado de carne y manzana del Norte": {
+            "NID": 27
+        },
+        "Estofado de gemas": {
+            "NID": 28
+        },
+        "Estofado de gemas del Rito de la Linterna": {
+            "NID": 29
+        },
+        "Estofado de perca de lomo negro": {
+            "NID": 30
+        },
+        "Estrellitas de loto": {
+            "NID": 31
+        },
+        "Fideos con delicias de monta\u00f1a": {
+            "NID": 32
+        },
+        "Fideos con delicias de monta\u00f1a del Rito de la Linterna": {
+            "NID": 33
+        },
+        "Filete a la barbacoa": {
+            "NID": 34
+        },
+        "Gelatina de menta": {
+            "NID": 35
+        },
+        "Guisado de temporada": {
+            "NID": 36
+        },
+        "Guoba de Jueyun": {
+            "NID": 37
+        },
+        "Hamburguesa de pollo crujiente": {
+            "NID": 38
+        },
+        "Huevo frito de Teyvat": {
+            "NID": 39
+        },
+        "Jugo de gancho de lobo": {
+            "NID": 40
+        },
+        "Manzana": {
+            "NID": 41
+        },
+        "Matsutakes salteados": {
+            "NID": 42
+        },
+        "Panqueques": {
+            "NID": 43
+        },
+        "Pasta a la bolo\u00f1esa": {
+            "NID": 44
+        },
+        "Pastelillo de luna": {
+            "NID": 45
+        },
+        "Paz universal": {
+            "NID": 46
+        },
+        "Pescado a la parrilla de Mondstadt": {
+            "NID": 47
+        },
+        "Pescado mandar\u00edn agridulce": {
+            "NID": 48
+        },
+        "Pescado salteado con mantequilla": {
+            "NID": 49
+        },
+        "Pez tigre a la parrilla": {
+            "NID": 50
+        },
+        "Pez tigre a la parrilla del Rito de la Linterna": {
+            "NID": 51
+        },
+        "Pizza de champi\u00f1ones": {
+            "NID": 52
+        },
+        "Plato de carnes fr\u00edas": {
+            "NID": 53
+        },
+        "Poci\u00f3n anticongelante": {
+            "NID": 54
+        },
+        "Poci\u00f3n antihumedad": {
+            "NID": 55
+        },
+        "Poci\u00f3n antipolvo": {
+            "NID": 56
+        },
+        "Poci\u00f3n cortavientos": {
+            "NID": 57
+        },
+        "Poci\u00f3n de aislamiento": {
+            "NID": 58
+        },
+        "Poci\u00f3n de resistencia t\u00e9rmica": {
+            "NID": 59
+        },
+        "Pollo ahumado del Norte": {
+            "NID": 60
+        },
+        "Pollo al chile Jueyun": {
+            "NID": 61
+        },
+        "Pollo asado con miel": {
+            "NID": 62
+        },
+        "Pollo con textura de tofu": {
+            "NID": 63
+        },
+        "Pollo frito": {
+            "NID": 64
+        },
+        "Puchero de Barbatos": {
+            "NID": 65
+        },
+        "Pur\u00e9 de papas": {
+            "NID": 66
+        },
+        "Rollitos de carne y menta": {
+            "NID": 67
+        },
+        "Rollitos de jade": {
+            "NID": 68
+        },
+        "Rollitos de luna llena": {
+            "NID": 69
+        },
+        "Rollos de carne con matsutake": {
+            "NID": 70
+        },
+        "Salteado de Chingts\u00e9": {
+            "NID": 71
+        },
+        "Salteado de camarones": {
+            "NID": 72
+        },
+        "Sidra de manzana": {
+            "NID": 73
+        },
+        "Solsettia": {
+            "NID": 74
+        },
+        "Sopa de brotes de bamb\u00fa": {
+            "NID": 75
+        },
+        "Sopa de loto y huevo": {
+            "NID": 76
+        },
+        "Sopa de loto y huevo del Rito de la Linterna": {
+            "NID": 77
+        },
+        "Sopa de marisco": {
+            "NID": 78
+        },
+        "Sopa vegetariana de r\u00e1bano": {
+            "NID": 79
+        },
+        "S\u00e1ndwich del aventurero": {
+            "NID": 80
+        },
+        "Tallarines fritos con pescado": {
+            "NID": 81
+        },
+        "Taz\u00f3n de t\u00e9": {
+            "NID": 82
+        },
+        "Tentaci\u00f3n de Adeptus": {
+            "NID": 83
+        },
+        "Tiras de tres sabores": {
+            "NID": 84
+        },
+        "Tiras de tres sabores del Rito de la Linterna": {
+            "NID": 85
+        },
+        "Tofu con huevas de cangrejo": {
+            "NID": 86
+        },
+        "Tofu de almendras": {
+            "NID": 87
+        },
+        "Torre de Ludi": {
+            "NID": 88
+        },
+        "Tortilla de papas de Mondstadt": {
+            "NID": 89
+        },
+        "Tostada del pescador": {
+            "NID": 90
+        },
+        "\u00a1Ven por ello!": {
+            "NID": 91
+        },
+        "\u00a1Ven por ello! del Rito de la Linterna": {
+            "NID": 92
+        }
+    },
+    "Furniture": {
+        "Abedul alto": {
+            "NID": 0
+        },
+        "Abedul joven": {
+            "NID": 1
+        },
+        "Adorno de reloj de arena exquisito": {
+            "NID": 2
+        },
+        "Ala de mansi\u00f3n: Alba y ocaso": {
+            "NID": 3
+        },
+        "Alacena de cedro fragante": {
+            "NID": 4
+        },
+        "Alfombra de Mondstadt: Ardor carmes\u00ed": {
+            "NID": 5
+        },
+        "Alfombra de Mondstadt: B\u00fasqueda incansable": {
+            "NID": 6
+        },
+        "Alfombra de entrada: C\u00e1lida bienvenida": {
+            "NID": 7
+        },
+        "Alfombra de posada: Como en casa": {
+            "NID": 8
+        },
+        "Aparador de cedro fragante para peque\u00f1os objetos": {
+            "NID": 9
+        },
+        "Apartamento de Mondstadt sin humedad": {
+            "NID": 10
+        },
+        "Aplique luminoso en forma de jarr\u00f3n": {
+            "NID": 11
+        },
+        "Arbusto con flores": {
+            "NID": 12
+        },
+        "Arbusto corriente": {
+            "NID": 13
+        },
+        "Arbusto c\u00f3modo verdoso": {
+            "NID": 14
+        },
+        "Arbusto del cazador sigiloso": {
+            "NID": 15
+        },
+        "Arbusto emplumado": {
+            "NID": 16
+        },
+        "Arbusto protector de presas": {
+            "NID": 17
+        },
+        "Arce rojo de Tianheng: Hojas escarlata": {
+            "NID": 18
+        },
+        "Arco mural de madera oscura": {
+            "NID": 19
+        },
+        "Armario de pino sin puertas": {
+            "NID": 20
+        },
+        "Arreglo floral: Aurora floreciente": {
+            "NID": 21
+        },
+        "Arreglo floral: Tranquilidad celeste": {
+            "NID": 22
+        },
+        "Avellano con hojas amarillas": {
+            "NID": 23
+        },
+        "Baldosa de colores ajedrezada": {
+            "NID": 24
+        },
+        "Bamb\u00fa de jade helado de Chingts\u00e9": {
+            "NID": 25
+        },
+        "Bamb\u00fa de las nubes de Chingts\u00e9": {
+            "NID": 26
+        },
+        "Bamb\u00fa garza de Chingts\u00e9": {
+            "NID": 27
+        },
+        "Banco liso de madera": {
+            "NID": 28
+        },
+        "Banco liso de piedra": {
+            "NID": 29
+        },
+        "Barriles de abeto ordenados": {
+            "NID": 30
+        },
+        "Biombo de pino: Velas ondulantes": {
+            "NID": 31
+        },
+        "Biombo dorado con brocado floral de hostas": {
+            "NID": 32
+        },
+        "Caba\u00f1a de avanzadilla Hilichurl": {
+            "NID": 33
+        },
+        "Caba\u00f1a de paja": {
+            "NID": 34
+        },
+        "Caba\u00f1a de paja de Hilichurls": {
+            "NID": 35
+        },
+        "Caba\u00f1a peque\u00f1a de pino": {
+            "NID": 36
+        },
+        "Cajas de abeto desordenadas": {
+            "NID": 37
+        },
+        "Caldero con cuernos de Hilichurls": {
+            "NID": 38
+        },
+        "Caldero de los cuatro cuadrantes": {
+            "NID": 39
+        },
+        "Cama baja suave como la brisa": {
+            "NID": 40
+        },
+        "Cama sue\u00f1os de nubes": {
+            "NID": 41
+        },
+        "Candelabro dorado de tres brazos": {
+            "NID": 42
+        },
+        "Cansancio del vendedor de fruta y verdura": {
+            "NID": 43
+        },
+        "Carro de fruta con muchos productos": {
+            "NID": 44
+        },
+        "Carro de mercanc\u00edas sencillo": {
+            "NID": 45
+        },
+        "Casa de Liyue: Aleros en forma de luna": {
+            "NID": 46
+        },
+        "Casa de Liyue: El tiempo es oro": {
+            "NID": 47
+        },
+        "Casa de Liyue: Piedra y madera": {
+            "NID": 48
+        },
+        "Casa de Liyue: Relaci\u00f3n armoniosa": {
+            "NID": 49
+        },
+        "Casa de Liyue: Retiro solitario": {
+            "NID": 50
+        },
+        "Casa de Mondstadt con buhardilla": {
+            "NID": 51
+        },
+        "Casa de Mondstadt resistente al viento": {
+            "NID": 52
+        },
+        "Casa rural cl\u00e1sica": {
+            "NID": 53
+        },
+        "Casa rural con buhardilla": {
+            "NID": 54
+        },
+        "Chimenea de piedra del norte": {
+            "NID": 55
+        },
+        "Cinabarita exuberante": {
+            "NID": 56
+        },
+        "Cinabarita frondosa": {
+            "NID": 57
+        },
+        "Cobertizo de paja": {
+            "NID": 58
+        },
+        "Cobertizo para frutas y verduras": {
+            "NID": 59
+        },
+        "Cocotero de arena blanca": {
+            "NID": 60
+        },
+        "Cocotero gancho plateado": {
+            "NID": 61
+        },
+        "Color del viento": {
+            "NID": 62
+        },
+        "Componente para alquimia: El peso del polvo": {
+            "NID": 63
+        },
+        "Conjunto para caligraf\u00eda: Escritura asidua": {
+            "NID": 64
+        },
+        "Contenedor modular de abeto": {
+            "NID": 65
+        },
+        "Corredor decorado: Paseo silvano": {
+            "NID": 66
+        },
+        "Cortina de brocado": {
+            "NID": 67
+        },
+        "Cortina de seda con dibujo: Arrebol del cielo": {
+            "NID": 68
+        },
+        "Deambulando al este del Bishui": {
+            "NID": 69
+        },
+        "Determinaci\u00f3n inquebrantable": {
+            "NID": 70
+        },
+        "Diana para tiro con arco de Hilichurls": {
+            "NID": 71
+        },
+        "Edificio de Mondstadt con arcos": {
+            "NID": 72
+        },
+        "El cansancio del erudito": {
+            "NID": 73
+        },
+        "Emblema de espada y escudo de Favonius": {
+            "NID": 74
+        },
+        "Entrada principal: Acceso a las nubes": {
+            "NID": 75
+        },
+        "Equipamiento para alquimia: Entre el agua y el fuego": {
+            "NID": 76
+        },
+        "Escenario con linternas: M\u00fasica animada": {
+            "NID": 77
+        },
+        "Escudo desgastado": {
+            "NID": 78
+        },
+        "Espada ligera desgastada": {
+            "NID": 79
+        },
+        "Espantap\u00e1jaros con ropa roja y sombrero": {
+            "NID": 80
+        },
+        "Esquina de muro: Recoveco fragante": {
+            "NID": 81
+        },
+        "Estandarte de batalla": {
+            "NID": 82
+        },
+        "Estandarte de esp\u00edritu puro": {
+            "NID": 83
+        },
+        "Estanter\u00eda de abeto": {
+            "NID": 84
+        },
+        "Estanter\u00eda de abeto descubierta": {
+            "NID": 85
+        },
+        "Estanter\u00eda de biblioteca de dos pisos": {
+            "NID": 86
+        },
+        "Estanter\u00eda econ\u00f3mica de liquid\u00e1mbar": {
+            "NID": 87
+        },
+        "Estanter\u00eda exquisita de liquid\u00e1mbar": {
+            "NID": 88
+        },
+        "Estanter\u00eda para armas de abeto": {
+            "NID": 89
+        },
+        "Estanter\u00eda para armas de madera noble": {
+            "NID": 90
+        },
+        "Estanter\u00eda roja de cedro fragante para pergaminos": {
+            "NID": 91
+        },
+        "Estratorroca": {
+            "NID": 92
+        },
+        "Extremo de valla de patio con adornos": {
+            "NID": 93
+        },
+        "Fardo de heno pesado": {
+            "NID": 94
+        },
+        "Farola con borlas: Calles hermosas": {
+            "NID": 95
+        },
+        "Farola de hierro con adornos": {
+            "NID": 96
+        },
+        "Farola exterior de pino": {
+            "NID": 97
+        },
+        "Fiesta de las calabazas": {
+            "NID": 98
+        },
+        "Fuente con flores y p\u00e1jaros": {
+            "NID": 99
+        },
+        "Fuente esmeralda": {
+            "NID": 100
+        },
+        "Garza azul": {
+            "NID": 101
+        },
+        "Gato alguacil": {
+            "NID": 102
+        },
+        "Gato atigrado": {
+            "NID": 103
+        },
+        "Gato de ojos de jade": {
+            "NID": 104
+        },
+        "Gato del Norte": {
+            "NID": 105
+        },
+        "Gran sal\u00f3n del jefe Hilichurl": {
+            "NID": 106
+        },
+        "Hojas del camuflaje": {
+            "NID": 107
+        },
+        "Hojas fragantes del sur": {
+            "NID": 108
+        },
+        "Hornilla ancha de piedra": {
+            "NID": 109
+        },
+        "Hornilla port\u00e1til": {
+            "NID": 110
+        },
+        "Jabal\u00ed del bosque": {
+            "NID": 111
+        },
+        "Jarra de vino con cesta de bamb\u00fa: Esperando a la luna": {
+            "NID": 112
+        },
+        "Jarr\u00f3n de cer\u00e1mica pintada": {
+            "NID": 113
+        },
+        "Jazm\u00edn gemelo": {
+            "NID": 114
+        },
+        "La carga del aventurero": {
+            "NID": 115
+        },
+        "Letrero de restaurante de madera": {
+            "NID": 116
+        },
+        "Le\u00f3n de piedra: Conocedor": {
+            "NID": 117
+        },
+        "Le\u00f3n de piedra: Vigilante": {
+            "NID": 118
+        },
+        "Linterna Tianyuan: Brillo fragante": {
+            "NID": 119
+        },
+        "Linterna bordada: Pabell\u00f3n exquisito": {
+            "NID": 120
+        },
+        "Linterna de cuatro lados: Amistades lejanas": {
+            "NID": 121
+        },
+        "Linterna hexagonal: Amabilidad y armon\u00eda": {
+            "NID": 122
+        },
+        "Linterna octogonal: D\u00eda de suerte": {
+            "NID": 123
+        },
+        "Linterna repeledemonios: Luz por todas partes": {
+            "NID": 124
+        },
+        "Liquid\u00e1mbar adulto": {
+            "NID": 125
+        },
+        "Liquid\u00e1mbar joven": {
+            "NID": 126
+        },
+        "Lira cl\u00e1sica: Tenor del viento": {
+            "NID": 127
+        },
+        "L\u00e1mpara caracola": {
+            "NID": 128
+        },
+        "L\u00e1mpara de pie de avellano del Pabell\u00f3n Liuli": {
+            "NID": 129
+        },
+        "L\u00e1mpara de sombras: Trazos y pinceladas": {
+            "NID": 130
+        },
+        "L\u00e1mpara de velas con dos pisos": {
+            "NID": 131
+        },
+        "L\u00e1mpara port\u00e1til inapagable": {
+            "NID": 132
+        },
+        "Maceta de flores: Fachada perfumada": {
+            "NID": 133
+        },
+        "Maceta: Brisa cristalina": {
+            "NID": 134
+        },
+        "Maceta: Copa verde": {
+            "NID": 135
+        },
+        "Maceta: Verdor abundante": {
+            "NID": 136
+        },
+        "Macizo floral con dep\u00f3sito de agua": {
+            "NID": 137
+        },
+        "Mansi\u00f3n de Liyue: Villa escarlata": {
+            "NID": 138
+        },
+        "Mansi\u00f3n de Mondstadt: Finca Barlovento": {
+            "NID": 139
+        },
+        "Matorrales gemelos de brotes verdes": {
+            "NID": 140
+        },
+        "Mesa de alquimia": {
+            "NID": 141
+        },
+        "Mesa de caligraf\u00eda finamente labrada": {
+            "NID": 142
+        },
+        "Mesa de forja pesada de abeto": {
+            "NID": 143
+        },
+        "Mesa de oficina de los Caballeros de Favonius": {
+            "NID": 144
+        },
+        "Mesa de reuniones de los Caballeros de Favonius": {
+            "NID": 145
+        },
+        "Mesa de t\u00e9 cuadrada de pino": {
+            "NID": 146
+        },
+        "Mesa de t\u00e9 de bamb\u00fa exterior": {
+            "NID": 147
+        },
+        "Mesa de t\u00e9 de madera exterior": {
+            "NID": 148
+        },
+        "Mesa larga con mantel en forma de rombo": {
+            "NID": 149
+        },
+        "Mesa larga de pino": {
+            "NID": 150
+        },
+        "Mesa redonda de pino para varios comensales": {
+            "NID": 151
+        },
+        "Mesa roja redonda de cedro fragante": {
+            "NID": 152
+        },
+        "Mesa voluminosa de biblioteca": {
+            "NID": 153
+        },
+        "Mesita de cedro fragante para tienda": {
+            "NID": 154
+        },
+        "Mesita de noche con dos cajones de abedul": {
+            "NID": 155
+        },
+        "Mesita de noche de avellano con motivos dorados": {
+            "NID": 156
+        },
+        "Molino de piedra grande": {
+            "NID": 157
+        },
+        "Molino de viento de las baladas": {
+            "NID": 158
+        },
+        "Mostrador de recepci\u00f3n de pino": {
+            "NID": 159
+        },
+        "Mostrador de tienda de vinos: Mil copas": {
+            "NID": 160
+        },
+        "Mostrador plegable de abedul n\u00f3rdico": {
+            "NID": 161
+        },
+        "Mueble de almacenaje cl\u00e1sico de abeto": {
+            "NID": 162
+        },
+        "Muro de patio: Joyas alineadas": {
+            "NID": 163
+        },
+        "Muro de patio: Paz en el camino": {
+            "NID": 164
+        },
+        "Muro de patio: Primavera y oto\u00f1o": {
+            "NID": 165
+        },
+        "Muro decorado: Sauces y flores": {
+            "NID": 166
+        },
+        "Pabell\u00f3n: Contemplaci\u00f3n de estrellas": {
+            "NID": 167
+        },
+        "Paisaje amarillento": {
+            "NID": 168
+        },
+        "Paisaje oto\u00f1al": {
+            "NID": 169
+        },
+        "Paisaje verdoso": {
+            "NID": 170
+        },
+        "Paisaje: Casa de campo": {
+            "NID": 171
+        },
+        "Paisaje: Nubes distantes": {
+            "NID": 172
+        },
+        "Paisaje: Precipicio sin nombre": {
+            "NID": 173
+        },
+        "Pal\u00e9 de dos niveles resistente a las olas": {
+            "NID": 174
+        },
+        "Pantalla de madera noble: Niebla matinal en Jueyun": {
+            "NID": 175
+        },
+        "Pared de madera con alero de jade": {
+            "NID": 176
+        },
+        "Pelda\u00f1os esquineros de abeto": {
+            "NID": 177
+        },
+        "Pelda\u00f1os esquineros de cedro fragante": {
+            "NID": 178
+        },
+        "Percha del cristal\u00f3ptero": {
+            "NID": 179
+        },
+        "Pila ordenada de libros": {
+            "NID": 180
+        },
+        "Pintura al pastel: Jarr\u00f3n con flores": {
+            "NID": 181
+        },
+        "Pintura al pastel: Monta\u00f1as entre la niebla": {
+            "NID": 182
+        },
+        "Pintura al pastel: Picos de Minlin": {
+            "NID": 183
+        },
+        "Planta alas de mariposa exuberante": {
+            "NID": 184
+        },
+        "Planta alas de mariposa frondosa": {
+            "NID": 185
+        },
+        "Planta camarera": {
+            "NID": 186
+        },
+        "Planta cascada": {
+            "NID": 187
+        },
+        "Planta de brotes verdes": {
+            "NID": 188
+        },
+        "Planta del fest\u00edn": {
+            "NID": 189
+        },
+        "Planta parasol viridiana": {
+            "NID": 190
+        },
+        "Plataforma centinela Hilichurl": {
+            "NID": 191
+        },
+        "Pozo antiguo": {
+            "NID": 192
+        },
+        "Pozo con cubierta: B\u00fasqueda de claridad": {
+            "NID": 193
+        },
+        "Pozo de piedra resistente": {
+            "NID": 194
+        },
+        "Precauci\u00f3n del vendedor de fruta y verdura": {
+            "NID": 195
+        },
+        "Protocolo de la correspondencia": {
+            "NID": 196
+        },
+        "Protorroca dorada": {
+            "NID": 197
+        },
+        "Puerta comercial de piedra (norte)": {
+            "NID": 198
+        },
+        "Puerta de Adeptus": {
+            "NID": 199
+        },
+        "Puerta de abeto de los Caballeros de Favonius": {
+            "NID": 200
+        },
+        "Puerta de cedro fragante": {
+            "NID": 201
+        },
+        "Puerta principal de patio de abedul": {
+            "NID": 202
+        },
+        "Puesto comercial doble: Fortuna en ascenso": {
+            "NID": 203
+        },
+        "Puesto de descanso de Liyue: Aroma a t\u00e9 en el camino": {
+            "NID": 204
+        },
+        "Puesto de fruta a precio de ganga": {
+            "NID": 205
+        },
+        "Puesto de fruta rentable": {
+            "NID": 206
+        },
+        "Puesto de frutas y verduras: Cosecha abundante": {
+            "NID": 207
+        },
+        "Puesto de juguetes: Maravillas por doquier": {
+            "NID": 208
+        },
+        "Puesto de paja": {
+            "NID": 209
+        },
+        "Puesto de sombrillas: Caleidoscopio de colores": {
+            "NID": 210
+        },
+        "Puesto de ventas pr\u00f3spero": {
+            "NID": 211
+        },
+        "Roca arrebol": {
+            "NID": 212
+        },
+        "Roca asombrosamente normal": {
+            "NID": 213
+        },
+        "Roca brilloluna": {
+            "NID": 214
+        },
+        "Roca cenicienta": {
+            "NID": 215
+        },
+        "Roca chamuscada": {
+            "NID": 216
+        },
+        "Roca de caminos": {
+            "NID": 217
+        },
+        "Roca de musgo moteada": {
+            "NID": 218
+        },
+        "Roca del repiqueteo dorado": {
+            "NID": 219
+        },
+        "Roca del sastre": {
+            "NID": 220
+        },
+        "Roca del solsticio de verano": {
+            "NID": 221
+        },
+        "Roca dimensional: Baluarte rocoso": {
+            "NID": 222
+        },
+        "Roca dimensional: Belleza refinada": {
+            "NID": 223
+        },
+        "Roca dimensional: Cima verde": {
+            "NID": 224
+        },
+        "Roca dimensional: Dosel escarpado": {
+            "NID": 225
+        },
+        "Roca dimensional: Escalones celestiales": {
+            "NID": 226
+        },
+        "Roca dimensional: Nube somnolienta": {
+            "NID": 227
+        },
+        "Roca imperial": {
+            "NID": 228
+        },
+        "Roca pu\u00f1ofr\u00e1gil": {
+            "NID": 229
+        },
+        "Roca sedienta": {
+            "NID": 230
+        },
+        "Roca umbral de la Sima": {
+            "NID": 231
+        },
+        "Rocaoculta": {
+            "NID": 232
+        },
+        "Rocas en formaci\u00f3n": {
+            "NID": 233
+        },
+        "Rocaserena": {
+            "NID": 234
+        },
+        "Rodela desgastada": {
+            "NID": 235
+        },
+        "Ropero de avellano con motivos dorados": {
+            "NID": 236
+        },
+        "Ropero grande de abedul": {
+            "NID": 237
+        },
+        "Sabueso de lomo negro": {
+            "NID": 238
+        },
+        "Sabueso del Norte": {
+            "NID": 239
+        },
+        "Sabueso guardabosques": {
+            "NID": 240
+        },
+        "Saco de almacenamiento: A prueba de plagas": {
+            "NID": 241
+        },
+        "Sala de hornos abierta": {
+            "NID": 242
+        },
+        "Se\u00f1al de madera seca": {
+            "NID": 243
+        },
+        "Shiba": {
+            "NID": 244
+        },
+        "Silla de comedor de pino": {
+            "NID": 245
+        },
+        "Silla de t\u00e9 de pino": {
+            "NID": 246
+        },
+        "Sof\u00e1 c\u00f3modo para sala de estar": {
+            "NID": 247
+        },
+        "Suelo tradicional de cedro fragante": {
+            "NID": 248
+        },
+        "Tabl\u00f3n de anuncios colgado": {
+            "NID": 249
+        },
+        "Tabl\u00f3n de registro colgado": {
+            "NID": 250
+        },
+        "Taburete rojo redondo de pino": {
+            "NID": 251
+        },
+        "Tambor del cielo atronador": {
+            "NID": 252
+        },
+        "Tarde de cielo azul": {
+            "NID": 253
+        },
+        "Techo ajedrezado de cedro fragante": {
+            "NID": 254
+        },
+        "Techo oscuro ajedrezado": {
+            "NID": 255
+        },
+        "Tesoro del archivero": {
+            "NID": 256
+        },
+        "Tiempo entre las p\u00e1ginas de un libro": {
+            "NID": 257
+        },
+        "Tienda de Liyue: Favorita de los clientes": {
+            "NID": 258
+        },
+        "Tienda de campa\u00f1a antirrayos": {
+            "NID": 259
+        },
+        "Tienda sencilla individual": {
+            "NID": 260
+        },
+        "Tocador resistente de abedul": {
+            "NID": 261
+        },
+        "Torre en espiral de Hilichurls": {
+            "NID": 262
+        },
+        "Valla con t\u00f3tem de Hilichurls": {
+            "NID": 263
+        },
+        "Valla de bamb\u00fa desgastada": {
+            "NID": 264
+        },
+        "Valla de madera de Hilichurls": {
+            "NID": 265
+        },
+        "Valla de pino resistente": {
+            "NID": 266
+        },
+        "Valla perimetral con adornos": {
+            "NID": 267
+        },
+        "Vid exuberante": {
+            "NID": 268
+        },
+        "\u00c1mbar del Adeptus: Cuidado, intrusos": {
+            "NID": 269
+        },
+        "\u00c1mbar del Adeptus: Una vista impresionante": {
+            "NID": 270
+        },
+        "\u00c1rbol de la calidez": {
+            "NID": 271
+        },
+        "\u00c1rbol del humo exuberante": {
+            "NID": 272
+        },
+        "\u00c1rbol del humo frondoso": {
+            "NID": 273
+        },
+        "\u00c1rbol del tesoro de hojas doradas": {
+            "NID": 274
+        },
+        "\u00c1rbol del tesoro de hojas verdes": {
+            "NID": 275
+        },
+        "\u00c1rbol del tesoro de papel": {
+            "NID": 276
+        },
+        "\u00c1rbol del tesoro podrido": {
+            "NID": 277
+        },
+        "\u00c1rbol espada de hojas amarillas": {
+            "NID": 278
+        },
+        "\u00c1rbol espada de hojas doradas": {
+            "NID": 279
+        },
+        "\u00c1rbol espada de hojas verdes": {
+            "NID": 280
+        },
+        "\u00c1rbol nudoso de hojas amarillas": {
+            "NID": 281
+        },
+        "\u00c1rbol nudoso de hojas doradas": {
+            "NID": 282
+        },
+        "\u00c1rbol nudoso de hojas verdes": {
+            "NID": 283
+        },
+        "\u00c1rbol nudoso retorcido": {
+            "NID": 284
+        }
+    },
+    "Sets": {
+        "Almuerzo de trabajo del comerciante": {
+            "NID": 0
+        },
+        "Aventurero solitario y cauteloso": {
+            "NID": 1
+        },
+        "Caba\u00f1a del ermita\u00f1o": {
+            "NID": 2
+        },
+        "Campamento del aventurero": {
+            "NID": 3
+        },
+        "Campo de entrenamiento": {
+            "NID": 4
+        },
+        "Casa de aldea": {
+            "NID": 5
+        },
+        "Casa de t\u00e9": {
+            "NID": 6
+        },
+        "Cocina ajetreada": {
+            "NID": 7
+        },
+        "Contemplaci\u00f3n po\u00e9tica": {
+            "NID": 8
+        },
+        "Conversaciones con una taza de t\u00e9": {
+            "NID": 9
+        },
+        "Conversaci\u00f3n entre madera y piedra": {
+            "NID": 10
+        },
+        "Cruce de climas": {
+            "NID": 11
+        },
+        "C\u00e1nticos de cazadores": {
+            "NID": 12
+        },
+        "Delicias callejeras": {
+            "NID": 13
+        },
+        "Dormitorio completo de Mondstadt": {
+            "NID": 14
+        },
+        "Dormitorio sencillo de Liyue": {
+            "NID": 15
+        },
+        "Estaci\u00f3n de log\u00edstica": {
+            "NID": 16
+        },
+        "Estudio Feiyun": {
+            "NID": 17
+        },
+        "Estudio bien equipado": {
+            "NID": 18
+        },
+        "Estudio del erudito": {
+            "NID": 19
+        },
+        "Forja de espadas": {
+            "NID": 20
+        },
+        "F\u00e1brica de armas": {
+            "NID": 21
+        },
+        "Hora de una copa": {
+            "NID": 22
+        },
+        "Huerto del Amanecer": {
+            "NID": 23
+        },
+        "Instituto de las artes secretas": {
+            "NID": 24
+        },
+        "Le\u00f1a y ahumados": {
+            "NID": 25
+        },
+        "Luces de las afueras": {
+            "NID": 26
+        },
+        "Mercado de frutas y verduras": {
+            "NID": 27
+        },
+        "Mercado del festival": {
+            "NID": 28
+        },
+        "Mesas y sillas": {
+            "NID": 29
+        },
+        "Pabell\u00f3n de los sue\u00f1os": {
+            "NID": 30
+        },
+        "Parque con flores y p\u00e1jaros": {
+            "NID": 31
+        },
+        "Prosperidad y bullicio": {
+            "NID": 32
+        },
+        "Puesto con productos de temporada": {
+            "NID": 33
+        },
+        "Residencia entre nubes": {
+            "NID": 34
+        },
+        "Restaurante popular": {
+            "NID": 35
+        },
+        "Rocas y plantas": {
+            "NID": 36
+        },
+        "Sala de reuniones de los Seis Estrategas": {
+            "NID": 37
+        },
+        "Sal\u00f3n de recepci\u00f3n de invitados": {
+            "NID": 38
+        },
+        "Suministro de agua rural": {
+            "NID": 39
+        },
+        "Viaje hacia las estrellas y el abismo": {
+            "NID": 40
+        },
+        "Vida en la frontera": {
+            "NID": 41
+        },
+        "Viento susurrante": {
+            "NID": 42
+        },
+        "Villa buc\u00f3lica": {
+            "NID": 43
+        },
+        "V\u00eda principal: Destierro de los demonios": {
+            "NID": 44
+        }
+    },
+    "Mats": {
+        "Pedacito de diamante brillante": {
+            "NID": 0
+        },
+        "Trozo de diamante brillante": {
+            "NID": 1
+        },
+        "Fragmento de diamante brillante": {
+            "NID": 2
+        },
+        "Diamante brillante": {
+            "NID": 3
+        },
+        "Fragmento de hueso fr\u00e1gil": {
+            "NID": 4
+        },
+        "Fragmento de hueso s\u00f3lido": {
+            "NID": 5
+        },
+        "Fragmento de hueso fosilizado": {
+            "NID": 6
+        },
+        "Pedacito de \u00e1gata agnidus": {
+            "NID": 7
+        },
+        "Fragmento de \u00e1gata agnidus": {
+            "NID": 8
+        },
+        "Trozo de \u00e1gata agnidus": {
+            "NID": 9
+        },
+        "\u00c1gata agnidus": {
+            "NID": 10
+        },
+        "Pedacito de lazurita varunada": {
+            "NID": 11
+        },
+        "Fragmento de lazurita varunada": {
+            "NID": 12
+        },
+        "Trozo de lazurita varunada": {
+            "NID": 13
+        },
+        "Lazurita varunada": {
+            "NID": 14
+        },
+        "Pedacito de amatista vajrada": {
+            "NID": 15
+        },
+        "Fragmento de amatista vajrada": {
+            "NID": 16
+        },
+        "Trozo de amatista vajrada": {
+            "NID": 17
+        },
+        "Amatista vajrada": {
+            "NID": 18
+        },
+        "Pedacito de turquesa vayuda": {
+            "NID": 19
+        },
+        "Fragmento de turquesa vayuda": {
+            "NID": 20
+        },
+        "Trozo de turquesa vayuda": {
+            "NID": 21
+        },
+        "Turquesa vayuda": {
+            "NID": 22
+        },
+        "Pedacito de jade shivada": {
+            "NID": 23
+        },
+        "Fragmento de jade shivada": {
+            "NID": 24
+        },
+        "Trozo de jade shivada": {
+            "NID": 25
+        },
+        "Jade shivada": {
+            "NID": 26
+        },
+        "Pedacito de topacio prithiva": {
+            "NID": 27
+        },
+        "Fragmento de topacio prithiva": {
+            "NID": 28
+        },
+        "Trozo de topacio prithiva": {
+            "NID": 29
+        },
+        "Topacio prithiva": {
+            "NID": 30
+        },
+        "Ense\u00f1anzas de la libertad": {
+            "NID": 31
+        },
+        "Gu\u00eda de la libertad": {
+            "NID": 32
+        },
+        "Filosof\u00eda de la libertad": {
+            "NID": 33
+        },
+        "Ense\u00f1anzas de la resistencia": {
+            "NID": 34
+        },
+        "Gu\u00eda de la resistencia": {
+            "NID": 35
+        },
+        "Filosof\u00eda de la resistencia": {
+            "NID": 36
+        },
+        "Ense\u00f1anzas de la poes\u00eda": {
+            "NID": 37
+        },
+        "Gu\u00eda de la poes\u00eda": {
+            "NID": 38
+        },
+        "Filosof\u00eda de la poes\u00eda": {
+            "NID": 39
+        },
+        "Ense\u00f1anzas de la prosperidad": {
+            "NID": 40
+        },
+        "Gu\u00eda de la prosperidad": {
+            "NID": 41
+        },
+        "Filosof\u00eda de la prosperidad": {
+            "NID": 42
+        },
+        "Ense\u00f1anzas del esfuerzo": {
+            "NID": 43
+        },
+        "Gu\u00eda del esfuerzo": {
+            "NID": 44
+        },
+        "Filosof\u00eda del esfuerzo": {
+            "NID": 45
+        },
+        "Ense\u00f1anzas del oro": {
+            "NID": 46
+        },
+        "Gu\u00eda del oro": {
+            "NID": 47
+        },
+        "Filosof\u00eda del oro": {
+            "NID": 48
+        },
+        "Corona de la sabidur\u00eda": {
+            "NID": 49
+        },
+        "Esencial primordial": {
+            "NID": 50
+        },
+        "Condensado de Slime": {
+            "NID": 51
+        },
+        "Babas de Slime": {
+            "NID": 52
+        },
+        "Esencia de Slime": {
+            "NID": 53
+        },
+        "M\u00e1scara da\u00f1ada": {
+            "NID": 54
+        },
+        "M\u00e1scara sucia": {
+            "NID": 55
+        },
+        "M\u00e1scara amenazante": {
+            "NID": 56
+        },
+        "Pergamino gu\u00eda": {
+            "NID": 57
+        },
+        "Pergamino hechizado": {
+            "NID": 58
+        },
+        "Pergamino maldito": {
+            "NID": 59
+        },
+        "Flecha robusta": {
+            "NID": 60
+        },
+        "Flecha afilada": {
+            "NID": 61
+        },
+        "Flecha veterana": {
+            "NID": 62
+        },
+        "Cuerno pesado": {
+            "NID": 63
+        },
+        "Cuerno de bronce negro": {
+            "NID": 64
+        },
+        "Cuerno con cristal negro": {
+            "NID": 65
+        },
+        "Rama seca de l\u00edneas ley": {
+            "NID": 66
+        },
+        "Hojas secas de l\u00edneas ley": {
+            "NID": 67
+        },
+        "Brotes de l\u00edneas ley": {
+            "NID": 68
+        },
+        "Dispositivo del caos": {
+            "NID": 69
+        },
+        "Circuito del caos": {
+            "NID": 70
+        },
+        "Caldera del caos": {
+            "NID": 71
+        },
+        "Polen de neblina": {
+            "NID": 72
+        },
+        "Hierba brumosa": {
+            "NID": 73
+        },
+        "Estambre de hierba brumosa": {
+            "NID": 74
+        },
+        "Daga de cacer\u00eda": {
+            "NID": 75
+        },
+        "Daga del agente": {
+            "NID": 76
+        },
+        "Daga larga del inspector": {
+            "NID": 77
+        },
+        "Insignia del recluta": {
+            "NID": 78
+        },
+        "Insignia del sargento": {
+            "NID": 79
+        },
+        "Insignia del oficial": {
+            "NID": 80
+        },
+        "Insignia de cuervo de bronce": {
+            "NID": 81
+        },
+        "Insignia de cuervo plateada": {
+            "NID": 82
+        },
+        "Insignia de cuervo dorada": {
+            "NID": 83
+        },
+        "N\u00e9ctar de Megaflora": {
+            "NID": 84
+        },
+        "N\u00e9ctar brillante": {
+            "NID": 85
+        },
+        "N\u00e9ctar energ\u00e9tico": {
+            "NID": 86
+        },
+        "Semilla de hurac\u00e1n": {
+            "NID": 87
+        },
+        "Prisma del rel\u00e1mpago": {
+            "NID": 88
+        },
+        "Pluma de Stormterror": {
+            "NID": 89
+        },
+        "Garra de Stormterror": {
+            "NID": 90
+        },
+        "Suspiro de Stormterror": {
+            "NID": 91
+        },
+        "Cola de Boreas": {
+            "NID": 92
+        },
+        "Anillo de Boreas": {
+            "NID": 93
+        },
+        "Alma de Boreas": {
+            "NID": 94
+        },
+        "Pilar de basalto": {
+            "NID": 95
+        },
+        "N\u00facleo de escarcha": {
+            "NID": 96
+        },
+        "Semilla de fuego eterno": {
+            "NID": 97
+        },
+        "Coraz\u00f3n purificador": {
+            "NID": 98
+        },
+        "Cuerno de Monoceros Caeli": {
+            "NID": 99
+        },
+        "Fragmento de espada de Legado del mal": {
+            "NID": 100
+        },
+        "Sombra del guerrero": {
+            "NID": 101
+        },
+        "Jade inmaduro": {
+            "NID": 102
+        },
+        "Corona del rey drag\u00f3n": {
+            "NID": 103
+        },
+        "Rama de jade carmes\u00ed": {
+            "NID": 104
+        },
+        "Escama dorada": {
+            "NID": 105
+        },
+        "Flor cristalina": {
+            "NID": 106
+        },
+        "Engranaje Oni": {
+            "NID": 107
+        },
+        "Fragmento de azulejo de Decarabian": {
+            "NID": 108
+        },
+        "Escombro de la ciudad de Decarabian": {
+            "NID": 109
+        },
+        "Fragmento de epopeya de Decarabian": {
+            "NID": 110
+        },
+        "Fragmento de sue\u00f1o de Decarabian": {
+            "NID": 111
+        },
+        "Diente de leche de lobo boreal": {
+            "NID": 112
+        },
+        "Diente roto de lobo boreal": {
+            "NID": 113
+        },
+        "Colmillo roto de lobo boreal": {
+            "NID": 114
+        },
+        "Nostalgia del lobo boreal": {
+            "NID": 115
+        },
+        "Grilletes de Diente de Le\u00f3n": {
+            "NID": 116
+        },
+        "Cadena de Diente de Le\u00f3n": {
+            "NID": 117
+        },
+        "Esposas de Diente de Le\u00f3n": {
+            "NID": 118
+        },
+        "Ideales de Diente de Le\u00f3n": {
+            "NID": 119
+        },
+        "Arena brillante de Guyun": {
+            "NID": 120
+        },
+        "Piedra reluciente de Guyun": {
+            "NID": 121
+        },
+        "Reliquia de Guyun": {
+            "NID": 122
+        },
+        "Cuerpo divino de Guyun": {
+            "NID": 123
+        },
+        "Perdigones de plomo": {
+            "NID": 124
+        },
+        "Perdigones de mercurio": {
+            "NID": 125
+        },
+        "Perdigones de oro": {
+            "NID": 126
+        },
+        "Perdigones primordiales": {
+            "NID": 127
+        },
+        "Grano de siderita oscura": {
+            "NID": 128
+        },
+        "L\u00e1mina de siderita oscura": {
+            "NID": 129
+        },
+        "Fragmento de siderita oscura": {
+            "NID": 130
+        },
+        "Trozo de siderita oscura": {
+            "NID": 131
+        },
+        "M\u00e9dula ponzo\u00f1osa": {
+            "NID": 132
+        },
+        "Viento visible": {
+            "NID": 133
+        },
+        "Retazos de inocencia": {
+            "NID": 134
+        },
+        "Champi\u00f1\u00f3n": {
+            "NID": 135
+        },
+        "Flor dulce": {
+            "NID": 136
+        },
+        "Zanahoria": {
+            "NID": 137
+        },
+        "R\u00e1bano": {
+            "NID": 138
+        },
+        "Flor dorada": {
+            "NID": 139
+        },
+        "Menta": {
+            "NID": 140
+        },
+        "Trigo": {
+            "NID": 141
+        },
+        "Repollo": {
+            "NID": 142
+        },
+        "Loto plateado": {
+            "NID": 143
+        },
+        "Pi\u00f1\u00f3n": {
+            "NID": 144
+        },
+        "Gancho de lobo": {
+            "NID": 145
+        },
+        "Valbaya": {
+            "NID": 146
+        },
+        "Cecilia": {
+            "NID": 147
+        },
+        "Margarita voladora": {
+            "NID": 148
+        },
+        "Seta filanemo": {
+            "NID": 149
+        },
+        "Cabeza de loto": {
+            "NID": 150
+        },
+        "Chile de Jueyun": {
+            "NID": 151
+        },
+        "Jade noctilucoso": {
+            "NID": 152
+        },
+        "Flor de seda": {
+            "NID": 153
+        },
+        "Lirio de cristal": {
+            "NID": 154
+        },
+        "Flor chingxin": {
+            "NID": 155
+        },
+        "Cola de caballo": {
+            "NID": 156
+        },
+        "Caracola estelar": {
+            "NID": 157
+        },
+        "Campanita de cristal": {
+            "NID": 158
+        },
+        "Baya": {
+            "NID": 159
+        },
+        "Pistilo de flor de neblina": {
+            "NID": 160
+        },
+        "Pistilo de flor llameante": {
+            "NID": 161
+        },
+        "Electrocristal": {
+            "NID": 162
+        },
+        "Lucetta": {
+            "NID": 163
+        },
+        "Lirio cala": {
+            "NID": 164
+        },
+        "Semilla de diente de le\u00f3n": {
+            "NID": 165
+        },
+        "Cor lapis": {
+            "NID": 166
+        },
+        "Carne cruda": {
+            "NID": 167
+        },
+        "Huevo de p\u00e1jaro": {
+            "NID": 168
+        },
+        "Matsutake": {
+            "NID": 169
+        },
+        "Carne de ave": {
+            "NID": 170
+        },
+        "Alas de mariposa": {
+            "NID": 171
+        },
+        "Cangrejo": {
+            "NID": 172
+        },
+        "Huevas de cangrejo": {
+            "NID": 173
+        },
+        "Sal": {
+            "NID": 174
+        },
+        "Cebolla": {
+            "NID": 175
+        },
+        "Pimienta": {
+            "NID": 176
+        },
+        "Leche": {
+            "NID": 177
+        },
+        "Tomate": {
+            "NID": 178
+        },
+        "Papa": {
+            "NID": 179
+        },
+        "Rana": {
+            "NID": 180
+        },
+        "Coraza fluorescente": {
+            "NID": 181
+        },
+        "Cola de lagarto": {
+            "NID": 182
+        },
+        "Pescado": {
+            "NID": 183
+        },
+        "N\u00facleo de cristal": {
+            "NID": 184
+        },
+        "Tofu": {
+            "NID": 185
+        },
+        "Almendra": {
+            "NID": 186
+        },
+        "Perla de locha": {
+            "NID": 187
+        },
+        "Brote de bamb\u00fa": {
+            "NID": 188
+        },
+        "Arroz": {
+            "NID": 189
+        },
+        "Camar\u00f3n": {
+            "NID": 190
+        },
+        "Carne congelada": {
+            "NID": 191
+        },
+        "Pedazo de hierro": {
+            "NID": 192
+        },
+        "Pedazo de hierro blanco": {
+            "NID": 193
+        },
+        "Pedazo de cristal": {
+            "NID": 194
+        },
+        "Pedazo de cristal m\u00e1gico": {
+            "NID": 195
+        },
+        "Argento estelar": {
+            "NID": 196
+        },
+        "Prototipo de espada del Norte": {
+            "NID": 197
+        },
+        "Prototipo de arco del Norte": {
+            "NID": 198
+        },
+        "Prototipo de mandoble del Norte": {
+            "NID": 199
+        },
+        "Prototipo de catalizador del Norte": {
+            "NID": 200
+        },
+        "Prototipo de lanza del Norte": {
+            "NID": 201
+        },
+        "Hongo marino": {
+            "NID": 202
+        },
+        "Tela": {
+            "NID": 203
+        },
+        "Tinte rojo": {
+            "NID": 204
+        },
+        "Tinte amarillo": {
+            "NID": 205
+        },
+        "Tinte azul": {
+            "NID": 206
+        },
+        "Colmillo extra\u00f1o": {
+            "NID": 207
+        },
+        "Colmillo de drag\u00f3n imbuido de fuerza vital": {
+            "NID": 208
+        },
+        "Consejo del errante": {
+            "NID": 209
+        },
+        "Experiencia del aventurero": {
+            "NID": 210
+        },
+        "Ingenio del h\u00e9roe": {
+            "NID": 211
+        },
+        "Mineral de refinamiento": {
+            "NID": 212
+        },
+        "Mineral de refinamiento fino": {
+            "NID": 213
+        },
+        "Mineral de refinamiento m\u00edstico": {
+            "NID": 214
+        },
+        "Harina": {
+            "NID": 215
+        },
+        "Crema batida": {
+            "NID": 216
+        },
+        "Carne de ave ahumada": {
+            "NID": 217
+        },
+        "Mantequilla": {
+            "NID": 218
+        },
+        "Jam\u00f3n": {
+            "NID": 219
+        },
+        "Az\u00facar": {
+            "NID": 220
+        },
+        "Mermelada": {
+            "NID": 221
+        },
+        "Queso": {
+            "NID": 222
+        },
+        "Tocino": {
+            "NID": 223
+        },
+        "Salchicha": {
+            "NID": 224
+        },
+        "Celulosa para linterna": {
+            "NID": 225
+        },
+        "Material para mecha": {
+            "NID": 226
+        },
+        "Fragmento de plaustrita": {
+            "NID": 227
+        },
+        "Madera de abedul": {
+            "NID": 228
+        },
+        "Madera de liquid\u00e1mbar": {
+            "NID": 229
+        },
+        "Madera de pino": {
+            "NID": 230
+        },
+        "Madera de avellano": {
+            "NID": 231
+        },
+        "Segmento de bamb\u00fa": {
+            "NID": 232
+        },
+        "Madera de cedro fragante": {
+            "NID": 233
+        },
+        "Madera de abeto": {
+            "NID": 234
+        }
+    }
+}

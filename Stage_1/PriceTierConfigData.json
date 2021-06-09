@@ -1,0 +1,357 @@
+{
+    "Alternate_Tier_1": {
+        "TierName": "Alternate_Tier_1",
+        "VipPoint": 80
+    },
+    "Alternate_Tier_2": {
+        "TierName": "Alternate_Tier_2",
+        "VipPoint": 120
+    },
+    "Alternate_Tier_3": {
+        "TierName": "Alternate_Tier_3",
+        "VipPoint": 180
+    },
+    "Alternate_Tier_4": {
+        "TierName": "Alternate_Tier_4",
+        "VipPoint": 280
+    },
+    "Alternate_Tier_5": {
+        "TierName": "Alternate_Tier_5",
+        "VipPoint": 300
+    },
+    "Alternate_Tier_A": {
+        "TierName": "Alternate_Tier_A",
+        "VipPoint": 10
+    },
+    "Alternate_Tier_B": {
+        "TierName": "Alternate_Tier_B",
+        "VipPoint": 30
+    },
+    "Tier_1": {
+        "TierName": "Tier_1",
+        "VipPoint": 60
+    },
+    "Tier_10": {
+        "TierName": "Tier_10",
+        "VipPoint": 680
+    },
+    "Tier_11": {
+        "TierName": "Tier_11",
+        "VipPoint": 730
+    },
+    "Tier_12": {
+        "TierName": "Tier_12",
+        "VipPoint": 780
+    },
+    "Tier_13": {
+        "TierName": "Tier_13",
+        "VipPoint": 880
+    },
+    "Tier_14": {
+        "TierName": "Tier_14",
+        "VipPoint": 930
+    },
+    "Tier_15": {
+        "TierName": "Tier_15",
+        "VipPoint": 980
+    },
+    "Tier_16": {
+        "TierName": "Tier_16",
+        "VipPoint": 1080
+    },
+    "Tier_17": {
+        "TierName": "Tier_17",
+        "VipPoint": 1130
+    },
+    "Tier_18": {
+        "TierName": "Tier_18",
+        "VipPoint": 1180
+    },
+    "Tier_19": {
+        "TierName": "Tier_19",
+        "VipPoint": 1230
+    },
+    "Tier_2": {
+        "TierName": "Tier_2",
+        "VipPoint": 120
+    },
+    "Tier_20": {
+        "TierName": "Tier_20",
+        "VipPoint": 1280
+    },
+    "Tier_21": {
+        "TierName": "Tier_21",
+        "VipPoint": 1380
+    },
+    "Tier_22": {
+        "TierName": "Tier_22",
+        "VipPoint": 1480
+    },
+    "Tier_23": {
+        "TierName": "Tier_23",
+        "VipPoint": 1530
+    },
+    "Tier_24": {
+        "TierName": "Tier_24",
+        "VipPoint": 1580
+    },
+    "Tier_25": {
+        "TierName": "Tier_25",
+        "VipPoint": 1630
+    },
+    "Tier_26": {
+        "TierName": "Tier_26",
+        "VipPoint": 1680
+    },
+    "Tier_27": {
+        "TierName": "Tier_27",
+        "VipPoint": 1780
+    },
+    "Tier_28": {
+        "TierName": "Tier_28",
+        "VipPoint": 1880
+    },
+    "Tier_29": {
+        "TierName": "Tier_29",
+        "VipPoint": 1930
+    },
+    "Tier_3": {
+        "TierName": "Tier_3",
+        "VipPoint": 180
+    },
+    "Tier_30": {
+        "TierName": "Tier_30",
+        "VipPoint": 1980
+    },
+    "Tier_31": {
+        "TierName": "Tier_31",
+        "VipPoint": 2080
+    },
+    "Tier_32": {
+        "TierName": "Tier_32",
+        "VipPoint": 2180
+    },
+    "Tier_33": {
+        "TierName": "Tier_33",
+        "VipPoint": 2230
+    },
+    "Tier_34": {
+        "TierName": "Tier_34",
+        "VipPoint": 2280
+    },
+    "Tier_35": {
+        "TierName": "Tier_35",
+        "VipPoint": 2330
+    },
+    "Tier_36": {
+        "TierName": "Tier_36",
+        "VipPoint": 2380
+    },
+    "Tier_37": {
+        "TierName": "Tier_37",
+        "VipPoint": 2430
+    },
+    "Tier_38": {
+        "TierName": "Tier_38",
+        "VipPoint": 2480
+    },
+    "Tier_39": {
+        "TierName": "Tier_39",
+        "VipPoint": 2530
+    },
+    "Tier_4": {
+        "TierName": "Tier_4",
+        "VipPoint": 250
+    },
+    "Tier_40": {
+        "TierName": "Tier_40",
+        "VipPoint": 2580
+    },
+    "Tier_41": {
+        "TierName": "Tier_41",
+        "VipPoint": 2630
+    },
+    "Tier_42": {
+        "TierName": "Tier_42",
+        "VipPoint": 2680
+    },
+    "Tier_43": {
+        "TierName": "Tier_43",
+        "VipPoint": 2730
+    },
+    "Tier_44": {
+        "TierName": "Tier_44",
+        "VipPoint": 2780
+    },
+    "Tier_45": {
+        "TierName": "Tier_45",
+        "VipPoint": 2830
+    },
+    "Tier_46": {
+        "TierName": "Tier_46",
+        "VipPoint": 2880
+    },
+    "Tier_47": {
+        "TierName": "Tier_47",
+        "VipPoint": 2980
+    },
+    "Tier_48": {
+        "TierName": "Tier_48",
+        "VipPoint": 3080
+    },
+    "Tier_49": {
+        "TierName": "Tier_49",
+        "VipPoint": 3180
+    },
+    "Tier_5": {
+        "TierName": "Tier_5",
+        "VipPoint": 300
+    },
+    "Tier_50": {
+        "TierName": "Tier_50",
+        "VipPoint": 3280
+    },
+    "Tier_51": {
+        "TierName": "Tier_51",
+        "VipPoint": 3480
+    },
+    "Tier_52": {
+        "TierName": "Tier_52",
+        "VipPoint": 3880
+    },
+    "Tier_53": {
+        "TierName": "Tier_53",
+        "VipPoint": 4180
+    },
+    "Tier_54": {
+        "TierName": "Tier_54",
+        "VipPoint": 4480
+    },
+    "Tier_55": {
+        "TierName": "Tier_55",
+        "VipPoint": 4880
+    },
+    "Tier_56": {
+        "TierName": "Tier_56",
+        "VipPoint": 5180
+    },
+    "Tier_57": {
+        "TierName": "Tier_57",
+        "VipPoint": 5480
+    },
+    "Tier_58": {
+        "TierName": "Tier_58",
+        "VipPoint": 5880
+    },
+    "Tier_59": {
+        "TierName": "Tier_59",
+        "VipPoint": 6180
+    },
+    "Tier_6": {
+        "TierName": "Tier_6",
+        "VipPoint": 400
+    },
+    "Tier_60": {
+        "TierName": "Tier_60",
+        "VipPoint": 6480
+    },
+    "Tier_61": {
+        "TierName": "Tier_61",
+        "VipPoint": 6980
+    },
+    "Tier_62": {
+        "TierName": "Tier_62",
+        "VipPoint": 7980
+    },
+    "Tier_63": {
+        "TierName": "Tier_63",
+        "VipPoint": 8180
+    },
+    "Tier_64": {
+        "TierName": "Tier_64",
+        "VipPoint": 8480
+    },
+    "Tier_65": {
+        "TierName": "Tier_65",
+        "VipPoint": 8980
+    },
+    "Tier_66": {
+        "TierName": "Tier_66",
+        "VipPoint": 9980
+    },
+    "Tier_67": {
+        "TierName": "Tier_67",
+        "VipPoint": 10480
+    },
+    "Tier_68": {
+        "TierName": "Tier_68",
+        "VipPoint": 10980
+    },
+    "Tier_69": {
+        "TierName": "Tier_69",
+        "VipPoint": 11480
+    },
+    "Tier_7": {
+        "TierName": "Tier_7",
+        "VipPoint": 450
+    },
+    "Tier_70": {
+        "TierName": "Tier_70",
+        "VipPoint": 11980
+    },
+    "Tier_71": {
+        "TierName": "Tier_71",
+        "VipPoint": 12480
+    },
+    "Tier_72": {
+        "TierName": "Tier_72",
+        "VipPoint": 12980
+    },
+    "Tier_73": {
+        "TierName": "Tier_73",
+        "VipPoint": 13980
+    },
+    "Tier_74": {
+        "TierName": "Tier_74",
+        "VipPoint": 14480
+    },
+    "Tier_75": {
+        "TierName": "Tier_75",
+        "VipPoint": 14980
+    },
+    "Tier_76": {
+        "TierName": "Tier_76",
+        "VipPoint": 15980
+    },
+    "Tier_77": {
+        "TierName": "Tier_77",
+        "VipPoint": 16480
+    },
+    "Tier_78": {
+        "TierName": "Tier_78",
+        "VipPoint": 19980
+    },
+    "Tier_79": {
+        "TierName": "Tier_79",
+        "VipPoint": 22980
+    },
+    "Tier_8": {
+        "TierName": "Tier_8",
+        "VipPoint": 500
+    },
+    "Tier_80": {
+        "TierName": "Tier_80",
+        "VipPoint": 25980
+    },
+    "Tier_9": {
+        "TierName": "Tier_9",
+        "VipPoint": 600
+    },
+    "Test_Tier_1": {
+        "TierName": "Test_Tier_1",
+        "VipPoint": 1
+    },
+    "None": {
+        "TierName": "None"
+    }
+}

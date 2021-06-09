@@ -1,0 +1,22 @@
+{
+    "cb2plus": {
+        "Region": "cb2plus",
+        "Factor": 150
+    },
+    "cb2plus_copy": {
+        "Region": "cb2plus_copy",
+        "Factor": 20
+    },
+    "cb2plus_asia": {
+        "Region": "cb2plus_asia",
+        "Factor": 56
+    },
+    "cb2plus_euro": {
+        "Region": "cb2plus_euro",
+        "Factor": 15
+    },
+    "cb2plus_usa": {
+        "Region": "cb2plus_usa",
+        "Factor": 40
+    }
+}

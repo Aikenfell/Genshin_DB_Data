@@ -1,0 +1,44 @@
+{
+    "1": {
+        "Id": 1,
+        "AvatarLevel": 20,
+        "SingleEnergy": 30,
+        "MpEnergy": 40
+    },
+    "2": {
+        "Id": 2,
+        "AvatarLevel": 40,
+        "SingleEnergy": 50,
+        "MpEnergy": 60
+    },
+    "3": {
+        "Id": 3,
+        "AvatarLevel": 50,
+        "SingleEnergy": 60,
+        "MpEnergy": 70
+    },
+    "4": {
+        "Id": 4,
+        "AvatarLevel": 60,
+        "SingleEnergy": 70,
+        "MpEnergy": 80
+    },
+    "5": {
+        "Id": 5,
+        "AvatarLevel": 70,
+        "SingleEnergy": 80,
+        "MpEnergy": 90
+    },
+    "6": {
+        "Id": 6,
+        "AvatarLevel": 80,
+        "SingleEnergy": 90,
+        "MpEnergy": 100
+    },
+    "7": {
+        "Id": 7,
+        "AvatarLevel": 90,
+        "SingleEnergy": 100,
+        "MpEnergy": 110
+    }
+}

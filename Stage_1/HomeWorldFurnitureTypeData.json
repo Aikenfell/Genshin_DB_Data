@@ -1,0 +1,349 @@
+{
+    "1001": {
+        "TypeID": 1001,
+        "TypeNameTextMapHash": 1747164567,
+        "DOEJGNJOAJP": 10916579,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Wall",
+        "IsShowInBag": true
+    },
+    "1002": {
+        "TypeID": 1002,
+        "TypeNameTextMapHash": 843130895,
+        "DOEJGNJOAJP": 2523373883,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Floor",
+        "IsShowInBag": true
+    },
+    "1003": {
+        "TypeID": 1003,
+        "TypeNameTextMapHash": 4247725943,
+        "DOEJGNJOAJP": 1505774019,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Ceiling",
+        "IsShowInBag": true
+    },
+    "1004": {
+        "TypeID": 1004,
+        "TypeNameTextMapHash": 3527280743,
+        "DOEJGNJOAJP": 2693615859,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Droplight",
+        "IsShowInBag": true
+    },
+    "1005": {
+        "TypeID": 1005,
+        "TypeNameTextMapHash": 1236062887,
+        "DOEJGNJOAJP": 291785211,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Door",
+        "IsShowInBag": true
+    },
+    "1006": {
+        "TypeID": 1006,
+        "TypeNameTextMapHash": 2445576727,
+        "DOEJGNJOAJP": 793029603,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Stair",
+        "IsShowInBag": true
+    },
+    "3001": {
+        "TypeID": 3001,
+        "TypeNameTextMapHash": 1031490255,
+        "DOEJGNJOAJP": 241692731,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Cabinet",
+        "IsShowInBag": true
+    },
+    "3002": {
+        "TypeID": 3002,
+        "TypeNameTextMapHash": 1347000647,
+        "DOEJGNJOAJP": 2432567291,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Bookcase",
+        "IsShowInBag": true
+    },
+    "3003": {
+        "TypeID": 3003,
+        "TypeNameTextMapHash": 870250087,
+        "DOEJGNJOAJP": 922944195,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Table",
+        "IsShowInBag": true
+    },
+    "3005": {
+        "TypeID": 3005,
+        "TypeNameTextMapHash": 2499730927,
+        "DOEJGNJOAJP": 3806375211,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Counter",
+        "IsShowInBag": true
+    },
+    "3006": {
+        "TypeID": 3006,
+        "TypeNameTextMapHash": 2309016527,
+        "DOEJGNJOAJP": 1000389059,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Bed",
+        "IsShowInBag": true
+    },
+    "4001": {
+        "TypeID": 4001,
+        "TypeNameTextMapHash": 3515206943,
+        "DOEJGNJOAJP": 4114669899,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Chair",
+        "IsShowInBag": true
+    },
+    "4002": {
+        "TypeID": 4002,
+        "TypeNameTextMapHash": 1833205511,
+        "DOEJGNJOAJP": 2454104499,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Decorate",
+        "IsShowInBag": true
+    },
+    "4004": {
+        "TypeID": 4004,
+        "TypeNameTextMapHash": 2334825399,
+        "DOEJGNJOAJP": 2532685155,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Carpet",
+        "IsShowInBag": true
+    },
+    "11003": {
+        "TypeID": 11003,
+        "TypeNameTextMapHash": 2802965799,
+        "DOEJGNJOAJP": 1466665259,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Lamp",
+        "IsShowInBag": true
+    },
+    "11001": {
+        "TypeID": 11001,
+        "TypeNameTextMapHash": 2722298863,
+        "DOEJGNJOAJP": 1002108859,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Plants",
+        "IsShowInBag": true
+    },
+    "11002": {
+        "TypeID": 11002,
+        "TypeNameTextMapHash": 4245343967,
+        "DOEJGNJOAJP": 3439424635,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Tabletop",
+        "IsShowInBag": true
+    },
+    "5003": {
+        "TypeID": 5003,
+        "TypeNameTextMapHash": 2504978935,
+        "DOEJGNJOAJP": 69468203,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Paintings",
+        "IsShowInBag": true
+    },
+    "5005": {
+        "TypeID": 5005,
+        "TypeNameTextMapHash": 1799163975,
+        "DOEJGNJOAJP": 4168383467,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Hangings",
+        "IsShowInBag": true
+    },
+    "6002": {
+        "TypeID": 6002,
+        "TypeNameTextMapHash": 4095736343,
+        "DOEJGNJOAJP": 2430048163,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Wall",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "6003": {
+        "TypeID": 6003,
+        "TypeNameTextMapHash": 1981825551,
+        "DOEJGNJOAJP": 638786971,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Largedecoration",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "13001": {
+        "TypeID": 13001,
+        "TypeNameTextMapHash": 4072141127,
+        "DOEJGNJOAJP": 2601522931,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Chinesehouse",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "13002": {
+        "TypeID": 13002,
+        "TypeNameTextMapHash": 2287558023,
+        "DOEJGNJOAJP": 2889771011,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Europeanhouse",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "13003": {
+        "TypeID": 13003,
+        "TypeNameTextMapHash": 1102039095,
+        "DOEJGNJOAJP": 2417025883,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Monsterhouse",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "6005": {
+        "TypeID": 6005,
+        "TypeNameTextMapHash": 3490730703,
+        "DOEJGNJOAJP": 2395742523,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Store",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "6006": {
+        "TypeID": 6006,
+        "TypeNameTextMapHash": 1770645095,
+        "DOEJGNJOAJP": 2690148859,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Stall",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "10001": {
+        "TypeID": 10001,
+        "TypeNameTextMapHash": 1891287631,
+        "DOEJGNJOAJP": 2405127419,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Mountain",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "10002": {
+        "TypeID": 10002,
+        "TypeNameTextMapHash": 4042420927,
+        "DOEJGNJOAJP": 1021081683,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Stone",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "10003": {
+        "TypeID": 10003,
+        "TypeNameTextMapHash": 2563291127,
+        "DOEJGNJOAJP": 683785043,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Tree",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "10004": {
+        "TypeID": 10004,
+        "TypeNameTextMapHash": 1956512495,
+        "DOEJGNJOAJP": 2884651995,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Shrub",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7001": {
+        "TypeID": 7001,
+        "TypeNameTextMapHash": 1311955111,
+        "DOEJGNJOAJP": 98766091,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Items",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7003": {
+        "TypeID": 7003,
+        "TypeNameTextMapHash": 3476370455,
+        "DOEJGNJOAJP": 3375554067,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Flowerbed",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7005": {
+        "TypeID": 7005,
+        "TypeNameTextMapHash": 674369311,
+        "DOEJGNJOAJP": 2767914627,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Decorate",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7008": {
+        "TypeID": 7008,
+        "TypeNameTextMapHash": 1123300903,
+        "DOEJGNJOAJP": 3979419155,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Streetlight",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "8001": {
+        "TypeID": 8001,
+        "TypeNameTextMapHash": 2987021175,
+        "DOEJGNJOAJP": 3550142059,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Character",
+        "SceneType": "Exterior"
+    },
+    "8002": {
+        "TypeID": 8002,
+        "TypeNameTextMapHash": 2936971639,
+        "DOEJGNJOAJP": 2179156995,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Character"
+    },
+    "9001": {
+        "TypeID": 9001,
+        "TypeNameTextMapHash": 3637192023,
+        "DOEJGNJOAJP": 2252842307,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Animals",
+        "IsShowInBag": true
+    },
+    "9002": {
+        "TypeID": 9002,
+        "TypeNameTextMapHash": 803745327,
+        "DOEJGNJOAJP": 2753820019,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Animals",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "12001": {
+        "TypeID": 12001,
+        "TypeNameTextMapHash": 4168060031,
+        "DOEJGNJOAJP": 338522267,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Mainbuilding",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7006": {
+        "TypeID": 7006,
+        "TypeNameTextMapHash": 2473360831,
+        "DOEJGNJOAJP": 2525377619,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Enclosure",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7007": {
+        "TypeID": 7007,
+        "TypeNameTextMapHash": 1575042207,
+        "DOEJGNJOAJP": 991602283,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Chair",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7002": {
+        "TypeID": 7002,
+        "TypeNameTextMapHash": 3881654079,
+        "DOEJGNJOAJP": 1802925171,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Table",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "7004": {
+        "TypeID": 7004,
+        "TypeNameTextMapHash": 1812089135,
+        "DOEJGNJOAJP": 455289371,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Cabinet",
+        "SceneType": "Exterior",
+        "IsShowInBag": true
+    },
+    "771": {
+        "TypeID": 771,
+        "TypeNameTextMapHash": 722769111,
+        "DOEJGNJOAJP": 99072355,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Suit",
+        "SceneType": "Exterior"
+    },
+    "772": {
+        "TypeID": 772,
+        "TypeNameTextMapHash": 52358375,
+        "DOEJGNJOAJP": 1112778275,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Suit2",
+        "SceneType": "Exterior"
+    },
+    "671": {
+        "TypeID": 671,
+        "TypeNameTextMapHash": 971419447,
+        "DOEJGNJOAJP": 2752582667,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Suit"
+    },
+    "672": {
+        "TypeID": 672,
+        "TypeNameTextMapHash": 1912847943,
+        "DOEJGNJOAJP": 205103331,
+        "TabIcon": "UI_HomeWorldTabIcon_2_Suit2"
+    }
+}

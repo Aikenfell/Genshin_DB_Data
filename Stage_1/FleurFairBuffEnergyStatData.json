@@ -1,0 +1,198 @@
+{
+    "1": {
+        "Id": 1,
+        "GalleryId": 6001,
+        "StatParam": "collect_energy_6001",
+        "Priority": 99,
+        "TitleTextMapHash": 3855663028
+    },
+    "2": {
+        "Id": 2,
+        "GalleryId": 6001,
+        "StatParam": "complete_timelimit_challenge_6001",
+        "Priority": 98,
+        "TitleTextMapHash": 24784508
+    },
+    "3": {
+        "Id": 3,
+        "GalleryId": 6001,
+        "StatParam": "hit_counts_falldown_6001",
+        "Priority": 97,
+        "TitleTextMapHash": 645173060
+    },
+    "4": {
+        "Id": 4,
+        "GalleryId": 6001,
+        "StatParam": "defeated_timelimit_challenge_6001",
+        "Priority": 96,
+        "TitleTextMapHash": 231219780
+    },
+    "5": {
+        "Id": 5,
+        "GalleryId": 6002,
+        "StatParam": "complete_timelimit_challenge_6002",
+        "Priority": 99,
+        "TitleTextMapHash": 2392747396
+    },
+    "6": {
+        "Id": 6,
+        "GalleryId": 6002,
+        "StatParam": "defeated_timelimit_challenge_6002",
+        "Priority": 96,
+        "TitleTextMapHash": 604276148
+    },
+    "7": {
+        "Id": 7,
+        "GalleryId": 6002,
+        "StatParam": "hit_counts_falldown_6002",
+        "Priority": 97,
+        "TitleTextMapHash": 492596220
+    },
+    "8": {
+        "Id": 8,
+        "GalleryId": 6002,
+        "StatParam": "collect_energy_6002",
+        "Priority": 98,
+        "TitleTextMapHash": 2777902284
+    },
+    "9": {
+        "Id": 9,
+        "GalleryId": 6003,
+        "StatParam": "collect_energy_6003",
+        "Priority": 99,
+        "TitleTextMapHash": 3301170108
+    },
+    "10": {
+        "Id": 10,
+        "GalleryId": 6003,
+        "StatParam": "complete_timelimit_challenge_6003",
+        "Priority": 98,
+        "TitleTextMapHash": 1809653460
+    },
+    "11": {
+        "Id": 11,
+        "GalleryId": 6003,
+        "StatParam": "defeated_timelimit_challenge_6003",
+        "Priority": 97,
+        "TitleTextMapHash": 2901855868
+    },
+    "12": {
+        "Id": 12,
+        "GalleryId": 6004,
+        "StatParam": "complete_timelimit_challenge_6004",
+        "Priority": 99,
+        "TitleTextMapHash": 4233791980
+    },
+    "13": {
+        "Id": 13,
+        "GalleryId": 6004,
+        "StatParam": "defeated_timelimit_challenge_6004",
+        "Priority": 98,
+        "TitleTextMapHash": 1912005180
+    },
+    "14": {
+        "Id": 14,
+        "GalleryId": 6005,
+        "StatParam": "collect_energy_6005",
+        "Priority": 99,
+        "TitleTextMapHash": 3202904556
+    },
+    "15": {
+        "Id": 15,
+        "GalleryId": 6005,
+        "StatParam": "hit_counts_lessthan_5_6005",
+        "Priority": 98,
+        "TitleTextMapHash": 4116450500
+    },
+    "16": {
+        "Id": 16,
+        "GalleryId": 6006,
+        "StatParam": "collect_energy_6006",
+        "Priority": 99,
+        "TitleTextMapHash": 2589405380
+    },
+    "17": {
+        "Id": 17,
+        "GalleryId": 6006,
+        "StatParam": "complete_timelimit_challenge_6006",
+        "Priority": 98,
+        "TitleTextMapHash": 3254546804
+    },
+    "18": {
+        "Id": 18,
+        "GalleryId": 6006,
+        "StatParam": "perfect_complete_timelimit_challenge_6006",
+        "Priority": 97,
+        "TitleTextMapHash": 10380268
+    },
+    "27": {
+        "Id": 27,
+        "GalleryId": 6006,
+        "StatParam": "defeated_timelimit_challenge_6006",
+        "Priority": 96,
+        "TitleTextMapHash": 2194212972
+    },
+    "19": {
+        "Id": 19,
+        "GalleryId": 6007,
+        "StatParam": "collect_energy_6007",
+        "Priority": 99,
+        "TitleTextMapHash": 4099145244
+    },
+    "20": {
+        "Id": 20,
+        "GalleryId": 6007,
+        "StatParam": "complete_timelimit_challenge_6007",
+        "Priority": 98,
+        "TitleTextMapHash": 4294562228
+    },
+    "21": {
+        "Id": 21,
+        "GalleryId": 6007,
+        "StatParam": "perfect_complete_timelimit_challenge_6007",
+        "Priority": 97,
+        "TitleTextMapHash": 2205664100
+    },
+    "28": {
+        "Id": 28,
+        "GalleryId": 6007,
+        "StatParam": "defeated_timelimit_challenge_6007",
+        "Priority": 96,
+        "TitleTextMapHash": 2106876700
+    },
+    "22": {
+        "Id": 22,
+        "GalleryId": 6008,
+        "StatParam": "collect_energy_6008",
+        "Priority": 99,
+        "TitleTextMapHash": 2406599020
+    },
+    "23": {
+        "Id": 23,
+        "GalleryId": 6008,
+        "StatParam": "complete_timelimit_challenge_6008",
+        "Priority": 98,
+        "TitleTextMapHash": 1466809212
+    },
+    "24": {
+        "Id": 24,
+        "GalleryId": 6008,
+        "StatParam": "perfect_complete_timelimit_challenge_6008",
+        "Priority": 97,
+        "TitleTextMapHash": 2378166596
+    },
+    "25": {
+        "Id": 25,
+        "GalleryId": 6008,
+        "StatParam": "defeated_timelimit_challenge_6008",
+        "Priority": 96,
+        "TitleTextMapHash": 2704336132
+    },
+    "26": {
+        "Id": 26,
+        "GalleryId": 6008,
+        "StatParam": "fall_down_count_6008",
+        "Priority": 95,
+        "TitleTextMapHash": 3939010164
+    }
+}

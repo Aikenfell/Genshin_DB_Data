@@ -1,0 +1,134 @@
+{
+    "1": {
+        "Id": 1,
+        "RotateId": 10201,
+        "ItemId": 1020,
+        "RotateOrder": 1
+    },
+    "2": {
+        "Id": 2,
+        "RotateId": 10201,
+        "ItemId": 1032,
+        "RotateOrder": 2
+    },
+    "3": {
+        "Id": 3,
+        "RotateId": 10201,
+        "ItemId": 1014,
+        "RotateOrder": 3
+    },
+    "4": {
+        "Id": 4,
+        "RotateId": 10201,
+        "ItemId": 1031,
+        "RotateOrder": 4
+    },
+    "5": {
+        "Id": 5,
+        "RotateId": 10201,
+        "ItemId": 1024,
+        "RotateOrder": 5
+    },
+    "6": {
+        "Id": 6,
+        "RotateId": 10201,
+        "ItemId": 1027,
+        "RotateOrder": 6
+    },
+    "7": {
+        "Id": 7,
+        "RotateId": 10202,
+        "ItemId": 1021,
+        "RotateOrder": 1
+    },
+    "8": {
+        "Id": 8,
+        "RotateId": 10202,
+        "ItemId": 1006,
+        "RotateOrder": 2
+    },
+    "9": {
+        "Id": 9,
+        "RotateId": 10202,
+        "ItemId": 1015,
+        "RotateOrder": 3
+    },
+    "10": {
+        "Id": 10,
+        "RotateId": 10202,
+        "ItemId": 1023,
+        "RotateOrder": 4
+    },
+    "11": {
+        "Id": 11,
+        "RotateId": 10202,
+        "ItemId": 1034,
+        "RotateOrder": 5
+    },
+    "12": {
+        "Id": 12,
+        "RotateId": 10202,
+        "ItemId": 1025,
+        "RotateOrder": 6
+    },
+    "13": {
+        "Id": 13,
+        "RotateId": 10203,
+        "ItemId": 11404,
+        "RotateOrder": 1
+    },
+    "14": {
+        "Id": 14,
+        "RotateId": 10203,
+        "ItemId": 11408,
+        "RotateOrder": 2
+    },
+    "15": {
+        "Id": 15,
+        "RotateId": 10204,
+        "ItemId": 12404,
+        "RotateOrder": 1
+    },
+    "16": {
+        "Id": 16,
+        "RotateId": 10204,
+        "ItemId": 12408,
+        "RotateOrder": 2
+    },
+    "17": {
+        "Id": 17,
+        "RotateId": 10205,
+        "ItemId": 13408,
+        "RotateOrder": 1
+    },
+    "18": {
+        "Id": 18,
+        "RotateId": 10205,
+        "ItemId": 13404,
+        "RotateOrder": 2
+    },
+    "19": {
+        "Id": 19,
+        "RotateId": 10206,
+        "ItemId": 14404,
+        "RotateOrder": 1
+    },
+    "20": {
+        "Id": 20,
+        "RotateId": 10206,
+        "ItemId": 14408,
+        "RotateOrder": 2
+    },
+    "21": {
+        "Id": 21,
+        "RotateId": 10207,
+        "ItemId": 15404,
+        "RotateOrder": 1
+    },
+    "22": {
+        "Id": 22,
+        "RotateId": 10207,
+        "ItemId": 15408,
+        "RotateOrder": 2
+    }
+}

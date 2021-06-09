@@ -1,0 +1,18 @@
+{
+    "5001": {
+        "RewardId": 5001,
+        "RewardPreview": 490004,
+        "ActivitychallengetipsTextMapHash": 2103,
+        "ExtraActivitychallengetipsTextMapHash": 983142724,
+        "Id": 1500104,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
+            "Param": [
+                "1",
+                "",
+                ""
+            ]
+        },
+        "Progress": 20
+    }
+}

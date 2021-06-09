@@ -1,0 +1,104 @@
+{
+    "101": {
+        "Id": 101,
+        "SceneTagName": "Hdj",
+        "SceneId": 3,
+        "Cond": [
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_SPECIFIC_ACTIVITY_OPEN",
+                "Param1": 1001
+            },
+            {}
+        ]
+    },
+    "102": {
+        "Id": 102,
+        "SceneTagName": "JadeChamber",
+        "SceneId": 3,
+        "IsDefaultValid": true,
+        "Cond": [
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_QUEST_GLOBAL_VAR_EQUAL",
+                "Param1": 10008,
+                "Param2": 1
+            },
+            {}
+        ]
+    },
+    "103": {
+        "Id": 103,
+        "SceneTagName": "JadeChamber",
+        "SceneId": 3,
+        "Cond": [
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_QUEST_GLOBAL_VAR_EQUAL",
+                "Param1": 10009,
+                "Param2": 1
+            },
+            {}
+        ]
+    },
+    "104": {
+        "Id": 104,
+        "SceneTagName": "Hdj",
+        "SceneId": 3,
+        "Cond": [
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_ACTIVITY_CONTENT_OPEN",
+                "Param1": 2002
+            },
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_QUEST_FINISH",
+                "Param1": 1110311
+            }
+        ]
+    },
+    "105": {
+        "Id": 105,
+        "SceneTagName": "Fhj",
+        "SceneId": 3,
+        "Cond": [
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_ACTIVITY_CONTENT_OPEN",
+                "Param1": 2003
+            },
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_QUEST_FINISH",
+                "Param1": 39604
+            }
+        ]
+    },
+    "106": {
+        "Id": 106,
+        "SceneTagName": "SummerTime",
+        "SceneId": 4,
+        "Cond": [
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_ACTIVITY_CONTENT_OPEN",
+                "Param1": 2005
+            },
+            {
+                "CondType": "SCENE_TAG_COND_TYPE_QUEST_FINISH",
+                "Param1": 4001103
+            }
+        ]
+    },
+    "108": {
+        "Id": 108,
+        "SceneTagName": "SummerTime_High",
+        "SceneId": 4,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    "109": {
+        "Id": 109,
+        "SceneTagName": "SummerTime_Low",
+        "SceneId": 4,
+        "Cond": [
+            {},
+            {}
+        ]
+    }
+}

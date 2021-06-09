@@ -1,0 +1,5799 @@
+{
+    "SHOP_TYPE_VIRTUAL_SHOP": {
+        "101001": {
+            "Name": "\u539f\u7cb9\u6a39\u8102",
+            "Count": 1,
+            "Limit": "Null"
+        }
+    },
+    "SHOP_TYPE_CITY": {
+        "201001": {
+            "Name": "\u71c3\u9858\u746a\u7459\u788e\u5c51",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 10
+            }
+        },
+        "201002": {
+            "Name": "\u6ecc\u6de8\u9752\u91d1\u788e\u5c51",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 10
+            }
+        },
+        "201003": {
+            "Name": "\u81ea\u5728\u677e\u77f3\u788e\u5c51",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 10
+            }
+        },
+        "201004": {
+            "Name": "\u54c0\u6558\u51b0\u7389\u788e\u5c51",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 10
+            }
+        },
+        "201005": {
+            "Name": "\u5805\u7262\u9ec3\u7389\u788e\u5c51",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 10
+            }
+        },
+        "201006": {
+            "Name": "\u6700\u52dd\u7d2b\u6676\u788e\u5c51",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 10
+            }
+        },
+        "201007": {
+            "Name": "\u9ad8\u5854\u5b64\u738b\u7684\u7834\u74e6",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 4
+            }
+        },
+        "201008": {
+            "Name": "\u51dc\u98a8\u5954\u72fc\u7684\u59cb\u9f54",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 4
+            }
+        },
+        "201009": {
+            "Name": "\u7345\u7259\u9b25\u58eb\u7684\u67b7\u9396",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 4
+            }
+        },
+        "201010": {
+            "Name": "\u56db\u65b9\u4e4b\u98a8\u7684\u8a18\u61b6",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 225
+            }
+        },
+        "201011": {
+            "Name": "\u5317\u9678\u55ae\u624b\u528d\u539f\u80da",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 225
+            }
+        },
+        "201012": {
+            "Name": "\u6469\u62c9",
+            "Count": 1600,
+            "Limit": 60,
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 1
+            }
+        },
+        "201013": {
+            "Name": "\u6469\u62c9",
+            "Count": 1600,
+            "Limit": "Null",
+            "Cost": {
+                "\u98a8\u4e4b\u5370": 2
+            }
+        }
+    },
+    "SHOP_TYPE_BLACKSMITH": {
+        "202001": {
+            "Name": "\u9280\u528d",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 600
+            }
+        },
+        "202002": {
+            "Name": "\u50ad\u5175\u91cd\u528d",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 600
+            }
+        },
+        "202003": {
+            "Name": "\u9435\u5c16\u69cd",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 600
+            }
+        },
+        "202004": {
+            "Name": "\u53e3\u888b\u9b54\u5c0e\u66f8",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 600
+            }
+        },
+        "202005": {
+            "Name": "\u6b77\u7df4\u7684\u7375\u5f13",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 600
+            }
+        }
+    },
+    "SHOP_TYPE_GROCERY": {
+        "203001": {
+            "Name": "\u9e7d",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 60
+            }
+        },
+        "203002": {
+            "Name": "\u80e1\u6912",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 80
+            }
+        },
+        "203003": {
+            "Name": "\u6d0b\u8525",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 80
+            }
+        },
+        "203004": {
+            "Name": "\u725b\u5976",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 100
+            }
+        },
+        "203005": {
+            "Name": "\u756a\u8304",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "203006": {
+            "Name": "\u9ad8\u9e97\u83dc",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "203007": {
+            "Name": "\u99ac\u9234\u85af",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "203008": {
+            "Name": "\u5c0f\u9ea5",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 100
+            }
+        }
+    },
+    "SHOP_TYPE_FOOD": {
+        "204001": {
+            "Name": "\u63d0\u74e6\u7279\u714e\u86cb",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 200
+            }
+        },
+        "204002": {
+            "Name": "\u6f01\u4eba\u5410\u53f8",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1025
+            }
+        },
+        "204003": {
+            "Name": "\u91ce\u83c7\u96de\u8089\u4e32",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "204004": {
+            "Name": "\u9eb5\u7c89",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        },
+        "204005": {
+            "Name": "\u9bae\u5976\u6cb9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        },
+        "204006": {
+            "Name": "\u71fb\u79bd\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 900
+            }
+        },
+        "204007": {
+            "Name": "\u5976\u6cb9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 270
+            }
+        },
+        "204008": {
+            "Name": "\u706b\u817f",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 630
+            }
+        },
+        "204009": {
+            "Name": "\u7cd6",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "204010": {
+            "Name": "\u87f9\u9ec3",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 1125
+            }
+        },
+        "204011": {
+            "Name": "\u679c\u91ac",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 1475
+            }
+        },
+        "204012": {
+            "Name": "\u4e73\u916a",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 420
+            }
+        },
+        "204013": {
+            "Name": "\u57f9\u6839",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 720
+            }
+        },
+        "204014": {
+            "Name": "\u9999\u8178",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 840
+            }
+        },
+        "204015": {
+            "Name": "\u98df\u8b5c\uff1a\u838a\u5712\u70e4\u9b06\u9905",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "204016": {
+            "Name": "\u98df\u8b5c\uff1a\u706b\u706b\u8089\u91ac\u9eb5",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "204017": {
+            "Name": "\u98df\u8b5c\uff1a\u767d\u91ac\u6642\u852c\u71f4\u8089",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "204018": {
+            "Name": "\u98df\u8b5c\uff1a\u561f\u561f\u84ee\u6d77\u9bae\u7fb9",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "204019": {
+            "Name": "\u98df\u8b5c\uff1a\u5976\u6cb9\u677e\u8338",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "204020": {
+            "Name": "\u98df\u8b5c\uff1a\u300c\u5806\u9ad8\u9ad8\u300d",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "204021": {
+            "Name": "\u98df\u8b5c\uff1a\u8584\u8377\u679c\u51cd",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1250
+            }
+        },
+        "204022": {
+            "Name": "\u98df\u8b5c\uff1a\u9bae\u8766\u8106\u85af\u76de",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Flora": {
+        "205001": {
+            "Name": "\u751c\u751c\u82b1",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 200
+            }
+        },
+        "205002": {
+            "Name": "\u98a8\u8eca\u83ca",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "205003": {
+            "Name": "\u585e\u897f\u8389\u4e9e\u82b1",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "205004": {
+            "Name": "\u5c0f\u71c8\u8349",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "205005": {
+            "Name": "\u561f\u561f\u84ee",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Charles": {
+        "206001": {
+            "Name": "\u51b0\u9264\u9264\u679c\u6c41",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "206002": {
+            "Name": "\u6a39\u8393\u8584\u8377\u98f2",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "206003": {
+            "Name": "\u860b\u679c\u91c0",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Shiliu": {
+        "207001": {
+            "Name": "\u5192\u96aa\u5bb6\u91d1\u676f",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "207002": {
+            "Name": "\u5192\u96aa\u5bb6\u5c3e\u7fbd",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "207003": {
+            "Name": "\u5192\u96aa\u5bb6\u982d\u5e36",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "207004": {
+            "Name": "\u5192\u96aa\u5bb6\u4e4b\u82b1",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "207005": {
+            "Name": "\u5192\u96aa\u5bb6\u61f7\u9336",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Schulz": {
+        "208001": {
+            "Name": "\u7121\u92d2\u528d",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "208002": {
+            "Name": "\u8a13\u7df4\u5927\u528d",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "208003": {
+            "Name": "\u65b0\u624b\u9577\u69cd",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "208004": {
+            "Name": "\u5b78\u5f92\u7b46\u8a18",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "208005": {
+            "Name": "\u7375\u5f13",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Brook": {
+        "209001": {
+            "Name": "\u70e4\u8089\u6392",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 530
+            }
+        },
+        "209002": {
+            "Name": "\u91ce\u83c7\u96de\u8089\u4e32",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "209003": {
+            "Name": "\u5317\u5730\u7159\u71fb\u96de",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1850
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Hopkins": {
+        "210001": {
+            "Name": "\u8056\u6c34",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Draff": {
+        "211001": {
+            "Name": "\u7378\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "211002": {
+            "Name": "\u79bd\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "211003": {
+            "Name": "\u9ce5\u86cb",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 200
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Chloris": {
+        "212001": {
+            "Name": "\u91d1\u9b5a\u8349",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 280
+            }
+        },
+        "212002": {
+            "Name": "\u8584\u8377",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        },
+        "212003": {
+            "Name": "\u9264\u9264\u679c",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "212004": {
+            "Name": "\u843d\u843d\u8393",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "212005": {
+            "Name": "\u6155\u98a8\u8611\u83c7",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Goth": {
+        "1051001": {
+            "Name": "\u67af\u6728\u65b9\u5411\u6a19",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 25000
+            }
+        },
+        "1051002": {
+            "Name": "\u786c\u9802\u907f\u96f7\u5e33\u7bf7",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        },
+        "1051003": {
+            "Name": "\u7c21\u6613\u55ae\u4eba\u5e33\u7bf7",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        },
+        "1051004": {
+            "Name": "\u5192\u96aa\u5bb6\u7684\u81e8\u6642\u71df\u5730",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_SOUVENIR": {
+        "301001": {
+            "Name": "\u71c3\u9858\u746a\u7459\u788e\u5c51",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 10
+            }
+        },
+        "301002": {
+            "Name": "\u6ecc\u6de8\u9752\u91d1\u788e\u5c51",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 10
+            }
+        },
+        "301003": {
+            "Name": "\u81ea\u5728\u677e\u77f3\u788e\u5c51",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 10
+            }
+        },
+        "301004": {
+            "Name": "\u54c0\u6558\u51b0\u7389\u788e\u5c51",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 10
+            }
+        },
+        "301005": {
+            "Name": "\u5805\u7262\u9ec3\u7389\u788e\u5c51",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 10
+            }
+        },
+        "301006": {
+            "Name": "\u6700\u52dd\u7d2b\u6676\u788e\u5c51",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 10
+            }
+        },
+        "301007": {
+            "Name": "\u5b64\u96f2\u5bd2\u6797\u7684\u5149\u7802",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 4
+            }
+        },
+        "301008": {
+            "Name": "\u9727\u6d77\u96f2\u9593\u7684\u925b\u4e39",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 4
+            }
+        },
+        "301009": {
+            "Name": "\u6f06\u9ed1\u9695\u9435\u7684\u4e00\u7c92",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 4
+            }
+        },
+        "301010": {
+            "Name": "\u4e0d\u52d5\u6676\u77f3\u7684\u8a18\u61b6",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 225
+            }
+        },
+        "301011": {
+            "Name": "\u5317\u9678\u5f13\u539f\u80da",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 225
+            }
+        },
+        "301012": {
+            "Name": "\u5317\u9678\u96d9\u624b\u528d\u539f\u80da",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 225
+            }
+        },
+        "301013": {
+            "Name": "\u5317\u9678\u6cd5\u5668\u539f\u80da",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 225
+            }
+        },
+        "301014": {
+            "Name": "\u5317\u9678\u9577\u67c4\u6b66\u5668\u539f\u80da",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 225
+            }
+        },
+        "301015": {
+            "Name": "\u6469\u62c9",
+            "Count": 1600,
+            "Limit": 120,
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 1
+            }
+        },
+        "301016": {
+            "Name": "\u6469\u62c9",
+            "Count": 1600,
+            "Limit": "Null",
+            "Cost": {
+                "\u5ca9\u4e4b\u5370": 2
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_GROCERY": {
+        "302001": {
+            "Name": "\u9e7d",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 60
+            }
+        },
+        "302002": {
+            "Name": "\u80e1\u6912",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 80
+            }
+        },
+        "302003": {
+            "Name": "\u6d0b\u8525",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 80
+            }
+        },
+        "302004": {
+            "Name": "\u725b\u5976",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 100
+            }
+        },
+        "302005": {
+            "Name": "\u756a\u8304",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "302006": {
+            "Name": "\u9ad8\u9e97\u83dc",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "302007": {
+            "Name": "\u99ac\u9234\u85af",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "302008": {
+            "Name": "\u5c0f\u9ea5",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 100
+            }
+        },
+        "302009": {
+            "Name": "\u7a3b\u7c73",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 100
+            }
+        },
+        "302010": {
+            "Name": "\u8766\u4ec1",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "302011": {
+            "Name": "\u8c46\u8150",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 100
+            }
+        },
+        "302012": {
+            "Name": "\u674f\u4ec1",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        }
+    },
+    "SHOP_TYPE_LIYUE_RESTAURANT": {
+        "303001": {
+            "Name": "\u63d0\u74e6\u7279\u714e\u86cb",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 200
+            }
+        },
+        "303002": {
+            "Name": "\u6f01\u4eba\u5410\u53f8",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1025
+            }
+        },
+        "303003": {
+            "Name": "\u91ce\u83c7\u96de\u8089\u4e32",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "303004": {
+            "Name": "\u9eb5\u7c89",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        },
+        "303005": {
+            "Name": "\u7cd6",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "303006": {
+            "Name": "\u9999\u8178",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 840
+            }
+        },
+        "303007": {
+            "Name": "\u98df\u8b5c\uff1a\u70e4\u5403\u864e\u9b5a",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1250
+            }
+        },
+        "303008": {
+            "Name": "\u98df\u8b5c\uff1a\u9999\u5ae9\u6912\u6912\u96de",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "303009": {
+            "Name": "\u98df\u8b5c\uff1a\u6c34\u6676\u8766",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "303010": {
+            "Name": "\u98df\u8b5c\uff1a\u6c34\u716e\u9ed1\u80cc\u9c78",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "303011": {
+            "Name": "\u98df\u8b5c\uff1a\u677e\u9f20\u9b5a",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "303012": {
+            "Name": "\u98df\u8b5c\uff1a\u4f86\u4f86\u83dc",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "303013": {
+            "Name": "\u98df\u8b5c\uff1a\u6263\u4e09\u7d72",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "303014": {
+            "Name": "\u98df\u8b5c\uff1a\u56db\u65b9\u548c\u5e73",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "303015": {
+            "Name": "\u9b5a\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "303016": {
+            "Name": "\u8783\u87f9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "303017": {
+            "Name": "\u706b\u817f",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 630
+            }
+        },
+        "303018": {
+            "Name": "\u7af9\u7b4d",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "303019": {
+            "Name": "\u84ee\u84ec",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "303020": {
+            "Name": "\u677e\u8338",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "303021": {
+            "Name": "\u8611\u83c7",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 180
+            }
+        },
+        "303022": {
+            "Name": "\u80e1\u863f\u8514",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 260
+            }
+        },
+        "303023": {
+            "Name": "\u767d\u863f\u8514",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 350
+            }
+        },
+        "303024": {
+            "Name": "\u7d55\u96f2\u6912\u6912",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "303025": {
+            "Name": "\u98df\u8b5c\uff1a\u6dbc\u62cc\u8584\u8377",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "303026": {
+            "Name": "\u98df\u8b5c\uff1a\u7378\u8089\u8584\u8377\u6372",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "303027": {
+            "Name": "\u98df\u8b5c\uff1a\u87f9\u9ec3\u8c46\u8150",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "303028": {
+            "Name": "\u98df\u8b5c\uff1a\u7c73\u7aa9\u7aa9",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1250
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Licai": {
+        "304001": {
+            "Name": "\u98df\u8b5c\uff1a\u5ca9\u6e2f\u4e09\u9bae",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "304002": {
+            "Name": "\u5ca9\u6e2f\u4e09\u9bae",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1925
+            }
+        },
+        "304003": {
+            "Name": "\u5c71\u73cd\u71b1\u6ef7\u9eb5",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 2150
+            }
+        },
+        "304004": {
+            "Name": "\u5929\u6a1e\u8089",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 12000
+            }
+        },
+        "304005": {
+            "Name": "\u98df\u8b5c\uff1a\u4e7e\u934b\u81d8\u8089",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "304006": {
+            "Name": "\u5e72\u934b\u81d8\u8089",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 7275
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Yueshu": {
+        "305001": {
+            "Name": "\u98df\u8b5c\uff1a\u660e\u6708\u86cb",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "305002": {
+            "Name": "\u91d1\u7d72\u8766\u7403",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 5700
+            }
+        },
+        "305003": {
+            "Name": "\u660e\u6708\u86cb",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 5775
+            }
+        },
+        "305004": {
+            "Name": "\u9ec3\u91d1\u87f9",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 12200
+            }
+        },
+        "305005": {
+            "Name": "\u98df\u8b5c\uff1a\u4e7e\u7092\u9b5a\u6cb3",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "305006": {
+            "Name": "\u4e7e\u7092\u9b5a\u6cb3",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1375
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Gui": {
+        "306001": {
+            "Name": "\u98df\u8b5c\uff1a\u84ee\u5b50\u79bd\u86cb\u7fb9",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "306002": {
+            "Name": "\u6e05\u5fc3",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 600
+            }
+        },
+        "306003": {
+            "Name": "\u99ac\u5c3e",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "306004": {
+            "Name": "\u84ee\u84ec",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "306005": {
+            "Name": "\u51b0\u9727\u82b1\u82b1\u6735",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "306006": {
+            "Name": "\u70c8\u7130\u82b1\u82b1\u854a",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "306007": {
+            "Name": "\u7409\u7483\u888b",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Gao": {
+        "307001": {
+            "Name": "\u9b5a\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "307002": {
+            "Name": "\u9b5a\u8089",
+            "Count": 3,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Sun": {
+        "308001": {
+            "Name": "\u9b5a\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "308002": {
+            "Name": "\u8783\u87f9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "308003": {
+            "Name": "\u8766\u4ec1",
+            "Count": 1,
+            "Limit": 50,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Qiming": {
+        "309001": {
+            "Name": "\u860b\u679c",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 200
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhangshun": {
+        "310001": {
+            "Name": "\u5e78\u904b\u5152\u4e4b\u676f",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "310002": {
+            "Name": "\u5e78\u904b\u5152\u9df9\u7fbd",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "310003": {
+            "Name": "\u5e78\u904b\u5152\u9280\u51a0",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "310004": {
+            "Name": "\u5e78\u904b\u5152\u7da0\u82b1",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "310005": {
+            "Name": "\u5e78\u904b\u5152\u6c99\u6f0f",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Chen": {
+        "311001": {
+            "Name": "\u7f8e\u5473\u7684\u70e4\u5403\u864e\u9b5a",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 380
+            }
+        },
+        "311002": {
+            "Name": "\u7206\u7092\u8089\u7247",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 900
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_ErNiang": {
+        "312001": {
+            "Name": "\u7f8e\u5473\u7684\u4e2d\u539f\u96dc\u788e",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 6600
+            }
+        },
+        "312002": {
+            "Name": "\u6469\u62c9\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 430
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Shitou": {
+        "313001": {
+            "Name": "\u9435\u584a",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "313002": {
+            "Name": "\u767d\u9435\u584a",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 400
+            }
+        },
+        "313003": {
+            "Name": "\u591c\u6cca\u77f3",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Jifang": {
+        "314001": {
+            "Name": "\u7af9\u6797\u6708\u591c\t-\u4e8c",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314002": {
+            "Name": "\u7af9\u6797\u6708\u591c\t-\u4e09",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314003": {
+            "Name": "\u5e1d\u541b\u5875\u904a\u8a18\t-\u56db",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314004": {
+            "Name": "\u6d6e\u6d6a\u8a18\t-\u6f6e\u606f",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314005": {
+            "Name": "\u7d55\u96f2\u8a18\u805e\t-\u6d77\u795e\u5bae",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314006": {
+            "Name": "\u8352\u5c71\u5b64\u528d\u9304\t-\u56db",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 3000
+            }
+        },
+        "314007": {
+            "Name": "\u795e\u9704\u6298\u621f\u9304\t-\u7b2c\u4e00\u5377",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 3000
+            }
+        },
+        "314008": {
+            "Name": "\u795e\u9704\u6298\u621f\u9304\t-\u7b2c\u56db\u5377",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 3000
+            }
+        },
+        "314009": {
+            "Name": "\u795e\u9704\u6298\u621f\u9304\t-\u7b2c\u4e94\u5377",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 3000
+            }
+        },
+        "314010": {
+            "Name": "\u788e\u5922\u5947\u73cd\t-\u85cd\u5bf6\u77f3",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 3000
+            }
+        },
+        "314011": {
+            "Name": "\u7d55\u96f2\u8a18\u805e\t-\u5c71\u9748",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314012": {
+            "Name": "\u7483\u6708\u98a8\u571f\u5fd7\t-\u9713\u88f3\u82b1",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314013": {
+            "Name": "\u9023\u5fc3\u73e0\t-\u5377\u4e8c",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314014": {
+            "Name": "\u9023\u5fc3\u73e0\t-\u5377\u4e09",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314015": {
+            "Name": "\u7d55\u96f2\u8a18\u805e\t-\u9e92\u9e9f",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "314016": {
+            "Name": "\u7d55\u96f2\u8a18\u805e\t-\u7389\u9041",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhu": {
+        "315001": {
+            "Name": "\u5927\u7897\u8336",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "315002": {
+            "Name": "\u6469\u62c9\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 430
+            }
+        },
+        "315003": {
+            "Name": "\u7206\u7092\u8089\u7247",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 900
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Bai": {
+        "316001": {
+            "Name": "\u98df\u8b5c\uff1a\u5c71\u73cd\u71b1\u6ef7\u9eb5",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "316002": {
+            "Name": "\u98df\u8b5c\uff1a\u8f15\u7b56\u8fb2\u5bb6\u83dc",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "316003": {
+            "Name": "\u8c46\u8150",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 120
+            }
+        },
+        "316004": {
+            "Name": "\u674f\u4ec1",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        },
+        "316005": {
+            "Name": "\u9713\u88f3\u82b1",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "316006": {
+            "Name": "\u7409\u7483\u767e\u5408",
+            "Count": 1,
+            "Limit": 3,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        },
+        "316007": {
+            "Name": "\u98df\u8b5c\uff1a\u7d55\u96f2\u934b\u5df4",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "316008": {
+            "Name": "\u8f15\u7b56\u8fb2\u5bb6\u83dc",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 6150
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Kai": {
+        "317001": {
+            "Name": "\u5927\u7897\u8336",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Linglang": {
+        "318001": {
+            "Name": "\u904a\u91ab\u7684\u85e5\u58fa",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "318002": {
+            "Name": "\u904a\u91ab\u7684\u689f\u7fbd",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "318003": {
+            "Name": "\u904a\u91ab\u7684\u65b9\u5dfe",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "318004": {
+            "Name": "\u904a\u91ab\u7684\u9280\u84ee",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        },
+        "318005": {
+            "Name": "\u904a\u91ab\u7684\u61f7\u9418",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_VerrGoldet": {
+        "319001": {
+            "Name": "\u674f\u4ec1\u8c46\u8150",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1550
+            }
+        },
+        "319002": {
+            "Name": "\u677e\u8338\u91c0\u8089\u6372",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1775
+            }
+        },
+        "319003": {
+            "Name": "\u91ce\u83c7\u96de\u8089\u4e32",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "319004": {
+            "Name": "\u98df\u8b5c\uff1a\u9183\u7be4\u9bae",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        },
+        "319005": {
+            "Name": "\u677e\u8338",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 300
+            }
+        },
+        "319006": {
+            "Name": "\u5976\u6cb9",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 270
+            }
+        },
+        "319007": {
+            "Name": "\u9999\u8178",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 840
+            }
+        },
+        "319008": {
+            "Name": "\u9713\u88f3\u82b1",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "319009": {
+            "Name": "\u7409\u7483\u888b",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        },
+        "319010": {
+            "Name": "\u9999\u5ae9\u6912\u6912\u96de",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1925
+            }
+        },
+        "319011": {
+            "Name": "\u5c71\u73cd\u71b1\u6ef7\u9eb5",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 2150
+            }
+        },
+        "319012": {
+            "Name": "\u98df\u8b5c\uff1a\u7d20\u9b91\u9b5a",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 2500
+            }
+        },
+        "319013": {
+            "Name": "\u98df\u8b5c\uff1a\u6e05\u7092\u8766\u4ec1",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 5000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Zhou": {
+        "320001": {
+            "Name": "\u5927\u7897\u8336",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_TASK_Ekaterina": {
+        "321001": {
+            "Name": "\u6469\u62c9",
+            "Count": 1,
+            "Limit": 50000,
+            "Cost": {
+                "\u4e00\u5927\u888b\u6469\u62c9": 1
+            }
+        }
+    },
+    "SHOP_TYPE_TASK_Tartaglia": {
+        "322001": {
+            "Name": "\u6469\u62c9",
+            "Count": 1,
+            "Limit": 35000,
+            "Cost": {
+                "\u300c\u516c\u5b50\u300d\u8207\u6258\u514b\u7684\u6469\u62c9\u888b": 1
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Harris": {
+        "323001": {
+            "Name": "\u863f\u8514\u6642\u852c\u6e6f",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 530
+            }
+        },
+        "323002": {
+            "Name": "\u70e4\u8089\u6392",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 790
+            }
+        },
+        "323003": {
+            "Name": "\u73cd\u73e0\u7fe1\u7fe0\u767d\u7389\u6e6f",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u6469\u62c9": 1775
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Yinian": {
+        "1042001": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u70e4\u5403\u864e\u9b5a",
+            "Count": 1,
+            "Limit": 20,
+            "Cost": {
+                "\u6469\u62c9": 380
+            }
+        },
+        "1042002": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u70b8\u863f\u8514\u4e38\u5b50",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "\u6469\u62c9": 2025
+            }
+        },
+        "1042003": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u79bd\u86cb\u7fb9",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "\u6469\u62c9": 1550
+            }
+        },
+        "1042004": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u767d\u7389\u6e6f",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "\u6469\u62c9": 1775
+            }
+        },
+        "1042005": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u71b1\u6ef7\u9eb5",
+            "Count": 1,
+            "Limit": 15,
+            "Cost": {
+                "\u6469\u62c9": 2150
+            }
+        },
+        "1042006": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u4f86\u4f86\u83dc",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 6225
+            }
+        },
+        "1042007": {
+            "Name": "\u6d77\u71c8\u7bc0\u7279\u8272\u6263\u4e09\u7d72",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 7050
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Changshun": {
+        "1045001": {
+            "Name": "\u99ac\u9234\u85af",
+            "Count": 1,
+            "Limit": 100,
+            "Cost": {
+                "\u6469\u62c9": 150
+            }
+        },
+        "1045002": {
+            "Name": "\u7cd6",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 450
+            }
+        },
+        "1045003": {
+            "Name": "\u4e73\u916a",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 420
+            }
+        },
+        "1045004": {
+            "Name": "\u77f3\u73c0",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        },
+        "1045005": {
+            "Name": "\u96fb\u6c23\u6c34\u6676",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1500
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_Bolai": {
+        "1046001": {
+            "Name": "\u860b\u679c",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "1046002": {
+            "Name": "\u65e5\u843d\u679c",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 170
+            }
+        },
+        "1046003": {
+            "Name": "\u9b5a\u8089",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u6469\u62c9": 240
+            }
+        },
+        "1046004": {
+            "Name": "\u661f\u87ba",
+            "Count": 1,
+            "Limit": 5,
+            "Cost": {
+                "\u6469\u62c9": 1000
+            }
+        }
+    },
+    "SHOP_TYPE_NPC_MasterLu": {
+        "1050001": {
+            "Name": "\u300c\u5192\u96aa\u5bb6\u96e3\u9003\u4e4b\u91cd\u300d",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        },
+        "1050002": {
+            "Name": "\u5b64\u7368\u800c\u8b39\u614e\u7684\u5192\u96aa\u5bb6",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        },
+        "1050003": {
+            "Name": "\u673d\u6728\u8207\u78d0\u77f3\u7684\u5c0d\u8ac7",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u6469\u62c9": 50000
+            }
+        }
+    },
+    "SHOP_TYPE_PAIMON": {
+        "Purchase With Primogems": {
+            "102001": {
+                "Name": "\u7cfe\u7e8f\u4e4b\u7de3",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "\u539f\u77f3": 160
+                }
+            },
+            "102002": {
+                "Name": "\u76f8\u9047\u4e4b\u7de3",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "\u539f\u77f3": 160
+                }
+            }
+        },
+        "Starglitter Exchange": {
+            "102003": {
+                "Name": "\u7cfe\u7e8f\u4e4b\u7de3",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 5
+                }
+            },
+            "102004": {
+                "Name": "\u76f8\u9047\u4e4b\u7de3",
+                "Count": 1,
+                "Limit": "Null",
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 5
+                }
+            },
+            "102005": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 34
+                }
+            },
+            "102006": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 34
+                }
+            },
+            "102007": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102008": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102009": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102010": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102011": {
+                "Name": "\u904a\u6232\u8cc7\u6599\u7570\u5e38",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102013": {
+                "Name": "\u9ed1\u6676\u865f\u89d2",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102015": {
+                "Name": "\u5730\u8108\u7684\u65b0\u82bd",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102016": {
+                "Name": "\u6df7\u6c8c\u7210\u5fc3",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102017": {
+                "Name": "\u9727\u865b\u71c8\u82af",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102018": {
+                "Name": "\u7763\u5bdf\u9577\u796d\u5200",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102019": {
+                "Name": "\u77f3\u5316\u7684\u9aa8\u7247",
+                "Count": 1,
+                "Limit": 8,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102020": {
+                "Name": "\u53f2\u840a\u59c6\u539f\u6f3f",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102021": {
+                "Name": "\u4e0d\u7965\u7684\u9762\u5177",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102022": {
+                "Name": "\u7981\u5492\u7e6a\u5377",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102023": {
+                "Name": "\u6b77\u6230\u7684\u7bad\u93c3",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102024": {
+                "Name": "\u5c09\u5b98\u7684\u5fbd\u8a18",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102025": {
+                "Name": "\u652b\u91d1\u9d09\u5370",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102026": {
+                "Name": "\u539f\u7d20\u82b1\u871c",
+                "Count": 3,
+                "Limit": 25,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 2
+                }
+            },
+            "102027": {
+                "Name": "\u96f7\u6fa4",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 34
+                }
+            },
+            "102028": {
+                "Name": "\u5b89\u67cf",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 34
+                }
+            },
+            "102029": {
+                "Name": "\u5b97\u5ba4\u9577\u528d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102030": {
+                "Name": "\u5b97\u5ba4\u5927\u528d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102031": {
+                "Name": "\u9ed1\u5ca9\u523a\u69cd",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102032": {
+                "Name": "\u5b97\u5ba4\u79d8\u6cd5\u9304",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            },
+            "102033": {
+                "Name": "\u5b97\u5ba4\u9577\u5f13",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u8f1d": 24
+                }
+            }
+        },
+        "Stardust Exchange": {
+            "102501": {
+                "Name": "\u7cfe\u7e8f\u4e4b\u7de3",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 75
+                }
+            },
+            "102502": {
+                "Name": "\u76f8\u9047\u4e4b\u7de3",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 75
+                }
+            },
+            "102503": {
+                "Name": "\u5192\u96aa\u5bb6\u7684\u7d93\u9a57",
+                "Count": 3,
+                "Limit": 100,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 8
+                }
+            },
+            "102504": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102505": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 10
+                }
+            },
+            "102506": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": "Null",
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 20
+                }
+            },
+            "102507": {
+                "Name": "\u9ed1\u9285\u865f\u89d2",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 15
+                }
+            },
+            "102509": {
+                "Name": "\u5730\u8108\u7684\u67af\u8449",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 15
+                }
+            },
+            "102510": {
+                "Name": "\u6df7\u6c8c\u8ff4\u8def",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 15
+                }
+            },
+            "102511": {
+                "Name": "\u9727\u865b\u8349\u56ca",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 15
+                }
+            },
+            "102512": {
+                "Name": "\u7279\u5de5\u796d\u5200",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 15
+                }
+            },
+            "102513": {
+                "Name": "\u7d50\u5be6\u7684\u9aa8\u7247",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 15
+                }
+            },
+            "102514": {
+                "Name": "\u53f2\u840a\u59c6\u6e05",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102515": {
+                "Name": "\u6c59\u7a62\u7684\u9762\u5177",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102516": {
+                "Name": "\u5c01\u9b54\u7e6a\u5377",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102517": {
+                "Name": "\u92b3\u5229\u7684\u7bad\u93c3",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102518": {
+                "Name": "\u58eb\u5b98\u7684\u5fbd\u8a18",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102519": {
+                "Name": "\u85cf\u9280\u9d09\u5370",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102520": {
+                "Name": "\u5fae\u5149\u82b1\u871c",
+                "Count": 1,
+                "Limit": 35,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102521": {
+                "Name": "\u6c89\u91cd\u865f\u89d2",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102523": {
+                "Name": "\u5730\u8108\u7684\u820a\u679d",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102524": {
+                "Name": "\u6df7\u6c8c\u88dd\u7f6e",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102525": {
+                "Name": "\u9727\u865b\u82b1\u7c89",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102526": {
+                "Name": "\u7375\u5175\u796d\u5200",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102527": {
+                "Name": "\u8106\u5f31\u7684\u9aa8\u7247",
+                "Count": 1,
+                "Limit": 16,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102528": {
+                "Name": "\u53f2\u840a\u59c6\u51dd\u6db2",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102529": {
+                "Name": "\u7834\u640d\u7684\u9762\u5177",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102530": {
+                "Name": "\u5c0e\u80fd\u7e6a\u5377",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102531": {
+                "Name": "\u7262\u56fa\u7684\u7bad\u93c3",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102532": {
+                "Name": "\u65b0\u5175\u7684\u5fbd\u8a18",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102533": {
+                "Name": "\u5c0b\u5bf6\u9d09\u5370",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102534": {
+                "Name": "\u9a19\u9a19\u82b1\u871c",
+                "Count": 3,
+                "Limit": 15,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            },
+            "102535": {
+                "Name": "\u5b17\u8b8a\u4e4b\u5875",
+                "Count": 10,
+                "Limit": 100,
+                "Cost": {
+                    "\u7121\u4e3b\u7684\u661f\u5875": 5
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_PACKAGE": {
+        "103010": {
+            "Name": "\u555f\u7a0b\u88dc\u7d66\u5305",
+            "Count": 1,
+            "Limit": 1
+        },
+        "103011": {
+            "Name": "\u9060\u884c\u88dc\u7d66\u5305",
+            "Count": 1,
+            "Limit": 1
+        },
+        "103012": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u88dc\u7d66\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103013": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u7926\u6750\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103014": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u9650\u5b9a\u5305",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103018": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6dec\u7149\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103019": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6559\u6750\u5305",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103020": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6dec\u7149\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103021": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6559\u6750\u5305",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103022": {
+            "Name": "\u5192\u96aa\u52a9\u63a8\u7926\u6750\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103023": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6559\u6750\u5305",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103024": {
+            "Name": "\u5192\u96aa\u52a9\u63a8\u7926\u6750\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103025": {
+            "Name": "\u5192\u96aa\u9650\u5b9a\u88dc\u7d66\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103026": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6559\u6750\u5305",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103027": {
+            "Name": "\u5192\u96aa\u52a9\u63a8\u7926\u6750\u5305",
+            "Count": 1,
+            "Limit": 5
+        },
+        "103028": {
+            "Name": "\u5192\u96aa\u52a9\u529b\u6559\u6750\u5305",
+            "Count": 1,
+            "Limit": 3
+        },
+        "103029": {
+            "Name": "\u5192\u96aa\u52a9\u63a8\u7926\u6750\u5305",
+            "Count": 1,
+            "Limit": 5
+        }
+    },
+    "1052": {
+        "106001": {
+            "Name": "\u6d77\u98a8\u4e4b\u5922",
+            "Count": 1,
+            "Limit": 1
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_ASTER": {
+        "0": {
+            "1002001": {
+                "Name": "\u71c3\u9858\u746a\u7459\u65b7\u7247",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 12
+                }
+            },
+            "1002002": {
+                "Name": "\u6ecc\u6de8\u9752\u91d1\u65b7\u7247",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 12
+                }
+            },
+            "1002003": {
+                "Name": "\u6700\u52dd\u7d2b\u6676\u65b7\u7247",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 12
+                }
+            },
+            "1002004": {
+                "Name": "\u81ea\u5728\u677e\u77f3\u65b7\u7247",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 12
+                }
+            },
+            "1002005": {
+                "Name": "\u54c0\u6558\u51b0\u7389\u65b7\u7247",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 12
+                }
+            },
+            "1002006": {
+                "Name": "\u5805\u7262\u9ec3\u7389\u65b7\u7247",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 12
+                }
+            },
+            "1002007": {
+                "Name": "\u5192\u96aa\u5bb6\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 150,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 1
+                }
+            },
+            "1002008": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 150,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 4
+                }
+            },
+            "1002009": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 250,
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 4
+                }
+            },
+            "1002010": {
+                "Name": "\u6469\u62c9",
+                "Count": 500,
+                "Limit": "Null",
+                "Cost": {
+                    "\u7184\u661f\u80fd\u91cf": 1
+                }
+            }
+        },
+        "1": {
+            "1002011": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 4
+                }
+            },
+            "1002012": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 12
+                }
+            },
+            "1002013": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 4
+                }
+            },
+            "1002014": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 12
+                }
+            },
+            "1002015": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 4
+                }
+            },
+            "1002016": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 12
+                }
+            },
+            "1002017": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 4
+                }
+            },
+            "1002018": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 12
+                }
+            },
+            "1002019": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 4
+                }
+            },
+            "1002020": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 12
+                }
+            },
+            "1002021": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 12,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 4
+                }
+            },
+            "1002022": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 12
+                }
+            },
+            "1002023": {
+                "Name": "\u667a\u8b58\u4e4b\u5195",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 110
+                }
+            },
+            "1002024": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 100,
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 1
+                }
+            },
+            "1002025": {
+                "Name": "\u7cbe\u935b\u7528\u826f\u7926",
+                "Count": 3,
+                "Limit": "Null",
+                "Cost": {
+                    "\u7184\u661f\u7cbe\u7cb9": 2
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_DRAGON_SPINE": {
+        "0": {
+            "1004101": {
+                "Name": "\u8150\u6b96\u9f8d\u9ad3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 600
+                }
+            },
+            "1004102": {
+                "Name": "\u7345\u7259\u9b25\u58eb\u7684\u9435\u934a",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 25
+                }
+            },
+            "1004103": {
+                "Name": "\u9ad8\u5854\u5b64\u738b\u7684\u6b98\u57a3",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 25
+                }
+            },
+            "1004104": {
+                "Name": "\u51dc\u98a8\u5954\u72fc\u7684\u88c2\u9f52",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 25
+                }
+            },
+            "1004105": {
+                "Name": "\u5b64\u96f2\u5bd2\u6797\u7684\u8f1d\u5ca9",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 25
+                }
+            },
+            "1004106": {
+                "Name": "\u9727\u6d77\u96f2\u9593\u7684\u6c5e\u4e39",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 25
+                }
+            },
+            "1004107": {
+                "Name": "\u6f06\u9ed1\u9695\u9435\u7684\u4e00\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 25
+                }
+            },
+            "1004108": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 20
+                }
+            },
+            "1004109": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 10
+                }
+            },
+            "1004110": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "\u5fae\u5149\u7cbe\u7cb9": 20
+                }
+            }
+        },
+        "1": {
+            "1004201": {
+                "Name": "\u8150\u6b96\u9f8d\u9ad3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6eab\u6696\u7cbe\u7cb9": 600
+                }
+            },
+            "1004202": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u6eab\u6696\u7cbe\u7cb9": 20
+                }
+            },
+            "1004203": {
+                "Name": "\u5192\u96aa\u5bb6\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u6eab\u6696\u7cbe\u7cb9": 5
+                }
+            },
+            "1004204": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 120,
+                "Cost": {
+                    "\u6eab\u6696\u7cbe\u7cb9": 10
+                }
+            },
+            "1004205": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "\u6eab\u6696\u7cbe\u7cb9": 20
+                }
+            }
+        },
+        "2": {
+            "1004301": {
+                "Name": "\u8150\u6b96\u9f8d\u9ad3",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 400
+                }
+            },
+            "1004302": {
+                "Name": "\u667a\u8b58\u4e4b\u5195",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 600
+                }
+            },
+            "1004303": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 20
+                }
+            },
+            "1004304": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 20
+                }
+            },
+            "1004305": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 20
+                }
+            },
+            "1004306": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 20
+                }
+            },
+            "1004307": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 20
+                }
+            },
+            "1004308": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 9,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 20
+                }
+            },
+            "1004309": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 12
+                }
+            },
+            "1004310": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "\u5947\u8e5f\u7cbe\u7cb9": 12
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_TREASURE_MAP": {
+        "1003101": {
+            "Name": "\u539f\u77f3",
+            "Count": 100,
+            "Limit": 3,
+            "Cost": {
+                "\u9435\u9322": 80
+            }
+        },
+        "1003102": {
+            "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+            "Count": 1,
+            "Limit": 10,
+            "Cost": {
+                "\u9435\u9322": 8
+            }
+        },
+        "1003103": {
+            "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+            "Count": 1,
+            "Limit": 20,
+            "Cost": {
+                "\u9435\u9322": 4
+            }
+        },
+        "1003104": {
+            "Name": "\u6469\u62c9",
+            "Count": 10000,
+            "Limit": 20,
+            "Cost": {
+                "\u9435\u9322": 8
+            }
+        },
+        "1003106": {
+            "Name": "\u8ff7\u4f60\u4ed9\u9748\t-\u9732\u8349",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u9435\u9322": 280
+            }
+        },
+        "1003107": {
+            "Name": "\u8ff7\u4f60\u4ed9\u9748\t-\u8584\u7d05",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u9435\u9322": 280
+            }
+        },
+        "1003108": {
+            "Name": "\u8ff7\u4f60\u4ed9\u9748\t-\u90c1\u91d1",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u9435\u9322": 280
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_SEA_LAMP": {
+        "0": {
+            "1005101": {
+                "Name": "\u71c3\u9858\u746a\u7459\u65b7\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 60
+                }
+            },
+            "1005102": {
+                "Name": "\u6ecc\u6de8\u9752\u91d1\u65b7\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 60
+                }
+            },
+            "1005103": {
+                "Name": "\u6700\u52dd\u7d2b\u6676\u65b7\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 60
+                }
+            },
+            "1005104": {
+                "Name": "\u81ea\u5728\u677e\u77f3\u65b7\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 60
+                }
+            },
+            "1005105": {
+                "Name": "\u54c0\u6558\u51b0\u7389\u65b7\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 60
+                }
+            },
+            "1005106": {
+                "Name": "\u5805\u7262\u9ec3\u7389\u65b7\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 60
+                }
+            },
+            "1005107": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 20
+                }
+            },
+            "1005108": {
+                "Name": "\u5b17\u8b8a\u4e4b\u5875",
+                "Count": 10,
+                "Limit": 20,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 10
+                }
+            },
+            "1005109": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 20,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 20
+                }
+            }
+        },
+        "1": {
+            "1005201": {
+                "Name": "\u667a\u8b58\u4e4b\u5195",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 1000
+                }
+            },
+            "1005202": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 60,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 20
+                }
+            },
+            "1005203": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 30,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 10
+                }
+            },
+            "1005204": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 40,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 20
+                }
+            }
+        },
+        "2": {
+            "1005301": {
+                "Name": "\u6176\u5178\t-\u71c8\u665d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 1000
+                }
+            },
+            "1005302": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 120
+                }
+            },
+            "1005303": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 40
+                }
+            },
+            "1005304": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 120
+                }
+            },
+            "1005305": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 40
+                }
+            },
+            "1005306": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 120
+                }
+            },
+            "1005307": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 40
+                }
+            },
+            "1005308": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 120
+                }
+            },
+            "1005309": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 40
+                }
+            },
+            "1005310": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 120
+                }
+            },
+            "1005311": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 40
+                }
+            },
+            "1005312": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 120
+                }
+            },
+            "1005313": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5e73\u5b89\u7389\u7b26": 40
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_FLEUR_FAIR": {
+        "0": {
+            "1044101": {
+                "Name": "\u667a\u8b58\u4e4b\u5195",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 400
+                }
+            },
+            "1044102": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 20
+                }
+            },
+            "1044103": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 60
+                }
+            },
+            "1044104": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 20
+                }
+            },
+            "1044105": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 60
+                }
+            },
+            "1044106": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 20
+                }
+            },
+            "1044107": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 60
+                }
+            },
+            "1044108": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 20
+                }
+            },
+            "1044109": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 60
+                }
+            },
+            "1044110": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 20
+                }
+            },
+            "1044111": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 60
+                }
+            },
+            "1044112": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u6307\u5f15",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 20
+                }
+            },
+            "1044113": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 60
+                }
+            },
+            "1044114": {
+                "Name": "\u98a8\u82b1\u7bc0\u7d00\u5ff5\u6c23\u7403",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 280
+                }
+            },
+            "1044115": {
+                "Name": "\u98a8\u7269\u4e4b\u8a69\u7434",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6176\u5178\u5de1\u8ff4\u5238": 280
+                }
+            }
+        },
+        "1": {
+            "1044201": {
+                "Name": "\u98a8\u82b1\u4e4b\u980c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 700
+                }
+            },
+            "1044202": {
+                "Name": "\u300c\u770b\u5f97\u898b\u7684\u98a8\u300d",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 500
+                }
+            },
+            "1044203": {
+                "Name": "\u7345\u7259\u9b25\u58eb\u7684\u9435\u934a",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 15
+                }
+            },
+            "1044204": {
+                "Name": "\u9ad8\u5854\u5b64\u738b\u7684\u6b98\u57a3",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 15
+                }
+            },
+            "1044205": {
+                "Name": "\u51dc\u98a8\u5954\u72fc\u7684\u88c2\u9f52",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 15
+                }
+            },
+            "1044206": {
+                "Name": "\u5b64\u96f2\u5bd2\u6797\u7684\u8f1d\u5ca9",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 15
+                }
+            },
+            "1044207": {
+                "Name": "\u9727\u6d77\u96f2\u9593\u7684\u6c5e\u4e39",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 15
+                }
+            },
+            "1044208": {
+                "Name": "\u6f06\u9ed1\u9695\u9435\u7684\u4e00\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 15
+                }
+            },
+            "1044209": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 30,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 10
+                }
+            },
+            "1044210": {
+                "Name": "\u5b17\u8b8a\u4e4b\u5875",
+                "Count": 6,
+                "Limit": 20,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 3
+                }
+            },
+            "1044211": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 5
+                }
+            },
+            "1044212": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 30,
+                "Cost": {
+                    "\u5947\u8da3\u5354\u529b\u5238": 10
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB": {
+        "15001101": {
+            "Name": "\u539f\u77f3",
+            "Count": 60,
+            "Limit": 5,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001102": {
+            "Name": "\u667a\u8b58\u4e4b\u5195",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 1000
+            }
+        },
+        "15001103": {
+            "Name": "\u300c\u81ea\u7531\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 40
+            }
+        },
+        "15001104": {
+            "Name": "\u300c\u81ea\u7531\u300d\u7684\u54f2\u5b78",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001105": {
+            "Name": "\u300c\u6297\u722d\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 40
+            }
+        },
+        "15001106": {
+            "Name": "\u300c\u6297\u722d\u300d\u7684\u54f2\u5b78",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001107": {
+            "Name": "\u300c\u8a69\u6587\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 40
+            }
+        },
+        "15001108": {
+            "Name": "\u300c\u8a69\u6587\u300d\u7684\u54f2\u5b78",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001109": {
+            "Name": "\u300c\u7e41\u69ae\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 40
+            }
+        },
+        "15001110": {
+            "Name": "\u300c\u7e41\u69ae\u300d\u7684\u54f2\u5b78",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001111": {
+            "Name": "\u300c\u52e4\u52de\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 40
+            }
+        },
+        "15001112": {
+            "Name": "\u300c\u52e4\u52de\u300d\u7684\u54f2\u5b78",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001113": {
+            "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 40
+            }
+        },
+        "15001114": {
+            "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u54f2\u5b78",
+            "Count": 1,
+            "Limit": 2,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 120
+            }
+        },
+        "15001115": {
+            "Name": "\u71c3\u9858\u746a\u7459\u65b7\u7247",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 60
+            }
+        },
+        "15001116": {
+            "Name": "\u6ecc\u6de8\u9752\u91d1\u65b7\u7247",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 60
+            }
+        },
+        "15001117": {
+            "Name": "\u6700\u52dd\u7d2b\u6676\u65b7\u7247",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 60
+            }
+        },
+        "15001118": {
+            "Name": "\u81ea\u5728\u677e\u77f3\u65b7\u7247",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 60
+            }
+        },
+        "15001119": {
+            "Name": "\u54c0\u6558\u51b0\u7389\u65b7\u7247",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 60
+            }
+        },
+        "15001120": {
+            "Name": "\u5805\u7262\u9ec3\u7389\u65b7\u7247",
+            "Count": 1,
+            "Limit": 6,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 60
+            }
+        },
+        "15001121": {
+            "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+            "Count": 1,
+            "Limit": 30,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 20
+            }
+        },
+        "15001122": {
+            "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+            "Count": 1,
+            "Limit": 75,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 10
+            }
+        },
+        "15001123": {
+            "Name": "\u6469\u62c9",
+            "Count": 10000,
+            "Limit": 50,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 20
+            }
+        },
+        "15001124": {
+            "Name": "\u6469\u62c9",
+            "Count": 10000,
+            "Limit": 50,
+            "Cost": {
+                "\u788e\u679c\u6578\u64da": 30
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_SUMMER_TIME": {
+        "0": {
+            "16001101": {
+                "Name": "\u667a\u8b58\u4e4b\u5195",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 500
+                }
+            },
+            "16001102": {
+                "Name": "\u5317\u9678\u539f\u80da\u4e4b\u5323",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 500
+                }
+            },
+            "16001103": {
+                "Name": "\u300c\u590f\u65e5\u6797\u4e2d\u7684\u56ae\u5c0e\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 100
+                }
+            },
+            "16001104": {
+                "Name": "\u300c\u590f\u65e5\u6797\u4e2d\u7684\u4fe1\u4f7f\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 100
+                }
+            },
+            "16001105": {
+                "Name": "\u300c\u6591\u6595\u8207\u6e05\u51bd\u4e4b\u590f\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 200
+                }
+            },
+            "16001106": {
+                "Name": "\u300c\u81ea\u7531\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 50
+                }
+            },
+            "16001107": {
+                "Name": "\u300c\u6297\u722d\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 50
+                }
+            },
+            "16001108": {
+                "Name": "\u300c\u8a69\u6587\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 50
+                }
+            },
+            "16001109": {
+                "Name": "\u300c\u7e41\u69ae\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 50
+                }
+            },
+            "16001110": {
+                "Name": "\u300c\u52e4\u52de\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 50
+                }
+            },
+            "16001111": {
+                "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u54f2\u5b78",
+                "Count": 1,
+                "Limit": 2,
+                "Cost": {
+                    "\u4eae\u9583\u9583\u7684\u6f02\u6d41\u7269": 50
+                }
+            }
+        },
+        "1": {
+            "16001201": {
+                "Name": "\u561f\u561f\u53ef\u6545\u4e8b\u96c6",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 800
+                }
+            },
+            "16001202": {
+                "Name": "\u300c\u7ae5\u771f\u7684\u65b7\u7bc7\u300d",
+                "Count": 1,
+                "Limit": 4,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 500
+                }
+            },
+            "16001203": {
+                "Name": "\u300c\u8f15\u7fbd\u7684\u79ae\u8b9a\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 200
+                }
+            },
+            "16001204": {
+                "Name": "\u300c\u85cd\u6d77\u7684\u5bf6\u9322\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 200
+                }
+            },
+            "16001205": {
+                "Name": "\u300c\u9b54\u5973\u7684\u91cd\u5531\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 200
+                }
+            },
+            "16001206": {
+                "Name": "\u7345\u7259\u9b25\u58eb\u7684\u9435\u934a",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            },
+            "16001207": {
+                "Name": "\u9ad8\u5854\u5b64\u738b\u7684\u6b98\u57a3",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            },
+            "16001208": {
+                "Name": "\u51dc\u98a8\u5954\u72fc\u7684\u88c2\u9f52",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            },
+            "16001209": {
+                "Name": "\u5b64\u96f2\u5bd2\u6797\u7684\u8f1d\u5ca9",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            },
+            "16001210": {
+                "Name": "\u9727\u6d77\u96f2\u9593\u7684\u6c5e\u4e39",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            },
+            "16001211": {
+                "Name": "\u6f06\u9ed1\u9695\u9435\u7684\u4e00\u7247",
+                "Count": 1,
+                "Limit": 6,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            },
+            "16001212": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 100,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 5
+                }
+            },
+            "16001213": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 24,
+                "Cost": {
+                    "\u8ff7\u4f60\u300c\u7fbd\u7403\u300d": 10
+                }
+            }
+        }
+    },
+    "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING": {
+        "16002001": {
+            "Name": "\u539f\u77f3",
+            "Count": 60,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 200
+            }
+        },
+        "16002002": {
+            "Name": "\u6176\u5178\t-\u9b54\u7403",
+            "Count": 1,
+            "Limit": 1,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 1500
+            }
+        },
+        "16002003": {
+            "Name": "\u300c\u81ea\u7531\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 50
+            }
+        },
+        "16002004": {
+            "Name": "\u300c\u6297\u722d\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 50
+            }
+        },
+        "16002005": {
+            "Name": "\u300c\u8a69\u6587\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 50
+            }
+        },
+        "16002006": {
+            "Name": "\u300c\u7e41\u69ae\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 50
+            }
+        },
+        "16002007": {
+            "Name": "\u300c\u52e4\u52de\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 50
+            }
+        },
+        "16002008": {
+            "Name": "\u300c\u9ec3\u91d1\u300d\u7684\u6307\u5f15",
+            "Count": 1,
+            "Limit": 4,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 50
+            }
+        },
+        "16002009": {
+            "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+            "Count": 1,
+            "Limit": 12,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 25
+            }
+        },
+        "16002010": {
+            "Name": "\u6469\u62c9",
+            "Count": 10000,
+            "Limit": 16,
+            "Cost": {
+                "\u795e\u79d8\u9f52\u8f2a": 25
+            }
+        }
+    },
+    "SHOP_TYPE_HOME": {
+        "1": {
+            "213101": {
+                "Name": "\u5e03\u5339",
+                "Count": 5,
+                "Limit": 50,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 10
+                }
+            },
+            "213102": {
+                "Name": "\u9808\u81fe\u6a39\u8102",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 1200
+                }
+            },
+            "213103": {
+                "Name": "\u5927\u82f1\u96c4\u7684\u7d93\u9a57",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 120
+                }
+            },
+            "213104": {
+                "Name": "\u7cbe\u935b\u7528\u9b54\u7926",
+                "Count": 1,
+                "Limit": 40,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 60
+                }
+            },
+            "213105": {
+                "Name": "\u6469\u62c9",
+                "Count": 10000,
+                "Limit": 20,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 120
+                }
+            },
+            "213106": {
+                "Name": "\u795d\u8056\u7cbe\u83ef",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 360
+                }
+            },
+            "213107": {
+                "Name": "\u795d\u8056\u6cb9\u818f",
+                "Count": 1,
+                "Limit": 20,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 90
+                }
+            }
+        },
+        "2": {
+            "213201": {
+                "Name": "\u4ed9\u901f\u74f6",
+                "Count": 1,
+                "Limit": 5,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 10
+                }
+            },
+            "213202": {
+                "Name": "\u5782\u9999\u6728\u5eda\u623f\u8ca8\u67b6",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 60
+                }
+            },
+            "213203": {
+                "Name": "\u6b63\u9022\u82b1\u671f\u7684\u704c\u6728\u53e2",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213204": {
+                "Name": "\u5e73\u5e73\u7121\u5947\u7684\u704c\u6728\u53e2",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213205": {
+                "Name": "\u300c\u533f\u8e64\u4e4b\u8449\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213206": {
+                "Name": "\u300c\u9752\u8272\u5674\u6cc9\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213207": {
+                "Name": "\u300c\u6696\u8449\u7bdd\u706b\u6a39\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213208": {
+                "Name": "\u300c\u6676\u8776\u7684\u68f2\u679d\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213209": {
+                "Name": "\u300c\u5357\u5883\u9999\u98a8\u8449\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213210": {
+                "Name": "\u300c\u660e\u51a0\u7fbd\u8449\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213211": {
+                "Name": "\u300c\u6b78\u98a8\u7684\u84bc\u8272\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213212": {
+                "Name": "\u9280\u9264\u767d\u6930\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213213": {
+                "Name": "\u660e\u6c99\u767d\u6930\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213214": {
+                "Name": "\u5929\u8861\u8d64\u6953-\u300c\u7d05\u8449\u5982\u707c\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213215": {
+                "Name": "\u5947\u72c0\u76e4\u4f0f\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213216": {
+                "Name": "\u7dd7\u8449\u537b\u7802\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213217": {
+                "Name": "\u4f0f\u9752\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213218": {
+                "Name": "\u9f4a\u8eab\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213219": {
+                "Name": "\u5e1d\u53f0\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213220": {
+                "Name": "\u7210\u7070\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213221": {
+                "Name": "\u5e03\u8863\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213222": {
+                "Name": "\u81e5\u82d4\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213223": {
+                "Name": "\u65b7\u96f2\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213224": {
+                "Name": "\u7a7f\u6f97\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213225": {
+                "Name": "\u7121\u5178\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213226": {
+                "Name": "\u8301\u58ef\u7684\u8403\u83ef\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213227": {
+                "Name": "\u5e74\u5e7c\u7684\u8403\u83ef\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213228": {
+                "Name": "\u9ad8\u5927\u7684\u6a3a\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213229": {
+                "Name": "\u521d\u6210\u7684\u6a3a\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213230": {
+                "Name": "\u91d1\u8449\u76e4\u4f0f\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213231": {
+                "Name": "\u9752\u8449\u76e4\u4f0f\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213232": {
+                "Name": "\u7dd7\u8449\u76e4\u4f0f\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213233": {
+                "Name": "\u7dd7\u8449\u528d\u9aa8\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213234": {
+                "Name": "\u91d1\u8449\u528d\u9aa8\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213235": {
+                "Name": "\u9752\u8449\u528d\u9aa8\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213236": {
+                "Name": "\u8f15\u7b56\u9dfa\u9802\u7af9",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213237": {
+                "Name": "\u8f15\u7b56\u884c\u96f2\u7af9",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213238": {
+                "Name": "\u8f15\u7b56\u5bd2\u7389\u7af9",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213239": {
+                "Name": "\u9752\u886b\u666f\u9460",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213240": {
+                "Name": "\u9752\u886b\u554f\u5bd2",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213241": {
+                "Name": "\u9752\u886b\u81ea\u914c",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213242": {
+                "Name": "\u7167\u6708\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213243": {
+                "Name": "\u4fb5\u971e\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213244": {
+                "Name": "\u6620\u7d05\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213245": {
+                "Name": "\u91d1\u8072\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213246": {
+                "Name": "\u91d1\u82bd\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213247": {
+                "Name": "\u555f\u590f\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213248": {
+                "Name": "\u5175\u9663\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213249": {
+                "Name": "\u7e96\u62f3\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213250": {
+                "Name": "\u81e8\u6df5\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213251": {
+                "Name": "\u6e34\u6fa4\u77f3",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213252": {
+                "Name": "\u91d1\u8449\u73cd\u679d\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213253": {
+                "Name": "\u7dd7\u8449\u73cd\u679d\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213254": {
+                "Name": "\u6557\u8449\u73cd\u679d\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213255": {
+                "Name": "\u9752\u8449\u73cd\u679d\u6a39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213256": {
+                "Name": "\u53e2\u751f\u6ae8\u9752",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213257": {
+                "Name": "\u9b31\u751f\u6ae8\u9752",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213258": {
+                "Name": "\u53e2\u751f\u5f64\u4e39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213259": {
+                "Name": "\u9b31\u751f\u5f64\u4e39",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213260": {
+                "Name": "\u53e2\u751f\u8776\u7da0",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213261": {
+                "Name": "\u9b31\u751f\u8776\u7da0",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213262": {
+                "Name": "\u98db\u6cc9\u9326\u7c07",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213263": {
+                "Name": "\u82bd\u7da0\u9326\u7c07",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213264": {
+                "Name": "\u68a7\u679d\u9326\u7c07",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213265": {
+                "Name": "\u96d9\u751f\u82bd\u7da0",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213266": {
+                "Name": "\u96d9\u751f\u7d20\u99a8",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 40
+                }
+            },
+            "213267": {
+                "Name": "\u300c\u7da0\u91ce\u7684\u5750\u5e2d\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213268": {
+                "Name": "\u300c\u7375\u4eba\u7684\u6697\u54e8\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213269": {
+                "Name": "\u300c\u7375\u54c1\u7684\u6597\u7bf7\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213270": {
+                "Name": "\u300c\u7da0\u91ce\u7684\u76db\u5bb4\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213271": {
+                "Name": "\u300c\u7da0\u91ce\u7684\u4f8d\u8005\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213272": {
+                "Name": "\u4ed9\u5bb6\u7425\u73c0-\u300c\u525b\u70c8\u81ea\u898b\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 120
+                }
+            },
+            "213273": {
+                "Name": "\u4ed9\u5bb6\u7425\u73c0-\u300c\u756b\u7262\u9396\u5000\u300d",
+                "Count": 1,
+                "Limit": 3,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 120
+                }
+            }
+        },
+        "3": {
+            "213601": {
+                "Name": "\u591a\u91cd\u9910\u4f4d\u677e\u6728\u5713\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213602": {
+                "Name": "\u6728\u7248\u756b\u9910\u5ef3\u62db\u724c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213603": {
+                "Name": "\u677e\u6728\u9910\u6905",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213606": {
+                "Name": "\u534a\u820a\u7684\u55ae\u624b\u528d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213607": {
+                "Name": "\u58c1\u639b\u5f0f\u8a18\u9304\u677f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213609": {
+                "Name": "\u4e7e\u8349\u5eec\u5c4b",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213610": {
+                "Name": "\u4e7e\u8349\u8ca8\u7ad9",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213611": {
+                "Name": "\u4e7e\u8349\u8ca8\u68da",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213612": {
+                "Name": "\u958b\u653e\u5f0f\u677e\u6728\u6ae5\u6ac3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213613": {
+                "Name": "\u5bec\u5927\u7684\u677e\u6728\u9577\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213614": {
+                "Name": "\u6749\u6728\u7f6e\u7269\u67b6",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213615": {
+                "Name": "\u6749\u6728\u6b66\u5668\u67b6",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213616": {
+                "Name": "\u4ea4\u932f\u653e\u7f6e\u7684\u6749\u6728\u8ca8\u7bb1",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213617": {
+                "Name": "\u6709\u5e8f\u758a\u653e\u7684\u6749\u6728\u9152\u6876",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213618": {
+                "Name": "\u7c21\u6613\u8ca8\u904b\u62d6\u8eca",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213619": {
+                "Name": "\u6c89\u7538\u7538\u7684\u4e7e\u8349\u579b",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213620": {
+                "Name": "\u5132\u7269\u888b-\u300c\u96b1\u96f7\u9000\u6563\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213621": {
+                "Name": "\u820a\u5f0f\u6c34\u4e95",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213622": {
+                "Name": "\u98fd\u7d93\u98a8\u96e8\u7684\u7af9\u88fd\u570d\u7c6c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213623": {
+                "Name": "\u5e73\u6574\u7684\u6728\u88fd\u9577\u51f3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213624": {
+                "Name": "\u5e73\u6574\u7684\u77f3\u88fd\u9577\u51f3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213625": {
+                "Name": "\u7389\u9762\u7c37\u678b\u7246",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213626": {
+                "Name": "\u6df1\u8272\u6728\u88fd\u62f1\u52b5\u7246",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213627": {
+                "Name": "\u5782\u9999\u6728\u50b3\u7d71\u5730\u677f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213628": {
+                "Name": "\u7570\u8272\u65b9\u683c\u5730\u78da",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213629": {
+                "Name": "\u5782\u9999\u6728\u65b9\u683c\u5929\u82b1\u677f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213630": {
+                "Name": "\u6697\u7d0b\u65b9\u683c\u5929\u82b1\u677f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213631": {
+                "Name": "\u96d9\u5c64\u71ed\u81fa\u540a\u71c8",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213632": {
+                "Name": "\u516b\u65b9\u71c8\u7c60-\u300c\u6642\u904b\u4ea8\u901a\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213633": {
+                "Name": "\u516d\u89d2\u71c8\u7c60-\u300c\u548c\u6c23\u81f4\u7965\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213634": {
+                "Name": "\u300c\u5357\u74dc\u9b3c\u602a\u72c2\u6b61\u591c\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213635": {
+                "Name": "\u9a0e\u58eb\u5718\u7684\u8fa6\u516c\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213636": {
+                "Name": "\u9a0e\u58eb\u5718\u7684\u6703\u8b70\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213637": {
+                "Name": "\u83f1\u5f62\u684c\u5e03\u7684\u9577\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213638": {
+                "Name": "\u5782\u9999\u6728\u6731\u6f06\u5713\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213639": {
+                "Name": "\u5317\u5730\u77f3\u88fd\u58c1\u7210",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213640": {
+                "Name": "\u300c\u6674\u7a7a\u85cd\u7684\u5348\u5f8c\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213641": {
+                "Name": "\u300c\u5805\u5b9a\u610f\u5fd7\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213642": {
+                "Name": "\u677e\u6728\u6731\u6f06\u5713\u51f3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213644": {
+                "Name": "\u6046\u4eae\u4e0d\u7184\u7684\u63d0\u71c8",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213645": {
+                "Name": "\u7a69\u56fa\u7684\u6a3a\u6728\u68b3\u599d\u6aaf",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213646": {
+                "Name": "\u8499\u5fb7\u5730\u6bef-\u300c\u660e\u7d05\u7684\u71b1\u5ff1\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213647": {
+                "Name": "\u8499\u5fb7\u5730\u6bef-\u300c\u4e0d\u5026\u7684\u5c0b\u7d22\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213648": {
+                "Name": "\u6230\u9b25\u610f\u5fd7\u65d7",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213649": {
+                "Name": "\u7d14\u6de8\u9748\u9b42\u65d7",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213650": {
+                "Name": "\u6574\u9f4a\u758a\u653e\u7684\u66f8\u672c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213651": {
+                "Name": "\u300c\u5b78\u8005\u7684\u5026\u6020\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213652": {
+                "Name": "\u300c\u66f8\u4fe1\u7684\u79ae\u7bc0\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213653": {
+                "Name": "\u7cbe\u5de7\u7684\u6c99\u6f0f\u64fa\u98fe",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213654": {
+                "Name": "\u82b1\u5349\u74f6\u683d-\u300c\u6de1\u85cd\u7684\u5f9e\u5bb9\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213655": {
+                "Name": "\u7da0\u690d\u76c6\u683d-\u300c\u6f84\u6f88\u7684\u6e05\u98a8\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213656": {
+                "Name": "\u82b1\u5349\u76c6\u683d-\u300c\u751c\u871c\u7684\u507d\u88dd\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213657": {
+                "Name": "\u7149\u91d1\u88dd\u7f6e-\u300c\u6c34\u706b\u4e4b\u9593\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213658": {
+                "Name": "\u7149\u91d1\u5668\u76bf-\u300c\u5875\u57c3\u7684\u91cd\u91cf\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213659": {
+                "Name": "\u7da0\u690d\u76c6\u683d-\u300c\u677e\u9752\u5c3a\u6a39\u4e0a\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213660": {
+                "Name": "\u91d1\u8272\u4e09\u91cd\u71ed\u81fa",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213661": {
+                "Name": "\u67d4\u98a8\u52a0\u8b77\u7684\u5e8a\u69bb",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213662": {
+                "Name": "\u7159\u971e\u96f2\u5922\u69bb",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213663": {
+                "Name": "\u9ad8\u5927\u7684\u6a3a\u6728\u8863\u6ac3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213664": {
+                "Name": "\u6a3a\u6728\u96d9\u5c5c\u5e8a\u982d\u6ac3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213665": {
+                "Name": "\u537b\u7802\u6728\u91d1\u7d0b\u5e8a\u982d\u6ac3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213666": {
+                "Name": "\u537b\u7802\u6728\u91d1\u7d0b\u8863\u6ac3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213667": {
+                "Name": "\u8c9d\u6bbc\u71c8\u7f69\u786c\u8cea\u6aaf\u71c8",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213668": {
+                "Name": "\u71b1\u9b27\u7d05\u706b\u7684\u96dc\u8ca8\u6524\u4f4d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213669": {
+                "Name": "\u8ca8\u771f\u50f9\u5be6\u7684\u6c34\u679c\u6524\u4f4d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213670": {
+                "Name": "\u958b\u653e\u5f0f\u70d8\u7210\u5de5\u574a",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213671": {
+                "Name": "\u8c50\u6536\u9810\u5146\u7684\u6c34\u679c\u63a8\u8eca",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213672": {
+                "Name": "\u9ad8\u5927\u95a3\u6a13\u7684\u9109\u9593\u4f4f\u5b85",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213673": {
+                "Name": "\u300c\u884c\u5546\u77f3\u9580\u5317\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213674": {
+                "Name": "\u5377\u68da\u679c\u852c\u8f3f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213675": {
+                "Name": "\u7483\u6708\u6c11\u5c45-\u300c\u9910\u677e\u98f2\u6f97\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213676": {
+                "Name": "\u91cd\u578b\u6749\u6728\u935b\u9020\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213677": {
+                "Name": "\u5927\u578b\u77f3\u88fd\u6efe\u78e8",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213678": {
+                "Name": "\u786c\u6728\u5175\u6208\u67b6",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213679": {
+                "Name": "\u786c\u77f3\u52a0\u56fa\u7684\u6c34\u4e95",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213680": {
+                "Name": "\u7af9\u6846\u9152\u7f48-\u300c\u74ca\u6f3f\u5f85\u6708\u5f80\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213681": {
+                "Name": "\u7da0\u690d\u76c6\u683d-\u300c\u84bc\u7fe0\u5bf8\u6cd3\u4e2d\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213682": {
+                "Name": "\u679c\u852c\u6524-\u300c\u6848\u4e0a\u7530\u5712\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213683": {
+                "Name": "\u9152\u8086\u8ca8\u6ac3-\u300c\u6703\u9808\u767e\u676f\u98f2\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213684": {
+                "Name": "\u6297\u6d6a\u7d50\u69cb\u96d9\u5c64\u8ca8\u76e4",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213685": {
+                "Name": "\u7d05\u8863\u6597\u7b20\u7a3b\u8349\u4eba",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213686": {
+                "Name": "\u679c\u852c\u5546\u8ca9\u7684\u8b39\u614e",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213687": {
+                "Name": "\u679c\u852c\u5546\u8ca9\u7684\u52de\u7d2f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213688": {
+                "Name": "\u4e18\u4e18\u6728\u88fd\u570d\u6b04",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213689": {
+                "Name": "\u4e18\u4e18\u5716\u9a30\u570d\u6b04",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213690": {
+                "Name": "\u4e18\u4e18\u5f13\u7bad\u6a19\u9776",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213691": {
+                "Name": "\u4e18\u4e18\u5e36\u89d2\u9676\u934b",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213692": {
+                "Name": "\u7af9\u88fd\u9732\u5929\u8336\u684c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213693": {
+                "Name": "\u9396\u6c34\u7684\u82b1\u58c7",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213694": {
+                "Name": "\u8525\u9b31\u7684\u8461\u8404\u85e4",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213695": {
+                "Name": "\u9435\u85dd\u96d5\u82b1\u8def\u71c8",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213696": {
+                "Name": "\u9000\u90aa\u71c8-\u300c\u660e\u7167\u5de6\u53f3\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213697": {
+                "Name": "\u56db\u5408\u71c8-\u300c\u8eca\u7b20\u9060\u4f86\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213698": {
+                "Name": "\u6e05\u5f71\u71c8-\u300c\u7b46\u92d2\u58a8\u5f71\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213699": {
+                "Name": "\u67d4\u8edf\u7684\u6703\u5ba2\u5ef3\u6c99\u767c",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213700": {
+                "Name": "\u8403\u83ef\u6728\u7d93\u6fdf\u66f8\u67b6",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213701": {
+                "Name": "\u300c\u53f8\u66f8\u7684\u5bf6\u5eab\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213702": {
+                "Name": "\u6a3a\u6728\u5ead\u9662\u6b63\u9580",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213703": {
+                "Name": "\u96d5\u82b1\u5ead\u9662\u7246\u5c3e",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213704": {
+                "Name": "\u96d5\u82b1\u5ead\u9662\u570d\u7246",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213705": {
+                "Name": "\u53e4\u5b85\u5ec2\u623f-\u300c\u5ead\u4e2d\u671d\u66ae\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213706": {
+                "Name": "\u53e4\u5b85\u6dbc\u4ead-\u300c\u591c\u89c0\u4e03\u5bbf\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213707": {
+                "Name": "\u53e4\u5b85\u904a\u5eca-\u300c\u4fe1\u6b65\u524d\u6797\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213708": {
+                "Name": "\u53e4\u5b85\u9662\u7246-\u300c\u7c37\u4e0b\u6625\u79cb\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213709": {
+                "Name": "\u53e4\u5b85\u7246\u9685-\u300c\u4e00\u89d2\u5e7d\u82b3\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213710": {
+                "Name": "\u53e4\u5b85\u9662\u7246-\u300c\u8c9d\u806f\u73e0\u8cab\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213711": {
+                "Name": "\u53e4\u5b85\u9662\u7246-\u300c\u9621\u964c\u4e4b\u5b89\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213712": {
+                "Name": "\u53e4\u5b85\u9580\u6a13-\u300c\u96f2\u9580\u901a\u9054\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213713": {
+                "Name": "\u53e4\u5b85\u666f\u7246-\u300c\u968e\u67f3\u5ead\u82b1\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213714": {
+                "Name": "\u7d50\u5be6\u7684\u6728\u6876",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213715": {
+                "Name": "\u8f49\u79fb\u58c5\u571f\u7684\u6728\u6876",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213716": {
+                "Name": "\u521d\u6210\u7684\u8461\u8404\u85e4",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213717": {
+                "Name": "\u7c21\u6613\u6728\u88fd\u570d\u6b04",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213718": {
+                "Name": "\u65bd\u5de5\u904e\u534a\u7684\u570d\u6b04",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213719": {
+                "Name": "\u9ad8\u8073\u7684\u6728\u687f",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213720": {
+                "Name": "\u5de5\u7a0b\u66ab\u99d0\u9ede",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213721": {
+                "Name": "\u6210\u6346\u7684\u6728\u6750",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 80
+                }
+            },
+            "213722": {
+                "Name": "\u9632\u96e8\u7684\u6749\u6728\u8ca8\u7bb1",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213723": {
+                "Name": "\u9109\u9593\u7684\u8336\u6524",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213724": {
+                "Name": "\u300c\u5192\u96aa\u5bb6\u7684\u96a8\u8eab\u79d8\u5bf6\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213725": {
+                "Name": "\u77f3\u88fd\u76de\u5f62\u6c34\u6c60",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213726": {
+                "Name": "\u767d\u74f7\u8336\u5177-\u300c\u61f7\u8cea\u62b1\u771f\u300d",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 160
+                }
+            },
+            "213727": {
+                "Name": "\u8a69\u6b4c\u6c89\u601d\u9593",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213728": {
+                "Name": "\u67d4\u98a8\u4f4e\u8a9e\u9593",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213729": {
+                "Name": "\u7dcb\u96f2\u6587\u9f4b",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213730": {
+                "Name": "\u7159\u971e\u5165\u5922\u95a3",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213731": {
+                "Name": "\u79d8\u8853\u7814\u7a76\u6240",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213732": {
+                "Name": "\u67f4\u7159\u5e96\u5c4b",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213733": {
+                "Name": "\u5175\u5203\u935b\u9020\u7ad9",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213734": {
+                "Name": "\u7267\u6b4c\u4e4b\u93ae",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213735": {
+                "Name": "\u82b1\u9ce5\u516c\u5712",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213736": {
+                "Name": "\u5343\u5bb6\u9954\u98e7\u574a",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213737": {
+                "Name": "\u767e\u91cc\u7433\u746f\u8857",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213738": {
+                "Name": "\u8f15\u7b56\u9592\u96f2\u5c45",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213739": {
+                "Name": "\u72e9\u7375\u8207\u6b4c\u821e\u4e4b\u71df",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213740": {
+                "Name": "\u661f\u8fb0\u8207\u6df1\u6df5\u4e4b\u65c5",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            },
+            "213741": {
+                "Name": "\u6668\u66e6\u679c\u5712",
+                "Count": 1,
+                "Limit": 1,
+                "Cost": {
+                    "\u6d1e\u5929\u5bf6\u9322": 240
+                }
+            }
+        }
+    }
+}

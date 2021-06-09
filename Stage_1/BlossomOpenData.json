@@ -1,0 +1,18 @@
+{
+    "1": {
+        "CityId": 1,
+        "OpenLevel": 2
+    },
+    "2": {
+        "CityId": 2,
+        "OpenLevel": 2
+    },
+    "11": {
+        "CityId": 11,
+        "OpenLevel": 2
+    },
+    "100": {
+        "CityId": 100,
+        "OpenLevel": 2
+    }
+}

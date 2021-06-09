@@ -1,0 +1,52 @@
+{
+    "1": {
+        "Level": 1,
+        "PoolID": 2,
+        "Count": 2
+    },
+    "2": {
+        "Level": 2,
+        "PoolID": 2,
+        "Count": 2
+    },
+    "3": {
+        "Level": 3,
+        "PoolID": 2,
+        "Count": 2
+    },
+    "4": {
+        "Level": 4,
+        "PoolID": 2,
+        "Count": 3
+    },
+    "5": {
+        "Level": 5,
+        "PoolID": 2,
+        "Count": 3
+    },
+    "6": {
+        "Level": 6,
+        "PoolID": 2,
+        "Count": 3
+    },
+    "7": {
+        "Level": 7,
+        "PoolID": 2,
+        "Count": 3
+    },
+    "8": {
+        "Level": 8,
+        "PoolID": 2,
+        "Count": 3
+    },
+    "9": {
+        "Level": 9,
+        "PoolID": 2,
+        "Count": 3
+    },
+    "10": {
+        "Level": 10,
+        "PoolID": 2,
+        "Count": 3
+    }
+}

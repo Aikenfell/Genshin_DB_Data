@@ -1,0 +1,14 @@
+{
+    "1": {
+        "PowerupMultiple": 1,
+        "PowerupWeight": 9000
+    },
+    "2": {
+        "PowerupMultiple": 2,
+        "PowerupWeight": 900
+    },
+    "5": {
+        "PowerupMultiple": 5,
+        "PowerupWeight": 100
+    }
+}

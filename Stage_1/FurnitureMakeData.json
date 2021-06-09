@@ -1,0 +1,4934 @@
+{
+    "1": {
+        "ConfigID": 1,
+        "FurnitureItemID": 360001,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 10
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 5
+            }
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "2": {
+        "ConfigID": 2,
+        "FurnitureItemID": 360002,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 10
+            },
+            {},
+            {
+                "Id": 101403,
+                "Count": 5
+            }
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "3": {
+        "ConfigID": 3,
+        "FurnitureItemID": 360003,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 10
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 5
+            }
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "4": {
+        "ConfigID": 4,
+        "FurnitureItemID": 360004,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 10
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 5
+            }
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "5": {
+        "ConfigID": 5,
+        "FurnitureItemID": 360005,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {
+                "Id": 101403,
+                "Count": 5
+            }
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "6": {
+        "ConfigID": 6,
+        "FurnitureItemID": 360006,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 5
+            }
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "7": {
+        "ConfigID": 7,
+        "FurnitureItemID": 360007,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 20
+            },
+            {
+                "Id": 101301,
+                "Count": 10
+            },
+            {
+                "Id": 101402,
+                "Count": 15
+            }
+        ],
+        "MakeTime": 28800,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "8": {
+        "ConfigID": 8,
+        "FurnitureItemID": 360008,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 20
+            },
+            {
+                "Id": 101301,
+                "Count": 10
+            },
+            {
+                "Id": 101403,
+                "Count": 15
+            }
+        ],
+        "MakeTime": 28800,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "9": {
+        "ConfigID": 9,
+        "FurnitureItemID": 373100,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 30
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 28800,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "10": {
+        "ConfigID": 10,
+        "FurnitureItemID": 369101,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 30
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "11": {
+        "ConfigID": 11,
+        "FurnitureItemID": 369102,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 30
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "12": {
+        "ConfigID": 12,
+        "FurnitureItemID": 369103,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 30
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "13": {
+        "ConfigID": 13,
+        "FurnitureItemID": 369104,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 30
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "38": {
+        "ConfigID": 38,
+        "FurnitureItemID": 360101,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 8
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "39": {
+        "ConfigID": 39,
+        "FurnitureItemID": 360102,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "40": {
+        "ConfigID": 40,
+        "FurnitureItemID": 360201,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "41": {
+        "ConfigID": 41,
+        "FurnitureItemID": 360202,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "42": {
+        "ConfigID": 42,
+        "FurnitureItemID": 360301,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 4
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "43": {
+        "ConfigID": 43,
+        "FurnitureItemID": 360302,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "44": {
+        "ConfigID": 44,
+        "FurnitureItemID": 360401,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {
+                "Id": 101001,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "45": {
+        "ConfigID": 45,
+        "FurnitureItemID": 360402,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "46": {
+        "ConfigID": 46,
+        "FurnitureItemID": 360403,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "47": {
+        "ConfigID": 47,
+        "FurnitureItemID": 360404,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101403,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "48": {
+        "ConfigID": 48,
+        "FurnitureItemID": 360405,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {
+                "Id": 101401,
+                "Count": 3
+            },
+            {
+                "Id": 101402,
+                "Count": 3
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "49": {
+        "ConfigID": 49,
+        "FurnitureItemID": 364301,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "50": {
+        "ConfigID": 50,
+        "FurnitureItemID": 372101,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "51": {
+        "ConfigID": 51,
+        "FurnitureItemID": 372102,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "52": {
+        "ConfigID": 52,
+        "FurnitureItemID": 372103,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "53": {
+        "ConfigID": 53,
+        "FurnitureItemID": 372104,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "54": {
+        "ConfigID": 54,
+        "FurnitureItemID": 372105,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "55": {
+        "ConfigID": 55,
+        "FurnitureItemID": 372106,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "56": {
+        "ConfigID": 56,
+        "FurnitureItemID": 361301,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "57": {
+        "ConfigID": 57,
+        "FurnitureItemID": 361302,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "58": {
+        "ConfigID": 58,
+        "FurnitureItemID": 361303,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "59": {
+        "ConfigID": 59,
+        "FurnitureItemID": 361101,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "60": {
+        "ConfigID": 60,
+        "FurnitureItemID": 361304,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "61": {
+        "ConfigID": 61,
+        "FurnitureItemID": 361305,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "62": {
+        "ConfigID": 62,
+        "FurnitureItemID": 361306,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "63": {
+        "ConfigID": 63,
+        "FurnitureItemID": 361307,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "64": {
+        "ConfigID": 64,
+        "FurnitureItemID": 361308,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "65": {
+        "ConfigID": 65,
+        "FurnitureItemID": 361309,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 2
+            },
+            {
+                "Id": 101402,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "66": {
+        "ConfigID": 66,
+        "FurnitureItemID": 361501,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "67": {
+        "ConfigID": 67,
+        "FurnitureItemID": 361310,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "68": {
+        "ConfigID": 68,
+        "FurnitureItemID": 362201,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "69": {
+        "ConfigID": 69,
+        "FurnitureItemID": 363301,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "70": {
+        "ConfigID": 70,
+        "FurnitureItemID": 364201,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "71": {
+        "ConfigID": 71,
+        "FurnitureItemID": 362202,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {
+                "Id": 101401,
+                "Count": 3
+            },
+            {
+                "Id": 101402,
+                "Count": 3
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "72": {
+        "ConfigID": 72,
+        "FurnitureItemID": 362203,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 12
+            },
+            {
+                "Id": 101401,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "73": {
+        "ConfigID": 73,
+        "FurnitureItemID": 362101,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {
+                "Id": 101401,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "74": {
+        "ConfigID": 74,
+        "FurnitureItemID": 362102,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "75": {
+        "ConfigID": 75,
+        "FurnitureItemID": 362103,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "76": {
+        "ConfigID": 76,
+        "FurnitureItemID": 362104,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "77": {
+        "ConfigID": 77,
+        "FurnitureItemID": 362105,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "78": {
+        "ConfigID": 78,
+        "FurnitureItemID": 362106,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "79": {
+        "ConfigID": 79,
+        "FurnitureItemID": 364202,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "80": {
+        "ConfigID": 80,
+        "FurnitureItemID": 363101,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "81": {
+        "ConfigID": 81,
+        "FurnitureItemID": 363102,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "82": {
+        "ConfigID": 82,
+        "FurnitureItemID": 363103,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "83": {
+        "ConfigID": 83,
+        "FurnitureItemID": 361311,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "84": {
+        "ConfigID": 84,
+        "FurnitureItemID": 361201,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 16
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "85": {
+        "ConfigID": 85,
+        "FurnitureItemID": 361202,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 16
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "86": {
+        "ConfigID": 86,
+        "FurnitureItemID": 361203,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 16
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "87": {
+        "ConfigID": 87,
+        "FurnitureItemID": 361204,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 16
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "88": {
+        "ConfigID": 88,
+        "FurnitureItemID": 361205,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 16
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "89": {
+        "ConfigID": 89,
+        "FurnitureItemID": 361102,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "90": {
+        "ConfigID": 90,
+        "FurnitureItemID": 361103,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "91": {
+        "ConfigID": 91,
+        "FurnitureItemID": 361104,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "92": {
+        "ConfigID": 92,
+        "FurnitureItemID": 361206,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 12
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "93": {
+        "ConfigID": 93,
+        "FurnitureItemID": 361207,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 12
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "94": {
+        "ConfigID": 94,
+        "FurnitureItemID": 361208,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "95": {
+        "ConfigID": 95,
+        "FurnitureItemID": 362301,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "96": {
+        "ConfigID": 96,
+        "FurnitureItemID": 362302,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "97": {
+        "ConfigID": 97,
+        "FurnitureItemID": 362303,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 2
+            },
+            {
+                "Id": 101404,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "98": {
+        "ConfigID": 98,
+        "FurnitureItemID": 362304,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 8
+            },
+            {
+                "Id": 101402,
+                "Count": 2
+            },
+            {
+                "Id": 101403,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "99": {
+        "ConfigID": 99,
+        "FurnitureItemID": 364203,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "100": {
+        "ConfigID": 100,
+        "FurnitureItemID": 364204,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "101": {
+        "ConfigID": 101,
+        "FurnitureItemID": 364205,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "102": {
+        "ConfigID": 102,
+        "FurnitureItemID": 364101,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {
+                "Id": 101404,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "103": {
+        "ConfigID": 103,
+        "FurnitureItemID": 364102,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {
+                "Id": 101404,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "104": {
+        "ConfigID": 104,
+        "FurnitureItemID": 364103,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 8
+            },
+            {
+                "Id": 101402,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "105": {
+        "ConfigID": 105,
+        "FurnitureItemID": 364206,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "106": {
+        "ConfigID": 106,
+        "FurnitureItemID": 364207,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101403,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "107": {
+        "ConfigID": 107,
+        "FurnitureItemID": 364208,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 12
+            },
+            {
+                "Id": 101404,
+                "Count": 6
+            },
+            {
+                "Id": 101403,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "108": {
+        "ConfigID": 108,
+        "FurnitureItemID": 364209,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "109": {
+        "ConfigID": 109,
+        "FurnitureItemID": 364210,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "110": {
+        "ConfigID": 110,
+        "FurnitureItemID": 364104,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 8
+            },
+            {
+                "Id": 101404,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "111": {
+        "ConfigID": 111,
+        "FurnitureItemID": 364105,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 8
+            },
+            {
+                "Id": 101404,
+                "Count": 8
+            },
+            {
+                "Id": 101402,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "112": {
+        "ConfigID": 112,
+        "FurnitureItemID": 364106,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 8
+            },
+            {
+                "Id": 101404,
+                "Count": 8
+            },
+            {
+                "Id": 101403,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "113": {
+        "ConfigID": 113,
+        "FurnitureItemID": 363302,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "114": {
+        "ConfigID": 114,
+        "FurnitureItemID": 363303,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "115": {
+        "ConfigID": 115,
+        "FurnitureItemID": 363304,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "116": {
+        "ConfigID": 116,
+        "FurnitureItemID": 363305,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "117": {
+        "ConfigID": 117,
+        "FurnitureItemID": 363201,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "118": {
+        "ConfigID": 118,
+        "FurnitureItemID": 363202,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "119": {
+        "ConfigID": 119,
+        "FurnitureItemID": 363203,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "120": {
+        "ConfigID": 120,
+        "FurnitureItemID": 363204,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "121": {
+        "ConfigID": 121,
+        "FurnitureItemID": 363306,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "122": {
+        "ConfigID": 122,
+        "FurnitureItemID": 363307,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "123": {
+        "ConfigID": 123,
+        "FurnitureItemID": 363308,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "124": {
+        "ConfigID": 124,
+        "FurnitureItemID": 363205,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "125": {
+        "ConfigID": 125,
+        "FurnitureItemID": 363309,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {},
+            {
+                "Id": 101403,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "126": {
+        "ConfigID": 126,
+        "FurnitureItemID": 361401,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 12
+            },
+            {
+                "Id": 101404,
+                "Count": 3
+            },
+            {
+                "Id": 101402,
+                "Count": 3
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "127": {
+        "ConfigID": 127,
+        "FurnitureItemID": 361402,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {
+                "Id": 101403,
+                "Count": 3
+            },
+            {
+                "Id": 101402,
+                "Count": 3
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "128": {
+        "ConfigID": 128,
+        "FurnitureItemID": 361105,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "129": {
+        "ConfigID": 129,
+        "FurnitureItemID": 362204,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "130": {
+        "ConfigID": 130,
+        "FurnitureItemID": 362205,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {
+                "Id": 101404,
+                "Count": 2
+            },
+            {
+                "Id": 101402,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "131": {
+        "ConfigID": 131,
+        "FurnitureItemID": 361106,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {
+                "Id": 101404,
+                "Count": 3
+            },
+            {
+                "Id": 101402,
+                "Count": 3
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "132": {
+        "ConfigID": 132,
+        "FurnitureItemID": 364211,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 12
+            },
+            {},
+            {
+                "Id": 101402,
+                "Count": 12
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "133": {
+        "ConfigID": 133,
+        "FurnitureItemID": 362206,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 12
+            },
+            {
+                "Id": 101403,
+                "Count": 6
+            },
+            {
+                "Id": 101402,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "134": {
+        "ConfigID": 134,
+        "FurnitureItemID": 362207,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 12
+            },
+            {
+                "Id": 101403,
+                "Count": 6
+            },
+            {
+                "Id": 101402,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "135": {
+        "ConfigID": 135,
+        "FurnitureItemID": 363104,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "136": {
+        "ConfigID": 136,
+        "FurnitureItemID": 370301,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 2
+            },
+            {
+                "Id": 101402,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "137": {
+        "ConfigID": 137,
+        "FurnitureItemID": 370302,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 2
+            },
+            {
+                "Id": 101404,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "138": {
+        "ConfigID": 138,
+        "FurnitureItemID": 370303,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "139": {
+        "ConfigID": 139,
+        "FurnitureItemID": 370304,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101001,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "140": {
+        "ConfigID": 140,
+        "FurnitureItemID": 370305,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "141": {
+        "ConfigID": 141,
+        "FurnitureItemID": 370201,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "142": {
+        "ConfigID": 142,
+        "FurnitureItemID": 370202,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "143": {
+        "ConfigID": 143,
+        "FurnitureItemID": 370203,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "144": {
+        "ConfigID": 144,
+        "FurnitureItemID": 370204,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "145": {
+        "ConfigID": 145,
+        "FurnitureItemID": 371101,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 12
+            },
+            {
+                "Id": 101001,
+                "Count": 12
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "146": {
+        "ConfigID": 146,
+        "FurnitureItemID": 370205,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "147": {
+        "ConfigID": 147,
+        "FurnitureItemID": 370206,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "148": {
+        "ConfigID": 148,
+        "FurnitureItemID": 370207,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "149": {
+        "ConfigID": 149,
+        "FurnitureItemID": 370306,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "150": {
+        "ConfigID": 150,
+        "FurnitureItemID": 370501,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 2
+            },
+            {
+                "Id": 101404,
+                "Count": 2
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "151": {
+        "ConfigID": 151,
+        "FurnitureItemID": 370307,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "152": {
+        "ConfigID": 152,
+        "FurnitureItemID": 370101,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "153": {
+        "ConfigID": 153,
+        "FurnitureItemID": 370102,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "154": {
+        "ConfigID": 154,
+        "FurnitureItemID": 370502,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "155": {
+        "ConfigID": 155,
+        "FurnitureItemID": 370103,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "156": {
+        "ConfigID": 156,
+        "FurnitureItemID": 370104,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "157": {
+        "ConfigID": 157,
+        "FurnitureItemID": 370105,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "158": {
+        "ConfigID": 158,
+        "FurnitureItemID": 370106,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "159": {
+        "ConfigID": 159,
+        "FurnitureItemID": 370107,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "160": {
+        "ConfigID": 160,
+        "FurnitureItemID": 370108,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "161": {
+        "ConfigID": 161,
+        "FurnitureItemID": 370208,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "162": {
+        "ConfigID": 162,
+        "FurnitureItemID": 371201,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {
+                "Id": 101002,
+                "Count": 8
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "163": {
+        "ConfigID": 163,
+        "FurnitureItemID": 370401,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "164": {
+        "ConfigID": 164,
+        "FurnitureItemID": 371102,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "165": {
+        "ConfigID": 165,
+        "FurnitureItemID": 370402,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 30
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "166": {
+        "ConfigID": 166,
+        "FurnitureItemID": 371103,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "167": {
+        "ConfigID": 167,
+        "FurnitureItemID": 374301,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "168": {
+        "ConfigID": 168,
+        "FurnitureItemID": 370503,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "169": {
+        "ConfigID": 169,
+        "FurnitureItemID": 370504,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "170": {
+        "ConfigID": 170,
+        "FurnitureItemID": 375101,
+        "Count": 1,
+        "Exp": 80,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 50
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 36000,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "171": {
+        "ConfigID": 171,
+        "FurnitureItemID": 374302,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101401,
+                "Count": 2
+            },
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "172": {
+        "ConfigID": 172,
+        "FurnitureItemID": 374303,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "173": {
+        "ConfigID": 173,
+        "FurnitureItemID": 374304,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "174": {
+        "ConfigID": 174,
+        "FurnitureItemID": 370308,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "175": {
+        "ConfigID": 175,
+        "FurnitureItemID": 374305,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101001,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "176": {
+        "ConfigID": 176,
+        "FurnitureItemID": 374306,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "177": {
+        "ConfigID": 177,
+        "FurnitureItemID": 373301,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "178": {
+        "ConfigID": 178,
+        "FurnitureItemID": 373302,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "179": {
+        "ConfigID": 179,
+        "FurnitureItemID": 373303,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "180": {
+        "ConfigID": 180,
+        "FurnitureItemID": 373101,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "181": {
+        "ConfigID": 181,
+        "FurnitureItemID": 373102,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "182": {
+        "ConfigID": 182,
+        "FurnitureItemID": 373304,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "183": {
+        "ConfigID": 183,
+        "FurnitureItemID": 373103,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "184": {
+        "ConfigID": 184,
+        "FurnitureItemID": 373305,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 8
+            },
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "185": {
+        "ConfigID": 185,
+        "FurnitureItemID": 373104,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "186": {
+        "ConfigID": 186,
+        "FurnitureItemID": 373201,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "187": {
+        "ConfigID": 187,
+        "FurnitureItemID": 373105,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "188": {
+        "ConfigID": 188,
+        "FurnitureItemID": 373106,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "189": {
+        "ConfigID": 189,
+        "FurnitureItemID": 370309,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "190": {
+        "ConfigID": 190,
+        "FurnitureItemID": 374401,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "191": {
+        "ConfigID": 191,
+        "FurnitureItemID": 374402,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "192": {
+        "ConfigID": 192,
+        "FurnitureItemID": 374307,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "193": {
+        "ConfigID": 193,
+        "FurnitureItemID": 373306,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101402,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "194": {
+        "ConfigID": 194,
+        "FurnitureItemID": 373107,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "195": {
+        "ConfigID": 195,
+        "FurnitureItemID": 373307,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "196": {
+        "ConfigID": 196,
+        "FurnitureItemID": 373308,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "197": {
+        "ConfigID": 197,
+        "FurnitureItemID": 373309,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "198": {
+        "ConfigID": 198,
+        "FurnitureItemID": 373310,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "199": {
+        "ConfigID": 199,
+        "FurnitureItemID": 373108,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "200": {
+        "ConfigID": 200,
+        "FurnitureItemID": 373109,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "201": {
+        "ConfigID": 201,
+        "FurnitureItemID": 373110,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "202": {
+        "ConfigID": 202,
+        "FurnitureItemID": 374101,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "203": {
+        "ConfigID": 203,
+        "FurnitureItemID": 374102,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "204": {
+        "ConfigID": 204,
+        "FurnitureItemID": 374103,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "205": {
+        "ConfigID": 205,
+        "FurnitureItemID": 374104,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "206": {
+        "ConfigID": 206,
+        "FurnitureItemID": 373111,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "207": {
+        "ConfigID": 207,
+        "FurnitureItemID": 373112,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "208": {
+        "ConfigID": 208,
+        "FurnitureItemID": 373113,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "209": {
+        "ConfigID": 209,
+        "FurnitureItemID": 374201,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "210": {
+        "ConfigID": 210,
+        "FurnitureItemID": 374202,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "211": {
+        "ConfigID": 211,
+        "FurnitureItemID": 374308,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101305,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "212": {
+        "ConfigID": 212,
+        "FurnitureItemID": 374309,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "213": {
+        "ConfigID": 213,
+        "FurnitureItemID": 373202,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "214": {
+        "ConfigID": 214,
+        "FurnitureItemID": 374105,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 12
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "215": {
+        "ConfigID": 215,
+        "FurnitureItemID": 373401,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101404,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "216": {
+        "ConfigID": 216,
+        "FurnitureItemID": 373402,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "217": {
+        "ConfigID": 217,
+        "FurnitureItemID": 373403,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "218": {
+        "ConfigID": 218,
+        "FurnitureItemID": 373404,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "219": {
+        "ConfigID": 219,
+        "FurnitureItemID": 373405,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 4
+            },
+            {
+                "Id": 101305,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "220": {
+        "ConfigID": 220,
+        "FurnitureItemID": 372401,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "221": {
+        "ConfigID": 221,
+        "FurnitureItemID": 372402,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "222": {
+        "ConfigID": 222,
+        "FurnitureItemID": 372403,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "223": {
+        "ConfigID": 223,
+        "FurnitureItemID": 372404,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "224": {
+        "ConfigID": 224,
+        "FurnitureItemID": 372405,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "225": {
+        "ConfigID": 225,
+        "FurnitureItemID": 372406,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "226": {
+        "ConfigID": 226,
+        "FurnitureItemID": 372407,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "227": {
+        "ConfigID": 227,
+        "FurnitureItemID": 372408,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "228": {
+        "ConfigID": 228,
+        "FurnitureItemID": 372409,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "229": {
+        "ConfigID": 229,
+        "FurnitureItemID": 372301,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "230": {
+        "ConfigID": 230,
+        "FurnitureItemID": 372302,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "231": {
+        "ConfigID": 231,
+        "FurnitureItemID": 372303,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "232": {
+        "ConfigID": 232,
+        "FurnitureItemID": 372304,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "233": {
+        "ConfigID": 233,
+        "FurnitureItemID": 372305,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "234": {
+        "ConfigID": 234,
+        "FurnitureItemID": 372306,
+        "Count": 1,
+        "Exp": 40,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 20
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 21600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "235": {
+        "ConfigID": 235,
+        "FurnitureItemID": 372201,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "236": {
+        "ConfigID": 236,
+        "FurnitureItemID": 372202,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "237": {
+        "ConfigID": 237,
+        "FurnitureItemID": 372203,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 10
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 14400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "238": {
+        "ConfigID": 238,
+        "FurnitureItemID": 373114,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "239": {
+        "ConfigID": 239,
+        "FurnitureItemID": 371202,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 12
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "240": {
+        "ConfigID": 240,
+        "FurnitureItemID": 371203,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "241": {
+        "ConfigID": 241,
+        "FurnitureItemID": 371204,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 8
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "242": {
+        "ConfigID": 242,
+        "FurnitureItemID": 360406,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101401,
+                "Count": 6
+            },
+            {
+                "Id": 101402,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "243": {
+        "ConfigID": 243,
+        "FurnitureItemID": 371104,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101301,
+                "Count": 24
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "244": {
+        "ConfigID": 244,
+        "FurnitureItemID": 371205,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "245": {
+        "ConfigID": 245,
+        "FurnitureItemID": 371206,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "246": {
+        "ConfigID": 246,
+        "FurnitureItemID": 371207,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "247": {
+        "ConfigID": 247,
+        "FurnitureItemID": 371208,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "248": {
+        "ConfigID": 248,
+        "FurnitureItemID": 371209,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 8
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "249": {
+        "ConfigID": 249,
+        "FurnitureItemID": 371210,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "250": {
+        "ConfigID": 250,
+        "FurnitureItemID": 371211,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "251": {
+        "ConfigID": 251,
+        "FurnitureItemID": 370110,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 18
+            },
+            {},
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "252": {
+        "ConfigID": 252,
+        "FurnitureItemID": 370109,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {
+                "Id": 101303,
+                "Count": 12
+            },
+            {
+                "Id": 101002,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "253": {
+        "ConfigID": 253,
+        "FurnitureItemID": 362208,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101304,
+                "Count": 12
+            },
+            {
+                "Id": 101401,
+                "Count": 6
+            },
+            {
+                "Id": 101403,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "254": {
+        "ConfigID": 254,
+        "FurnitureItemID": 362209,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101307,
+                "Count": 6
+            },
+            {
+                "Id": 101304,
+                "Count": 6
+            },
+            {
+                "Id": 101402,
+                "Count": 6
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "255": {
+        "ConfigID": 255,
+        "FurnitureItemID": 373115,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "256": {
+        "ConfigID": 256,
+        "FurnitureItemID": 373203,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "257": {
+        "ConfigID": 257,
+        "FurnitureItemID": 374106,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "258": {
+        "ConfigID": 258,
+        "FurnitureItemID": 374107,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "259": {
+        "ConfigID": 259,
+        "FurnitureItemID": 374108,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "260": {
+        "ConfigID": 260,
+        "FurnitureItemID": 373116,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "261": {
+        "ConfigID": 261,
+        "FurnitureItemID": 371107,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "262": {
+        "ConfigID": 262,
+        "FurnitureItemID": 373117,
+        "Count": 1,
+        "Exp": 30,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 43200,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "263": {
+        "ConfigID": 263,
+        "FurnitureItemID": 373118,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "264": {
+        "ConfigID": 264,
+        "FurnitureItemID": 373311,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "265": {
+        "ConfigID": 265,
+        "FurnitureItemID": 373312,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "266": {
+        "ConfigID": 266,
+        "FurnitureItemID": 373119,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "267": {
+        "ConfigID": 267,
+        "FurnitureItemID": 363310,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 4
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "268": {
+        "ConfigID": 268,
+        "FurnitureItemID": 374311,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "269": {
+        "ConfigID": 269,
+        "FurnitureItemID": 374403,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 4
+            },
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {
+                "Id": 101308,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "270": {
+        "ConfigID": 270,
+        "FurnitureItemID": 373120,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101401,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "271": {
+        "ConfigID": 271,
+        "FurnitureItemID": 374404,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101002,
+                "Count": 8
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "272": {
+        "ConfigID": 272,
+        "FurnitureItemID": 373313,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 4
+            },
+            {
+                "Id": 101001,
+                "Count": 4
+            },
+            {
+                "Id": 101002,
+                "Count": 4
+            }
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "273": {
+        "ConfigID": 273,
+        "FurnitureItemID": 373121,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101401,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "274": {
+        "ConfigID": 274,
+        "FurnitureItemID": 373122,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "275": {
+        "ConfigID": 275,
+        "FurnitureItemID": 373123,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101308,
+                "Count": 8
+            },
+            {},
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "276": {
+        "ConfigID": 276,
+        "FurnitureItemID": 373124,
+        "Count": 1,
+        "Exp": 60,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 4
+            },
+            {
+                "Id": 101301,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 50400,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "277": {
+        "ConfigID": 277,
+        "FurnitureItemID": 374203,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101302,
+                "Count": 8
+            },
+            {
+                "Id": 101401,
+                "Count": 4
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "279": {
+        "ConfigID": 279,
+        "FurnitureItemID": 371109,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101002,
+                "Count": 6
+            },
+            {
+                "Id": 101001,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    },
+    "280": {
+        "ConfigID": 280,
+        "FurnitureItemID": 374310,
+        "Count": 1,
+        "Exp": 90,
+        "MaterialItems": [
+            {
+                "Id": 101303,
+                "Count": 6
+            },
+            {
+                "Id": 101301,
+                "Count": 6
+            },
+            {}
+        ],
+        "MakeTime": 57600,
+        "MaxAccelerateTime": 14400,
+        "QuickFetchMaterialNum": 1
+    }
+}

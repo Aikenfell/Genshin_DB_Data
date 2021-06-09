@@ -1,0 +1,2412 @@
+{
+    "0": {
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true,
+        "IsDefenserPlayer": true
+    },
+    "1": {
+        "Level": 1,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "2": {
+        "Level": 2,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "3": {
+        "Level": 3,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 40.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "4": {
+        "Level": 4,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 40.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "5": {
+        "Level": 5,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "6": {
+        "Level": 6,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "7": {
+        "Level": 7,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "8": {
+        "Level": 8,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "9": {
+        "Level": 9,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "10": {
+        "Level": 10,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "11": {
+        "Level": 11,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "12": {
+        "Level": 12,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "13": {
+        "Level": 13,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "14": {
+        "Level": 14,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "15": {
+        "Level": 15,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "16": {
+        "Level": 16,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "17": {
+        "Level": 17,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "18": {
+        "Level": 18,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "19": {
+        "Level": 19,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "20": {
+        "Level": 20,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "21": {
+        "Level": 21,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "22": {
+        "Level": 22,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "23": {
+        "Level": 23,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "24": {
+        "Level": 24,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "25": {
+        "Level": 25,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "26": {
+        "Level": 26,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "27": {
+        "Level": 27,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "28": {
+        "Level": 28,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "29": {
+        "Level": 29,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "30": {
+        "Level": 30,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "31": {
+        "Level": 31,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "32": {
+        "Level": 32,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "33": {
+        "Level": 33,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "34": {
+        "Level": 34,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "35": {
+        "Level": 35,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "36": {
+        "Level": 36,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "37": {
+        "Level": 37,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "38": {
+        "Level": 38,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "39": {
+        "Level": 39,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "40": {
+        "Level": 40,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "41": {
+        "Level": 41,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "42": {
+        "Level": 42,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "43": {
+        "Level": 43,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "44": {
+        "Level": 44,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "45": {
+        "Level": 45,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "46": {
+        "Level": 46,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "47": {
+        "Level": 47,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "48": {
+        "Level": 48,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "49": {
+        "Level": 49,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "50": {
+        "Level": 50,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "51": {
+        "Level": 51,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "52": {
+        "Level": 52,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "53": {
+        "Level": 53,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "54": {
+        "Level": 54,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "55": {
+        "Level": 55,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "56": {
+        "Level": 56,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "57": {
+        "Level": 57,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "58": {
+        "Level": 58,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "59": {
+        "Level": 59,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "60": {
+        "Level": 60,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "61": {
+        "Level": 61,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "62": {
+        "Level": 62,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "63": {
+        "Level": 63,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "64": {
+        "Level": 64,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "65": {
+        "Level": 65,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "66": {
+        "Level": 66,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "67": {
+        "Level": 67,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "68": {
+        "Level": 68,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "69": {
+        "Level": 69,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "70": {
+        "Level": 70,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "71": {
+        "Level": 71,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "72": {
+        "Level": 72,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "73": {
+        "Level": 73,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "74": {
+        "Level": 74,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "75": {
+        "Level": 75,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "76": {
+        "Level": 76,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "77": {
+        "Level": 77,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "78": {
+        "Level": 78,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "79": {
+        "Level": 79,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "80": {
+        "Level": 80,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "81": {
+        "Level": 81,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "82": {
+        "Level": 82,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "83": {
+        "Level": 83,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "84": {
+        "Level": 84,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "85": {
+        "Level": 85,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "86": {
+        "Level": 86,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "87": {
+        "Level": 87,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "88": {
+        "Level": 88,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "89": {
+        "Level": 89,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "90": {
+        "Level": 90,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "91": {
+        "Level": 91,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "92": {
+        "Level": 92,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "93": {
+        "Level": 93,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "94": {
+        "Level": 94,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "95": {
+        "Level": 95,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "96": {
+        "Level": 96,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "97": {
+        "Level": 97,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "98": {
+        "Level": 98,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "99": {
+        "Level": 99,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "100": {
+        "Level": 100,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "101": {
+        "Level": 101,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "102": {
+        "Level": 102,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "103": {
+        "Level": 103,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "104": {
+        "Level": 104,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "105": {
+        "Level": 105,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "106": {
+        "Level": 106,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "107": {
+        "Level": 107,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "108": {
+        "Level": 108,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "109": {
+        "Level": 109,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "110": {
+        "Level": 110,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "111": {
+        "Level": 111,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "112": {
+        "Level": 112,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "113": {
+        "Level": 113,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "114": {
+        "Level": 114,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "115": {
+        "Level": 115,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "116": {
+        "Level": 116,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "117": {
+        "Level": 117,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "118": {
+        "Level": 118,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "119": {
+        "Level": 119,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "120": {
+        "Level": 120,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 0.5,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 50.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsDefenserPlayer": true
+    },
+    "-1": {
+        "Level": -1,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-2": {
+        "Level": -2,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-3": {
+        "Level": -3,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-4": {
+        "Level": -4,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-5": {
+        "Level": -5,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-6": {
+        "Level": -6,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-7": {
+        "Level": -7,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-8": {
+        "Level": -8,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-9": {
+        "Level": -9,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-10": {
+        "Level": -10,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-11": {
+        "Level": -11,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-12": {
+        "Level": -12,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-13": {
+        "Level": -13,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-14": {
+        "Level": -14,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-15": {
+        "Level": -15,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-16": {
+        "Level": -16,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-17": {
+        "Level": -17,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-18": {
+        "Level": -18,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-19": {
+        "Level": -19,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-20": {
+        "Level": -20,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-21": {
+        "Level": -21,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-22": {
+        "Level": -22,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-23": {
+        "Level": -23,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-24": {
+        "Level": -24,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-25": {
+        "Level": -25,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-26": {
+        "Level": -26,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-27": {
+        "Level": -27,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-28": {
+        "Level": -28,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-29": {
+        "Level": -29,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-30": {
+        "Level": -30,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-31": {
+        "Level": -31,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-32": {
+        "Level": -32,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-33": {
+        "Level": -33,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-34": {
+        "Level": -34,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-35": {
+        "Level": -35,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-36": {
+        "Level": -36,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-37": {
+        "Level": -37,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-38": {
+        "Level": -38,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-39": {
+        "Level": -39,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-40": {
+        "Level": -40,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-41": {
+        "Level": -41,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-42": {
+        "Level": -42,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-43": {
+        "Level": -43,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-44": {
+        "Level": -44,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-45": {
+        "Level": -45,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-46": {
+        "Level": -46,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-47": {
+        "Level": -47,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-48": {
+        "Level": -48,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-49": {
+        "Level": -49,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-50": {
+        "Level": -50,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-51": {
+        "Level": -51,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-52": {
+        "Level": -52,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-53": {
+        "Level": -53,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-54": {
+        "Level": -54,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-55": {
+        "Level": -55,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-56": {
+        "Level": -56,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-57": {
+        "Level": -57,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-58": {
+        "Level": -58,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-59": {
+        "Level": -59,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-60": {
+        "Level": -60,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-61": {
+        "Level": -61,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-62": {
+        "Level": -62,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-63": {
+        "Level": -63,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-64": {
+        "Level": -64,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-65": {
+        "Level": -65,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-66": {
+        "Level": -66,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-67": {
+        "Level": -67,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-68": {
+        "Level": -68,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-69": {
+        "Level": -69,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-70": {
+        "Level": -70,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-71": {
+        "Level": -71,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-72": {
+        "Level": -72,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-73": {
+        "Level": -73,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-74": {
+        "Level": -74,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-75": {
+        "Level": -75,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-76": {
+        "Level": -76,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-77": {
+        "Level": -77,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-78": {
+        "Level": -78,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-79": {
+        "Level": -79,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-80": {
+        "Level": -80,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-81": {
+        "Level": -81,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-82": {
+        "Level": -82,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-83": {
+        "Level": -83,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-84": {
+        "Level": -84,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-85": {
+        "Level": -85,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-86": {
+        "Level": -86,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-87": {
+        "Level": -87,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-88": {
+        "Level": -88,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-89": {
+        "Level": -89,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-90": {
+        "Level": -90,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-91": {
+        "Level": -91,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-92": {
+        "Level": -92,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-93": {
+        "Level": -93,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-94": {
+        "Level": -94,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-95": {
+        "Level": -95,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-96": {
+        "Level": -96,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-97": {
+        "Level": -97,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-98": {
+        "Level": -98,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-99": {
+        "Level": -99,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-100": {
+        "Level": -100,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-101": {
+        "Level": -101,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-102": {
+        "Level": -102,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-103": {
+        "Level": -103,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-104": {
+        "Level": -104,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-105": {
+        "Level": -105,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-106": {
+        "Level": -106,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-107": {
+        "Level": -107,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-108": {
+        "Level": -108,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-109": {
+        "Level": -109,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-110": {
+        "Level": -110,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-111": {
+        "Level": -111,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-112": {
+        "Level": -112,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-113": {
+        "Level": -113,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-114": {
+        "Level": -114,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-115": {
+        "Level": -115,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-116": {
+        "Level": -116,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-117": {
+        "Level": -117,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-118": {
+        "Level": -118,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-119": {
+        "Level": -119,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    },
+    "-120": {
+        "Level": -120,
+        "LevelSuppressDamageCo": 1.0,
+        "LevelSuppressEndure": 1.0,
+        "LevelSuppressDisMinHorizontal": 15.0,
+        "LevelSuppressDisMaxHorizontal": 30.0,
+        "LevelSuppressDisMinVertical": 10.0,
+        "LevelSuppressDisMaxVertical": -10.0,
+        "IsAttackerPlayer": true
+    }
+}

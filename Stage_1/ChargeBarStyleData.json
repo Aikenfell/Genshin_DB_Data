@@ -1,0 +1,16 @@
+{
+    "1": {
+        "Id": 1,
+        "IconName": "UI_Buff_Charge_Gadget"
+    },
+    "2": {
+        "Id": 2,
+        "IconName": "UI_Buff_Charge_Monster",
+        "EOHBHLFHKBN": "CHARING_FILL_NEGATIVE"
+    },
+    "3": {
+        "Id": 3,
+        "IconName": "UI_Buff_Charge_Revive",
+        "EOHBHLFHKBN": "CHARING_FILL_NEGATIVE"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "Id": 1,
+        "Contribution": 800
+    },
+    "2": {
+        "Id": 2,
+        "Contribution": 2400
+    },
+    "3": {
+        "Id": 3,
+        "Contribution": 4800
+    },
+    "4": {
+        "Id": 4,
+        "Contribution": 8000
+    },
+    "5": {
+        "Id": 5,
+        "Contribution": 12000
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "BORED_ACTION_CREATE_MONSTER": {
+        "ActionType": "BORED_ACTION_CREATE_MONSTER",
+        "Weight": 50
+    },
+    "BORED_ACTION_AMBUSH": {
+        "ActionType": "BORED_ACTION_AMBUSH"
+    },
+    "BORED_ACTION_ENHANCE_GATHER": {
+        "ActionType": "BORED_ACTION_ENHANCE_GATHER"
+    }
+}
